@@ -1,8 +1,8 @@
-### Hi there
+### Hi there! ![favicon.ico](favicon.ico)
 
 <img align="right" src="https://avatars.githubusercontent.com/bastelfreak" width="260">
 
-I'm Tim, a DevOps Engineer and Project Committee member for [Vox Pupuli![favicon.ico](favicon.ico)](https://voxpupuli.org).
+I'm Tim, a DevOps Engineer and Project Committee member for [Vox Pupuli](https://voxpupuli.org).
 I'm currently living in Cologne, Germany, where I currently study computer sience for fun in evening classes.
 
 #### 🌱 Check out what I'm currently working on
