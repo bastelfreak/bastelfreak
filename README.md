@@ -1,9 +1,17 @@
-### Hi there
+### Hi there! ![favicon.ico](favicon.ico)
 
 <img align="right" src="https://avatars.githubusercontent.com/bastelfreak" width="260">
 
-I'm Tim, a DevOps Engineer and Project Committee member for [Vox Pupuli![favicon.ico](favicon.ico)](https://voxpupuli.org).
+I'm Tim, a DevOps Engineer and Project Committee member for [Vox Pupuli](https://voxpupuli.org).
 I'm currently living in Cologne, Germany, where I currently study computer sience for fun in evening classes.
+Hit me up at [tim@bastelfreak.de](mailto:tim@bastelfeak.de) in case you need a Puppet consultant.
+
+#### Puppet activities
+
+* Since the founding in 2016, I'm elected to serve in the [Vox Pupuli Project Management Committee](https://voxpupuli.org/blog/2016/10/12/pmc-election-results/) (yearly election)
+* I'm active in the Puppet Community since 2014
+* The puppet userbase voted for me as Puppet MVP runners up 2017, Puppet MVP 2018 and 2019
+* [Puppet Inc.](https://puppet.com) granted me a slot in their [Extraordinary Puppeteers](https://puppet-champions.github.io/profiles.html) programm
 
 #### 🌱 Check out what I'm currently working on
 
@@ -63,7 +71,9 @@ I'm currently living in Cologne, Germany, where I currently study computer sienc
 I'm online as **bastelfreak** on most platforms:
 
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" width="20" alt="Twitter" /> https://twitter.com/BastelsBlog
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/dev.svg" width="20" alt="Blog" /> https://blog.bastelfreak.de
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/wordpress.svg" width="20" alt="Blog" /> https://blog.bastelfreak.de
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/slack.svg" width="20" alt="Slack" /> [Puppet Community](https://slack.puppet.com/), [Kubernetes](https://slack.k8s.io/)
+
+If you're interested in my CV: checkout [the pdf](https://github.com/bastelfreak/cv/raw/master/content-en.pdf) of the [latext repo](https://github.com/bastelfreak/cv#readme).
 
 *Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
