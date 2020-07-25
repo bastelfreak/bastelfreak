@@ -8,9 +8,9 @@ I'm currently living in Cologne, Germany, where I currently study computer sienc
 #### 🌱 Check out what I'm currently working on
 
 - [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync!
-- [bastelfreak/env2module-differ](https://github.com/bastelfreak/env2module-differ) - Check you Puppet environments against metadata.json files from all modules!
-- [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - 
-- [bastelfreak/cfgmgmtcamp2020](https://github.com/bastelfreak/cfgmgmtcamp2020) - 
+- [bastelfreak/env2module-differ](https://github.com/bastelfreak/env2module-differ) - Check your Puppet environments against metadata.json files from all modules!
+- [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German)
+- [bastelfreak/cfgmgmtcamp2020](https://github.com/bastelfreak/cfgmgmtcamp2020) - Automating the Vox Pupuli Yak Shaving - Talk from Flipez and bastelfreak
 - [bastelfreak/prometheusdemo](https://github.com/bastelfreak/prometheusdemo) - My talk &#43; demo about scaleable node_exporter rollout with Puppet
 - [bastelfreak/osad2019](https://github.com/bastelfreak/osad2019) - My Open Source Automation Days 2019 talk
 - [bastelfreak/contributorsummit2019](https://github.com/bastelfreak/contributorsummit2019) - Presentation about PR management at the Puppet Contributor Summit 2019
