@@ -18,30 +18,34 @@ Statement from Puppet Inc.:
 ![mvp statement](https://raw.githubusercontent.com/bastelfreak/bastelfreak/master/MVP.png)
 
 #### 🌱 Check out what I'm currently working on
+
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
+
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 📜 My recent blog posts
+
 {{range rss "https://blog.bastelfreak.de/feed/" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 👥 Check out some of my recent followers
-{{range followers 5}}
-- [<img src="{{.AvatarURL}}" height="20"/> {{.Login}}]({{.URL}})
-{{- end}}
-
-### Latest contributions
+#### The last 10 repositories I contributed to
 
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{end}}
+{{- end}}
+
+#### 👥 Check out some of my recent followers
+
+{{range followers 5}}
+- [<img src="{{.AvatarURL}}" height="20"/> {{.Login}}]({{.URL}})
+{{- end}}
 
 ### Top languages
 
