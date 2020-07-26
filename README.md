@@ -28,7 +28,7 @@ Hit me up at [tim@bastelfreak.de](mailto:tim@bastelfeak.de) in case you need a P
 
 #### 🔭 Latest releases I've contributed to
 
-- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 2 days ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
+- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 3 days ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 1 week ago) - Module to install and manage Choria
 - [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.0.30](https://github.com/puppetlabs/facter/releases/tag/4.0.30), 1 week ago) - Collect and display system facts
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 3 weeks ago) - Synchronize common files across your Git repositories.
