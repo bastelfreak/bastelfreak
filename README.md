@@ -13,6 +13,10 @@ Hit me up at [tim@bastelfreak.de](mailto:tim@bastelfeak.de) in case you need a P
 * The puppet userbase voted for me as Puppet MVP runners up 2017, Puppet MVP 2018 and 2019
 * [Puppet Inc.](https://puppet.com) granted me a slot in their [Extraordinary Puppeteers](https://puppet-champions.github.io/profiles.html) programm
 
+Statement from Puppet Inc.:
+
+![mvp statement](MVP.png)
+
 #### 🌱 Check out what I'm currently working on
 
 - [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync!
