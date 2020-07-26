@@ -53,4 +53,4 @@ I'm online as **bastelfreak** on most platforms:
 
 If you're interested in my CV: checkout [the pdf](https://github.com/bastelfreak/cv/raw/master/content-en.pdf) of the [latext repo](https://github.com/bastelfreak/cv#readme).
 
-*Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
+*Want your own awesome profile page? Check out the original author [markscribe](https://github.com/muesli/markscribe) or the version from [Raphaël](https://github.com/raphink/raphink#hi-there-)!*
