@@ -37,11 +37,15 @@ Statement from Puppet Inc.:
 - [<img src="{{.AvatarURL}}" height="20"/> {{.Login}}]({{.URL}})
 {{- end}}
 
+### Latest contributions
+
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{end}}
 
 ### Top languages
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
-
 
 #### 📫 How to reach me
 
