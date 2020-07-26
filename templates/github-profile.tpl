@@ -15,7 +15,7 @@ Hit me up at [tim@bastelfreak.de](mailto:tim@bastelfeak.de) in case you need a P
 
 Statement from Puppet Inc.:
 
-![mvp statement](MVP.png)
+![mvp statement](https://raw.githubusercontent.com/bastelfreak/bastelfreak/master/MVP.png)
 
 #### 🌱 Check out what I'm currently working on
 {{range recentRepos 10}}
