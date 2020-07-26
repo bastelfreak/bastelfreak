@@ -64,11 +64,33 @@ Statement from Puppet Inc.:
 - [<img src="https://avatars0.githubusercontent.com/u/45076866?u=c27eff0531f754e5d594b0016a5f8495530d7f1c&amp;v=4" height="20"/> shivaniverma1998](https://github.com/shivaniverma1998)
 - [<img src="https://avatars0.githubusercontent.com/u/60853193?v=4" height="20"/> medoeldwek7](https://github.com/medoeldwek7)
 
+### Latest contributions
+
+
+- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (1 day ago)
+
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (1 day ago)
+
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+
+- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (1 day ago)
+
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 day ago)
+
+- [voxpupuli/puppet-prometheus_reporter](https://github.com/voxpupuli/puppet-prometheus_reporter) - A prometheus Puppet reports exporter for Puppet (1 day ago)
+
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (2 days ago)
+
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
+
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (4 days ago)
+
+- [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (4 days ago)
+
 
 ### Top languages
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
-
 
 #### 📫 How to reach me
 
@@ -80,4 +102,4 @@ I'm online as **bastelfreak** on most platforms:
 
 If you're interested in my CV: checkout [the pdf](https://github.com/bastelfreak/cv/raw/master/content-en.pdf) of the [latext repo](https://github.com/bastelfreak/cv#readme).
 
-*Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!*
+*Want your own awesome profile page? Check out the original author [markscribe](https://github.com/muesli/markscribe) or the version from [Raphaël](https://github.com/raphink/raphink#hi-there-)!*
