@@ -1,4 +1,4 @@
-### Hi there! ![favicon.ico](favicon.ico)
+### Hi there! ![favicon.ico](https://raw.githubusercontent.com/bastelfreak/bastelfreak/master/favicon.ico)
 
 <img align="right" src="https://avatars.githubusercontent.com/bastelfreak" width="260">
 
