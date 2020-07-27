@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (2 days ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (2 days ago)
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (2 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
 - [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (2 days ago)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (2 days ago)
+- [voxpupuli/puppet-visualstudio](https://github.com/voxpupuli/puppet-visualstudio) - puppet module for managing Microsoft Visual Studio (2 days ago)
+- [voxpupuli/puppet-tea](https://github.com/voxpupuli/puppet-tea) - Puppet 4.6 Types: Abstracted &amp; Extracted (2 days ago)
 - [voxpupuli/puppet-prometheus_reporter](https://github.com/voxpupuli/puppet-prometheus_reporter) - A prometheus Puppet reports exporter for Puppet (2 days ago)
+- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (2 days ago)
+- [voxpupuli/puppet-sftp_jail](https://github.com/voxpupuli/puppet-sftp_jail) -  (2 days ago)
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (3 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (5 days ago)
-- [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
