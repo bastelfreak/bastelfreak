@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 3 days ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
+- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 4 days ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 1 week ago) - Module to install and manage Choria
 - [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.0.30](https://github.com/puppetlabs/facter/releases/tag/4.0.30), 1 week ago) - Collect and display system facts
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 3 weeks ago) - Synchronize common files across your Git repositories.
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (1 day ago)
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (1 day ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (1 day ago)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 day ago)
-- [voxpupuli/puppet-prometheus_reporter](https://github.com/voxpupuli/puppet-prometheus_reporter) - A prometheus Puppet reports exporter for Puppet (1 day ago)
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (2 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (4 days ago)
-- [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (4 days ago)
+- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (2 days ago)
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (2 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
+- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (2 days ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (2 days ago)
+- [voxpupuli/puppet-prometheus_reporter](https://github.com/voxpupuli/puppet-prometheus_reporter) - A prometheus Puppet reports exporter for Puppet (2 days ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (3 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (5 days ago)
+- [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
