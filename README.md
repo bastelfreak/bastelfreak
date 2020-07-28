@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (3 days ago)
-- [voxpupuli/puppet-tea](https://github.com/voxpupuli/puppet-tea) - Puppet 4.6 Types: Abstracted &amp; Extracted (3 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
+- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (3 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
 - [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (3 days ago)
 - [voxpupuli/puppet-prometheus_reporter](https://github.com/voxpupuli/puppet-prometheus_reporter) - A prometheus Puppet reports exporter for Puppet (3 days ago)
 - [voxpupuli/puppet-sftp_jail](https://github.com/voxpupuli/puppet-sftp_jail) -  (3 days ago)
 - [voxpupuli/puppet-visualstudio](https://github.com/voxpupuli/puppet-visualstudio) - puppet module for managing Microsoft Visual Studio (3 days ago)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (3 days ago)
+- [voxpupuli/puppet-tea](https://github.com/voxpupuli/puppet-tea) - Puppet 4.6 Types: Abstracted &amp; Extracted (3 days ago)
 - [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (3 days ago)
-- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (3 days ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
