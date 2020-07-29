@@ -34,12 +34,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 5 days ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
+- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 6 days ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 1 week ago) - Module to install and manage Choria
 - [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.0.30](https://github.com/puppetlabs/facter/releases/tag/4.0.30), 1 week ago) - Collect and display system facts
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 3 weeks ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 3 weeks ago) - Puppet module to manage the ferm firewall tooling
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.1.2](https://github.com/voxpupuli/puppetboard/releases/tag/v2.1.2), 3 weeks ago) - Web frontend for PuppetDB
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.1.2](https://github.com/voxpupuli/puppetboard/releases/tag/v2.1.2), 4 weeks ago) - Web frontend for PuppetDB
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 1 month ago) -  Prometheus Exporter for PuppetDB
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 5 months ago) - Puppet module for Chrony with Systemd
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.10](https://github.com/ddfreyne/cri/releases/tag/2.15.10), 6 months ago) - A tool for building commandline applications
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
-- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (3 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
-- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (3 days ago)
-- [voxpupuli/puppet-prometheus_reporter](https://github.com/voxpupuli/puppet-prometheus_reporter) - A prometheus Puppet reports exporter for Puppet (3 days ago)
-- [voxpupuli/puppet-sftp_jail](https://github.com/voxpupuli/puppet-sftp_jail) -  (3 days ago)
-- [voxpupuli/puppet-visualstudio](https://github.com/voxpupuli/puppet-visualstudio) - puppet module for managing Microsoft Visual Studio (3 days ago)
-- [voxpupuli/puppet-tea](https://github.com/voxpupuli/puppet-tea) - Puppet 4.6 Types: Abstracted &amp; Extracted (3 days ago)
-- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (3 days ago)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (3 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
+- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (4 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
+- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (4 days ago)
+- [voxpupuli/puppet-prometheus_reporter](https://github.com/voxpupuli/puppet-prometheus_reporter) - A prometheus Puppet reports exporter for Puppet (4 days ago)
+- [voxpupuli/puppet-sftp_jail](https://github.com/voxpupuli/puppet-sftp_jail) -  (4 days ago)
+- [voxpupuli/puppet-visualstudio](https://github.com/voxpupuli/puppet-visualstudio) - puppet module for managing Microsoft Visual Studio (4 days ago)
+- [voxpupuli/puppet-tea](https://github.com/voxpupuli/puppet-tea) - Puppet 4.6 Types: Abstracted &amp; Extracted (4 days ago)
+- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (4 days ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
