@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-stash](https://github.com/voxpupuli/puppet-stash) - A puppet module to install atlassian stash (today)
 - [voxpupuli/puppet-windows_env](https://github.com/voxpupuli/puppet-windows_env) - Puppet module for managing Windows environment variables.  (today)
-- [voxpupuli/puppet-windows_power](https://github.com/voxpupuli/puppet-windows_power) -  (today)
+- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (today)
+- [voxpupuli/puppet-strongswan](https://github.com/voxpupuli/puppet-strongswan) - Puppet Strongswan Module (today)
+- [voxpupuli/puppet-virtualbox](https://github.com/voxpupuli/puppet-virtualbox) - A Puppet module to install and manage VirtualBox (today)
+- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (today)
+- [voxpupuli/puppet-tvheadend](https://github.com/voxpupuli/puppet-tvheadend) - Puppet Module for TVHeadend (today)
 - [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (today)
 - [voxpupuli/puppet-windows_eventlog](https://github.com/voxpupuli/puppet-windows_eventlog) -  (today)
-- [voxpupuli/puppet-virtualbox](https://github.com/voxpupuli/puppet-virtualbox) - A Puppet module to install and manage VirtualBox (today)
 - [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (today)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 day ago)
-- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (1 day ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (3 days ago)
-- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
