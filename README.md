@@ -34,8 +34,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.0.33](https://github.com/puppetlabs/facter/releases/tag/4.0.33), today) - Collect and display system facts
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 5 days ago) - Web frontend for PuppetDB
-- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.0.32](https://github.com/puppetlabs/facter/releases/tag/4.0.32), 6 days ago) - Collect and display system facts
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 1 week ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 2 weeks ago) - Module to install and manage Choria
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 1 month ago) - Synchronize common files across your Git repositories.
