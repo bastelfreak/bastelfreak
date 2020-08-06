@@ -70,8 +70,8 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-windows_env](https://github.com/voxpupuli/puppet-windows_env) - Puppet module for managing Windows environment variables.  (4 days ago)
 - [voxpupuli/puppet-strongswan](https://github.com/voxpupuli/puppet-strongswan) - Puppet Strongswan Module (4 days ago)
 - [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (4 days ago)
-- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (4 days ago)
 - [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (4 days ago)
+- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
