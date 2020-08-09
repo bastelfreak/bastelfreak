@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.0.33](https://github.com/puppetlabs/facter/releases/tag/4.0.33), 3 days ago) - Collect and display system facts
+- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.0.33](https://github.com/puppetlabs/facter/releases/tag/4.0.33), 4 days ago) - Collect and display system facts
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 1 week ago) - Web frontend for PuppetDB
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 2 weeks ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 3 weeks ago) - Module to install and manage Choria
@@ -62,25 +62,25 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (3 days ago)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (5 days ago)
-- [voxpupuli/puppet-tvheadend](https://github.com/voxpupuli/puppet-tvheadend) - Puppet Module for TVHeadend (6 days ago)
-- [voxpupuli/puppet-windows_eventlog](https://github.com/voxpupuli/puppet-windows_eventlog) -  (6 days ago)
-- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (6 days ago)
-- [voxpupuli/puppet-windows_env](https://github.com/voxpupuli/puppet-windows_env) - Puppet module for managing Windows environment variables.  (6 days ago)
-- [voxpupuli/puppet-strongswan](https://github.com/voxpupuli/puppet-strongswan) - Puppet Strongswan Module (6 days ago)
-- [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (6 days ago)
-- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (6 days ago)
-- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (6 days ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (4 days ago)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (6 days ago)
+- [voxpupuli/puppet-tvheadend](https://github.com/voxpupuli/puppet-tvheadend) - Puppet Module for TVHeadend (1 week ago)
+- [voxpupuli/puppet-windows_eventlog](https://github.com/voxpupuli/puppet-windows_eventlog) -  (1 week ago)
+- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 week ago)
+- [voxpupuli/puppet-windows_env](https://github.com/voxpupuli/puppet-windows_env) - Puppet module for managing Windows environment variables.  (1 week ago)
+- [voxpupuli/puppet-strongswan](https://github.com/voxpupuli/puppet-strongswan) - Puppet Strongswan Module (1 week ago)
+- [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (1 week ago)
+- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (1 week ago)
+- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars3.githubusercontent.com/u/68830247?v=4" height="20"/> nissa1992](https://github.com/nissa1992)
 - [<img src="https://avatars2.githubusercontent.com/u/650430?v=4" height="20"/> raphink](https://github.com/raphink)
 - [<img src="https://avatars2.githubusercontent.com/u/5166159?u=645062516f20c8c30ad247179c6e754df7547714&amp;v=4" height="20"/> ikonia](https://github.com/ikonia)
 - [<img src="https://avatars1.githubusercontent.com/u/66896964?v=4" height="20"/> tracydemery36](https://github.com/tracydemery36)
 - [<img src="https://avatars0.githubusercontent.com/u/45076866?u=c27eff0531f754e5d594b0016a5f8495530d7f1c&amp;v=4" height="20"/> shivaniverma1998](https://github.com/shivaniverma1998)
-- [<img src="https://avatars0.githubusercontent.com/u/60853193?v=4" height="20"/> medoeldwek7](https://github.com/medoeldwek7)
 
 ### Top languages
 
