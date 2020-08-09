@@ -34,7 +34,6 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.0.33](https://github.com/puppetlabs/facter/releases/tag/4.0.33), 4 days ago) - Collect and display system facts
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 1 week ago) - Web frontend for PuppetDB
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 2 weeks ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 3 weeks ago) - Module to install and manage Choria
@@ -44,6 +43,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 5 months ago) - Puppet module for Chrony with Systemd
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.10](https://github.com/ddfreyne/cri/releases/tag/2.15.10), 6 months ago) - A tool for building commandline applications
 - [Icinga/icinga-vagrant](https://github.com/Icinga/icinga-vagrant) ([v2.2.0](https://github.com/Icinga/icinga-vagrant/releases/tag/v2.2.0), 8 months ago) - Vagrant boxes for Icinga 2, Icinga Web 2, modules, themes and integrations (Graphite, InfluxDB, Elastic, Graylog, etc.)
+- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) ([v0.6.0](https://github.com/voxpupuli/ra10ke/releases/tag/v0.6.0), 1 year ago) - Rake tasks related to R10K and Puppetfile
 
 #### 📜 My recent blog posts
 
