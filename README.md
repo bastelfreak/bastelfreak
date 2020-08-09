@@ -48,6 +48,7 @@ Statement from Puppet Inc.:
 #### 📜 My recent blog posts
 
 
+- [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (today)
 - [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (1 month ago)
 - [Vox Pupuli – Code of the Week 2](https://blog.bastelfreak.de/2019/01/vox-pupuli-code-of-the-week-2/) (2 years ago)
 - [Thunderbird: Hide local hostname in mailheaders](https://blog.bastelfreak.de/2019/01/thunderbird-hide-local-hostname-in-mailheaders/) (2 years ago)
@@ -57,7 +58,6 @@ Statement from Puppet Inc.:
 - [Short Tip: Install shellcheck on an outdated CentOS](https://blog.bastelfreak.de/2016/08/short-tip-install-shellcheck-on-an-outdated-centos/) (4 years ago)
 - [Short Tip: Installing msgpack on outdated boxes (ruby1.9.1)](https://blog.bastelfreak.de/2016/08/installing-msgpack-on-outdated-boxes-ruby1-9-3/) (4 years ago)
 - [rubocop-rspec magic: Fixing RSpec/InstanceVariable](https://blog.bastelfreak.de/2016/07/rubocop-rspec-magic-fixing-rspecinstancevariable/) (4 years ago)
-- [Diving into Management – How to do Meetings](https://blog.bastelfreak.de/2016/07/diving-into-management-how-to-do-meetings/) (4 years ago)
 
 #### The last 10 repositories I contributed to
 
