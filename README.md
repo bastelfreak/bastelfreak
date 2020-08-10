@@ -48,6 +48,7 @@ Statement from Puppet Inc.:
 #### 📜 My recent blog posts
 
 
+- [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (today)
 - [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (1 day ago)
 - [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (1 month ago)
 - [Vox Pupuli – Code of the Week 2](https://blog.bastelfreak.de/2019/01/vox-pupuli-code-of-the-week-2/) (2 years ago)
@@ -57,7 +58,6 @@ Statement from Puppet Inc.:
 - [Short Tip: Dealing with FreeBSD for noobs](https://blog.bastelfreak.de/2016/11/short-tip-dealing-with-freebsd-for-noobs/) (3 years ago)
 - [Short Tip: Install shellcheck on an outdated CentOS](https://blog.bastelfreak.de/2016/08/short-tip-install-shellcheck-on-an-outdated-centos/) (4 years ago)
 - [Short Tip: Installing msgpack on outdated boxes (ruby1.9.1)](https://blog.bastelfreak.de/2016/08/installing-msgpack-on-outdated-boxes-ruby1-9-3/) (4 years ago)
-- [rubocop-rspec magic: Fixing RSpec/InstanceVariable](https://blog.bastelfreak.de/2016/07/rubocop-rspec-magic-fixing-rspecinstancevariable/) (4 years ago)
 
 #### The last 10 repositories I contributed to
 
