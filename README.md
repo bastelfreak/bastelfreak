@@ -40,7 +40,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 1 month ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 1 month ago) - Puppet module to manage the ferm firewall tooling
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 2 months ago) -  Prometheus Exporter for PuppetDB
-- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 5 months ago) - Puppet module for Chrony with Systemd
+- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 6 months ago) - Puppet module for Chrony with Systemd
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.10](https://github.com/ddfreyne/cri/releases/tag/2.15.10), 6 months ago) - A tool for building commandline applications
 - [Icinga/icinga-vagrant](https://github.com/Icinga/icinga-vagrant) ([v2.2.0](https://github.com/Icinga/icinga-vagrant/releases/tag/v2.2.0), 8 months ago) - Vagrant boxes for Icinga 2, Icinga Web 2, modules, themes and integrations (Graphite, InfluxDB, Elastic, Graylog, etc.)
 - [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) ([v0.6.0](https://github.com/voxpupuli/ra10ke/releases/tag/v0.6.0), 1 year ago) - Rake tasks related to R10K and Puppetfile
@@ -48,7 +48,7 @@ Statement from Puppet Inc.:
 #### 📜 My recent blog posts
 
 
-- [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (today)
+- [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (1 day ago)
 - [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (1 month ago)
 - [Vox Pupuli – Code of the Week 2](https://blog.bastelfreak.de/2019/01/vox-pupuli-code-of-the-week-2/) (2 years ago)
 - [Thunderbird: Hide local hostname in mailheaders](https://blog.bastelfreak.de/2019/01/thunderbird-hide-local-hostname-in-mailheaders/) (2 years ago)
@@ -62,9 +62,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (4 days ago)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (6 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (5 days ago)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 week ago)
 - [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (1 week ago)
 - [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (1 week ago)
 - [voxpupuli/puppet-windows_eventlog](https://github.com/voxpupuli/puppet-windows_eventlog) -  (1 week ago)
