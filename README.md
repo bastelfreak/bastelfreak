@@ -48,8 +48,8 @@ Statement from Puppet Inc.:
 #### 📜 My recent blog posts
 
 
-- [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (today)
-- [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (1 day ago)
+- [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (1 day ago)
+- [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (2 days ago)
 - [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (1 month ago)
 - [Vox Pupuli – Code of the Week 2](https://blog.bastelfreak.de/2019/01/vox-pupuli-code-of-the-week-2/) (2 years ago)
 - [Thunderbird: Hide local hostname in mailheaders](https://blog.bastelfreak.de/2019/01/thunderbird-hide-local-hostname-in-mailheaders/) (2 years ago)
@@ -62,9 +62,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (5 days ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (6 days ago)
 - [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 week ago)
 - [voxpupuli/puppet-windows_eventlog](https://github.com/voxpupuli/puppet-windows_eventlog) -  (1 week ago)
 - [voxpupuli/puppet-tvheadend](https://github.com/voxpupuli/puppet-tvheadend) - Puppet Module for TVHeadend (1 week ago)
