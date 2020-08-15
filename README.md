@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) - This module installs, configures and manages the Fail2ban service. (today)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - module to mange gitlab CI runners. (Will be) Extracted from https://github.com/voxpupuli/puppet-gitlab (4 days ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (5 days ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 week ago)
-- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (1 week ago)
-- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 week ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (today)
+- [voxpupuli/puppet-pxe](https://github.com/voxpupuli/puppet-pxe) - Puppet module for deploying a PXE boot server (today)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
+- [voxpupuli/puppet-smokeping](https://github.com/voxpupuli/puppet-smokeping) - Puppet module to install and configure smokeping. Including target and slave definition (today)
+- [voxpupuli/puppet-minecraft](https://github.com/voxpupuli/puppet-minecraft) - Puppet - Minecraft: Separately maintained fork of brannan&#39;s puppet-module-minecraft (today)
+- [voxpupuli/puppet-sslcertificate](https://github.com/voxpupuli/puppet-sslcertificate) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards (today)
+- [voxpupuli/puppet-metche](https://github.com/voxpupuli/puppet-metche) - Manage metche with puppet (today)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (today)
+- [voxpupuli/puppet-msoffice](https://github.com/voxpupuli/puppet-msoffice) - puppet module to manage Microsoft Office on Windows (2003-2013) (today)
+- [voxpupuli/puppet-jolokia](https://github.com/voxpupuli/puppet-jolokia) - Install jolokia agents, and configure (today)
 
 #### 👥 Check out some of my recent followers
 
