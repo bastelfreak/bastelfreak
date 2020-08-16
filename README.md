@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-mumble](https://github.com/voxpupuli/puppet-mumble) - Puppet module to install and manage a Mumble server (1 day ago)
-- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (1 day ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/puppet-homeassistant](https://github.com/voxpupuli/puppet-homeassistant) - Puppet Module for Home Assistant - home automation platform. https://home-assistant.io/ (1 day ago)
-- [voxpupuli/puppet-metche](https://github.com/voxpupuli/puppet-metche) - Manage metche with puppet (1 day ago)
+- [voxpupuli/puppet-rhsm](https://github.com/voxpupuli/puppet-rhsm) - Puppet module for registering systems with RedHat. (today)
+- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (today)
+- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (today)
+- [voxpupuli/puppet-dhcp](https://github.com/voxpupuli/puppet-dhcp) - Puppet module for deploying dhcp (1 day ago)
 - [voxpupuli/puppet-dotnet](https://github.com/voxpupuli/puppet-dotnet) - puppet module for managing Microsoft .NET (1 day ago)
 - [voxpupuli/puppet-msoffice](https://github.com/voxpupuli/puppet-msoffice) - puppet module to manage Microsoft Office on Windows (2003-2013) (1 day ago)
-- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 day ago)
 - [voxpupuli/puppet-facette](https://github.com/voxpupuli/puppet-facette) - A module to manage http://facette.io (1 day ago)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 day ago)
 - [voxpupuli/puppet-jolokia](https://github.com/voxpupuli/puppet-jolokia) - Install jolokia agents, and configure (1 day ago)
+- [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync! (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
