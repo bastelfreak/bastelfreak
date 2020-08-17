@@ -36,7 +36,7 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 2 weeks ago) - Web frontend for PuppetDB
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 3 weeks ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 4 weeks ago) - Module to install and manage Choria
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 1 month ago) - Module to install and manage Choria
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 1 month ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 1 month ago) - Puppet module to manage the ferm firewall tooling
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 2 months ago) -  Prometheus Exporter for PuppetDB
@@ -48,8 +48,8 @@ Statement from Puppet Inc.:
 #### 📜 My recent blog posts
 
 
-- [Automate let’s encrypt with systemd timer](https://blog.bastelfreak.de/2020/08/automate-lets-encrypt-with-systemd-timer/) (today)
-- [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (6 days ago)
+- [Automate let’s encrypt with systemd timer](https://blog.bastelfreak.de/2020/08/automate-lets-encrypt-with-systemd-timer/) (1 day ago)
+- [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (1 week ago)
 - [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (1 week ago)
 - [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (1 month ago)
 - [Vox Pupuli – Code of the Week 2](https://blog.bastelfreak.de/2019/01/vox-pupuli-code-of-the-week-2/) (2 years ago)
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (today)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (today)
-- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (today)
-- [voxpupuli/puppet-rhsm](https://github.com/voxpupuli/puppet-rhsm) - Puppet module for registering systems with RedHat. (today)
-- [voxpupuli/puppet-dhcp](https://github.com/voxpupuli/puppet-dhcp) - Puppet module for deploying dhcp (1 day ago)
-- [voxpupuli/puppet-facette](https://github.com/voxpupuli/puppet-facette) - A module to manage http://facette.io (1 day ago)
-- [voxpupuli/puppet-jolokia](https://github.com/voxpupuli/puppet-jolokia) - Install jolokia agents, and configure (1 day ago)
-- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 day ago)
-- [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync! (1 day ago)
-- [voxpupuli/puppet-msoffice](https://github.com/voxpupuli/puppet-msoffice) - puppet module to manage Microsoft Office on Windows (2003-2013) (1 day ago)
+- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (1 day ago)
+- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (1 day ago)
+- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (1 day ago)
+- [voxpupuli/puppet-rhsm](https://github.com/voxpupuli/puppet-rhsm) - Puppet module for registering systems with RedHat. (1 day ago)
+- [voxpupuli/puppet-dhcp](https://github.com/voxpupuli/puppet-dhcp) - Puppet module for deploying dhcp (2 days ago)
+- [voxpupuli/puppet-facette](https://github.com/voxpupuli/puppet-facette) - A module to manage http://facette.io (2 days ago)
+- [voxpupuli/puppet-jolokia](https://github.com/voxpupuli/puppet-jolokia) - Install jolokia agents, and configure (2 days ago)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (2 days ago)
+- [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync! (2 days ago)
+- [voxpupuli/puppet-msoffice](https://github.com/voxpupuli/puppet-msoffice) - puppet module to manage Microsoft Office on Windows (2003-2013) (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
