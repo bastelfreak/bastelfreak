@@ -76,7 +76,7 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
-- [<img src="https://avatars3.githubusercontent.com/u/68830247?u=563d88699b15de7295ba477ead2a4e52c39ce17f&amp;v=4" height="20"/> nissa1992](https://github.com/nissa1992)
+- [<img src="https://avatars1.githubusercontent.com/u/68830247?u=4b0503d43e425b12e8073d836346b679294131b2&amp;v=4" height="20"/> nissa1992](https://github.com/nissa1992)
 - [<img src="https://avatars2.githubusercontent.com/u/650430?v=4" height="20"/> raphink](https://github.com/raphink)
 - [<img src="https://avatars2.githubusercontent.com/u/5166159?u=645062516f20c8c30ad247179c6e754df7547714&amp;v=4" height="20"/> ikonia](https://github.com/ikonia)
 - [<img src="https://avatars1.githubusercontent.com/u/66896964?v=4" height="20"/> tracydemery36](https://github.com/tracydemery36)
