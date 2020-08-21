@@ -62,15 +62,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (2 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (3 days ago)
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (3 days ago)
-- [solarkennedy/puppet-consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul (3 days ago)
 - [voxpupuli/voxpupu.li](https://github.com/voxpupuli/voxpupu.li) - The puppet code that powers our dashboard (3 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (5 days ago)
-- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (5 days ago)
+- [solarkennedy/puppet-consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul (3 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (3 days ago)
+- [voxpupuli/puppet-rhsm](https://github.com/voxpupuli/puppet-rhsm) - Puppet module for registering systems with RedHat. (5 days ago)
 - [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (5 days ago)
 
 #### 👥 Check out some of my recent followers
