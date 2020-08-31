@@ -62,15 +62,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (1 day ago)
+- [voxpupuli/puppet-pkgng](https://github.com/voxpupuli/puppet-pkgng) - A Puppet package provider for FreeBSD&#39;s PkgNG package manager. (today)
 - [voxpupuli/puppet-proxysql](https://github.com/voxpupuli/puppet-proxysql) - Puppet module to configure ProxySQL (1 day ago)
+- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (1 day ago)
 - [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (2 days ago)
 - [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (4 days ago)
 - [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (4 days ago)
 - [solarkennedy/puppet-consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul (5 days ago)
 - [voxpupuli/puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - mongodb installation (6 days ago)
 - [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (6 days ago)
-- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (1 week ago)
 - [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (1 week ago)
 
 #### 👥 Check out some of my recent followers
