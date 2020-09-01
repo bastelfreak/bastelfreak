@@ -37,7 +37,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 1 month ago) - Web frontend for PuppetDB
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.2](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.2), 1 month ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 1 month ago) - Module to install and manage Choria
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 1 month ago) - Synchronize common files across your Git repositories.
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 2 months ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 2 months ago) - Puppet module to manage the ferm firewall tooling
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 2 months ago) -  Prometheus Exporter for PuppetDB
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 6 months ago) - Puppet module for Chrony with Systemd
@@ -62,15 +62,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-pkgng](https://github.com/voxpupuli/puppet-pkgng) - A Puppet package provider for FreeBSD&#39;s PkgNG package manager. (today)
-- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (1 day ago)
-- [voxpupuli/puppet-proxysql](https://github.com/voxpupuli/puppet-proxysql) - Puppet module to configure ProxySQL (1 day ago)
-- [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (2 days ago)
-- [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (4 days ago)
-- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (4 days ago)
-- [solarkennedy/puppet-consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul (5 days ago)
-- [voxpupuli/puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - mongodb installation (6 days ago)
-- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (6 days ago)
+- [voxpupuli/puppet-pkgng](https://github.com/voxpupuli/puppet-pkgng) - A Puppet package provider for FreeBSD&#39;s PkgNG package manager. (1 day ago)
+- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (2 days ago)
+- [voxpupuli/puppet-proxysql](https://github.com/voxpupuli/puppet-proxysql) - Puppet module to configure ProxySQL (2 days ago)
+- [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (3 days ago)
+- [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (5 days ago)
+- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (5 days ago)
+- [solarkennedy/puppet-consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul (6 days ago)
+- [voxpupuli/puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - mongodb installation (1 week ago)
+- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (1 week ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
 
 #### 👥 Check out some of my recent followers
