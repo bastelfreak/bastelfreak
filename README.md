@@ -34,13 +34,13 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 6 days ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
+- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 1 week ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 1 month ago) - Web frontend for PuppetDB
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 1 month ago) - Module to install and manage Choria
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 2 months ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 2 months ago) - Puppet module to manage the ferm firewall tooling
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 3 months ago) -  Prometheus Exporter for PuppetDB
-- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 6 months ago) - Puppet module for Chrony with Systemd
+- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 7 months ago) - Puppet module for Chrony with Systemd
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.10](https://github.com/ddfreyne/cri/releases/tag/2.15.10), 7 months ago) - A tool for building commandline applications
 - [Icinga/icinga-vagrant](https://github.com/Icinga/icinga-vagrant) ([v2.2.0](https://github.com/Icinga/icinga-vagrant/releases/tag/v2.2.0), 9 months ago) - Vagrant boxes for Icinga 2, Icinga Web 2, modules, themes and integrations (Graphite, InfluxDB, Elastic, Graylog, etc.)
 - [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) ([v0.6.0](https://github.com/voxpupuli/ra10ke/releases/tag/v0.6.0), 1 year ago) - Rake tasks related to R10K and Puppetfile
@@ -49,7 +49,7 @@ Statement from Puppet Inc.:
 
 
 - [Automate let’s encrypt with systemd timer](https://blog.bastelfreak.de/2020/08/automate-lets-encrypt-with-systemd-timer/) (3 weeks ago)
-- [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (4 weeks ago)
+- [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (1 month ago)
 - [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (1 month ago)
 - [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (2 months ago)
 - [Vox Pupuli – Code of the Week 2](https://blog.bastelfreak.de/2019/01/vox-pupuli-code-of-the-week-2/) (2 years ago)
@@ -62,14 +62,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (2 days ago)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (2 days ago)
-- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (2 days ago)
-- [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (4 days ago)
-- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (4 days ago)
-- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (6 days ago)
-- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (6 days ago)
-- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (6 days ago)
+- [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (3 days ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (3 days ago)
+- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (3 days ago)
+- [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (5 days ago)
+- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (5 days ago)
+- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (1 week ago)
+- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (1 week ago)
+- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (1 week ago)
 - [voxpupuli/puppet-proxysql](https://github.com/voxpupuli/puppet-proxysql) - Puppet module to configure ProxySQL (1 week ago)
 - [voxpupuli/puppet-pkgng](https://github.com/voxpupuli/puppet-pkgng) - A Puppet package provider for FreeBSD&#39;s PkgNG package manager. (1 week ago)
 
