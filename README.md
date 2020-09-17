@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 2 months ago) - Puppet module to manage the ferm firewall tooling
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 3 months ago) -  Prometheus Exporter for PuppetDB
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 7 months ago) - Puppet module for Chrony with Systemd
-- [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.10](https://github.com/ddfreyne/cri/releases/tag/2.15.10), 7 months ago) - A tool for building commandline applications
+- [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.10](https://github.com/ddfreyne/cri/releases/tag/2.15.10), 8 months ago) - A tool for building commandline applications
 - [Icinga/icinga-vagrant](https://github.com/Icinga/icinga-vagrant) ([v2.2.0](https://github.com/Icinga/icinga-vagrant/releases/tag/v2.2.0), 9 months ago) - Vagrant boxes for Icinga 2, Icinga Web 2, modules, themes and integrations (Graphite, InfluxDB, Elastic, Graylog, etc.)
 - [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) ([v0.6.0](https://github.com/voxpupuli/ra10ke/releases/tag/v0.6.0), 1 year ago) - Rake tasks related to R10K and Puppetfile
 
@@ -62,10 +62,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - module to mange gitlab CI runners. (Will be) Extracted from https://github.com/voxpupuli/puppet-gitlab (1 day ago)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (3 days ago)
-- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (5 days ago)
-- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls (5 days ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - module to mange gitlab CI runners. (Will be) Extracted from https://github.com/voxpupuli/puppet-gitlab (2 days ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (4 days ago)
+- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (6 days ago)
+- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls (6 days ago)
 - [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (1 week ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 week ago)
 - [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (1 week ago)
