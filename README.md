@@ -62,14 +62,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 day ago)
-- [voxpupuli/puppet-cassandra](https://github.com/voxpupuli/puppet-cassandra) - Installs Cassandra &amp; DataStax Agent on RHEL/Ubuntu/Debian. (1 day ago)
-- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (1 day ago)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - module to mange gitlab CI runners. (Will be) Extracted from https://github.com/voxpupuli/puppet-gitlab (4 days ago)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (6 days ago)
+- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (2 days ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (2 days ago)
+- [voxpupuli/puppet-cassandra](https://github.com/voxpupuli/puppet-cassandra) - Installs Cassandra &amp; DataStax Agent on RHEL/Ubuntu/Debian. (2 days ago)
+- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (2 days ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - module to mange gitlab CI runners. (Will be) Extracted from https://github.com/voxpupuli/puppet-gitlab (5 days ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 week ago)
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls (1 week ago)
 - [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 week ago)
 
