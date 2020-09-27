@@ -62,12 +62,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) - Puppet Module to manage bareos (1 day ago)
-- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (1 day ago)
-- [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (2 days ago)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (3 days ago)
-- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (4 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) - Puppet Module to manage bareos (2 days ago)
+- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (2 days ago)
+- [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (3 days ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (4 days ago)
+- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (5 days ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 week ago)
 - [voxpupuli/puppet-cassandra](https://github.com/voxpupuli/puppet-cassandra) - Installs Cassandra &amp; DataStax Agent on RHEL/Ubuntu/Debian. (1 week ago)
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 week ago)
