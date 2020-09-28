@@ -71,7 +71,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (5 days ago)
 - [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (6 days ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 week ago)
-- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (1 week ago)
+- [voxpupuli/puppet-cassandra](https://github.com/voxpupuli/puppet-cassandra) - Installs Cassandra &amp; DataStax Agent on RHEL/Ubuntu/Debian. (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
