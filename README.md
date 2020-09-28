@@ -34,9 +34,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.19.0](https://github.com/choria-io/puppet-choria/releases/tag/0.19.0), today) - Module to install and manage Choria
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 3 weeks ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 1 month ago) - Web frontend for PuppetDB
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.18.0](https://github.com/choria-io/puppet-choria/releases/tag/0.18.0), 2 months ago) - Module to install and manage Choria
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 2 months ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 2 months ago) - Puppet module to manage the ferm firewall tooling
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 3 months ago) -  Prometheus Exporter for PuppetDB
