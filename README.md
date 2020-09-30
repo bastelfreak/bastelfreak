@@ -42,8 +42,8 @@ Statement from Puppet Inc.:
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 3 months ago) -  Prometheus Exporter for PuppetDB
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 7 months ago) - Puppet module for Chrony with Systemd
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.10](https://github.com/ddfreyne/cri/releases/tag/2.15.10), 8 months ago) - A tool for building commandline applications
-- [Icinga/icinga-vagrant](https://github.com/Icinga/icinga-vagrant) ([v2.2.0](https://github.com/Icinga/icinga-vagrant/releases/tag/v2.2.0), 10 months ago) - Vagrant boxes for Icinga 2, Icinga Web 2, modules, themes and integrations (Graphite, InfluxDB, Elastic, Graylog, etc.)
 - [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) ([v0.6.0](https://github.com/voxpupuli/ra10ke/releases/tag/v0.6.0), 1 year ago) - Rake tasks related to R10K and Puppetfile
+- [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) ([0.4.0](https://github.com/voxpupuli/puppet-bareos/releases/tag/0.4.0), 1 year ago) - Puppet Module to manage bareos
 
 #### 📜 My recent blog posts
 
