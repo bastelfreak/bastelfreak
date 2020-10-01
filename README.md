@@ -3,7 +3,7 @@
 <img align="right" src="https://avatars.githubusercontent.com/bastelfreak" width="260">
 
 I'm Tim, a DevOps Engineer and Project Committee member for [Vox Pupuli](https://voxpupuli.org).
-I'm currently living in Cologne, Germany, where I currently study computer science for fun in evening classes.
+I'm currently living in Cologne, Germany, where I currently study computer sience for fun in evening classes.
 Hit me up at [tim@bastelfreak.de](mailto:tim@bastelfeak.de) in case you need a Puppet consultant.
 
 #### Puppet activities
