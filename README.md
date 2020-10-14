@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.8](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.8), 1 week ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
+- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.9](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.9), today) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.19.0](https://github.com/choria-io/puppet-choria/releases/tag/0.19.0), 2 weeks ago) - Module to install and manage Choria
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 1 month ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 2 months ago) - Web frontend for PuppetDB
