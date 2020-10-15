@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.9](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.9), today) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
+- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.9](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.9), 1 day ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.19.0](https://github.com/choria-io/puppet-choria/releases/tag/0.19.0), 2 weeks ago) - Module to install and manage Choria
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 1 month ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 2 months ago) - Web frontend for PuppetDB
@@ -48,7 +48,7 @@ Statement from Puppet Inc.:
 #### 📜 My recent blog posts
 
 
-- [Automate let’s encrypt with systemd timer](https://blog.bastelfreak.de/2020/08/automate-lets-encrypt-with-systemd-timer/) (1 month ago)
+- [Automate let’s encrypt with systemd timer](https://blog.bastelfreak.de/2020/08/automate-lets-encrypt-with-systemd-timer/) (2 months ago)
 - [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (2 months ago)
 - [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (2 months ago)
 - [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (3 months ago)
@@ -62,9 +62,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (1 day ago)
-- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (5 days ago)
-- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (5 days ago)
+- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (2 days ago)
+- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (6 days ago)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (6 days ago)
 - [voxpupuli/puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - mongodb installation (1 week ago)
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 week ago)
 - [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (1 week ago)
