@@ -62,7 +62,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (1 day ago)
+- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (today)
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (2 days ago)
 - [voxpupuli/puppet-pxe](https://github.com/voxpupuli/puppet-pxe) - Puppet module for deploying a PXE boot server (2 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
