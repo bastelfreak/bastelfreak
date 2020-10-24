@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (today)
-- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (today)
+- [voxpupuli/puppet-download_file](https://github.com/voxpupuli/puppet-download_file) - Puppet define created that can be used to download files rather than needing to store binaries in puppet repos (today)
+- [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (today)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (today)
-- [voxpupuli/puppet-ghost](https://github.com/voxpupuli/puppet-ghost) - Puppet module to install and manage Ghost (today)
-- [voxpupuli/puppet-module](https://github.com/voxpupuli/puppet-module) - Puppet 4&#43; module to optionally configure and manage Puppet 4/5 package, config, agent, cert, and other tools. (today)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (today)
 - [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (today)
-- [voxpupuli/puppet-etherpad](https://github.com/voxpupuli/puppet-etherpad) - Puppet Module to install and configure etherpad (today)
+- [voxpupuli/puppet-ghost](https://github.com/voxpupuli/puppet-ghost) - Puppet module to install and manage Ghost (today)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (today)
+- [voxpupuli/puppet-module](https://github.com/voxpupuli/puppet-module) - Puppet 4&#43; module to optionally configure and manage Puppet 4/5 package, config, agent, cert, and other tools. (today)
+- [voxpupuli/puppet-pxe](https://github.com/voxpupuli/puppet-pxe) - Puppet module for deploying a PXE boot server (today)
 - [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (today)
-- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (today)
+- [voxpupuli/puppet-etherpad](https://github.com/voxpupuli/puppet-etherpad) - Puppet Module to install and configure etherpad (today)
 
 #### 👥 Check out some of my recent followers
 
