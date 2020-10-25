@@ -71,7 +71,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (today)
 - [voxpupuli/puppet-virtualbox](https://github.com/voxpupuli/puppet-virtualbox) - A Puppet module to install and manage VirtualBox (today)
 - [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (today)
-- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) - Hiera hierarchy module for templating `hiera.yaml` (today)
+- [voxpupuli/puppet-smokeping](https://github.com/voxpupuli/puppet-smokeping) - Puppet module to install and configure smokeping. Including target and slave definition (today)
 
 #### 👥 Check out some of my recent followers
 
