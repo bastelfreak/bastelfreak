@@ -65,13 +65,13 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (today)
 - [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (today)
 - [voxpupuli/puppet-strongswan](https://github.com/voxpupuli/puppet-strongswan) - Puppet Strongswan Module (today)
-- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (today)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (today)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (today)
 - [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (today)
-- [voxpupuli/puppet-smokeping](https://github.com/voxpupuli/puppet-smokeping) - Puppet module to install and configure smokeping. Including target and slave definition (today)
 - [voxpupuli/puppet-virtualbox](https://github.com/voxpupuli/puppet-virtualbox) - A Puppet module to install and manage VirtualBox (today)
-- [voxpupuli/puppet-windows_env](https://github.com/voxpupuli/puppet-windows_env) - Puppet module for managing Windows environment variables.  (today)
+- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (today)
+- [voxpupuli/puppet-smokeping](https://github.com/voxpupuli/puppet-smokeping) - Puppet module to install and configure smokeping. Including target and slave definition (today)
 
 #### 👥 Check out some of my recent followers
 
