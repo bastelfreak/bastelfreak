@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 4 days ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
+- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 5 days ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.19.0](https://github.com/choria-io/puppet-choria/releases/tag/0.19.0), 1 month ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.11.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.11.0), 1 month ago) - A Puppet module to manage MCollective
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 2 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
@@ -62,15 +62,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (today)
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (today)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (3 days ago)
-- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (3 days ago)
-- [voxpupuli/puppet-tvheadend](https://github.com/voxpupuli/puppet-tvheadend) - Puppet Module for TVHeadend (3 days ago)
-- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (3 days ago)
-- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (4 days ago)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (4 days ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (6 days ago)
+- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (1 day ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
+- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (4 days ago)
+- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (4 days ago)
+- [voxpupuli/puppet-tvheadend](https://github.com/voxpupuli/puppet-tvheadend) - Puppet Module for TVHeadend (4 days ago)
+- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (4 days ago)
+- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (5 days ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (5 days ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
 - [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (1 week ago)
 
 #### 👥 Check out some of my recent followers
