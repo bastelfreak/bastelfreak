@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (1 day ago)
+- [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) - Puppet module to manage Net-SNMP. (today)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 day ago)
-- [voxpupuli/puppet-minecraft](https://github.com/voxpupuli/puppet-minecraft) - Puppet - Minecraft: Separately maintained fork of brannan&#39;s puppet-module-minecraft (2 days ago)
+- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (1 day ago)
 - [voxpupuli/puppet-amanda](https://github.com/voxpupuli/puppet-amanda) - Puppet module for amanda (2 days ago)
+- [voxpupuli/puppet-minecraft](https://github.com/voxpupuli/puppet-minecraft) - Puppet - Minecraft: Separately maintained fork of brannan&#39;s puppet-module-minecraft (2 days ago)
 - [voxpupuli/puppet-firewalld](https://github.com/voxpupuli/puppet-firewalld) - Puppet module for managing firewalld (4 days ago)
-- [voxpupuli/puppet-homeassistant](https://github.com/voxpupuli/puppet-homeassistant) - Puppet Module for Home Assistant - home automation platform. https://home-assistant.io/ (1 week ago)
 - [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (1 week ago)
+- [voxpupuli/puppet-homeassistant](https://github.com/voxpupuli/puppet-homeassistant) - Puppet Module for Home Assistant - home automation platform. https://home-assistant.io/ (1 week ago)
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (1 week ago)
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 week ago)
-- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
