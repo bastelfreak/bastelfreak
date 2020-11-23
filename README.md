@@ -65,13 +65,13 @@ Statement from Puppet Inc.:
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German) (today)
 - [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (5 days ago)
 - [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) - Puppet module to manage Net-SNMP. (6 days ago)
-- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 week ago)
 - [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (1 week ago)
-- [voxpupuli/puppet-minecraft](https://github.com/voxpupuli/puppet-minecraft) - Puppet - Minecraft: Separately maintained fork of brannan&#39;s puppet-module-minecraft (1 week ago)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 week ago)
 - [voxpupuli/puppet-amanda](https://github.com/voxpupuli/puppet-amanda) - Puppet module for amanda (1 week ago)
+- [voxpupuli/puppet-minecraft](https://github.com/voxpupuli/puppet-minecraft) - Puppet - Minecraft: Separately maintained fork of brannan&#39;s puppet-module-minecraft (1 week ago)
 - [voxpupuli/puppet-firewalld](https://github.com/voxpupuli/puppet-firewalld) - Puppet module for managing firewalld (1 week ago)
-- [voxpupuli/puppet-homeassistant](https://github.com/voxpupuli/puppet-homeassistant) - Puppet Module for Home Assistant - home automation platform. https://home-assistant.io/ (2 weeks ago)
 - [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (2 weeks ago)
+- [voxpupuli/puppet-homeassistant](https://github.com/voxpupuli/puppet-homeassistant) - Puppet Module for Home Assistant - home automation platform. https://home-assistant.io/ (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
