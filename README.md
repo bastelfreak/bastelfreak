@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-dotnet](https://github.com/voxpupuli/puppet-dotnet) - puppet module for managing Microsoft .NET (today)
-- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (today)
+- [voxpupuli/puppet-pxe](https://github.com/voxpupuli/puppet-pxe) - Puppet module for deploying a PXE boot server (today)
+- [voxpupuli/puppet-mumble](https://github.com/voxpupuli/puppet-mumble) - Puppet module to install and manage a Mumble server (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-community_kickstarts](https://github.com/voxpupuli/puppet-community_kickstarts) - Community provided kickstart files (today)
-- [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (today)
-- [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (today)
-- [voxpupuli/puppet-drbd](https://github.com/voxpupuli/puppet-drbd) - Basic module for configuring active-passive drbd resources (today)
-- [voxpupuli/puppet-dhcp](https://github.com/voxpupuli/puppet-dhcp) - Puppet module for deploying dhcp (today)
-- [voxpupuli/puppet-download_file](https://github.com/voxpupuli/puppet-download_file) - Puppet define created that can be used to download files rather than needing to store binaries in puppet repos (today)
-- [voxpupuli/puppet-amanda](https://github.com/voxpupuli/puppet-amanda) - Puppet module for amanda (today)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (today)
+- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (today)
+- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (today)
+- [voxpupuli/puppet-googleauthenticator](https://github.com/voxpupuli/puppet-googleauthenticator) - Google-authenticator module for Puppet (today)
+- [voxpupuli/puppet-strongswan](https://github.com/voxpupuli/puppet-strongswan) - Puppet Strongswan Module (today)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (today)
+- [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (today)
 
 #### 👥 Check out some of my recent followers
 
