@@ -62,6 +62,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German) (1 day ago)
 - [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (1 week ago)
 - [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) - Puppet module to manage Net-SNMP. (1 week ago)
@@ -71,7 +72,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-minecraft](https://github.com/voxpupuli/puppet-minecraft) - Puppet - Minecraft: Separately maintained fork of brannan&#39;s puppet-module-minecraft (1 week ago)
 - [voxpupuli/puppet-firewalld](https://github.com/voxpupuli/puppet-firewalld) - Puppet module for managing firewalld (1 week ago)
 - [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (2 weeks ago)
-- [voxpupuli/puppet-homeassistant](https://github.com/voxpupuli/puppet-homeassistant) - Puppet Module for Home Assistant - home automation platform. https://home-assistant.io/ (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
