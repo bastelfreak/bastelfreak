@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (today)
+- [voxpupuli/puppet-dotnet](https://github.com/voxpupuli/puppet-dotnet) - puppet module for managing Microsoft .NET (today)
 - [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (today)
-- [voxpupuli/puppet-facette](https://github.com/voxpupuli/puppet-facette) - A module to manage http://facette.io (today)
+- [voxpupuli/puppet-community_kickstarts](https://github.com/voxpupuli/puppet-community_kickstarts) - Community provided kickstart files (today)
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (today)
 - [voxpupuli/puppet-git_resource](https://github.com/voxpupuli/puppet-git_resource) -  (today)
 - [voxpupuli/puppet-drbd](https://github.com/voxpupuli/puppet-drbd) - Basic module for configuring active-passive drbd resources (today)
 - [voxpupuli/puppet-dhcp](https://github.com/voxpupuli/puppet-dhcp) - Puppet module for deploying dhcp (today)
 - [voxpupuli/puppet-download_file](https://github.com/voxpupuli/puppet-download_file) - Puppet define created that can be used to download files rather than needing to store binaries in puppet repos (today)
+- [voxpupuli/puppet-amanda](https://github.com/voxpupuli/puppet-amanda) - Puppet module for amanda (today)
 
 #### 👥 Check out some of my recent followers
 
