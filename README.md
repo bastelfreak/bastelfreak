@@ -34,9 +34,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.12.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.12.0), today) - A Puppet module to manage MCollective
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 4 weeks ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.19.0](https://github.com/choria-io/puppet-choria/releases/tag/0.19.0), 1 month ago) - Module to install and manage Choria
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.11.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.11.0), 1 month ago) - A Puppet module to manage MCollective
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 2 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 3 months ago) - Web frontend for PuppetDB
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 4 months ago) - Synchronize common files across your Git repositories.
