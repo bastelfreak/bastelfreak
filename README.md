@@ -63,15 +63,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet-ghost](https://github.com/voxpupuli/puppet-ghost) - Puppet module to install and manage Ghost (1 day ago)
-- [voxpupuli/puppet-strongswan](https://github.com/voxpupuli/puppet-strongswan) - Puppet Strongswan Module (1 day ago)
+- [voxpupuli/puppet-googleauthenticator](https://github.com/voxpupuli/puppet-googleauthenticator) - Google-authenticator module for Puppet (1 day ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 day ago)
 - [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (1 day ago)
-- [voxpupuli/puppet-googleauthenticator](https://github.com/voxpupuli/puppet-googleauthenticator) - Google-authenticator module for Puppet (1 day ago)
 - [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (1 day ago)
 - [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 day ago)
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
 - [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (1 day ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
+- [voxpupuli/puppet-sslcertificate](https://github.com/voxpupuli/puppet-sslcertificate) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
