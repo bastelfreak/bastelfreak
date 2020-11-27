@@ -34,9 +34,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.20.0](https://github.com/choria-io/puppet-choria/releases/tag/0.20.0), 1 day ago) - Module to install and manage Choria
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.12.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.12.0), 1 day ago) - A Puppet module to manage MCollective
-- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 4 weeks ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.20.0](https://github.com/choria-io/puppet-choria/releases/tag/0.20.0), 2 days ago) - Module to install and manage Choria
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.12.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.12.0), 2 days ago) - A Puppet module to manage MCollective
+- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 1 month ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 2 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 3 months ago) - Web frontend for PuppetDB
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 4 months ago) - Synchronize common files across your Git repositories.
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-pkgng](https://github.com/voxpupuli/puppet-pkgng) - A Puppet package provider for FreeBSD&#39;s PkgNG package manager. (today)
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (today)
-- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (today)
-- [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (today)
-- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (today)
-- [voxpupuli/puppet-ghost](https://github.com/voxpupuli/puppet-ghost) - Puppet module to install and manage Ghost (1 day ago)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 day ago)
-- [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (1 day ago)
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
-- [voxpupuli/puppet-sslcertificate](https://github.com/voxpupuli/puppet-sslcertificate) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards (1 day ago)
+- [voxpupuli/puppet-pkgng](https://github.com/voxpupuli/puppet-pkgng) - A Puppet package provider for FreeBSD&#39;s PkgNG package manager. (1 day ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 day ago)
+- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (1 day ago)
+- [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (1 day ago)
+- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (1 day ago)
+- [voxpupuli/puppet-ghost](https://github.com/voxpupuli/puppet-ghost) - Puppet module to install and manage Ghost (2 days ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (2 days ago)
+- [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (2 days ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (2 days ago)
+- [voxpupuli/puppet-sslcertificate](https://github.com/voxpupuli/puppet-sslcertificate) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
