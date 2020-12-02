@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (today)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (5 days ago)
 - [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (6 days ago)
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (6 days ago)
 - [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (6 days ago)
 - [voxpupuli/puppet-pkgng](https://github.com/voxpupuli/puppet-pkgng) - A Puppet package provider for FreeBSD&#39;s PkgNG package manager. (6 days ago)
 - [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (6 days ago)
-- [voxpupuli/puppet-smokeping](https://github.com/voxpupuli/puppet-smokeping) - Puppet module to install and configure smokeping. Including target and slave definition (1 week ago)
-- [voxpupuli/puppet-virtualbox](https://github.com/voxpupuli/puppet-virtualbox) - A Puppet module to install and manage VirtualBox (1 week ago)
+- [voxpupuli/puppet-facette](https://github.com/voxpupuli/puppet-facette) - A module to manage http://facette.io (1 week ago)
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 week ago)
-- [voxpupuli/puppet-visualstudio](https://github.com/voxpupuli/puppet-visualstudio) - puppet module for managing Microsoft Visual Studio (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
