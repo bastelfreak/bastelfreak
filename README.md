@@ -62,10 +62,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (1 day ago)
+- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (today)
+- [voxpupuli/puppet-nscd](https://github.com/voxpupuli/puppet-nscd) - Configure /etc/nscd.conf and nscd. (1 day ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 day ago)
 - [voxpupuli/puppet-jolokia](https://github.com/voxpupuli/puppet-jolokia) - Install jolokia agents, and configure (1 day ago)
-- [voxpupuli/puppet-nscd](https://github.com/voxpupuli/puppet-nscd) - Configure /etc/nscd.conf and nscd. (1 day ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
 - [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (1 day ago)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (6 days ago)
