@@ -79,7 +79,7 @@ Statement from Puppet Inc.:
 - [<img src="https://avatars3.githubusercontent.com/u/63439129?v=4" height="20"/> ljluestc](https://github.com/ljluestc)
 - [<img src="https://avatars2.githubusercontent.com/u/566632?u=827a1920ae531f73bb1cd9ef2f0058bde4aef494&amp;v=4" height="20"/> gdubicki](https://github.com/gdubicki)
 - [<img src="https://avatars2.githubusercontent.com/u/21196740?u=d978f86ec0903ca44915f5dc36012a29b027bff5&amp;v=4" height="20"/> elserhumano](https://github.com/elserhumano)
-- [<img src="https://avatars1.githubusercontent.com/u/20618622?u=968d10f754981450d45f1a7ca66f09ddc23c7bdb&amp;v=4" height="20"/> 6at](https://github.com/6at)
+- [<img src="https://avatars0.githubusercontent.com/u/20618622?u=0e8a54f7a4db298ddfdb5b87714fc9de2146a8ad&amp;v=4" height="20"/> 6at](https://github.com/6at)
 - [<img src="https://avatars1.githubusercontent.com/u/68830247?u=4b0503d43e425b12e8073d836346b679294131b2&amp;v=4" height="20"/> nissa1992](https://github.com/nissa1992)
 
 ### Top languages
