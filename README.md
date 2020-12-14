@@ -62,7 +62,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 day ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (today)
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German) (5 days ago)
 - [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (6 days ago)
 - [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (6 days ago)
