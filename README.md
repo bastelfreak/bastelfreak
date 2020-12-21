@@ -42,8 +42,8 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 4 months ago) - Web frontend for PuppetDB
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 5 months ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 5 months ago) - Puppet module to manage the ferm firewall tooling
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) ([4.26.0](https://github.com/voxpupuli/beaker/releases/tag/4.26.0), 6 months ago) - Puppet Acceptance Testing Harness
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 10 months ago) - Puppet module for Chrony with Systemd
-- [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.10](https://github.com/ddfreyne/cri/releases/tag/2.15.10), 11 months ago) - A tool for building commandline applications
 
 #### 📜 My recent blog posts
 
