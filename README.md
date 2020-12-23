@@ -35,8 +35,8 @@ Statement from Puppet Inc.:
 
 
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 2 weeks ago) -  Prometheus Exporter for PuppetDB
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.20.0](https://github.com/choria-io/puppet-choria/releases/tag/0.20.0), 3 weeks ago) - Module to install and manage Choria
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.12.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.12.0), 3 weeks ago) - A Puppet module to manage MCollective
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.20.0](https://github.com/choria-io/puppet-choria/releases/tag/0.20.0), 4 weeks ago) - Module to install and manage Choria
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.12.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.12.0), 4 weeks ago) - A Puppet module to manage MCollective
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 1 month ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 3 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 4 months ago) - Web frontend for PuppetDB
@@ -62,10 +62,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 day ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (2 days ago)
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 week ago)
-- [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German) (1 week ago)
+- [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German) (2 weeks ago)
 - [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (2 weeks ago)
 - [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (2 weeks ago)
 - [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (2 weeks ago)
