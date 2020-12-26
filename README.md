@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-nsd](https://github.com/voxpupuli/puppet-nsd) - An NSD module for Puppet (today)
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (3 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (5 days ago)
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German) (2 weeks ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (2 weeks ago)
-- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (2 weeks ago)
 - [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (2 weeks ago)
+- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (2 weeks ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (2 weeks ago)
 - [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (2 weeks ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 weeks ago)
-- [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) - Puppet module to manage Net-SNMP. (3 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
