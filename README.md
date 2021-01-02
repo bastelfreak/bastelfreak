@@ -34,6 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.66](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.66), today) - hyperglass is the network looking glass that tries to make the internet better.
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.11](https://github.com/ddfreyne/cri/releases/tag/2.15.11), 2 days ago) - A tool for building commandline applications
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 1 month ago) -  Prometheus Exporter for PuppetDB
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.20.0](https://github.com/choria-io/puppet-choria/releases/tag/0.20.0), 1 month ago) - Module to install and manage Choria
@@ -43,7 +44,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 5 months ago) - Web frontend for PuppetDB
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 6 months ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 6 months ago) - Puppet module to manage the ferm firewall tooling
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) ([4.26.0](https://github.com/voxpupuli/beaker/releases/tag/4.26.0), 6 months ago) - Puppet Acceptance Testing Harness
 
 #### 📜 My recent blog posts
 
