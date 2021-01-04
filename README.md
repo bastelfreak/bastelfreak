@@ -62,6 +62,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (today)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (3 days ago)
 - [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (5 days ago)
 - [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (5 days ago)
@@ -71,7 +72,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (2 weeks ago)
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German) (3 weeks ago)
-- [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (3 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
