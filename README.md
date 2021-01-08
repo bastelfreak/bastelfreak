@@ -20,6 +20,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/shiny-barnacle](https://github.com/bastelfreak/shiny-barnacle) - A simple Sinatra (Ruby) application to store data from an online form (shiny-barnacle was the suggested tile from GitHub)
 - [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync!
 - [bastelfreak/env2module-differ](https://github.com/bastelfreak/env2module-differ) - Check your Puppet environments against metadata.json files from all modules!
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German)
@@ -29,7 +30,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/contributorsummit2019](https://github.com/bastelfreak/contributorsummit2019) - Presentation about PR management at the Puppet Contributor Summit 2019
 - [bastelfreak/osdc2019](https://github.com/bastelfreak/osdc2019) - My OSDC 2019 talk about Vox Pupuli
 - [bastelfreak/cfgmgmtcamp2019](https://github.com/bastelfreak/cfgmgmtcamp2019) - My talk about the Puppet Community
-- [bastelfreak/AoC](https://github.com/bastelfreak/AoC) - 
 
 #### 🔭 Latest releases I've contributed to
 
