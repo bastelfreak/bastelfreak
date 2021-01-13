@@ -34,11 +34,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.71](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.71), 2 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.0), today) - A Puppet module to manage MCollective
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.71](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.71), 3 days ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.11](https://github.com/ddfreyne/cri/releases/tag/2.15.11), 1 week ago) - A tool for building commandline applications
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 1 month ago) -  Prometheus Exporter for PuppetDB
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.20.0](https://github.com/choria-io/puppet-choria/releases/tag/0.20.0), 1 month ago) - Module to install and manage Choria
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.12.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.12.0), 1 month ago) - A Puppet module to manage MCollective
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 2 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 4 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 5 months ago) - Web frontend for PuppetDB
@@ -48,7 +48,7 @@ Statement from Puppet Inc.:
 #### 📜 My recent blog posts
 
 
-- [Automate let’s encrypt with systemd timer](https://blog.bastelfreak.de/2020/08/automate-lets-encrypt-with-systemd-timer/) (4 months ago)
+- [Automate let’s encrypt with systemd timer](https://blog.bastelfreak.de/2020/08/automate-lets-encrypt-with-systemd-timer/) (5 months ago)
 - [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (5 months ago)
 - [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (5 months ago)
 - [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (6 months ago)
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (1 week ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
 - [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 week ago)
 - [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (1 week ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 week ago)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 week ago)
-- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (1 week ago)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (2 weeks ago)
+- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (2 weeks ago)
 - [voxpupuli/puppet-nsd](https://github.com/voxpupuli/puppet-nsd) - An NSD module for Puppet (2 weeks ago)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (2 weeks ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (3 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
