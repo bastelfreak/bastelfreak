@@ -34,9 +34,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.21.0](https://github.com/choria-io/puppet-choria/releases/tag/0.21.0), 1 day ago) - Module to install and manage Choria
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.0), 1 day ago) - A Puppet module to manage MCollective
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.71](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.71), 4 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.21.0](https://github.com/choria-io/puppet-choria/releases/tag/0.21.0), 2 days ago) - Module to install and manage Choria
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.0), 2 days ago) - A Puppet module to manage MCollective
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.71](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.71), 5 days ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.11](https://github.com/ddfreyne/cri/releases/tag/2.15.11), 2 weeks ago) - A tool for building commandline applications
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 1 month ago) -  Prometheus Exporter for PuppetDB
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 2 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
@@ -62,13 +62,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
 - [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (1 week ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (1 week ago)
 - [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 week ago)
-- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 week ago)
+- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (2 weeks ago)
 - [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (2 weeks ago)
 - [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (2 weeks ago)
 - [voxpupuli/puppet-nsd](https://github.com/voxpupuli/puppet-nsd) - An NSD module for Puppet (2 weeks ago)
