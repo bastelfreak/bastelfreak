@@ -34,9 +34,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.21.0](https://github.com/choria-io/puppet-choria/releases/tag/0.21.0), 2 days ago) - Module to install and manage Choria
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.0), 2 days ago) - A Puppet module to manage MCollective
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.71](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.71), 5 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.21.0](https://github.com/choria-io/puppet-choria/releases/tag/0.21.0), 3 days ago) - Module to install and manage Choria
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.0), 3 days ago) - A Puppet module to manage MCollective
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.71](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.71), 6 days ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.11](https://github.com/ddfreyne/cri/releases/tag/2.15.11), 2 weeks ago) - A tool for building commandline applications
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 1 month ago) -  Prometheus Exporter for PuppetDB
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 2 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
@@ -51,7 +51,7 @@ Statement from Puppet Inc.:
 - [Automate let’s encrypt with systemd timer](https://blog.bastelfreak.de/2020/08/automate-lets-encrypt-with-systemd-timer/) (5 months ago)
 - [Vox Pupuli Tasks – The solution to manage your git modules!](https://blog.bastelfreak.de/2020/08/vox-pupuli-tasks-the-solution-to-manage-your-git-modules/) (5 months ago)
 - [Dovecot: Apply sieve filter to existing emails](https://blog.bastelfreak.de/2020/08/dovecot-apply-sieve-filter-to-existing-emails/) (5 months ago)
-- [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (6 months ago)
+- [Arch Linux installation guide](https://blog.bastelfreak.de/2020/06/arch-linux-installation-guide/) (7 months ago)
 - [Vox Pupuli – Code of the Week 2](https://blog.bastelfreak.de/2019/01/vox-pupuli-code-of-the-week-2/) (2 years ago)
 - [Thunderbird: Hide local hostname in mailheaders](https://blog.bastelfreak.de/2019/01/thunderbird-hide-local-hostname-in-mailheaders/) (2 years ago)
 - [Vox Pupuli – Code of the Week 1](https://blog.bastelfreak.de/2019/01/vox-pupuli-code-of-the-week/) (2 years ago)
@@ -62,10 +62,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (today)
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (1 day ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 day ago)
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (2 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (5 days ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (1 week ago)
 - [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 week ago)
