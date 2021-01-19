@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.72](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.72), 3 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.73](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.73), today) - hyperglass is the network looking glass that tries to make the internet better.
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.21.0](https://github.com/choria-io/puppet-choria/releases/tag/0.21.0), 6 days ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.0), 6 days ago) - A Puppet module to manage MCollective
 - [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.11](https://github.com/ddfreyne/cri/releases/tag/2.15.11), 2 weeks ago) - A tool for building commandline applications
