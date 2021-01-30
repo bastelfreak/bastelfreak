@@ -34,12 +34,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.75](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.75), today) - hyperglass is the network looking glass that tries to make the internet better.
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.75](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.75), 1 day ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.21.0](https://github.com/choria-io/puppet-choria/releases/tag/0.21.0), 2 weeks ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.0), 2 weeks ago) - A Puppet module to manage MCollective
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 1 month ago) -  Prometheus Exporter for PuppetDB
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 3 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
-- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 4 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
+- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 5 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 6 months ago) - Web frontend for PuppetDB
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 7 months ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 7 months ago) - Puppet module to manage the ferm firewall tooling
@@ -62,7 +62,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (6 days ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 week ago)
 - [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (1 week ago)
 - [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (1 week ago)
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (1 week ago)
