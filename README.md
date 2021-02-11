@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.77](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.77), today) - hyperglass is the network looking glass that tries to make the internet better.
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.77](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.77), 1 day ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.22.1](https://github.com/choria-io/puppet-choria/releases/tag/0.22.1), 1 week ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.1](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.1), 1 week ago) - A Puppet module to manage MCollective
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 2 months ago) -  Prometheus Exporter for PuppetDB
@@ -62,8 +62,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (1 day ago)
-- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (5 days ago)
+- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (2 days ago)
+- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (6 days ago)
 - [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (1 week ago)
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (2 weeks ago)
 - [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (2 weeks ago)
