@@ -62,6 +62,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
 - [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (today)
 - [voxpupuli/puppet-kafka](https://github.com/voxpupuli/puppet-kafka) - The kafka module for managing the installation and configuration of Apache Kafka (1 day ago)
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (3 days ago)
@@ -71,7 +72,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (3 weeks ago)
 - [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (3 weeks ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (3 weeks ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
