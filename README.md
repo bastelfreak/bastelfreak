@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.77](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.77), 3 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.78](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.78), today) - hyperglass is the network looking glass that tries to make the internet better.
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.22.1](https://github.com/choria-io/puppet-choria/releases/tag/0.22.1), 1 week ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.1](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.1), 1 week ago) - A Puppet module to manage MCollective
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 2 months ago) -  Prometheus Exporter for PuppetDB
