@@ -34,9 +34,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.78](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.78), 3 days ago) - hyperglass is the network looking glass that tries to make the internet better.
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.22.1](https://github.com/choria-io/puppet-choria/releases/tag/0.22.1), 1 week ago) - Module to install and manage Choria
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.1](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.1), 1 week ago) - A Puppet module to manage MCollective
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.78](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.78), 4 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.22.1](https://github.com/choria-io/puppet-choria/releases/tag/0.22.1), 2 weeks ago) - Module to install and manage Choria
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.1](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.1), 2 weeks ago) - A Puppet module to manage MCollective
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 2 months ago) -  Prometheus Exporter for PuppetDB
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 3 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 5 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
@@ -62,11 +62,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (today)
-- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (3 days ago)
-- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (4 days ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (4 days ago)
-- [voxpupuli/puppet-kafka](https://github.com/voxpupuli/puppet-kafka) - The kafka module for managing the installation and configuration of Apache Kafka (5 days ago)
+- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (1 day ago)
+- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (4 days ago)
+- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (5 days ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (5 days ago)
+- [voxpupuli/puppet-kafka](https://github.com/voxpupuli/puppet-kafka) - The kafka module for managing the installation and configuration of Apache Kafka (6 days ago)
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (1 week ago)
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (1 week ago)
 - [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (2 weeks ago)
