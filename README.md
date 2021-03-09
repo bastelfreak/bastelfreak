@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.80](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.80), 5 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.80](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.80), 6 days ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.3.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.3.0), 1 week ago) - Python library for working with the PuppetDB API
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.22.1](https://github.com/choria-io/puppet-choria/releases/tag/0.22.1), 1 month ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.1](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.1), 1 month ago) - A Puppet module to manage MCollective
@@ -62,14 +62,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 day ago)
-- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (3 days ago)
-- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (3 days ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (3 days ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (2 days ago)
+- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (4 days ago)
+- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (4 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (4 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (1 week ago)
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 week ago)
-- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (2 weeks ago)
+- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (3 weeks ago)
 - [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (3 weeks ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (3 weeks ago)
 
