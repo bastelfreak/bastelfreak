@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (1 week ago)
 - [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook) - Manage the installation and configuration of the puppet_webhook gem (2 weeks ago)
 - [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (2 weeks ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (3 weeks ago)
 - [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (3 weeks ago)
 - [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (3 weeks ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (3 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
