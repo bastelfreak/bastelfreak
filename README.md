@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0.post3](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0.post3), 2 days ago) - Web frontend for PuppetDB
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), today) - Web frontend for PuppetDB
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.23.0](https://github.com/choria-io/puppet-choria/releases/tag/0.23.0), 2 days ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.2](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.2), 2 days ago) - A Puppet module to manage MCollective
 - [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.80](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.80), 4 weeks ago) - hyperglass is the network looking glass that tries to make the internet better.
