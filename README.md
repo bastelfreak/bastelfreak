@@ -34,6 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), today) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), 3 days ago) - Web frontend for PuppetDB
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.23.0](https://github.com/choria-io/puppet-choria/releases/tag/0.23.0), 5 days ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.2](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.2), 5 days ago) - A Puppet module to manage MCollective
@@ -42,7 +43,6 @@ Statement from Puppet Inc.:
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 4 months ago) -  Prometheus Exporter for PuppetDB
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 5 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 7 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 9 months ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 9 months ago) - Puppet module to manage the ferm firewall tooling
 
 #### 📜 My recent blog posts
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (today)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (today)
-- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (1 week ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (today)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (today)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 week ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
+- [voxpupuli/puppet-nodejs](https://github.com/voxpupuli/puppet-nodejs) - Puppet module to install nodejs and global npm packages (1 week ago)
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (1 week ago)
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (1 week ago)
 - [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (2 weeks ago)
 - [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook) - Manage the installation and configuration of the puppet_webhook gem (3 weeks ago)
-- [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (3 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
