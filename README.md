@@ -34,11 +34,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.81](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.81), today) - hyperglass is the network looking glass that tries to make the internet better.
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 1 week ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), 1 week ago) - Web frontend for PuppetDB
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.23.0](https://github.com/choria-io/puppet-choria/releases/tag/0.23.0), 1 week ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.2](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.2), 1 week ago) - A Puppet module to manage MCollective
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.80](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.80), 1 month ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.3.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.3.0), 1 month ago) - Python library for working with the PuppetDB API
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 4 months ago) -  Prometheus Exporter for PuppetDB
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 5 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
