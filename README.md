@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.81](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.81), today) - hyperglass is the network looking glass that tries to make the internet better.
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.81](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.81), 1 day ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 1 week ago) - Synchronize common files across your Git repositories.
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.0.0), 1 week ago) - Web frontend for PuppetDB
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.23.0](https://github.com/choria-io/puppet-choria/releases/tag/0.23.0), 1 week ago) - Module to install and manage Choria
@@ -62,7 +62,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (1 day ago)
+- [voxpupuli/puppet-zypprepo](https://github.com/voxpupuli/puppet-zypprepo) - Puppet description of a zypper repository (2 days ago)
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 week ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 week ago)
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 week ago)
