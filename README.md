@@ -34,10 +34,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.rc1](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.rc1), 1 day ago) - Web frontend for PuppetDB
-- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0.rc1](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0.rc1), 1 day ago) - Python library for working with the PuppetDB API
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.81](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.81), 6 days ago) - hyperglass is the network looking glass that tries to make the internet better.
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 1 week ago) - Synchronize common files across your Git repositories.
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.rc1](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.rc1), 2 days ago) - Web frontend for PuppetDB
+- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0.rc1](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0.rc1), 2 days ago) - Python library for working with the PuppetDB API
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.81](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.81), 1 week ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 2 weeks ago) - Synchronize common files across your Git repositories.
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.23.0](https://github.com/choria-io/puppet-choria/releases/tag/0.23.0), 2 weeks ago) - Module to install and manage Choria
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.2](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.2), 2 weeks ago) - A Puppet module to manage MCollective
 - [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 4 months ago) -  Prometheus Exporter for PuppetDB
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (today)
-- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (today)
-- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (today)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (today)
-- [voxpupuli/puppet-spiped](https://github.com/voxpupuli/puppet-spiped) - spiped Puppet module (today)
-- [voxpupuli/puppet-stash](https://github.com/voxpupuli/puppet-stash) - A puppet module to install atlassian stash (today)
-- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (today)
-- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (today)
-- [voxpupuli/puppet-pxe](https://github.com/voxpupuli/puppet-pxe) - Puppet module for deploying a PXE boot server (today)
-- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (today)
+- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (1 day ago)
+- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (1 day ago)
+- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (1 day ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 day ago)
+- [voxpupuli/puppet-spiped](https://github.com/voxpupuli/puppet-spiped) - spiped Puppet module (1 day ago)
+- [voxpupuli/puppet-stash](https://github.com/voxpupuli/puppet-stash) - A puppet module to install atlassian stash (1 day ago)
+- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (1 day ago)
+- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (1 day ago)
+- [voxpupuli/puppet-pxe](https://github.com/voxpupuli/puppet-pxe) - Puppet module for deploying a PXE boot server (1 day ago)
+- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
