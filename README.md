@@ -64,14 +64,14 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (2 days ago)
 - [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (3 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
 - [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (4 days ago)
-- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (5 days ago)
-- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (5 days ago)
-- [voxpupuli/puppet-spiped](https://github.com/voxpupuli/puppet-spiped) - spiped Puppet module (5 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
+- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (5 days ago)
+- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (5 days ago)
+- [voxpupuli/puppet-stash](https://github.com/voxpupuli/puppet-stash) - A puppet module to install atlassian stash (5 days ago)
 - [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (5 days ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (5 days ago)
-- [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) - Puppet module to manage Net-SNMP. (5 days ago)
+- [voxpupuli/puppet-spiped](https://github.com/voxpupuli/puppet-spiped) - spiped Puppet module (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
