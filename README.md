@@ -34,9 +34,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v7.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v7.0.1), 2 days ago) - Puppet Module to manage Java
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.rc1](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.rc1), 6 days ago) - Web frontend for PuppetDB
-- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0.rc1](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0.rc1), 6 days ago) - Python library for working with the PuppetDB API
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v7.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v7.0.1), 3 days ago) - Puppet Module to manage Java
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0.rc1](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0.rc1), 1 week ago) - Web frontend for PuppetDB
+- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0.rc1](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0.rc1), 1 week ago) - Python library for working with the PuppetDB API
 - [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.81](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.81), 1 week ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 2 weeks ago) - Synchronize common files across your Git repositories.
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.23.0](https://github.com/choria-io/puppet-choria/releases/tag/0.23.0), 3 weeks ago) - Module to install and manage Choria
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (today)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (3 days ago)
-- [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (4 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
-- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (5 days ago)
-- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (5 days ago)
-- [voxpupuli/puppet-stash](https://github.com/voxpupuli/puppet-stash) - A puppet module to install atlassian stash (5 days ago)
-- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (5 days ago)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (5 days ago)
-- [voxpupuli/puppet-spiped](https://github.com/voxpupuli/puppet-spiped) - spiped Puppet module (5 days ago)
+- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (1 day ago)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (4 days ago)
+- [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (5 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (5 days ago)
+- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (6 days ago)
+- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (6 days ago)
+- [voxpupuli/puppet-stash](https://github.com/voxpupuli/puppet-stash) - A puppet module to install atlassian stash (6 days ago)
+- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (6 days ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (6 days ago)
+- [voxpupuli/puppet-spiped](https://github.com/voxpupuli/puppet-spiped) - spiped Puppet module (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
