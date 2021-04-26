@@ -69,7 +69,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 week ago)
 - [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (1 week ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
-- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (1 week ago)
+- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (1 week ago)
 - [voxpupuli/puppet-stash](https://github.com/voxpupuli/puppet-stash) - A puppet module to install atlassian stash (1 week ago)
 - [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook) - Manage the installation and configuration of the puppet_webhook gem (1 week ago)
 
