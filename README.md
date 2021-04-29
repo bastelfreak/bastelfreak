@@ -63,14 +63,14 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (today)
-- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 day ago)
+- [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (today)
 - [voxpupuli/puppet-googleauthenticator](https://github.com/voxpupuli/puppet-googleauthenticator) - Google-authenticator module for Puppet (1 day ago)
 - [voxpupuli/puppet-puppetwebhook](https://github.com/voxpupuli/puppet-puppetwebhook) - Manage the installation and configuration of the puppet_webhook gem (1 day ago)
+- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 day ago)
 - [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (2 days ago)
-- [voxpupuli/puppet-prosody](https://github.com/voxpupuli/puppet-prosody) - Puppet module for managing the Prosody Jabber/XMPP server (3 days ago)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (3 days ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (3 days ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (3 days ago)
+- [voxpupuli/puppet-prosody](https://github.com/voxpupuli/puppet-prosody) - Puppet module for managing the Prosody Jabber/XMPP server (3 days ago)
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (3 days ago)
 
 #### 👥 Check out some of my recent followers
