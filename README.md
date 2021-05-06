@@ -63,8 +63,8 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (today)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (today)
 - [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (today)
+- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (today)
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 day ago)
 - [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) - Puppet Module to manage bareos (3 days ago)
 - [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (3 days ago)
