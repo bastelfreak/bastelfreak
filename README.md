@@ -62,7 +62,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (2 days ago)
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (4 days ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (5 days ago)
