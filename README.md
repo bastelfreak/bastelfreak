@@ -34,8 +34,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), today) - Web frontend for PuppetDB
-- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0), today) - Python library for working with the PuppetDB API
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 day ago) - Web frontend for PuppetDB
+- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0), 1 day ago) - Python library for working with the PuppetDB API
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v7.0.2), 2 weeks ago) - Puppet Module to manage Java
 - [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.82](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.82), 2 weeks ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.23.1](https://github.com/choria-io/puppet-choria/releases/tag/0.23.1), 3 weeks ago) - Module to install and manage Choria
@@ -62,11 +62,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (today)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (3 days ago)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (5 days ago)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (6 days ago)
+- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 day ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (2 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (4 days ago)
+- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (6 days ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 week ago)
 - [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (1 week ago)
 - [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (1 week ago)
 - [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (1 week ago)
