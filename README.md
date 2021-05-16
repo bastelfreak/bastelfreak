@@ -62,7 +62,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-poudriere](https://github.com/voxpupuli/puppet-poudriere) - A Puppet module for managing Poudriere, the PkgNG build system. (1 day ago)
+- [voxpupuli/puppet-poudriere](https://github.com/voxpupuli/puppet-poudriere) - A Puppet module for managing Poudriere, the PkgNG build system. (today)
 - [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (2 days ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (3 days ago)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (5 days ago)
