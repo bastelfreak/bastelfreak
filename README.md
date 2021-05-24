@@ -34,10 +34,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [ryreitsma/puppet-lint-class_parameter-check](https://github.com/ryreitsma/puppet-lint-class_parameter-check) ([v0.3.1](https://github.com/ryreitsma/puppet-lint-class_parameter-check/releases/tag/v0.3.1), 6 days ago) - Puppet lint module which checks class parameters. 
+- [ryreitsma/puppet-lint-class_parameter-check](https://github.com/ryreitsma/puppet-lint-class_parameter-check) ([v0.3.1](https://github.com/ryreitsma/puppet-lint-class_parameter-check/releases/tag/v0.3.1), 1 week ago) - Puppet lint module which checks class parameters. 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 week ago) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0), 1 week ago) - Python library for working with the PuppetDB API
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v7.0.2), 3 weeks ago) - Puppet Module to manage Java
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v7.0.2), 4 weeks ago) - Puppet Module to manage Java
 - [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0-beta.82](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0-beta.82), 4 weeks ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.23.1](https://github.com/choria-io/puppet-choria/releases/tag/0.23.1), 1 month ago) - Module to install and manage Choria
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 1 month ago) - Synchronize common files across your Git repositories.
@@ -62,11 +62,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-poudriere](https://github.com/voxpupuli/puppet-poudriere) - A Puppet module for managing Poudriere, the PkgNG build system. (today)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (2 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (5 days ago)
-- [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (5 days ago)
-- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls (6 days ago)
+- [voxpupuli/puppet-poudriere](https://github.com/voxpupuli/puppet-poudriere) - A Puppet module for managing Poudriere, the PkgNG build system. (1 day ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (6 days ago)
+- [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (6 days ago)
+- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls (1 week ago)
 - [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 week ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 week ago)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 week ago)
