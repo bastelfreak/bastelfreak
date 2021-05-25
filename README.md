@@ -63,6 +63,7 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (today)
+- [voxpupuli/puppet-puppet_summary](https://github.com/voxpupuli/puppet-puppet_summary) - puppet module to manage puppet-summary (today)
 - [voxpupuli/puppet-poudriere](https://github.com/voxpupuli/puppet-poudriere) - A Puppet module for managing Poudriere, the PkgNG build system. (2 days ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (4 days ago)
 - [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (1 week ago)
@@ -71,7 +72,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 week ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 week ago)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (2 weeks ago)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
