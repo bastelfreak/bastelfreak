@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
-- [voxpupuli/puppet-puppet_summary](https://github.com/voxpupuli/puppet-puppet_summary) - puppet module to manage puppet-summary (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (1 day ago)
+- [voxpupuli/puppet-puppet_summary](https://github.com/voxpupuli/puppet-puppet_summary) - puppet module to manage puppet-summary (1 day ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
 - [voxpupuli/puppet-poudriere](https://github.com/voxpupuli/puppet-poudriere) - A Puppet module for managing Poudriere, the PkgNG build system. (3 days ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (5 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (1 week ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls (1 week ago)
 - [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 week ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
