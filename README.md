@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (1 day ago)
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 day ago)
+- [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (today)
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 day ago)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 day ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
+- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (1 day ago)
 - [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (3 days ago)
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German) (1 week ago)
-- [voxpupuli/puppet-puppet_summary](https://github.com/voxpupuli/puppet-puppet_summary) - puppet module to manage puppet-summary (1 week ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
+- [voxpupuli/puppet-puppet_summary](https://github.com/voxpupuli/puppet-puppet_summary) - puppet module to manage puppet-summary (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
