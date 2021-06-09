@@ -42,8 +42,8 @@ Statement from Puppet Inc.:
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.23.1](https://github.com/choria-io/puppet-choria/releases/tag/0.23.1), 1 month ago) - Module to install and manage Choria
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 2 months ago) - Synchronize common files across your Git repositories.
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.2](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.2), 2 months ago) - A Puppet module to manage MCollective
-- [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.1.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.1.0), 6 months ago) -  Prometheus Exporter for PuppetDB
 - [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 7 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
+- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 9 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 
 #### 📜 My recent blog posts
 
