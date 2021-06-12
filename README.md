@@ -63,15 +63,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (today)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
 - [voxpupuli/voxpupu.li](https://github.com/voxpupuli/voxpupu.li) - The puppet code that powers our dashboard (1 day ago)
 - [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (2 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (6 days ago)
 - [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (6 days ago)
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 week ago)
 - [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 week ago)
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 week ago)
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (1 week ago)
-- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (1 week ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
