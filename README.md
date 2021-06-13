@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
+- [voxpupuli/puppet-xmlfile](https://github.com/voxpupuli/puppet-xmlfile) - Xml file manipulation using augeas commands without using augeas (today)
 - [voxpupuli/puppet-groupmembership](https://github.com/voxpupuli/puppet-groupmembership) - Manage a group&#39;s members with Puppet (today)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 day ago)
 - [voxpupuli/voxpupu.li](https://github.com/voxpupuli/voxpupu.li) - The puppet code that powers our dashboard (2 days ago)
 - [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (3 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (1 week ago)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 week ago)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 week ago)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (1 week ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
