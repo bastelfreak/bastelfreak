@@ -63,8 +63,8 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
-- [voxpupuli/puppet-xmlfile](https://github.com/voxpupuli/puppet-xmlfile) - Xml file manipulation using augeas commands without using augeas (today)
 - [voxpupuli/puppet-groupmembership](https://github.com/voxpupuli/puppet-groupmembership) - Manage a group&#39;s members with Puppet (today)
+- [voxpupuli/puppet-xmlfile](https://github.com/voxpupuli/puppet-xmlfile) - Xml file manipulation using augeas commands without using augeas (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 day ago)
