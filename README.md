@@ -64,14 +64,14 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (today)
 - [voxpupuli/puppet-lint-empty_string-check](https://github.com/voxpupuli/puppet-lint-empty_string-check) - Puppet-lint plugin to check for empty string assignations (today)
+- [voxpupuli/puppet-proxysql](https://github.com/voxpupuli/puppet-proxysql) - Puppet module to configure ProxySQL (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
 - [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (today)
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
 - [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (today)
 - [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (today)
 - [voxpupuli/puppet-groupmembership](https://github.com/voxpupuli/puppet-groupmembership) - Manage a group&#39;s members with Puppet (1 day ago)
 - [voxpupuli/puppet-xmlfile](https://github.com/voxpupuli/puppet-xmlfile) - Xml file manipulation using augeas commands without using augeas (1 day ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
