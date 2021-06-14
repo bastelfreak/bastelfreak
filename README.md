@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (today)
-- [voxpupuli/puppet-lint-empty_string-check](https://github.com/voxpupuli/puppet-lint-empty_string-check) - Puppet-lint plugin to check for empty string assignations (today)
-- [voxpupuli/puppet-proxysql](https://github.com/voxpupuli/puppet-proxysql) - Puppet module to configure ProxySQL (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (today)
-- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
-- [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (today)
 - [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (today)
-- [voxpupuli/puppet-groupmembership](https://github.com/voxpupuli/puppet-groupmembership) - Manage a group&#39;s members with Puppet (1 day ago)
-- [voxpupuli/puppet-xmlfile](https://github.com/voxpupuli/puppet-xmlfile) - Xml file manipulation using augeas commands without using augeas (1 day ago)
+- [voxpupuli/puppet-lint-trailing_comma-check](https://github.com/voxpupuli/puppet-lint-trailing_comma-check) - A puppet-lint plugin to check for missing trailing commas. (today)
+- [voxpupuli/puppet-lint-leading_zero-check](https://github.com/voxpupuli/puppet-lint-leading_zero-check) - A puppet-lint plugin to check for unquoted numbers with leading zero. (today)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
+- [voxpupuli/puppet-lint-empty_string-check](https://github.com/voxpupuli/puppet-lint-empty_string-check) - Puppet-lint plugin to check for empty string assignations (today)
+- [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (today)
+- [voxpupuli/puppet-lint-reference_on_declaration_outside_of_class-check](https://github.com/voxpupuli/puppet-lint-reference_on_declaration_outside_of_class-check) -  (today)
+- [voxpupuli/puppet-lint-file_ensure-check](https://github.com/voxpupuli/puppet-lint-file_ensure-check) - A puppet-lint plugin to check the ensure attribute on file resources. (today)
+- [voxpupuli/puppet-lint-version_comparison-check](https://github.com/voxpupuli/puppet-lint-version_comparison-check) - A puppet-lint plugin to check for versions compared as numbers. (today)
+- [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (today)
 
 #### 👥 Check out some of my recent followers
 
