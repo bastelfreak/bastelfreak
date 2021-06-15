@@ -71,7 +71,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-lint-reference_on_declaration_outside_of_class-check](https://github.com/voxpupuli/puppet-lint-reference_on_declaration_outside_of_class-check) -  (1 day ago)
 - [voxpupuli/puppet-lint-file_ensure-check](https://github.com/voxpupuli/puppet-lint-file_ensure-check) - A puppet-lint plugin to check the ensure attribute on file resources. (1 day ago)
 - [voxpupuli/puppet-lint-version_comparison-check](https://github.com/voxpupuli/puppet-lint-version_comparison-check) - A puppet-lint plugin to check for versions compared as numbers. (1 day ago)
-- [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (1 day ago)
+- [voxpupuli/puppet-lint-trailing_comma-check](https://github.com/voxpupuli/puppet-lint-trailing_comma-check) - A puppet-lint plugin to check for missing trailing commas. (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
