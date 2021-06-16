@@ -62,13 +62,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (today)
 - [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (today)
-- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (today)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (today)
-- [voxpupuli/puppet-format](https://github.com/voxpupuli/puppet-format) - Text formatting functions for puppet lang (today)
+- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (today)
 - [voxpupuli/puppet-nsd](https://github.com/voxpupuli/puppet-nsd) - An NSD module for Puppet (today)
-- [voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check) -   A puppet-lint plugin to check for types and class names that begin with digits. (1 day ago)
+- [voxpupuli/puppet-format](https://github.com/voxpupuli/puppet-format) - Text formatting functions for puppet lang (today)
+- [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (today)
+- [voxpupuli/puppet-lint-trailing_comma-check](https://github.com/voxpupuli/puppet-lint-trailing_comma-check) - A puppet-lint plugin to check for missing trailing commas. (1 day ago)
 - [voxpupuli/puppet-lint-file_ensure-check](https://github.com/voxpupuli/puppet-lint-file_ensure-check) - A puppet-lint plugin to check the ensure attribute on file resources. (1 day ago)
 - [voxpupuli/puppet-lint-version_comparison-check](https://github.com/voxpupuli/puppet-lint-version_comparison-check) - A puppet-lint plugin to check for versions compared as numbers. (1 day ago)
 - [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (1 day ago)
