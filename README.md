@@ -35,7 +35,7 @@ Statement from Puppet Inc.:
 
 
 - [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.0](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.0), 2 weeks ago) - hyperglass is the network looking glass that tries to make the internet better.
-- [ryreitsma/puppet-lint-class_parameter-check](https://github.com/ryreitsma/puppet-lint-class_parameter-check) ([v0.3.1](https://github.com/ryreitsma/puppet-lint-class_parameter-check/releases/tag/v0.3.1), 4 weeks ago) - Puppet lint module which checks class parameters. 
+- [ryreitsma/puppet-lint-class_parameter-check](https://github.com/ryreitsma/puppet-lint-class_parameter-check) ([v0.3.1](https://github.com/ryreitsma/puppet-lint-class_parameter-check/releases/tag/v0.3.1), 1 month ago) - Puppet lint module which checks class parameters. 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 month ago) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0), 1 month ago) - Python library for working with the PuppetDB API
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v7.0.2), 1 month ago) - Puppet Module to manage Java
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-lint-appends-check](https://github.com/voxpupuli/puppet-lint-appends-check) -  (today)
-- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (today)
-- [voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check) -   A puppet-lint plugin to check for types and class names that begin with digits. (today)
-- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (today)
-- [voxpupuli/puppet-lint-leading_zero-check](https://github.com/voxpupuli/puppet-lint-leading_zero-check) - A puppet-lint plugin to check for unquoted numbers with leading zero. (today)
-- [voxpupuli/puppet-poudriere](https://github.com/voxpupuli/puppet-poudriere) - A Puppet module for managing Poudriere, the PkgNG build system. (today)
-- [voxpupuli/puppet-lint-trailing_comma-check](https://github.com/voxpupuli/puppet-lint-trailing_comma-check) - A puppet-lint plugin to check for missing trailing commas. (today)
-- [voxpupuli/puppet-lint-empty_string-check](https://github.com/voxpupuli/puppet-lint-empty_string-check) - Puppet-lint plugin to check for empty string assignations (today)
-- [voxpupuli/puppet-lint-file_ensure-check](https://github.com/voxpupuli/puppet-lint-file_ensure-check) - A puppet-lint plugin to check the ensure attribute on file resources. (today)
-- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (today)
+- [voxpupuli/puppet-lint-appends-check](https://github.com/voxpupuli/puppet-lint-appends-check) -  (1 day ago)
+- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (1 day ago)
+- [voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check) -   A puppet-lint plugin to check for types and class names that begin with digits. (1 day ago)
+- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (1 day ago)
+- [voxpupuli/puppet-lint-leading_zero-check](https://github.com/voxpupuli/puppet-lint-leading_zero-check) - A puppet-lint plugin to check for unquoted numbers with leading zero. (1 day ago)
+- [voxpupuli/puppet-poudriere](https://github.com/voxpupuli/puppet-poudriere) - A Puppet module for managing Poudriere, the PkgNG build system. (1 day ago)
+- [voxpupuli/puppet-lint-trailing_comma-check](https://github.com/voxpupuli/puppet-lint-trailing_comma-check) - A puppet-lint plugin to check for missing trailing commas. (1 day ago)
+- [voxpupuli/puppet-lint-empty_string-check](https://github.com/voxpupuli/puppet-lint-empty_string-check) - Puppet-lint plugin to check for empty string assignations (1 day ago)
+- [voxpupuli/puppet-lint-file_ensure-check](https://github.com/voxpupuli/puppet-lint-file_ensure-check) - A puppet-lint plugin to check the ensure attribute on file resources. (1 day ago)
+- [voxpupuli/puppet-corosync](https://github.com/voxpupuli/puppet-corosync) - Sets up and manages Corosync. (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
