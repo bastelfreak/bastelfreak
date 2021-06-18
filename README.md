@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
+- [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams (1 day ago)
+- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (1 day ago)
 - [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (1 day ago)
 - [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 day ago)
-- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (1 day ago)
-- [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams (1 day ago)
-- [voxpupuli/puppet-nsd](https://github.com/voxpupuli/puppet-nsd) - An NSD module for Puppet (2 days ago)
-- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (2 days ago)
-- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (2 days ago)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (2 days ago)
-- [voxpupuli/puppet-format](https://github.com/voxpupuli/puppet-format) - Text formatting functions for puppet lang (2 days ago)
+- [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
