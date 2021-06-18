@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
 - [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (1 day ago)
+- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 day ago)
 - [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (1 day ago)
 - [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams (1 day ago)
-- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 day ago)
-- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (2 days ago)
 - [voxpupuli/puppet-nsd](https://github.com/voxpupuli/puppet-nsd) - An NSD module for Puppet (2 days ago)
 - [voxpupuli/puppet-system](https://github.com/voxpupuli/puppet-system) - Manage Linux system resources and services from hiera configuration (2 days ago)
+- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (2 days ago)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (2 days ago)
 - [voxpupuli/puppet-format](https://github.com/voxpupuli/puppet-format) - Text formatting functions for puppet lang (2 days ago)
-- [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
@@ -79,8 +79,8 @@ Statement from Puppet Inc.:
 - [<img src="https://avatars.githubusercontent.com/u/49296586?u=030fdfa9407586d6fd79e7f42d371e5261b883c8&amp;v=4" height="20"/> DasSinaTier](https://github.com/DasSinaTier)
 - [<img src="https://avatars.githubusercontent.com/u/2443770?u=12870f698200491febb29e9ce677b196c2bf15a6&amp;v=4" height="20"/> chhex](https://github.com/chhex)
 - [<img src="https://avatars.githubusercontent.com/u/79355060?v=4" height="20"/> itsmetripled](https://github.com/itsmetripled)
-- [<img src="https://avatars.githubusercontent.com/u/6659875?u=56f8ea51d4a39755c17062532c4a859afc4e4b69&amp;v=4" height="20"/> atlix](https://github.com/atlix)
 - [<img src="https://avatars.githubusercontent.com/u/63439129?v=4" height="20"/> ljluestc](https://github.com/ljluestc)
+- [<img src="https://avatars.githubusercontent.com/u/566632?u=827a1920ae531f73bb1cd9ef2f0058bde4aef494&amp;v=4" height="20"/> gdubicki](https://github.com/gdubicki)
 
 ### Top languages
 
