@@ -34,8 +34,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.24.0](https://github.com/choria-io/puppet-choria/releases/tag/0.24.0), 1 day ago) - Module to install and manage Choria
-- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.2](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.2), 1 day ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.24.0](https://github.com/choria-io/puppet-choria/releases/tag/0.24.0), 2 days ago) - Module to install and manage Choria
+- [checktheroads/hyperglass](https://github.com/checktheroads/hyperglass) ([v1.0.2](https://github.com/checktheroads/hyperglass/releases/tag/v1.0.2), 2 days ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [ryreitsma/puppet-lint-class_parameter-check](https://github.com/ryreitsma/puppet-lint-class_parameter-check) ([v0.3.1](https://github.com/ryreitsma/puppet-lint-class_parameter-check/releases/tag/v0.3.1), 1 month ago) - Puppet lint module which checks class parameters. 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 month ago) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0), 1 month ago) - Python library for working with the PuppetDB API
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-lint-appends-check](https://github.com/voxpupuli/puppet-lint-appends-check) -  (1 day ago)
-- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (1 day ago)
-- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (1 day ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
-- [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (3 days ago)
-- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (3 days ago)
-- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (3 days ago)
-- [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams (3 days ago)
+- [voxpupuli/puppet-lint-appends-check](https://github.com/voxpupuli/puppet-lint-appends-check) -  (2 days ago)
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (2 days ago)
+- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (2 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (3 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
+- [voxpupuli/puppet-hyperglass](https://github.com/voxpupuli/puppet-hyperglass) - Puppet module to manage the hyperglass looking glass (4 days ago)
+- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (4 days ago)
+- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (4 days ago)
+- [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
