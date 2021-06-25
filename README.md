@@ -34,15 +34,15 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) ([v1.0.3](https://github.com/thatmattlove/hyperglass/releases/tag/v1.0.3), today) - hyperglass is the network looking glass that tries to make the internet better.
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.24.0](https://github.com/choria-io/puppet-choria/releases/tag/0.24.0), 5 days ago) - Module to install and manage Choria
+- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) ([v1.0.3](https://github.com/thatmattlove/hyperglass/releases/tag/v1.0.3), 1 day ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.24.0](https://github.com/choria-io/puppet-choria/releases/tag/0.24.0), 6 days ago) - Module to install and manage Choria
 - [ryreitsma/puppet-lint-class_parameter-check](https://github.com/ryreitsma/puppet-lint-class_parameter-check) ([v0.3.1](https://github.com/ryreitsma/puppet-lint-class_parameter-check/releases/tag/v0.3.1), 1 month ago) - Puppet lint module which checks class parameters. 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 month ago) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0), 1 month ago) - Python library for working with the PuppetDB API
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v7.0.2), 1 month ago) - Puppet Module to manage Java
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v7.0.2), 2 months ago) - Puppet Module to manage Java
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([2.0.2](https://github.com/voxpupuli/modulesync/releases/tag/2.0.2), 2 months ago) - Synchronize common files across your Git repositories.
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.13.2](https://github.com/choria-io/puppet-mcollective/releases/tag/0.13.2), 2 months ago) - A Puppet module to manage MCollective
-- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 7 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
+- [do-community/hacktoberfest-repo-topic-apply](https://github.com/do-community/hacktoberfest-repo-topic-apply) ([v0.0.10](https://github.com/do-community/hacktoberfest-repo-topic-apply/releases/tag/v0.0.10), 8 months ago) - Cmd line tool to add a topic to your github repo, defaults to hacktoberfest
 - [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 9 months ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
 
 #### 📜 My recent blog posts
@@ -62,14 +62,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (3 days ago)
-- [voxpupuli/puppet-lint-appends-check](https://github.com/voxpupuli/puppet-lint-appends-check) -  (5 days ago)
-- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (5 days ago)
-- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (5 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (6 days ago)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (3 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (4 days ago)
+- [voxpupuli/puppet-lint-appends-check](https://github.com/voxpupuli/puppet-lint-appends-check) -  (6 days ago)
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (6 days ago)
+- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (6 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
 - [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams (1 week ago)
 - [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (1 week ago)
 
