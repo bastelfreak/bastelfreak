@@ -34,8 +34,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) ([v1.0.3](https://github.com/thatmattlove/hyperglass/releases/tag/v1.0.3), 1 day ago) - hyperglass is the network looking glass that tries to make the internet better.
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.24.0](https://github.com/choria-io/puppet-choria/releases/tag/0.24.0), 6 days ago) - Module to install and manage Choria
+- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) ([v1.0.3](https://github.com/thatmattlove/hyperglass/releases/tag/v1.0.3), 2 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.24.0](https://github.com/choria-io/puppet-choria/releases/tag/0.24.0), 1 week ago) - Module to install and manage Choria
 - [ryreitsma/puppet-lint-class_parameter-check](https://github.com/ryreitsma/puppet-lint-class_parameter-check) ([v0.3.1](https://github.com/ryreitsma/puppet-lint-class_parameter-check/releases/tag/v0.3.1), 1 month ago) - Puppet lint module which checks class parameters. 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 month ago) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0), 1 month ago) - Python library for working with the PuppetDB API
@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (today)
-- [voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check) -   A puppet-lint plugin to check for types and class names that begin with digits. (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams (today)
-- [voxpupuli/puppet-lint-appends-check](https://github.com/voxpupuli/puppet-lint-appends-check) -  (today)
-- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (today)
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (today)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (3 days ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (4 days ago)
-- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (6 days ago)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (1 day ago)
+- [voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check) -   A puppet-lint plugin to check for types and class names that begin with digits. (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams (1 day ago)
+- [voxpupuli/puppet-lint-appends-check](https://github.com/voxpupuli/puppet-lint-appends-check) -  (1 day ago)
+- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (1 day ago)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 day ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (4 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (5 days ago)
+- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
