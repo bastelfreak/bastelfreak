@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) ([v1.0.4](https://github.com/thatmattlove/hyperglass/releases/tag/v1.0.4), 3 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) ([v1.0.4](https://github.com/thatmattlove/hyperglass/releases/tag/v1.0.4), 4 days ago) - hyperglass is the network looking glass that tries to make the internet better.
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.24.0](https://github.com/choria-io/puppet-choria/releases/tag/0.24.0), 2 weeks ago) - Module to install and manage Choria
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 month ago) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0), 1 month ago) - Python library for working with the PuppetDB API
@@ -57,13 +57,13 @@ Statement from Puppet Inc.:
 - [Vox Pupuli – Code of the Week 1](https://blog.bastelfreak.de/2019/01/vox-pupuli-code-of-the-week/) (2 years ago)
 - [I’m alive!](https://blog.bastelfreak.de/2019/01/im-alive/) (2 years ago)
 - [Short Tip: Dealing with FreeBSD for noobs](https://blog.bastelfreak.de/2016/11/short-tip-dealing-with-freebsd-for-noobs/) (4 years ago)
-- [Short Tip: Install shellcheck on an outdated CentOS](https://blog.bastelfreak.de/2016/08/short-tip-install-shellcheck-on-an-outdated-centos/) (4 years ago)
+- [Short Tip: Install shellcheck on an outdated CentOS](https://blog.bastelfreak.de/2016/08/short-tip-install-shellcheck-on-an-outdated-centos/) (5 years ago)
 
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
+- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (1 week ago)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 week ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
