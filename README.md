@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [bastelfreak/cv](https://github.com/bastelfreak/cv) -  (today)
 - [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (1 day ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
-- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (1 week ago)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 week ago)
+- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (1 week ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
-- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (1 week ago)
+- [voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check) -   A puppet-lint plugin to check for types and class names that begin with digits. (1 week ago)
+- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (1 week ago)
 - [voxpupuli/puppet-lint-appends-check](https://github.com/voxpupuli/puppet-lint-appends-check) -  (1 week ago)
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 week ago)
-- [voxpupuli/puppet-ldapquery](https://github.com/voxpupuli/puppet-ldapquery) - Query an LDAP server using Puppet. (1 week ago)
-- [voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check) -   A puppet-lint plugin to check for types and class names that begin with digits. (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
