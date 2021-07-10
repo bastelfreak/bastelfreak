@@ -34,8 +34,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) ([v1.0.4](https://github.com/thatmattlove/hyperglass/releases/tag/v1.0.4), 5 days ago) - hyperglass is the network looking glass that tries to make the internet better.
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.24.0](https://github.com/choria-io/puppet-choria/releases/tag/0.24.0), 2 weeks ago) - Module to install and manage Choria
+- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) ([v1.0.4](https://github.com/thatmattlove/hyperglass/releases/tag/v1.0.4), 6 days ago) - hyperglass is the network looking glass that tries to make the internet better.
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.24.0](https://github.com/choria-io/puppet-choria/releases/tag/0.24.0), 3 weeks ago) - Module to install and manage Choria
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v3.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v3.1.0), 1 month ago) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([v2.4.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/v2.4.0), 1 month ago) - Python library for working with the PuppetDB API
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v7.0.2), 2 months ago) - Puppet Module to manage Java
@@ -63,10 +63,10 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet-gluster](https://github.com/voxpupuli/puppet-gluster) - Create and manage Gluster pools, volumes, and mounts (today)
-- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
-- [bastelfreak/cv](https://github.com/bastelfreak/cv) -  (1 day ago)
-- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (1 day ago)
+- [bastelfreak/cv](https://github.com/bastelfreak/cv) -  (2 days ago)
+- [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (3 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (5 days ago)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 week ago)
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (1 week ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
@@ -76,11 +76,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/1800591?u=97a60b853e91adf6835e5c61e5f62a759302f51e&amp;v=4" height="20"/> rwaffen](https://github.com/rwaffen)
 - [<img src="https://avatars.githubusercontent.com/u/86844013?v=4" height="20"/> wstuermer-godaddy](https://github.com/wstuermer-godaddy)
 - [<img src="https://avatars.githubusercontent.com/u/49296586?u=030fdfa9407586d6fd79e7f42d371e5261b883c8&amp;v=4" height="20"/> DasSinaTier](https://github.com/DasSinaTier)
 - [<img src="https://avatars.githubusercontent.com/u/2443770?u=12870f698200491febb29e9ce677b196c2bf15a6&amp;v=4" height="20"/> chhex](https://github.com/chhex)
 - [<img src="https://avatars.githubusercontent.com/u/79355060?v=4" height="20"/> itsmetripled](https://github.com/itsmetripled)
-- [<img src="https://avatars.githubusercontent.com/u/63439129?v=4" height="20"/> ljluestc](https://github.com/ljluestc)
 
 ### Top languages
 
