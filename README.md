@@ -63,9 +63,9 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
+- [voxpupuli/puppet-gluster](https://github.com/voxpupuli/puppet-gluster) - Create and manage Gluster pools, volumes, and mounts (1 day ago)
 - [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (1 day ago)
 - [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (1 day ago)
-- [voxpupuli/puppet-gluster](https://github.com/voxpupuli/puppet-gluster) - Create and manage Gluster pools, volumes, and mounts (1 day ago)
 - [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (2 days ago)
 - [bastelfreak/cv](https://github.com/bastelfreak/cv) -  (3 days ago)
 - [voxpupuli/puppet-jira](https://github.com/voxpupuli/puppet-jira) - Atlassian JIRA Puppet Module (4 days ago)
