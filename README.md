@@ -20,30 +20,30 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/.github](https://github.com/bastelfreak/.github) - 
+- [bastelfreak/puppetize2021](https://github.com/bastelfreak/puppetize2021) - My talk about open source contributions for Puppetize 2021
+- [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams
+- [bastelfreak/shiny-barnacle](https://github.com/bastelfreak/shiny-barnacle) - A simple Sinatra (Ruby) application to store data from an online form (shiny-barnacle was the suggested tile from GitHub)
 - [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync!
 - [bastelfreak/env2module-differ](https://github.com/bastelfreak/env2module-differ) - Check your Puppet environments against metadata.json files from all modules!
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German)
 - [bastelfreak/cfgmgmtcamp2020](https://github.com/bastelfreak/cfgmgmtcamp2020) - Automating the Vox Pupuli Yak Shaving - Talk from Flipez and bastelfreak
 - [bastelfreak/prometheusdemo](https://github.com/bastelfreak/prometheusdemo) - My talk &#43; demo about scaleable node_exporter rollout with Puppet
 - [bastelfreak/osad2019](https://github.com/bastelfreak/osad2019) - My Open Source Automation Days 2019 talk
-- [bastelfreak/contributorsummit2019](https://github.com/bastelfreak/contributorsummit2019) - Presentation about PR management at the Puppet Contributor Summit 2019
-- [bastelfreak/osdc2019](https://github.com/bastelfreak/osdc2019) - My OSDC 2019 talk about Vox Pupuli
-- [bastelfreak/cfgmgmtcamp2019](https://github.com/bastelfreak/cfgmgmtcamp2019) - My talk about the Puppet Community
-- [bastelfreak/AoC](https://github.com/bastelfreak/AoC) - 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.19.0](https://github.com/choria-io/puppet-choria/releases/tag/0.19.0), 3 days ago) - Module to install and manage Choria
-- [voxpupuli/puppet_webhook](https://github.com/voxpupuli/puppet_webhook) ([v2.1.3](https://github.com/voxpupuli/puppet_webhook/releases/tag/v2.1.3), 4 weeks ago) - Sinatra-based application that triggers puppet-related commands from VCS Webhook calls
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v2.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v2.2.0), 2 months ago) - Web frontend for PuppetDB
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) ([1.2.0](https://github.com/voxpupuli/modulesync/releases/tag/1.2.0), 3 months ago) - Synchronize common files across your Git repositories.
-- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) ([v5.0.0](https://github.com/voxpupuli/puppet-ferm/releases/tag/v5.0.0), 3 months ago) - Puppet module to manage the ferm firewall tooling
-- [camptocamp/prometheus-puppetdb-exporter](https://github.com/camptocamp/prometheus-puppetdb-exporter) ([1.0.0](https://github.com/camptocamp/prometheus-puppetdb-exporter/releases/tag/1.0.0), 3 months ago) -  Prometheus Exporter for PuppetDB
-- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) ([v0.3.2](https://github.com/voxpupuli/puppet-chrony/releases/tag/v0.3.2), 7 months ago) - Puppet module for Chrony with Systemd
-- [ddfreyne/cri](https://github.com/ddfreyne/cri) ([2.15.10](https://github.com/ddfreyne/cri/releases/tag/2.15.10), 8 months ago) - A tool for building commandline applications
-- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) ([v0.6.0](https://github.com/voxpupuli/ra10ke/releases/tag/v0.6.0), 1 year ago) - Rake tasks related to R10K and Puppetfile
-- [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) ([0.4.0](https://github.com/voxpupuli/puppet-bareos/releases/tag/0.4.0), 1 year ago) - Puppet Module to manage bareos
+- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.1](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.1), 1 week ago) - Puppet module to manage Icinga 2
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 2 weeks ago) - 
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.3](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.3), 3 weeks ago) - Web frontend for PuppetDB
+- [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v6.0.2](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v6.0.2), 3 weeks ago) - The Puppet Docker repository
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.9.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.9.0), 1 month ago) - 
+- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 1 month ago) - A Prometheus exporter for WireGuard, written in Rust.
+- [socketry/async-http](https://github.com/socketry/async-http) ([v0.59.3](https://github.com/socketry/async-http/releases/tag/v0.59.3), 1 month ago) - 
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.28.4](https://github.com/choria-io/puppet-choria/releases/tag/0.28.4), 1 month ago) - Module to install and manage Choria
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.26.2](https://github.com/choria-io/go-choria/releases/tag/v0.26.2), 1 month ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 
 #### 📜 My recent blog posts
 
@@ -76,15 +76,15 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
-- [<img src="https://avatars3.githubusercontent.com/u/20618622?u=56fb5d703f773dbfcbb7558234e560ab7efc3e96&amp;v=4" height="20"/> zhengguidong](https://github.com/zhengguidong)
-- [<img src="https://avatars1.githubusercontent.com/u/68830247?u=4b0503d43e425b12e8073d836346b679294131b2&amp;v=4" height="20"/> nissa1992](https://github.com/nissa1992)
-- [<img src="https://avatars2.githubusercontent.com/u/650430?v=4" height="20"/> raphink](https://github.com/raphink)
-- [<img src="https://avatars2.githubusercontent.com/u/5166159?u=645062516f20c8c30ad247179c6e754df7547714&amp;v=4" height="20"/> ikonia](https://github.com/ikonia)
-- [<img src="https://avatars1.githubusercontent.com/u/66896964?v=4" height="20"/> tracydemery36](https://github.com/tracydemery36)
+- [<img src="https://avatars.githubusercontent.com/u/36503354?u=2fa56a3c0fa89035e29421dc37557fa829ec2722&amp;v=4" height="20"/> RobinOphalvens](https://github.com/RobinOphalvens)
+- [<img src="https://avatars.githubusercontent.com/u/66372268?u=26bfe87e46324a489c42648a340a829bc2c94668&amp;v=4" height="20"/> GSPatton](https://github.com/GSPatton)
+- [<img src="https://avatars.githubusercontent.com/u/2733783?u=30500cac385600d7af00da2e10c1915b993a22bd&amp;v=4" height="20"/> JOJ0](https://github.com/JOJ0)
+- [<img src="https://avatars.githubusercontent.com/u/111558517?v=4" height="20"/> Samuel23mwas](https://github.com/Samuel23mwas)
+- [<img src="https://avatars.githubusercontent.com/u/1873895?v=4" height="20"/> gibbs](https://github.com/gibbs)
 
 ### Top languages
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphink&hide_title=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bastelfreak&hide_title=true)
 
 #### 📫 How to reach me
 
