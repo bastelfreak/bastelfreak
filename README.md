@@ -62,16 +62,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (today)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (4 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
 - [voxpupuli/puppet-cvmfs](https://github.com/voxpupuli/puppet-cvmfs) - Puppet module for cvmfs (1 week ago)
 - [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (1 week ago)
 - [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (1 week ago)
-- [voxpupuli/puppet-rhsm](https://github.com/voxpupuli/puppet-rhsm) - Puppet module for registering systems with RedHat. (1 week ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
+- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 week ago)
 - [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (1 week ago)
-- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) - Hiera hierarchy module for templating `hiera.yaml` (1 week ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
