@@ -36,7 +36,7 @@ Statement from Puppet Inc.:
 
 - [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.1](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.1), 1 week ago) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 2 weeks ago) - 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 3 weeks ago) - 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.3](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.3), 3 weeks ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v6.0.2](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v6.0.2), 3 weeks ago) - The Puppet Docker repository
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.9.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.9.0), 1 month ago) - 
@@ -53,7 +53,7 @@ Statement from Puppet Inc.:
 - [Puppet PQL Queries](https://blog.bastelfreak.de/2022/01/puppet-pql-queries/) (11 months ago)
 - [PostgreSQL: Do a VACUUM FULL without exclusive locks!](https://blog.bastelfreak.de/2022/01/postgresql-do-a-vacuum-full-without-exclusive-locks/) (11 months ago)
 - [systemd unit hardening followup](https://blog.bastelfreak.de/2022/01/systemd-unit-hardening-followup/) (11 months ago)
-- [Migrate CentOS 8 to AlmaLinux](https://blog.bastelfreak.de/2022/01/migrate-centos-8-to-almalinux/) (11 months ago)
+- [Migrate CentOS 8 to AlmaLinux](https://blog.bastelfreak.de/2022/01/migrate-centos-8-to-almalinux/) (1 year ago)
 - [DNS Setup for own domains](https://blog.bastelfreak.de/2022/01/dns-setup-for-own-domains/) (1 year ago)
 - [Setup Gentoo on a Hetzner server](https://blog.bastelfreak.de/2022/01/setup-gentoo-on-a-hetzner-server/) (1 year ago)
 - [systemd-networkd &#43; wireguard configuration](https://blog.bastelfreak.de/2022/01/systemd-networkd-wireguard-configuration/) (1 year ago)
@@ -62,8 +62,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (3 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (4 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
 - [voxpupuli/puppet-cvmfs](https://github.com/voxpupuli/puppet-cvmfs) - Puppet module for cvmfs (1 week ago)
 - [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (1 week ago)
