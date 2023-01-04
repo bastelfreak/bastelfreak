@@ -34,7 +34,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.1](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.1), 1 week ago) - Puppet module to manage Icinga 2
+- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.2](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.2), today) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 3 weeks ago) - 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.3](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.3), 3 weeks ago) - Web frontend for PuppetDB
