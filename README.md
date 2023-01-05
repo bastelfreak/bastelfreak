@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.4](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.4), today) - Web frontend for PuppetDB
 - [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.2](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.2), 1 day ago) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 3 weeks ago) - 
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.3](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.3), 3 weeks ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v6.0.2](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v6.0.2), 4 weeks ago) - The Puppet Docker repository
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.9.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.9.0), 1 month ago) - 
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 1 month ago) - A Prometheus exporter for WireGuard, written in Rust.
