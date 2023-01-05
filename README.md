@@ -30,13 +30,13 @@ Statement from Puppet Inc.:
 - [bastelfreak/.github](https://github.com/bastelfreak/.github) - 
 - [bastelfreak/puppetize2021](https://github.com/bastelfreak/puppetize2021) - My talk about open source contributions for Puppetize 2021
 - [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams
-- [bastelfreak/shiny-barnacle](https://github.com/bastelfreak/shiny-barnacle) - A simple Sinatra (Ruby) application to store data from an online form (shiny-barnacle was the suggested tile from GitHub)
 - [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync!
 - [bastelfreak/env2module-differ](https://github.com/bastelfreak/env2module-differ) - Check your Puppet environments against metadata.json files from all modules!
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German)
 - [bastelfreak/cfgmgmtcamp2020](https://github.com/bastelfreak/cfgmgmtcamp2020) - Automating the Vox Pupuli Yak Shaving - Talk from Flipez and bastelfreak
 - [bastelfreak/prometheusdemo](https://github.com/bastelfreak/prometheusdemo) - My talk &#43; demo about scaleable node_exporter rollout with Puppet
 - [bastelfreak/osad2019](https://github.com/bastelfreak/osad2019) - My Open Source Automation Days 2019 talk
+- [bastelfreak/contributorsummit2019](https://github.com/bastelfreak/contributorsummit2019) - Presentation about PR management at the Puppet Contributor Summit 2019
 
 #### 🔭 Latest releases I've contributed to
 
