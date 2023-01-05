@@ -2,9 +2,16 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/bastelfreak" width="260">
 
-I'm Tim, a DevOps Engineer and Project Committee member for [Vox Pupuli](https://voxpupuli.org).
-I'm currently living in Cologne, Germany, where I currently study computer science for fun in evening classes.
-Hit me up at [tim@bastelfreak.de](mailto:tim@bastelfeak.de) in case you need a Puppet consultant.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bastelfreak&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&column=5"/></a>
+</p>
+
+I'm Tim, former DevOps Engineer, now Senior IT Automation Consultant and Project
+Committee member for [Vox Pupuli](https://voxpupuli.org).
+I'm currently living in Cologne, Germany. I'm a
+[regular speaker at conferences](https://github.com/bastelfreak/talks#collection-of-talks-proposals-and-related-stuff).
+Hit me up at [tim@bastelfreak.de](mailto:tim@bastelfeak.de) in case you need a
+Puppet consultant or want me as a speaker at your conference.
 
 #### Puppet activities
 
