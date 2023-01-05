@@ -1,10 +1,10 @@
 ### Hi there! ![favicon.ico](https://raw.githubusercontent.com/bastelfreak/bastelfreak/master/favicon.ico)
 
-<img align="right" src="https://avatars.githubusercontent.com/bastelfreak" width="260">
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bastelfreak&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&column=5"/></a>
 </p>
+
+<img align="right" src="https://avatars.githubusercontent.com/bastelfreak" width="260">
 
 I'm Tim, former DevOps Engineer, now Senior IT Automation Consultant and Project
 Committee member for [Vox Pupuli](https://voxpupuli.org).
