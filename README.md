@@ -41,23 +41,23 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.4](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.4), today) - Web frontend for PuppetDB
-- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.2](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.2), 1 day ago) - Puppet module to manage Icinga 2
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.4](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.4), 1 day ago) - Web frontend for PuppetDB
+- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.2](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.2), 2 days ago) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 3 weeks ago) - 
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v6.0.2](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v6.0.2), 4 weeks ago) - The Puppet Docker repository
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.9.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.9.0), 1 month ago) - 
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 1 month ago) - A Prometheus exporter for WireGuard, written in Rust.
 - [socketry/async-http](https://github.com/socketry/async-http) ([v0.59.3](https://github.com/socketry/async-http/releases/tag/v0.59.3), 1 month ago) - 
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.28.4](https://github.com/choria-io/puppet-choria/releases/tag/0.28.4), 1 month ago) - Module to install and manage Choria
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.26.2](https://github.com/choria-io/go-choria/releases/tag/v0.26.2), 1 month ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.28.4](https://github.com/choria-io/puppet-choria/releases/tag/0.28.4), 2 months ago) - Module to install and manage Choria
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.26.2](https://github.com/choria-io/go-choria/releases/tag/v0.26.2), 2 months ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 
 #### 📜 My recent blog posts
 
 
 - [Debug systemd and define a loglevel](https://blog.bastelfreak.de/2022/02/debug-systemd-and-define-a-loglevel/) (10 months ago)
 - [systemd unit hardening followup followup](https://blog.bastelfreak.de/2022/01/systemd-unit-hardening-followup-followup/) (11 months ago)
-- [Puppet PQL Queries](https://blog.bastelfreak.de/2022/01/puppet-pql-queries/) (11 months ago)
+- [Puppet PQL Queries](https://blog.bastelfreak.de/2022/01/puppet-pql-queries/) (1 year ago)
 - [PostgreSQL: Do a VACUUM FULL without exclusive locks!](https://blog.bastelfreak.de/2022/01/postgresql-do-a-vacuum-full-without-exclusive-locks/) (1 year ago)
 - [systemd unit hardening followup](https://blog.bastelfreak.de/2022/01/systemd-unit-hardening-followup/) (1 year ago)
 - [Migrate CentOS 8 to AlmaLinux](https://blog.bastelfreak.de/2022/01/migrate-centos-8-to-almalinux/) (1 year ago)
@@ -69,12 +69,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-elasticsearch](https://github.com/voxpupuli/puppet-elasticsearch) - Elasticsearch Puppet module (today)
-- [voxpupuli/puppet-logstash](https://github.com/voxpupuli/puppet-logstash) - Puppet module to manage Logstash (today)
-- [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) - Installs and configures zram_generator with puppet (today)
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (6 days ago)
+- [voxpupuli/puppet-elasticsearch](https://github.com/voxpupuli/puppet-elasticsearch) - Elasticsearch Puppet module (1 day ago)
+- [voxpupuli/puppet-logstash](https://github.com/voxpupuli/puppet-logstash) - Puppet module to manage Logstash (1 day ago)
+- [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) - Installs and configures zram_generator with puppet (1 day ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (2 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (5 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 week ago)
 - [voxpupuli/puppet-cvmfs](https://github.com/voxpupuli/puppet-cvmfs) - Puppet module for cvmfs (2 weeks ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 weeks ago)
 - [voxpupuli/puppet-confluence](https://github.com/voxpupuli/puppet-confluence) - A puppet module to install confluence (2 weeks ago)
