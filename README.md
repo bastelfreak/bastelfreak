@@ -71,12 +71,12 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (today)
 - [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (today)
+- [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (today)
 - [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (today)
+- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (1 day ago)
 - [voxpupuli/puppet-augeasproviders_apache](https://github.com/voxpupuli/puppet-augeasproviders_apache) - Augeas-based apache types and providers for Puppet  (1 day ago)
-- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 day ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/beaker-windows](https://github.com/voxpupuli/beaker-windows) - A Beaker library full of wonderful helper methods for testing on Windows. (1 day ago)
+- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 day ago)
 - [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (1 day ago)
 - [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (1 day ago)
 
