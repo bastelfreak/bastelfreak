@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.4](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.4), 2 days ago) - Web frontend for PuppetDB
-- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.2](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.2), 3 days ago) - Puppet module to manage Icinga 2
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.4](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.4), 3 days ago) - Web frontend for PuppetDB
+- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.2](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.2), 4 days ago) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 3 weeks ago) - 
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v6.0.2](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v6.0.2), 1 month ago) - The Puppet Docker repository
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (today)
-- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (today)
-- [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (today)
-- [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (today)
-- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (1 day ago)
-- [voxpupuli/puppet-augeasproviders_apache](https://github.com/voxpupuli/puppet-augeasproviders_apache) - Augeas-based apache types and providers for Puppet  (1 day ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 day ago)
-- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (1 day ago)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (1 day ago)
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (1 day ago)
+- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 day ago)
+- [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (1 day ago)
+- [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (1 day ago)
+- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (2 days ago)
+- [voxpupuli/puppet-augeasproviders_apache](https://github.com/voxpupuli/puppet-augeasproviders_apache) - Augeas-based apache types and providers for Puppet  (2 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
+- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (2 days ago)
+- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (2 days ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
