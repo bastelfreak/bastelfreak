@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (today)
 - [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (1 day ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (6 days ago)
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (6 days ago)
 - [voxpupuli/puppet-augeasproviders_base](https://github.com/voxpupuli/puppet-augeasproviders_base) - Augeas-based additional providers for Puppet base types (1 week ago)
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (1 week ago)
 - [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (1 week ago)
 - [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 week ago)
-- [voxpupuli/puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform) (1 week ago)
-- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 week ago)
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (1 week ago)
+- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (1 week ago)
 - [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (1 week ago)
 
 #### 👥 Check out some of my recent followers
