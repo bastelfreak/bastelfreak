@@ -41,7 +41,6 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v3.5.3](https://github.com/Icinga/puppet-icinga2/releases/tag/v3.5.3), 6 days ago) - Puppet module to manage Icinga 2
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.5](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.5), 1 week ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 3 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 1 month ago) - 
@@ -51,6 +50,7 @@ Statement from Puppet Inc.:
 - [socketry/async-http](https://github.com/socketry/async-http) ([v0.59.3](https://github.com/socketry/async-http/releases/tag/v0.59.3), 2 months ago) - 
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.28.4](https://github.com/choria-io/puppet-choria/releases/tag/0.28.4), 2 months ago) - Module to install and manage Choria
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.26.2](https://github.com/choria-io/go-choria/releases/tag/v0.26.2), 2 months ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
+- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([3.1.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/3.1.0), 2 months ago) - Python library for working with the PuppetDB API
 
 #### 📜 My recent blog posts
 
