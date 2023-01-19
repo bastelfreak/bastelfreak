@@ -42,7 +42,7 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.5](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.5), 1 week ago) - Web frontend for PuppetDB
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 3 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 4 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 1 month ago) - 
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v6.0.2](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v6.0.2), 1 month ago) - The Puppet Docker repository
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.9.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.9.0), 1 month ago) - 
@@ -69,10 +69,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (1 day ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 day ago)
-- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (2 days ago)
-- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (3 days ago)
+- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (2 days ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (2 days ago)
+- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (3 days ago)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (4 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 week ago)
 - [voxpupuli/puppet-augeasproviders_base](https://github.com/voxpupuli/puppet-augeasproviders_base) - Augeas-based additional providers for Puppet base types (1 week ago)
