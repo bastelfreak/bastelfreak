@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/96020105?u=08db41dd3f9d71eaf5295e0326cf1448662be064&amp;v=4" height="20"/> Betofe](https://github.com/Betofe)
 - [<img src="https://avatars.githubusercontent.com/u/123105771?u=2fb7ea7fb032b5576dbf15b1a1c0323ebbd54e3c&amp;v=4" height="20"/> Candepoce](https://github.com/Candepoce)
 - [<img src="https://avatars.githubusercontent.com/u/61321118?u=57485fee83c7b4740e657bad37ba939d3a8f2f7a&amp;v=4" height="20"/> vegaaz](https://github.com/vegaaz)
 - [<img src="https://avatars.githubusercontent.com/u/36503354?u=2fa56a3c0fa89035e29421dc37557fa829ec2722&amp;v=4" height="20"/> RobinOphalvens](https://github.com/RobinOphalvens)
 - [<img src="https://avatars.githubusercontent.com/u/66372268?u=26bfe87e46324a489c42648a340a829bc2c94668&amp;v=4" height="20"/> GSPatton](https://github.com/GSPatton)
-- [<img src="https://avatars.githubusercontent.com/u/2733783?u=30500cac385600d7af00da2e10c1915b993a22bd&amp;v=4" height="20"/> JOJ0](https://github.com/JOJ0)
 
 ### Top languages
 
