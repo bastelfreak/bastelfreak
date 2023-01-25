@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v5.0.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v5.0.1), 2 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.5](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.5), 2 weeks ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 1 month ago) - 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 2 months ago) - A Prometheus exporter for WireGuard, written in Rust.
 - [socketry/async-http](https://github.com/socketry/async-http) ([v0.59.3](https://github.com/socketry/async-http/releases/tag/v0.59.3), 2 months ago) - 
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.28.4](https://github.com/choria-io/puppet-choria/releases/tag/0.28.4), 2 months ago) - Module to install and manage Choria
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.26.2](https://github.com/choria-io/go-choria/releases/tag/v0.26.2), 2 months ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 
 #### 📜 My recent blog posts
 
