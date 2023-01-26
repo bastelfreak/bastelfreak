@@ -69,6 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (today)
 - [voxpupuli/puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - mongodb installation (today)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (3 days ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (6 days ago)
 - [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (6 days ago)
 - [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (1 week ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
