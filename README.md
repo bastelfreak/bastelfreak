@@ -69,6 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-hashi_stack](https://github.com/voxpupuli/puppet-hashi_stack) - This module contains shared code for various HashiCorp modules (today)
+- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (today)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 day ago)
 - [voxpupuli/puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - mongodb installation (1 day ago)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
@@ -77,8 +79,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (5 days ago)
 - [betadots/puppet-hdm](https://github.com/betadots/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (6 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
-- [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (1 week ago)
-- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
