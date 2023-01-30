@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v1.0.0](https://github.com/betadots/hdm/releases/tag/v1.0.0), today) - 
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v5.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v5.0.3), 5 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.5](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.5), 3 weeks ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.0.1), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v0.0.4](https://github.com/betadots/hdm/releases/tag/v0.0.4), 1 month ago) - 
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v6.0.2](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v6.0.2), 1 month ago) - The Puppet Docker repository
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.9.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.9.0), 1 month ago) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v9.0.1), 2 months ago) - Puppet Module to manage Java
