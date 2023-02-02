@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [socketry/async-http](https://github.com/socketry/async-http) ([v0.60.0](https://github.com/socketry/async-http/releases/tag/v0.60.0), today) - 
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.0), 2 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.0.1](https://github.com/betadots/hdm/releases/tag/v1.0.1), 2 days ago) - 
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v5.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v5.0.3), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
@@ -49,7 +50,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.9.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.9.0), 2 months ago) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v9.0.1), 2 months ago) - Puppet Module to manage Java
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 2 months ago) - A Prometheus exporter for WireGuard, written in Rust.
-- [socketry/async-http](https://github.com/socketry/async-http) ([v0.59.3](https://github.com/socketry/async-http/releases/tag/v0.59.3), 2 months ago) - 
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.28.4](https://github.com/choria-io/puppet-choria/releases/tag/0.28.4), 2 months ago) - Module to install and manage Choria
 
 #### 📜 My recent blog posts
