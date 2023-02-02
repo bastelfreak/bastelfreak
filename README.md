@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.0), 1 day ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v1.0.1](https://github.com/betadots/hdm/releases/tag/v1.0.1), 1 day ago) - 
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.0), 2 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v1.0.1](https://github.com/betadots/hdm/releases/tag/v1.0.1), 2 days ago) - 
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v5.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v5.0.3), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.5](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.5), 3 weeks ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v6.0.2](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v6.0.2), 1 month ago) - The Puppet Docker repository
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (today)
-- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (today)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (today)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 day ago)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 day ago)
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (1 day ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (3 days ago)
-- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (5 days ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (5 days ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (1 day ago)
+- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (1 day ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (1 day ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (2 days ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (2 days ago)
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (2 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (4 days ago)
+- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (6 days ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
