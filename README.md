@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/cfgmgmtcamp2023](https://github.com/bastelfreak/cfgmgmtcamp2023) - My talk about open source contributions for Puppetize 2021
 - [bastelfreak/.github](https://github.com/bastelfreak/.github) - 
 - [bastelfreak/puppetize2021](https://github.com/bastelfreak/puppetize2021) - My talk about open source contributions for Puppetize 2021
 - [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/cfgmgmtcamp2020](https://github.com/bastelfreak/cfgmgmtcamp2020) - Automating the Vox Pupuli Yak Shaving - Talk from Flipez and bastelfreak
 - [bastelfreak/prometheusdemo](https://github.com/bastelfreak/prometheusdemo) - My talk &#43; demo about scaleable node_exporter rollout with Puppet
 - [bastelfreak/osad2019](https://github.com/bastelfreak/osad2019) - My Open Source Automation Days 2019 talk
-- [bastelfreak/contributorsummit2019](https://github.com/bastelfreak/contributorsummit2019) - Presentation about PR management at the Puppet Contributor Summit 2019
 
 #### 🔭 Latest releases I've contributed to
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 day ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (today)
 - [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (1 day ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (2 days ago)
-- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (2 days ago)
+- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 day ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (2 days ago)
+- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (2 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (2 days ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (3 days ago)
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (3 days ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (3 days ago)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (3 days ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (4 days ago)
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
