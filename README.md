@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (today)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (today)
 - [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (today)
+- [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
 - [betadots/puppet-hdm](https://github.com/betadots/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (1 day ago)
 - [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 day ago)
