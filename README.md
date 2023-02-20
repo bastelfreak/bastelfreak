@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
 - [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/voxpupuli-release](https://github.com/voxpupuli/voxpupuli-release) - A helper Gem for Vox Pupuli (1 day ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (2 days ago)
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (4 days ago)
