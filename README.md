@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/voxpupuli-release](https://github.com/voxpupuli/voxpupuli-release) - A helper Gem for Vox Pupuli (today)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (today)
+- [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (1 day ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 day ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (1 day ago)
-- [voxpupuli/voxpupuli-release](https://github.com/voxpupuli/voxpupuli-release) - A helper Gem for Vox Pupuli (2 days ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (3 days ago)
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (5 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (6 days ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (6 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (6 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
 
 #### 👥 Check out some of my recent followers
