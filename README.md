@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.11.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.11.0), today) - 
-- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 1 day ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.11.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.11.0), 1 day ago) - 
+- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 2 days ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.1.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.1.0), 2 weeks ago) - 
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.2), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.6](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.6), 2 weeks ago) - Web frontend for PuppetDB
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (today)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (today)
-- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (1 day ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
-- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (1 day ago)
-- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (2 days ago)
-- [voxpupuli/puppetmodule.info](https://github.com/voxpupuli/puppetmodule.info) - Puppet module documentation website (4 days ago)
-- [voxpupuli/puppet-lint-param-types](https://github.com/voxpupuli/puppet-lint-param-types) - Puppet lint plugin that verifies that all class attributes are typed (4 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (1 day ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (1 day ago)
+- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (2 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
+- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (2 days ago)
+- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (3 days ago)
+- [voxpupuli/puppetmodule.info](https://github.com/voxpupuli/puppetmodule.info) - Puppet module documentation website (5 days ago)
+- [voxpupuli/puppet-lint-param-types](https://github.com/voxpupuli/puppet-lint-param-types) - Puppet lint plugin that verifies that all class attributes are typed (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
