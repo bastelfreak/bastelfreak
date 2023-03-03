@@ -49,8 +49,8 @@ Statement from Puppet Inc.:
 - [socketry/async-http](https://github.com/socketry/async-http) ([v0.60.0](https://github.com/socketry/async-http/releases/tag/v0.60.0), 4 weeks ago) - 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.0.1](https://github.com/betadots/hdm/releases/tag/v1.0.1), 1 month ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v5.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v5.0.3), 1 month ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v6.0.2](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v6.0.2), 2 months ago) - The Puppet Docker repository
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v9.0.1), 3 months ago) - Puppet Module to manage Java
+- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 3 months ago) - A Prometheus exporter for WireGuard, written in Rust.
 
 #### 📜 My recent blog posts
 
