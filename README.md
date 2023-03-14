@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.11.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.11.0), 1 week ago) - 
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.11.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.11.0), 2 weeks ago) - 
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 2 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.1.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.1.0), 1 month ago) - 
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.2), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -69,12 +69,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x (3 days ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (3 days ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (4 days ago)
-- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (4 days ago)
-- [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (5 days ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (5 days ago)
+- [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x (4 days ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (4 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (5 days ago)
+- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (5 days ago)
+- [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (6 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (6 days ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 week ago)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 week ago)
 - [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (1 week ago)
