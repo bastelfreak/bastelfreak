@@ -28,6 +28,7 @@ Statement from Puppet Inc.:
 
 
 - [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x
+- [bastelfreak/puppet-ivanti](https://github.com/bastelfreak/puppet-ivanti) - A Puppet module to install Ivanti agent on Linux
 - [bastelfreak/cfgmgmtcamp2023](https://github.com/bastelfreak/cfgmgmtcamp2023) - My talk about open source contributions for Puppetize 2021
 - [bastelfreak/.github](https://github.com/bastelfreak/.github) - 
 - [bastelfreak/puppetize2021](https://github.com/bastelfreak/puppetize2021) - My talk about open source contributions for Puppetize 2021
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/env2module-differ](https://github.com/bastelfreak/env2module-differ) - Check your Puppet environments against metadata.json files from all modules!
 - [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German)
 - [bastelfreak/cfgmgmtcamp2020](https://github.com/bastelfreak/cfgmgmtcamp2020) - Automating the Vox Pupuli Yak Shaving - Talk from Flipez and bastelfreak
-- [bastelfreak/prometheusdemo](https://github.com/bastelfreak/prometheusdemo) - My talk &#43; demo about scaleable node_exporter rollout with Puppet
 
 #### 🔭 Latest releases I've contributed to
 
