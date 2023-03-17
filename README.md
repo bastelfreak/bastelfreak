@@ -69,8 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x (6 days ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (6 days ago)
+- [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x (1 week ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (1 week ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 week ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 week ago)
 - [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (1 week ago)
