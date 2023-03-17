@@ -69,25 +69,25 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (today)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (today)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (today)
+- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (today)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (today)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (today)
 - [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x (1 week ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 week ago)
 - [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (1 week ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 week ago)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/23510137?u=0c1ac60af30e2d25c5992b48b2f85a26efc931cd&amp;v=4" height="20"/> promasu](https://github.com/promasu)
 - [<img src="https://avatars.githubusercontent.com/u/3788105?u=48c26135dc22beeaec965cfd74ffc38f00407cc5&amp;v=4" height="20"/> Toutzn](https://github.com/Toutzn)
 - [<img src="https://avatars.githubusercontent.com/u/22379063?u=65e5ff246af87809768f9d844907feda018aed81&amp;v=4" height="20"/> maartenbeeckmans](https://github.com/maartenbeeckmans)
 - [<img src="https://avatars.githubusercontent.com/u/561997?u=587b901d06af33caa49144ea295d97df3c9ef163&amp;v=4" height="20"/> arusso](https://github.com/arusso)
 - [<img src="https://avatars.githubusercontent.com/u/96020105?u=08db41dd3f9d71eaf5295e0326cf1448662be064&amp;v=4" height="20"/> Betofe](https://github.com/Betofe)
-- [<img src="https://avatars.githubusercontent.com/u/61321118?u=57485fee83c7b4740e657bad37ba939d3a8f2f7a&amp;v=4" height="20"/> vegaaz](https://github.com/vegaaz)
 
 ### Top languages
 
