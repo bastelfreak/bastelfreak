@@ -42,7 +42,7 @@ Statement from Puppet Inc.:
 
 
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.11.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.11.0), 2 weeks ago) - 
-- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 2 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
+- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 3 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.1.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.1.0), 1 month ago) - 
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.2), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.6](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.6), 1 month ago) - Web frontend for PuppetDB
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (2 days ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (2 days ago)
-- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (2 days ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 days ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (2 days ago)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (2 days ago)
+- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (3 days ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (3 days ago)
+- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (3 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (3 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (3 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (3 days ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (3 days ago)
 - [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x (1 week ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 week ago)
 - [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (1 week ago)
