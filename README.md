@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.11.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.11.0), 2 weeks ago) - 
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.11.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.11.0), 3 weeks ago) - 
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 3 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.1.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.1.0), 1 month ago) - 
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.2), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -50,7 +50,7 @@ Statement from Puppet Inc.:
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.0.1](https://github.com/betadots/hdm/releases/tag/v1.0.1), 1 month ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v5.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v5.0.3), 1 month ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v9.0.1), 3 months ago) - Puppet Module to manage Java
-- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 3 months ago) - A Prometheus exporter for WireGuard, written in Rust.
+- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 4 months ago) - A Prometheus exporter for WireGuard, written in Rust.
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (today)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (today)
-- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (today)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (today)
-- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (today)
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (today)
-- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (today)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (3 days ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (3 days ago)
-- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (3 days ago)
+- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 day ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (1 day ago)
+- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (1 day ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (1 day ago)
+- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (1 day ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (1 day ago)
+- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (1 day ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (4 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (4 days ago)
+- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
