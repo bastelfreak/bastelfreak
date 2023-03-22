@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.29.0](https://github.com/choria-io/puppet-choria/releases/tag/0.29.0), today) - Module to install and manage Choria
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.13.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.13.0), 1 day ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.11.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.11.0), 3 weeks ago) - 
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 3 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [socketry/async-http](https://github.com/socketry/async-http) ([v0.60.0](https://github.com/socketry/async-http/releases/tag/v0.60.0), 1 month ago) - 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.0.1](https://github.com/betadots/hdm/releases/tag/v1.0.1), 1 month ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v5.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v5.0.3), 1 month ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v9.0.1), 3 months ago) - Puppet Module to manage Java
 
 #### 📜 My recent blog posts
 
