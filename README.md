@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.29.0](https://github.com/choria-io/puppet-choria/releases/tag/0.29.0), today) - Module to install and manage Choria
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.13.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.13.0), 1 day ago) - Module for managing Puppet-Agent
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.29.0](https://github.com/choria-io/puppet-choria/releases/tag/0.29.0), 1 day ago) - Module to install and manage Choria
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.13.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.13.0), 2 days ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.11.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.11.0), 3 weeks ago) - 
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 3 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.1.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.1.0), 1 month ago) - 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (today)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (2 days ago)
-- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (2 days ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (2 days ago)
-- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (2 days ago)
-- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (2 days ago)
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (2 days ago)
-- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (2 days ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (5 days ago)
-- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (5 days ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (1 day ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (3 days ago)
+- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (3 days ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (3 days ago)
+- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (3 days ago)
+- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (3 days ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (3 days ago)
+- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (3 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (6 days ago)
+- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
