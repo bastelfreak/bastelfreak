@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 day ago)
-- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 day ago)
-- [voxpupuli/beaker-vmware](https://github.com/voxpupuli/beaker-vmware) - Vmware hypervisor library for beaker (1 day ago)
+- [voxpupuli/beaker-vmware](https://github.com/voxpupuli/beaker-vmware) - Vmware hypervisor library for beaker (today)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (today)
 - [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (1 day ago)
 - [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (1 day ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor library for beaker (2 days ago)
+- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 day ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 day ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (5 days ago)
 - [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (6 days ago)
-- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 week ago)
+- [voxpupuli/puppet-blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with Puppet Module utilities (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
