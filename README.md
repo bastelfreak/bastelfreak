@@ -45,12 +45,12 @@ Statement from Puppet Inc.:
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.29.0](https://github.com/choria-io/puppet-choria/releases/tag/0.29.0), 6 days ago) - Module to install and manage Choria
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.13.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.13.0), 1 week ago) - Module for managing Puppet-Agent
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 4 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v13.2.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v13.2.0), 1 month ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.1.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.1.0), 1 month ago) - 
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.2), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.2.6](https://github.com/voxpupuli/puppetboard/releases/tag/v4.2.6), 1 month ago) - Web frontend for PuppetDB
 - [socketry/async-http](https://github.com/socketry/async-http) ([v0.60.0](https://github.com/socketry/async-http/releases/tag/v0.60.0), 1 month ago) - 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.0.1](https://github.com/betadots/hdm/releases/tag/v1.0.1), 1 month ago) - A Web UI to visualize Hiera Data and make it searchable!
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v5.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v5.0.3), 2 months ago) - A set of shared spec helpers specific to Puppetlabs projects
 
 #### 📜 My recent blog posts
 
