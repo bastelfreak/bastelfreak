@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.12.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.12.0), 2 days ago) - 
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.13.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.13.0), today) - 
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.29.0](https://github.com/choria-io/puppet-choria/releases/tag/0.29.0), 1 week ago) - Module to install and manage Choria
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.13.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.13.0), 1 week ago) - Module for managing Puppet-Agent
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v2.3.0](https://github.com/sensson/puppet-powerdns/releases/tag/v2.3.0), 1 month ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
