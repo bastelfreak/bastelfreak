@@ -49,8 +49,8 @@ Statement from Puppet Inc.:
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.29.0](https://github.com/choria-io/puppet-choria/releases/tag/0.29.0), 2 weeks ago) - Module to install and manage Choria
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.13.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.13.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v13.2.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v13.2.0), 1 month ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v1.6.0](https://github.com/puppetlabs/influxdb/releases/tag/v1.6.0), 1 month ago) - 
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.1.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.1.0), 1 month ago) - 
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.2), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 
 #### 📜 My recent blog posts
 
