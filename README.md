@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-motd](https://github.com/puppetlabs/puppetlabs-motd) ([v7.0.0](https://github.com/puppetlabs/puppetlabs-motd/releases/tag/v7.0.0), today) - Simple motd module 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v4.3.0), 1 day ago) - Web frontend for PuppetDB
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.2](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.2), 4 days ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.13.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.13.0), 1 week ago) - 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.1.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.1.0), 1 month ago) - 
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v9.1.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v9.1.2), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [socketry/async-http](https://github.com/socketry/async-http) ([v0.60.0](https://github.com/socketry/async-http/releases/tag/v0.60.0), 2 months ago) - 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v1.0.1](https://github.com/betadots/hdm/releases/tag/v1.0.1), 2 months ago) - A Web UI to visualize Hiera Data and make it searchable!
 
 #### 📜 My recent blog posts
 
