@@ -41,15 +41,15 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v13.3.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v13.3.0), 3 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v13.3.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v13.3.0), 4 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.7.6](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.7.6), 1 week ago) - Create and manage PE node groups as resources.
 - [puppetlabs/puppetlabs-motd](https://github.com/puppetlabs/puppetlabs-motd) ([v7.0.0](https://github.com/puppetlabs/puppetlabs-motd/releases/tag/v7.0.0), 1 week ago) - Simple motd module 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v4.3.0), 1 week ago) - Web frontend for PuppetDB
-- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.2](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.2), 1 week ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
+- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.2](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.2), 2 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.13.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.13.0), 2 weeks ago) - 
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.29.0](https://github.com/choria-io/puppet-choria/releases/tag/0.29.0), 3 weeks ago) - Module to install and manage Choria
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.13.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.13.0), 3 weeks ago) - Module for managing Puppet-Agent
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v1.6.0](https://github.com/puppetlabs/influxdb/releases/tag/v1.6.0), 1 month ago) - 
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v1.6.0](https://github.com/puppetlabs/influxdb/releases/tag/v1.6.0), 2 months ago) - 
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.1.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.1.0), 2 months ago) - 
 
 #### 📜 My recent blog posts
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
-- [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (today)
-- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (today)
-- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (today)
-- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (today)
-- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (today)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
-- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (3 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 day ago)
+- [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (1 day ago)
+- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (1 day ago)
+- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (1 day ago)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 day ago)
+- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (1 day ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
