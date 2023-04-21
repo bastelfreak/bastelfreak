@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-lint-file_ensure-check](https://github.com/voxpupuli/puppet-lint-file_ensure-check) - A puppet-lint plugin to check the ensure attribute on file resources. (today)
+- [voxpupuli/puppet-lint-lookup_in_parameter-check](https://github.com/voxpupuli/puppet-lint-lookup_in_parameter-check) - A puppet-lint plugin to check for calls to `lookup` in parameters. (today)
 - [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
+- [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (today)
+- [voxpupuli/puppet-lint-optional_default-check](https://github.com/voxpupuli/puppet-lint-optional_default-check) - A puppet-lint plugin to check that `Optional` parameters don&#39;t default to something other than `undef`. (today)
+- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (today)
+- [voxpupuli/puppet-lint-param-types](https://github.com/voxpupuli/puppet-lint-param-types) - Puppet lint plugin that verifies that all class attributes are typed (today)
+- [voxpupuli/puppet-lint-absolute_classname-check](https://github.com/voxpupuli/puppet-lint-absolute_classname-check) - Puppet-lint plugin to check relative class name inclusions (today)
+- [voxpupuli/puppet-lint-leading_zero-check](https://github.com/voxpupuli/puppet-lint-leading_zero-check) - A puppet-lint plugin to check for unquoted numbers with leading zero. (today)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
-- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
-- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (3 days ago)
-- [voxpupuli/puppet-virtualbox](https://github.com/voxpupuli/puppet-virtualbox) - A Puppet module to install and manage VirtualBox (4 days ago)
-- [voxpupuli/puppet-windowsfeature](https://github.com/voxpupuli/puppet-windowsfeature) - Library that uses ServerAdministration api that comes with Windows Server 2008 and Windows Server 2012 to add / remove windows features (4 days ago)
-- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (4 days ago)
-- [voxpupuli/puppet-mumble](https://github.com/voxpupuli/puppet-mumble) - Puppet module to install and manage a Mumble server (4 days ago)
-- [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
