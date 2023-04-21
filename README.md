@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-lint-file_ensure-check](https://github.com/voxpupuli/puppet-lint-file_ensure-check) - A puppet-lint plugin to check the ensure attribute on file resources. (today)
 - [voxpupuli/puppet-lint-lookup_in_parameter-check](https://github.com/voxpupuli/puppet-lint-lookup_in_parameter-check) - A puppet-lint plugin to check for calls to `lookup` in parameters. (today)
-- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
+- [voxpupuli/puppet-lint-file_ensure-check](https://github.com/voxpupuli/puppet-lint-file_ensure-check) - A puppet-lint plugin to check the ensure attribute on file resources. (today)
+- [voxpupuli/puppet-lint-topscope-variable-check](https://github.com/voxpupuli/puppet-lint-topscope-variable-check) -  (today)
 - [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (today)
-- [voxpupuli/puppet-lint-optional_default-check](https://github.com/voxpupuli/puppet-lint-optional_default-check) - A puppet-lint plugin to check that `Optional` parameters don&#39;t default to something other than `undef`. (today)
-- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (today)
+- [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (today)
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
 - [voxpupuli/puppet-lint-param-types](https://github.com/voxpupuli/puppet-lint-param-types) - Puppet lint plugin that verifies that all class attributes are typed (today)
-- [voxpupuli/puppet-lint-absolute_classname-check](https://github.com/voxpupuli/puppet-lint-absolute_classname-check) - Puppet-lint plugin to check relative class name inclusions (today)
-- [voxpupuli/puppet-lint-leading_zero-check](https://github.com/voxpupuli/puppet-lint-leading_zero-check) - A puppet-lint plugin to check for unquoted numbers with leading zero. (today)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
+- [voxpupuli/puppet-lint-version_comparison-check](https://github.com/voxpupuli/puppet-lint-version_comparison-check) - A puppet-lint plugin to check for versions compared as numbers. (today)
+- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (today)
+- [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (today)
 
 #### 👥 Check out some of my recent followers
 
