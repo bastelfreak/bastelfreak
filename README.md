@@ -69,12 +69,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (today)
 - [voxpupuli/puppet-lint-file_ensure-check](https://github.com/voxpupuli/puppet-lint-file_ensure-check) - A puppet-lint plugin to check the ensure attribute on file resources. (today)
 - [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
-- [voxpupuli/puppet-lint-trailing_comma-check](https://github.com/voxpupuli/puppet-lint-trailing_comma-check) - A puppet-lint plugin to check for missing trailing commas. (today)
-- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (today)
+- [voxpupuli/puppet-lint-version_comparison-check](https://github.com/voxpupuli/puppet-lint-version_comparison-check) - A puppet-lint plugin to check for versions compared as numbers. (today)
 - [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (today)
-- [voxpupuli/puppet-lint-lookup_in_parameter-check](https://github.com/voxpupuli/puppet-lint-lookup_in_parameter-check) - A puppet-lint plugin to check for calls to `lookup` in parameters. (today)
+- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (today)
 - [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (today)
 - [voxpupuli/puppet-lint-param-types](https://github.com/voxpupuli/puppet-lint-param-types) - Puppet lint plugin that verifies that all class attributes are typed (today)
 - [voxpupuli/puppet-lint-params_empty_string-check](https://github.com/voxpupuli/puppet-lint-params_empty_string-check) - Puppet-lint plugin to check for empty string assignations (today)
