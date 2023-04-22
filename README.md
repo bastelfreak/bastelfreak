@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (today)
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
 - [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (today)
 - [voxpupuli/puppet-lint-variable_contains_upcase](https://github.com/voxpupuli/puppet-lint-variable_contains_upcase) -  (1 day ago)
-- [voxpupuli/puppet-lint-version_comparison-check](https://github.com/voxpupuli/puppet-lint-version_comparison-check) - A puppet-lint plugin to check for versions compared as numbers. (1 day ago)
 - [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (1 day ago)
-- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (1 day ago)
-- [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (1 day ago)
 - [voxpupuli/puppet-lint-topscope-variable-check](https://github.com/voxpupuli/puppet-lint-topscope-variable-check) -  (1 day ago)
+- [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (1 day ago)
+- [voxpupuli/puppet-lint-version_comparison-check](https://github.com/voxpupuli/puppet-lint-version_comparison-check) - A puppet-lint plugin to check for versions compared as numbers. (1 day ago)
+- [voxpupuli/puppet-lint-leading_zero-check](https://github.com/voxpupuli/puppet-lint-leading_zero-check) - A puppet-lint plugin to check for unquoted numbers with leading zero. (1 day ago)
 - [voxpupuli/puppet-lint-params_empty_string-check](https://github.com/voxpupuli/puppet-lint-params_empty_string-check) - Puppet-lint plugin to check for empty string assignations (1 day ago)
-- [voxpupuli/puppet-lint-param-types](https://github.com/voxpupuli/puppet-lint-param-types) - Puppet lint plugin that verifies that all class attributes are typed (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
