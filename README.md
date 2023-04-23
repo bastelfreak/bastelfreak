@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.0), 1 day ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.0.0), 1 day ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.0.rc.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.0.rc.1), 3 days ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v14.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v14.0.0), 5 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.0.0), 5 days ago) - Puppet Module to manage Java
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.0), 2 days ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.0.0), 2 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.0.rc.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.0.rc.1), 4 days ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v14.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v14.0.0), 6 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.0.0), 6 days ago) - Puppet Module to manage Java
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.7.6](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.7.6), 2 weeks ago) - Create and manage PE node groups as resources.
 - [puppetlabs/puppetlabs-motd](https://github.com/puppetlabs/puppetlabs-motd) ([v7.0.0](https://github.com/puppetlabs/puppetlabs-motd/releases/tag/v7.0.0), 2 weeks ago) - Simple motd module 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v4.3.0), 2 weeks ago) - Web frontend for PuppetDB
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (today)
-- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (today)
-- [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (today)
-- [voxpupuli/puppet-lint-variable_contains_upcase](https://github.com/voxpupuli/puppet-lint-variable_contains_upcase) -  (1 day ago)
-- [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (1 day ago)
-- [voxpupuli/puppet-lint-topscope-variable-check](https://github.com/voxpupuli/puppet-lint-topscope-variable-check) -  (1 day ago)
-- [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (1 day ago)
-- [voxpupuli/puppet-lint-version_comparison-check](https://github.com/voxpupuli/puppet-lint-version_comparison-check) - A puppet-lint plugin to check for versions compared as numbers. (1 day ago)
-- [voxpupuli/puppet-lint-leading_zero-check](https://github.com/voxpupuli/puppet-lint-leading_zero-check) - A puppet-lint plugin to check for unquoted numbers with leading zero. (1 day ago)
-- [voxpupuli/puppet-lint-params_empty_string-check](https://github.com/voxpupuli/puppet-lint-params_empty_string-check) - Puppet-lint plugin to check for empty string assignations (1 day ago)
+- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (1 day ago)
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (1 day ago)
+- [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (1 day ago)
+- [voxpupuli/puppet-lint-variable_contains_upcase](https://github.com/voxpupuli/puppet-lint-variable_contains_upcase) -  (2 days ago)
+- [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (2 days ago)
+- [voxpupuli/puppet-lint-topscope-variable-check](https://github.com/voxpupuli/puppet-lint-topscope-variable-check) -  (2 days ago)
+- [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (2 days ago)
+- [voxpupuli/puppet-lint-version_comparison-check](https://github.com/voxpupuli/puppet-lint-version_comparison-check) - A puppet-lint plugin to check for versions compared as numbers. (2 days ago)
+- [voxpupuli/puppet-lint-leading_zero-check](https://github.com/voxpupuli/puppet-lint-leading_zero-check) - A puppet-lint plugin to check for unquoted numbers with leading zero. (2 days ago)
+- [voxpupuli/puppet-lint-params_empty_string-check](https://github.com/voxpupuli/puppet-lint-params_empty_string-check) - Puppet-lint plugin to check for empty string assignations (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
