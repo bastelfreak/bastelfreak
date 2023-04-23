@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet-lint-manifest_whitespace-check](https://github.com/voxpupuli/puppet-lint-manifest_whitespace-check) - A puppet-lint check to validate whitespace in manifests (today)
-- [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (1 day ago)
 - [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (1 day ago)
+- [voxpupuli/voxpupuli-puppet-lint-plugins](https://github.com/voxpupuli/voxpupuli-puppet-lint-plugins) - Ruby gems that pulls in all puppet-lint plugins that Vox Pupuli uses (1 day ago)
 - [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (1 day ago)
-- [voxpupuli/puppet-lint-variable_contains_upcase](https://github.com/voxpupuli/puppet-lint-variable_contains_upcase) -  (2 days ago)
-- [voxpupuli/puppet-lint-params_empty_string-check](https://github.com/voxpupuli/puppet-lint-params_empty_string-check) - Puppet-lint plugin to check for empty string assignations (2 days ago)
-- [voxpupuli/puppet-lint-unquoted_string-check](https://github.com/voxpupuli/puppet-lint-unquoted_string-check) -  (2 days ago)
-- [voxpupuli/puppet-lint-topscope-variable-check](https://github.com/voxpupuli/puppet-lint-topscope-variable-check) -  (2 days ago)
+- [voxpupuli/puppet-lint-anchor-check](https://github.com/voxpupuli/puppet-lint-anchor-check) - Puppet-lint plugin to check for anchor resources (2 days ago)
 - [voxpupuli/puppet-lint-leading_zero-check](https://github.com/voxpupuli/puppet-lint-leading_zero-check) - A puppet-lint plugin to check for unquoted numbers with leading zero. (2 days ago)
-- [voxpupuli/puppet-lint-param-docs](https://github.com/voxpupuli/puppet-lint-param-docs) - puppet-lint check to validate all parameters are documented (2 days ago)
+- [voxpupuli/puppet-lint-absolute_classname-check](https://github.com/voxpupuli/puppet-lint-absolute_classname-check) - Puppet-lint plugin to check relative class name inclusions (2 days ago)
+- [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (2 days ago)
+- [voxpupuli/puppet-lint-variable_contains_upcase](https://github.com/voxpupuli/puppet-lint-variable_contains_upcase) -  (2 days ago)
+- [voxpupuli/puppet-lint-topscope-variable-check](https://github.com/voxpupuli/puppet-lint-topscope-variable-check) -  (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
