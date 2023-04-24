@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v8.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v8.6.0), today) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.1), today) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.0.0), 3 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.0.rc.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.0.rc.1), 5 days ago) - A set of shared spec helpers specific to Puppetlabs projects
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-motd](https://github.com/puppetlabs/puppetlabs-motd) ([v7.0.0](https://github.com/puppetlabs/puppetlabs-motd/releases/tag/v7.0.0), 2 weeks ago) - Simple motd module 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v4.3.0), 2 weeks ago) - Web frontend for PuppetDB
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.2](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.2), 3 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.13.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.13.0), 3 weeks ago) - 
 
 #### 📜 My recent blog posts
 
