@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/6052586?u=1c27d2f6c33b9ce63ad9781f0bb9cbdc13c62702&amp;v=4" height="20"/> mojibake-umd](https://github.com/mojibake-umd)
 - [<img src="https://avatars.githubusercontent.com/u/113218208?u=4c304cfb06f0ad89dee80bd5e857067702b10bbd&amp;v=4" height="20"/> Weldhappy](https://github.com/Weldhappy)
 - [<img src="https://avatars.githubusercontent.com/u/23510137?u=0c1ac60af30e2d25c5992b48b2f85a26efc931cd&amp;v=4" height="20"/> promasu](https://github.com/promasu)
 - [<img src="https://avatars.githubusercontent.com/u/3788105?u=48c26135dc22beeaec965cfd74ffc38f00407cc5&amp;v=4" height="20"/> Toutzn](https://github.com/Toutzn)
 - [<img src="https://avatars.githubusercontent.com/u/22379063?u=65e5ff246af87809768f9d844907feda018aed81&amp;v=4" height="20"/> maartenbeeckmans](https://github.com/maartenbeeckmans)
-- [<img src="https://avatars.githubusercontent.com/u/561997?u=587b901d06af33caa49144ea295d97df3c9ef163&amp;v=4" height="20"/> arusso](https://github.com/arusso)
 
 ### Top languages
 
