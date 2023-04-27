@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.0.0), today) - 
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.1), 2 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v8.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v8.6.0), 3 days ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.1), 3 days ago) - Puppet module for managing PostgreSQL
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.7.6](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.7.6), 3 weeks ago) - Create and manage PE node groups as resources.
 - [puppetlabs/puppetlabs-motd](https://github.com/puppetlabs/puppetlabs-motd) ([v7.0.0](https://github.com/puppetlabs/puppetlabs-motd/releases/tag/v7.0.0), 3 weeks ago) - Simple motd module 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v4.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v4.3.0), 3 weeks ago) - Web frontend for PuppetDB
-- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.2](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.2), 3 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 
 #### 📜 My recent blog posts
 
