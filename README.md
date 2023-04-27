@@ -69,7 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (1 day ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (today)
 - [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (2 days ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (3 days ago)
 - [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (3 days ago)
