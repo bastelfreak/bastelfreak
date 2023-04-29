@@ -72,8 +72,8 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (today)
 - [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 day ago)
 - [voxpupuli/puppet-falco](https://github.com/voxpupuli/puppet-falco) -  (1 day ago)
-- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 day ago)
 - [voxpupuli/puppet-windowsfeature](https://github.com/voxpupuli/puppet-windowsfeature) - Library that uses ServerAdministration api that comes with Windows Server 2008 and Windows Server 2012 to add / remove windows features (1 day ago)
+- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 day ago)
 - [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (1 day ago)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 day ago)
 - [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (1 day ago)
@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/128357418?v=4" height="20"/> Ibiboataisi24](https://github.com/Ibiboataisi24)
 - [<img src="https://avatars.githubusercontent.com/u/6052586?u=1c27d2f6c33b9ce63ad9781f0bb9cbdc13c62702&amp;v=4" height="20"/> mojibake-umd](https://github.com/mojibake-umd)
 - [<img src="https://avatars.githubusercontent.com/u/113218208?u=4c304cfb06f0ad89dee80bd5e857067702b10bbd&amp;v=4" height="20"/> Weldhappy](https://github.com/Weldhappy)
 - [<img src="https://avatars.githubusercontent.com/u/23510137?u=0c1ac60af30e2d25c5992b48b2f85a26efc931cd&amp;v=4" height="20"/> promasu](https://github.com/promasu)
 - [<img src="https://avatars.githubusercontent.com/u/3788105?u=48c26135dc22beeaec965cfd74ffc38f00407cc5&amp;v=4" height="20"/> Toutzn](https://github.com/Toutzn)
-- [<img src="https://avatars.githubusercontent.com/u/22379063?u=65e5ff246af87809768f9d844907feda018aed81&amp;v=4" height="20"/> maartenbeeckmans](https://github.com/maartenbeeckmans)
 
 ### Top languages
 
