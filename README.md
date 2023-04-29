@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (1 day ago)
-- [voxpupuli/puppet-windowsfeature](https://github.com/voxpupuli/puppet-windowsfeature) - Library that uses ServerAdministration api that comes with Windows Server 2008 and Windows Server 2012 to add / remove windows features (1 day ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (today)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 day ago)
 - [voxpupuli/puppet-falco](https://github.com/voxpupuli/puppet-falco) -  (1 day ago)
 - [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (1 day ago)
-- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (1 day ago)
+- [voxpupuli/puppet-windowsfeature](https://github.com/voxpupuli/puppet-windowsfeature) - Library that uses ServerAdministration api that comes with Windows Server 2008 and Windows Server 2012 to add / remove windows features (1 day ago)
+- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (1 day ago)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 day ago)
-- [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (1 day ago)
-- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (1 day ago)
+- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (1 day ago)
 - [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (1 day ago)
 - [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (1 day ago)
 
