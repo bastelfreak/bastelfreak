@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.2), today) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.14.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.14.0), 4 days ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.13.1](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.13.1), 5 days ago) - 
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.0.0), 5 days ago) - 
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.1), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v8.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v8.6.0), 1 week ago) - Puppet Labs Standard Library module
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.1), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.0.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v14.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v14.0.0), 2 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.0.0), 2 weeks ago) - Puppet Module to manage Java
@@ -75,8 +75,8 @@ Statement from Puppet Inc.:
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
 - [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (2 days ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (3 days ago)
-- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (4 days ago)
-- [voxpupuli/puppet-windows_env](https://github.com/voxpupuli/puppet-windows_env) - Puppet module for managing Windows environment variables.  (4 days ago)
+- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (4 days ago)
+- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (4 days ago)
 - [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (4 days ago)
 - [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (4 days ago)
 
