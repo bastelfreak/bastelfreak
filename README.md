@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.2), today) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.14.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.14.0), 4 days ago) - Module for managing Puppet-Agent
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.13.1](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.13.1), 5 days ago) - 
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.0.0), 5 days ago) - 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.2), 1 day ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.14.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.14.0), 5 days ago) - Module for managing Puppet-Agent
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.13.1](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.13.1), 6 days ago) - 
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.0.0), 6 days ago) - 
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.1), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v8.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v8.6.0), 1 week ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.0.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v14.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v14.0.0), 2 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.0.0), 2 weeks ago) - Puppet Module to manage Java
-- [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.7.6](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.7.6), 3 weeks ago) - Create and manage PE node groups as resources.
+- [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.7.6](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.7.6), 4 weeks ago) - Create and manage PE node groups as resources.
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (today)
-- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (1 day ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
-- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (2 days ago)
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (3 days ago)
-- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (4 days ago)
-- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (4 days ago)
-- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (4 days ago)
-- [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (4 days ago)
+- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (1 day ago)
+- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (2 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (2 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
+- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (3 days ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (4 days ago)
+- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (5 days ago)
+- [voxpupuli/puppet-winlogbeat](https://github.com/voxpupuli/puppet-winlogbeat) -  (5 days ago)
+- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (5 days ago)
+- [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
