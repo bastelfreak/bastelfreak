@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (today)
+- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (today)
 - [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (today)
 - [voxpupuli/puppet-jail](https://github.com/voxpupuli/puppet-jail) - FreeBSD Jails with Puppet (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-mumble](https://github.com/voxpupuli/puppet-mumble) - Puppet module to install and manage a Mumble server (today)
-- [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (today)
-- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (today)
+- [voxpupuli/puppet-augeasproviders_apache](https://github.com/voxpupuli/puppet-augeasproviders_apache) - Augeas-based apache types and providers for Puppet  (today)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (today)
+- [voxpupuli/puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform) (today)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (today)
 - [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (today)
-- [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (today)
+- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (today)
 
 #### 👥 Check out some of my recent followers
 
