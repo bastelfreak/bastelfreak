@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (today)
-- [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (today)
+- [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (today)
 - [voxpupuli/puppet-jail](https://github.com/voxpupuli/puppet-jail) - FreeBSD Jails with Puppet (today)
+- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-augeasproviders_apache](https://github.com/voxpupuli/puppet-augeasproviders_apache) - Augeas-based apache types and providers for Puppet  (today)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (today)
+- [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (today)
+- [voxpupuli/puppet-falco](https://github.com/voxpupuli/puppet-falco) -  (today)
 - [voxpupuli/puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform) (today)
-- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (today)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (today)
 - [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (today)
-- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (today)
+- [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) - Installs and configures zram_generator with puppet (today)
 
 #### 👥 Check out some of my recent followers
 
