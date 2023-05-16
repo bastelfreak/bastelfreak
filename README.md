@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.12.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.12.0), 3 days ago) - Puppet Enterprise (PE) Beaker Library
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.3), 6 days ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.12.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.12.0), 4 days ago) - Puppet Enterprise (PE) Beaker Library
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.3), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.14.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.14.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v1.13.1](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v1.13.1), 2 weeks ago) - 
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.0.0), 2 weeks ago) - 
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.1), 2 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.1), 3 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v8.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v8.6.0), 3 weeks ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.0.0), 3 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v14.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v14.0.0), 4 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
-- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (2 days ago)
-- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (3 days ago)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (3 days ago)
-- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (3 days ago)
-- [voxpupuli/puppet-windows_env](https://github.com/voxpupuli/puppet-windows_env) - Puppet module for managing Windows environment variables.  (3 days ago)
-- [voxpupuli/puppet-falco](https://github.com/voxpupuli/puppet-falco) -  (3 days ago)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (3 days ago)
-- [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (3 days ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (3 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
+- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (3 days ago)
+- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (4 days ago)
+- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (4 days ago)
+- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (4 days ago)
+- [voxpupuli/puppet-windows_env](https://github.com/voxpupuli/puppet-windows_env) - Puppet module for managing Windows environment variables.  (4 days ago)
+- [voxpupuli/puppet-falco](https://github.com/voxpupuli/puppet-falco) -  (4 days ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (4 days ago)
+- [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (4 days ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
