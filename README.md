@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (today)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
 - [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (4 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
 - [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (5 days ago)
 - [voxpupuli/puppet-windows_env](https://github.com/voxpupuli/puppet-windows_env) - Puppet module for managing Windows environment variables.  (5 days ago)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (5 days ago)
 - [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (5 days ago)
-- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (5 days ago)
+- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (5 days ago)
 - [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (5 days ago)
 
 #### 👥 Check out some of my recent followers
