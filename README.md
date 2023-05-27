@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.3](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.3), today) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.0.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.0.0), 1 day ago) - 
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.1.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.1.0), 1 day ago) - 
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.12.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.12.0), 2 weeks ago) - Puppet Enterprise (PE) Beaker Library
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v8.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v8.6.0), 1 month ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.0.0), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v14.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v14.0.0), 1 month ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.0.0), 1 month ago) - Puppet Module to manage Java
 
 #### 📜 My recent blog posts
 
