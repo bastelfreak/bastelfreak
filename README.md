@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (today)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
 - [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (1 day ago)
 - [voxpupuli/beaker_puppet_helpers](https://github.com/voxpupuli/beaker_puppet_helpers) - Beaker&#39;s Puppet DSL Extension Helpers (1 day ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
 - [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (6 days ago)
 - [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (1 week ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 week ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
 - [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (1 week ago)
-- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (1 week ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
+- [voxpupuli/puppet-mlocate](https://github.com/voxpupuli/puppet-mlocate) - Install mlocate and configure updatedb.conf (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
