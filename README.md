@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.1](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.1), 1 day ago) - Puppet Module to manage LVM
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.2](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.2), today) - Puppet Module to manage LVM
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.0.0), 1 week ago) - Puppet Labs Standard Library module
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.3](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.3), 1 week ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.0.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.0.0), 1 week ago) - 
