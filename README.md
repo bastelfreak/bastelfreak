@@ -42,6 +42,7 @@ Statement from Puppet Inc.:
 
 
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.2](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.2), 2 days ago) - Puppet Module to manage LVM
+- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.1.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.1.0), 1 week ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.0.0), 1 week ago) - Puppet Labs Standard Library module
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.3](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.3), 1 week ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.0.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.0.0), 2 weeks ago) - 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v8.0.1](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v8.0.1), 1 month ago) - File concatenation system for Puppet
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.3), 1 month ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.14.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.14.0), 1 month ago) - Module for managing Puppet-Agent
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.1), 1 month ago) - A set of shared spec helpers specific to Puppetlabs projects
 
 #### 📜 My recent blog posts
 
