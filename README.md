@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.1.0), today) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.2](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.2), 5 days ago) - Puppet Module to manage LVM
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.1.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.1.0), 1 week ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.0.0), 1 week ago) - Puppet Labs Standard Library module
@@ -49,7 +50,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.1.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.1.0), 2 weeks ago) - 
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.12.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.12.0), 1 month ago) - Puppet Enterprise (PE) Beaker Library
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v8.0.1](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v8.0.1), 1 month ago) - File concatenation system for Puppet
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.0.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.0.3), 1 month ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.14.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.14.0), 1 month ago) - Module for managing Puppet-Agent
 
 #### 📜 My recent blog posts
