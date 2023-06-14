@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/beaker_puppet_helpers](https://github.com/voxpupuli/beaker_puppet_helpers) - Beaker&#39;s Puppet DSL Extension Helpers (1 day ago)
-- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (2 days ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (2 days ago)
+- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (2 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (5 days ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (6 days ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 week ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 week ago)
-- [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
