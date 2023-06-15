@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.1.0), today) - Puppet Labs Standard Library module
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.8.0](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.8.0), 1 day ago) - Create and manage PE node groups as resources.
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.0), 2 days ago) - File concatenation system for Puppet
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.1.0), 3 days ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.2](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.2), 1 week ago) - Puppet Module to manage LVM
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.1.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.1.0), 2 weeks ago) - Puppet Webhook port in Golang
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.0.0), 2 weeks ago) - Puppet Labs Standard Library module
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.3](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.3), 2 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.0.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.0.0), 2 weeks ago) - 
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.1.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.1.0), 2 weeks ago) - 
