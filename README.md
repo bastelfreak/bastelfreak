@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), today) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.0), 4 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.1.0), 4 days ago) - Puppet Labs Standard Library module
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.8.0](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.8.0), 5 days ago) - Create and manage PE node groups as resources.
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.1.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.1.0), 2 weeks ago) - Puppet Webhook port in Golang
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v3.0.3](https://github.com/sensson/puppet-powerdns/releases/tag/v3.0.3), 3 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.0.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.0.0), 3 weeks ago) - 
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.1.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.1.0), 3 weeks ago) - 
 
 #### 📜 My recent blog posts
 
