@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.0), 1 day ago) - Puppet Module to manage Java
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), 2 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.0), 6 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.1.0), 6 days ago) - Puppet Labs Standard Library module
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.0), 2 days ago) - Puppet Module to manage Java
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), 3 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.1.0), 1 week ago) - Puppet Labs Standard Library module
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.8.0](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.8.0), 1 week ago) - Create and manage PE node groups as resources.
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.0), 1 week ago) - File concatenation system for Puppet
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.1.0), 1 week ago) - Puppet module for managing PostgreSQL
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-augeasproviders_core](https://github.com/voxpupuli/puppet-augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (today)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (today)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
-- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (today)
-- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 day ago)
-- [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
-- [voxpupuli/beaker_puppet_helpers](https://github.com/voxpupuli/beaker_puppet_helpers) - Beaker&#39;s Puppet DSL Extension Helpers (5 days ago)
-- [voxpupuli/voxpupuli-release](https://github.com/voxpupuli/voxpupuli-release) - A helper Gem for Vox Pupuli (5 days ago)
-- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (5 days ago)
+- [voxpupuli/puppet-augeasproviders_core](https://github.com/voxpupuli/puppet-augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (1 day ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 day ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
+- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (1 day ago)
+- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (2 days ago)
+- [voxpupuli/puppet-hdm](https://github.com/voxpupuli/puppet-hdm) - Puppet Module to manage Hiera Data Manager (HDM) (3 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
+- [voxpupuli/beaker_puppet_helpers](https://github.com/voxpupuli/beaker_puppet_helpers) - Beaker&#39;s Puppet DSL Extension Helpers (6 days ago)
+- [voxpupuli/voxpupuli-release](https://github.com/voxpupuli/voxpupuli-release) - A helper Gem for Vox Pupuli (6 days ago)
+- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
