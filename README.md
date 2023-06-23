@@ -75,7 +75,7 @@ Statement from Puppet Inc.:
 - [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (today)
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 day ago)
-- [voxpupuli/puppet-augeasproviders_postgresql](https://github.com/voxpupuli/puppet-augeasproviders_postgresql) - Augeas-based postgresql types and providers for Puppet  (1 day ago)
+- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (1 day ago)
 - [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (1 day ago)
 - [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (1 day ago)
 - [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) - Augeas-based grub type and providers (1 day ago)
