@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.2.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.2.0), 1 day ago) - 
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.0), 3 days ago) - Puppet Module to manage Java
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), 4 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
+- [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.2.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.2.0), 2 days ago) - 
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.0), 4 days ago) - Puppet Module to manage Java
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), 5 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.1.0), 1 week ago) - Puppet Labs Standard Library module
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.8.0](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.8.0), 1 week ago) - Create and manage PE node groups as resources.
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [betadots/smart_proxy_hdm](https://github.com/betadots/smart_proxy_hdm) -  (today)
-- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (today)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
-- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (today)
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 day ago)
-- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (1 day ago)
-- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (1 day ago)
-- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (1 day ago)
-- [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) - Augeas-based grub type and providers (1 day ago)
+- [betadots/smart_proxy_hdm](https://github.com/betadots/smart_proxy_hdm) -  (1 day ago)
+- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (1 day ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
+- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 day ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (2 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
+- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (2 days ago)
+- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (2 days ago)
+- [voxpupuli/puppet-chrony](https://github.com/voxpupuli/puppet-chrony) - Puppet module for Chrony with Systemd (2 days ago)
+- [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) - Augeas-based grub type and providers (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
