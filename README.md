@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/129617243?v=4" height="20"/> imowmoo](https://github.com/imowmoo)
 - [<img src="https://avatars.githubusercontent.com/u/66920283?v=4" height="20"/> birhan-kassaye](https://github.com/birhan-kassaye)
 - [<img src="https://avatars.githubusercontent.com/u/131788756?v=4" height="20"/> Carinamaus](https://github.com/Carinamaus)
 - [<img src="https://avatars.githubusercontent.com/u/569574?u=b6f8f44b60657870b2afd38f4bb5756f4506b289&amp;v=4" height="20"/> daenney](https://github.com/daenney)
 - [<img src="https://avatars.githubusercontent.com/u/128357418?v=4" height="20"/> Ibiboataisi24](https://github.com/Ibiboataisi24)
-- [<img src="https://avatars.githubusercontent.com/u/6052586?u=1c27d2f6c33b9ce63ad9781f0bb9cbdc13c62702&amp;v=4" height="20"/> mojibake-umd](https://github.com/mojibake-umd)
 
 ### Top languages
 
