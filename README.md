@@ -41,13 +41,13 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.2.0), 1 day ago) - Puppet Labs Standard Library module
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.13.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.13.1), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.2.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.2.0), 6 days ago) - 
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.2.0), 2 days ago) - Puppet Labs Standard Library module
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.13.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.13.1), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.2.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.2.0), 1 week ago) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.0), 1 week ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-inifile](https://github.com/puppetlabs/puppetlabs-inifile) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-inifile/releases/tag/v6.1.0), 1 week ago) - Resource types for managing settings in INI files
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), 1 week ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.0), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.8.0](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.8.0), 2 weeks ago) - Create and manage PE node groups as resources.
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.0), 2 weeks ago) - File concatenation system for Puppet
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.1.0), 2 weeks ago) - Puppet module for managing PostgreSQL
@@ -63,22 +63,22 @@ Statement from Puppet Inc.:
 - [Migrate CentOS 8 to AlmaLinux](https://blog.bastelfreak.de/2022/01/migrate-centos-8-to-almalinux/) (1 year ago)
 - [DNS Setup for own domains](https://blog.bastelfreak.de/2022/01/dns-setup-for-own-domains/) (1 year ago)
 - [Setup Gentoo on a Hetzner server](https://blog.bastelfreak.de/2022/01/setup-gentoo-on-a-hetzner-server/) (1 year ago)
-- [systemd-networkd &#43; wireguard configuration](https://blog.bastelfreak.de/2022/01/systemd-networkd-wireguard-configuration/) (1 year ago)
+- [systemd-networkd &#43; wireguard configuration](https://blog.bastelfreak.de/2022/01/systemd-networkd-wireguard-configuration/) (2 years ago)
 - [systemd-networkd configuration](https://blog.bastelfreak.de/2022/01/systemd-networkd-configuration/) (2 years ago)
 
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (today)
-- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (today)
-- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (today)
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (today)
-- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (1 day ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
-- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (2 days ago)
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (4 days ago)
-- [betadots/smart_proxy_hdm](https://github.com/betadots/smart_proxy_hdm) -  (5 days ago)
-- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (5 days ago)
+- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (1 day ago)
+- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (1 day ago)
+- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (1 day ago)
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes (1 day ago)
+- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (2 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
+- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (3 days ago)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (5 days ago)
+- [betadots/smart_proxy_hdm](https://github.com/betadots/smart_proxy_hdm) -  (6 days ago)
+- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
