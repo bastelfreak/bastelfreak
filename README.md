@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.1), 2 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.2.0), 5 days ago) - Puppet Labs Standard Library module
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.13.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.13.1), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.1), 3 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.2.0), 6 days ago) - Puppet Labs Standard Library module
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.13.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.13.1), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.2.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.2.0), 1 week ago) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.0), 1 week ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-inifile](https://github.com/puppetlabs/puppetlabs-inifile) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-inifile/releases/tag/v6.1.0), 1 week ago) - Resource types for managing settings in INI files
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), 1 week ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), 2 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.8.0](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.8.0), 2 weeks ago) - Create and manage PE node groups as resources.
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.0), 2 weeks ago) - File concatenation system for Puppet
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.1.0), 2 weeks ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.1.0), 3 weeks ago) - Puppet module for managing PostgreSQL
 
 #### 📜 My recent blog posts
 
@@ -59,7 +59,7 @@ Statement from Puppet Inc.:
 - [systemd unit hardening followup followup](https://blog.bastelfreak.de/2022/01/systemd-unit-hardening-followup-followup/) (1 year ago)
 - [Puppet PQL Queries](https://blog.bastelfreak.de/2022/01/puppet-pql-queries/) (1 year ago)
 - [PostgreSQL: Do a VACUUM FULL without exclusive locks!](https://blog.bastelfreak.de/2022/01/postgresql-do-a-vacuum-full-without-exclusive-locks/) (1 year ago)
-- [systemd unit hardening followup](https://blog.bastelfreak.de/2022/01/systemd-unit-hardening-followup/) (1 year ago)
+- [systemd unit hardening followup](https://blog.bastelfreak.de/2022/01/systemd-unit-hardening-followup/) (2 years ago)
 - [Migrate CentOS 8 to AlmaLinux](https://blog.bastelfreak.de/2022/01/migrate-centos-8-to-almalinux/) (2 years ago)
 - [DNS Setup for own domains](https://blog.bastelfreak.de/2022/01/dns-setup-for-own-domains/) (2 years ago)
 - [Setup Gentoo on a Hetzner server](https://blog.bastelfreak.de/2022/01/setup-gentoo-on-a-hetzner-server/) (2 years ago)
@@ -77,8 +77,8 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (today)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (today)
 - [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (today)
-- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 day ago)
-- [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network) - Types and providers to manage network interfaces (1 day ago)
+- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (2 days ago)
+- [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network) - Types and providers to manage network interfaces (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
