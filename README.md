@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.3](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.3), 5 days ago) - Puppet Module to manage LVM
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.1), 1 week ago) - Puppet Module to manage Java
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.3](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.3), 6 days ago) - Puppet Module to manage LVM
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.1), 2 weeks ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.1), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.2.0), 2 weeks ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.13.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.13.1), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-satellite_pe_tools](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools) ([v4.2.0](https://github.com/puppetlabs/puppetlabs-satellite_pe_tools/releases/tag/v4.2.0), 3 weeks ago) - 
 - [puppetlabs/puppetlabs-inifile](https://github.com/puppetlabs/puppetlabs-inifile) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-inifile/releases/tag/v6.1.0), 3 weeks ago) - Resource types for managing settings in INI files
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), 3 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v15.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v15.0.0), 4 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [WhatsARanjit/puppet-node_manager](https://github.com/WhatsARanjit/puppet-node_manager) ([0.8.0](https://github.com/WhatsARanjit/puppet-node_manager/releases/tag/0.8.0), 1 month ago) - Create and manage PE node groups as resources.
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.0](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.0), 1 month ago) - File concatenation system for Puppet
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
-- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (2 days ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (2 days ago)
-- [voxpupuli/puppet-lint-param-types](https://github.com/voxpupuli/puppet-lint-param-types) - Puppet lint plugin that verifies that all class attributes are typed (2 days ago)
-- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (2 days ago)
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (2 days ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (2 days ago)
-- [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (2 days ago)
-- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (3 days ago)
-- [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (3 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (3 days ago)
+- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (3 days ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (3 days ago)
+- [voxpupuli/puppet-lint-param-types](https://github.com/voxpupuli/puppet-lint-param-types) - Puppet lint plugin that verifies that all class attributes are typed (3 days ago)
+- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (3 days ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (3 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (3 days ago)
+- [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (3 days ago)
+- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (4 days ago)
+- [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
