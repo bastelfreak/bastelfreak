@@ -69,8 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [betadots/linux_ha-training](https://github.com/betadots/linux_ha-training) -  (2 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [betadots/linux_ha-training](https://github.com/betadots/linux_ha-training) -  (3 days ago)
 - [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (1 week ago)
 - [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 week ago)
 - [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (1 week ago)
