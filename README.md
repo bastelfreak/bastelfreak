@@ -76,8 +76,8 @@ Statement from Puppet Inc.:
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (5 days ago)
 - [betadots/linux_ha-training](https://github.com/betadots/linux_ha-training) -  (1 week ago)
 - [voxpupuli/puppet-lint-param-types](https://github.com/voxpupuli/puppet-lint-param-types) - Puppet lint plugin that verifies that all class attributes are typed (1 week ago)
-- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 week ago)
 - [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (1 week ago)
+- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 week ago)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 week ago)
 
 #### 👥 Check out some of my recent followers
