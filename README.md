@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.2), today) - Puppet Module to manage Java
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.0.0), today) - Web frontend for PuppetDB
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.2.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.2.0), 2 days ago) - 
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v6.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v6.0.0), 2 days ago) - Puppet Firewall Module
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.3](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.3), 2 weeks ago) - Puppet Module to manage LVM
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.1), 3 weeks ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.1), 3 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.2.0), 1 month ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.13.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.13.1), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
