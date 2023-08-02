@@ -71,14 +71,14 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (today)
 - [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (today)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
 - [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (2 days ago)
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (3 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
 - [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (3 days ago)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (3 days ago)
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
