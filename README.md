@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.0), 1 day ago) - 
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.1](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.1), today) - 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 2 days ago) - Puppet Labs Standard Library module
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.0.0), 1 week ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.2), 1 week ago) - Puppet Module to manage Java
