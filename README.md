@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.1](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.1), today) - 
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 2 days ago) - Puppet Labs Standard Library module
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.1](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.1), 1 day ago) - 
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 3 days ago) - Puppet Labs Standard Library module
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.0.0), 1 week ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.2), 1 week ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v6.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v6.0.0), 1 week ago) - Puppet Firewall Module
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 day ago)
-- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (1 day ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (3 days ago)
-- [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (3 days ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (3 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
-- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (4 days ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (4 days ago)
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (4 days ago)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (2 days ago)
+- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (2 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (4 days ago)
+- [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (4 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (4 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
+- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (5 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (5 days ago)
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
