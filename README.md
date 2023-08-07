@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.1](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.1), 3 days ago) - 
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 5 days ago) - Puppet Labs Standard Library module
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.1](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.1), 4 days ago) - 
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 6 days ago) - Puppet Labs Standard Library module
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.0.0), 1 week ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.2), 1 week ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v6.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v6.0.0), 1 week ago) - Puppet Firewall Module
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (today)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
-- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (2 days ago)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (2 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
-- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (4 days ago)
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (4 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (6 days ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (6 days ago)
+- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (1 day ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
+- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (3 days ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (3 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
+- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (5 days ago)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (5 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (1 week ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
