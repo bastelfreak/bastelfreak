@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.2](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.2), today) - 
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 6 days ago) - Puppet Labs Standard Library module
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.2](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.2), 1 day ago) - 
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 1 week ago) - Puppet Labs Standard Library module
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.0.0), 1 week ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.2), 1 week ago) - Puppet Module to manage Java
-- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v6.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v6.0.0), 1 week ago) - Puppet Firewall Module
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.3](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.3), 3 weeks ago) - Puppet Module to manage LVM
+- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v6.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v6.0.0), 2 weeks ago) - Puppet Firewall Module
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.3](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.3), 4 weeks ago) - Puppet Module to manage LVM
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.1), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.13.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.13.1), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-inifile](https://github.com/puppetlabs/puppetlabs-inifile) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-inifile/releases/tag/v6.1.0), 1 month ago) - Resource types for managing settings in INI files
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (today)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
-- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (today)
-- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (today)
-- [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network) - Types and providers to manage network interfaces (today)
-- [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (today)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (3 days ago)
-- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (3 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
+- [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (1 day ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
+- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (1 day ago)
+- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (1 day ago)
+- [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network) - Types and providers to manage network interfaces (1 day ago)
+- [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (1 day ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (4 days ago)
+- [voxpupuli/puppet-elastic_stack](https://github.com/voxpupuli/puppet-elastic_stack) -  (4 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
