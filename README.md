@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.14.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.14.0), 4 days ago) - Puppet Enterprise (PE) Beaker Library
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.2](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.2), 6 days ago) - 
+- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.14.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.14.0), 5 days ago) - Puppet Enterprise (PE) Beaker Library
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.2](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.2), 1 week ago) - 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 1 week ago) - Puppet Labs Standard Library module
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.0.0), 2 weeks ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.2), 2 weeks ago) - Puppet Module to manage Java
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (1 day ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 day ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (2 days ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (2 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (2 days ago)
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (2 days ago)
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (3 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (5 days ago)
-- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (5 days ago)
+- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (2 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (2 days ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (3 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (3 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (3 days ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (3 days ago)
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (4 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (6 days ago)
+- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
