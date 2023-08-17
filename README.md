@@ -71,11 +71,11 @@ Statement from Puppet Inc.:
 
 - [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) -  (today)
 - [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) - Puppet module for managing Windows environment variables.  (today)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
 - [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (1 day ago)
 - [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (1 day ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
 - [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (3 days ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (5 days ago)
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (5 days ago)
