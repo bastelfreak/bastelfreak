@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-sslcertificate](https://github.com/puppetlabs/puppetlabs-sslcertificate) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-sslcertificate/releases/tag/v5.0.0), today) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards
 - [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-windows_env/releases/tag/v5.0.0), today) - Puppet module for managing Windows environment variables. 
 - [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) ([v4.0.0](https://github.com/puppetlabs/puppetlabs-windows_eventlog/releases/tag/v4.0.0), today) - 
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.14.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.14.0), 1 week ago) - Puppet Enterprise (PE) Beaker Library
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v10.1.2](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v10.1.2), 3 weeks ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v6.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v6.0.0), 3 weeks ago) - Puppet Firewall Module
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.0.3](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.0.3), 1 month ago) - Puppet Module to manage LVM
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v10.1.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v10.1.1), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) - Puppet module for managing Windows environment variables.  (today)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) -  (today)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
 - [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (today)
+- [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) -  (today)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
+- [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) - Puppet module for managing Windows environment variables.  (today)
+- [voxpupuli/puppet-allknowingdns](https://github.com/voxpupuli/puppet-allknowingdns) - Tiny DNS server for IPv6 Reverse DNS (today)
 - [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (1 day ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
 - [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (1 day ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
-- [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
