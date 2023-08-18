@@ -69,25 +69,25 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (1 day ago)
-- [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) -  (1 day ago)
+- [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (1 day ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
-- [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) - Puppet module for managing Windows environment variables.  (1 day ago)
-- [voxpupuli/puppet-allknowingdns](https://github.com/voxpupuli/puppet-allknowingdns) - Tiny DNS server for IPv6 Reverse DNS (1 day ago)
-- [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (2 days ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (2 days ago)
-- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (2 days ago)
+- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (1 day ago)
+- [voxpupuli/puppet-sftp_jail](https://github.com/voxpupuli/puppet-sftp_jail) -  (1 day ago)
+- [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (1 day ago)
+- [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) -  (1 day ago)
+- [voxpupuli/puppet-opensearch](https://github.com/voxpupuli/puppet-opensearch) - Puppet module to manage OpenSearch (1 day ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/104737?u=24b53dd7f97ac2811160705ccb58495692e6eb6c&amp;v=4" height="20"/> Neustradamus](https://github.com/Neustradamus)
 - [<img src="https://avatars.githubusercontent.com/u/1623682?u=b9158b4d8b027e7f0f55b641c794632101e5a723&amp;v=4" height="20"/> Ph0B1uS](https://github.com/Ph0B1uS)
 - [<img src="https://avatars.githubusercontent.com/u/129617243?v=4" height="20"/> imowmoo](https://github.com/imowmoo)
 - [<img src="https://avatars.githubusercontent.com/u/66920283?v=4" height="20"/> birhan-kassaye](https://github.com/birhan-kassaye)
 - [<img src="https://avatars.githubusercontent.com/u/131788756?v=4" height="20"/> Carinamaus](https://github.com/Carinamaus)
-- [<img src="https://avatars.githubusercontent.com/u/569574?u=b6f8f44b60657870b2afd38f4bb5756f4506b289&amp;v=4" height="20"/> daenney](https://github.com/daenney)
 
 ### Top languages
 
