@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (today)
-- [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (today)
-- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (today)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (today)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (today)
 - [voxpupuli/puppet-dotnet](https://github.com/voxpupuli/puppet-dotnet) - puppet module for managing Microsoft .NET (today)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (today)
-- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (today)
-- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (today)
-- [voxpupuli/puppet-augeasproviders_base](https://github.com/voxpupuli/puppet-augeasproviders_base) - Augeas-based additional providers for Puppet base types (1 day ago)
+- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (today)
+- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (today)
+- [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (today)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (today)
+- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (today)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (today)
+- [voxpupuli/puppet-virtualbox](https://github.com/voxpupuli/puppet-virtualbox) - A Puppet module to install and manage VirtualBox (today)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (today)
+- [voxpupuli/puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform) (today)
 
 #### 👥 Check out some of my recent followers
 
