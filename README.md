@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (today)
+- [voxpupuli/puppet-hashi_stack](https://github.com/voxpupuli/puppet-hashi_stack) - This module contains shared code for various HashiCorp modules (today)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (today)
-- [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) - Puppet module to manage Net-SNMP. (1 day ago)
-- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 day ago)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 day ago)
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (today)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (1 day ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 day ago)
-- [voxpupuli/puppet-dotnet](https://github.com/voxpupuli/puppet-dotnet) - puppet module for managing Microsoft .NET (1 day ago)
-- [voxpupuli/puppet-windowsfeature](https://github.com/voxpupuli/puppet-windowsfeature) - Library that uses ServerAdministration api that comes with Windows Server 2008 and Windows Server 2012 to add / remove windows features (1 day ago)
-- [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network) - Types and providers to manage network interfaces (1 day ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 day ago)
 - [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (1 day ago)
+- [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (1 day ago)
+- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (1 day ago)
+- [voxpupuli/puppet-virtualbox](https://github.com/voxpupuli/puppet-virtualbox) - A Puppet module to install and manage VirtualBox (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
