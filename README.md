@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-sslcertificate](https://github.com/puppetlabs/puppetlabs-sslcertificate) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-sslcertificate/releases/tag/v5.0.0), 5 days ago) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards
-- [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-windows_env/releases/tag/v5.0.0), 5 days ago) - Puppet module for managing Windows environment variables. 
-- [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) ([v4.0.0](https://github.com/puppetlabs/puppetlabs-windows_eventlog/releases/tag/v4.0.0), 5 days ago) - 
-- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.14.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.14.0), 1 week ago) - Puppet Enterprise (PE) Beaker Library
+- [puppetlabs/puppetlabs-sslcertificate](https://github.com/puppetlabs/puppetlabs-sslcertificate) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-sslcertificate/releases/tag/v5.0.0), 6 days ago) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards
+- [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-windows_env/releases/tag/v5.0.0), 6 days ago) - Puppet module for managing Windows environment variables. 
+- [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) ([v4.0.0](https://github.com/puppetlabs/puppetlabs-windows_eventlog/releases/tag/v4.0.0), 6 days ago) - 
+- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.14.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.14.0), 2 weeks ago) - Puppet Enterprise (PE) Beaker Library
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.2](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.2), 2 weeks ago) - 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 3 weeks ago) - Puppet Labs Standard Library module
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.0.0), 3 weeks ago) - Web frontend for PuppetDB
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor (today)
-- [voxpupuli/puppet-epel](https://github.com/voxpupuli/puppet-epel) - Setup/configure EPEL (extra repository for enterprise linux) with Puppet (today)
-- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (1 day ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 day ago)
-- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 day ago)
-- [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (1 day ago)
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (1 day ago)
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (2 days ago)
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (3 days ago)
+- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor (1 day ago)
+- [voxpupuli/puppet-epel](https://github.com/voxpupuli/puppet-epel) - Setup/configure EPEL (extra repository for enterprise linux) with Puppet (1 day ago)
+- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (2 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (2 days ago)
+- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (2 days ago)
+- [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (2 days ago)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (2 days ago)
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (3 days ago)
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
