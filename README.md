@@ -76,9 +76,9 @@ Statement from Puppet Inc.:
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor (4 days ago)
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (5 days ago)
 - [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (5 days ago)
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (5 days ago)
 - [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (5 days ago)
 - [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (5 days ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
