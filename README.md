@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.14.1](https://github.com/puppetlabs/beaker-pe/releases/tag/2.14.1), 5 days ago) - Puppet Enterprise (PE) Beaker Library
+- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.15.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.15.0), today) - Puppet Enterprise (PE) Beaker Library
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.0.0](https://github.com/sensson/puppet-powerdns/releases/tag/v4.0.0), 5 days ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppetlabs-sslcertificate](https://github.com/puppetlabs/puppetlabs-sslcertificate) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-sslcertificate/releases/tag/v5.0.0), 1 week ago) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards
 - [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-windows_env/releases/tag/v5.0.0), 1 week ago) - Puppet module for managing Windows environment variables. 
