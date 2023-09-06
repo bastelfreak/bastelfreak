@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.2.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.2.0), today) - Puppet Webhook port in Golang
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.2.0), 6 days ago) - Puppet module for managing PostgreSQL
+- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.2.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.2.0), 1 day ago) - Puppet Webhook port in Golang
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.2.0), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.15.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.15.0), 1 week ago) - Puppet Enterprise (PE) Beaker Library
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.0.0](https://github.com/sensson/puppet-powerdns/releases/tag/v4.0.0), 1 week ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppetlabs-sslcertificate](https://github.com/puppetlabs/puppetlabs-sslcertificate) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-sslcertificate/releases/tag/v5.0.0), 2 weeks ago) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards
 - [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-windows_env/releases/tag/v5.0.0), 2 weeks ago) - Puppet module for managing Windows environment variables. 
 - [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) ([v4.0.0](https://github.com/puppetlabs/puppetlabs-windows_eventlog/releases/tag/v4.0.0), 2 weeks ago) - 
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.2](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.2), 4 weeks ago) - 
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.2](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.2), 1 month ago) - 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.3.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.3.0), 1 month ago) - Puppet Labs Standard Library module
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.0.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.0.0), 1 month ago) - Web frontend for PuppetDB
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
-- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (1 day ago)
-- [voxpupuli/puppet-blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with Puppet Module utilities (1 day ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 day ago)
-- [voxpupuli/beaker-module_install_helper](https://github.com/voxpupuli/beaker-module_install_helper) - A library to make installing modules and their dependencies on test machines easier (1 day ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (1 day ago)
-- [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 day ago)
-- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (1 day ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
+- [voxpupuli/puppet-lint_modulesync_configs](https://github.com/voxpupuli/puppet-lint_modulesync_configs) - Modulesync configs for puppet-lint plugins (2 days ago)
+- [voxpupuli/puppet-blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with Puppet Module utilities (2 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (2 days ago)
+- [voxpupuli/beaker-module_install_helper](https://github.com/voxpupuli/beaker-module_install_helper) - A library to make installing modules and their dependencies on test machines easier (2 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (2 days ago)
+- [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (2 days ago)
+- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
