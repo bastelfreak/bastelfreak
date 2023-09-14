@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v7.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v7.0.0), 1 day ago) - Puppet Firewall Module
+- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v7.0.1](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v7.0.1), today) - Puppet Firewall Module
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.0.1](https://github.com/sensson/puppet-powerdns/releases/tag/v4.0.1), 1 week ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.2.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.2.0), 1 week ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.2.0), 2 weeks ago) - Puppet module for managing PostgreSQL
