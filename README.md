@@ -41,15 +41,15 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.14.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.14.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v7.0.2), 1 day ago) - Puppet Firewall Module
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.14.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.14.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v7.0.2), 2 days ago) - Puppet Firewall Module
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.0.1](https://github.com/sensson/puppet-powerdns/releases/tag/v4.0.1), 1 week ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.2.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.2.0), 1 week ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.2.0), 2 weeks ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.15.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.15.0), 2 weeks ago) - Puppet Enterprise (PE) Beaker Library
-- [puppetlabs/puppetlabs-sslcertificate](https://github.com/puppetlabs/puppetlabs-sslcertificate) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-sslcertificate/releases/tag/v5.0.0), 4 weeks ago) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards
-- [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-windows_env/releases/tag/v5.0.0), 4 weeks ago) - Puppet module for managing Windows environment variables. 
-- [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) ([v4.0.0](https://github.com/puppetlabs/puppetlabs-windows_eventlog/releases/tag/v4.0.0), 4 weeks ago) - 
+- [puppetlabs/puppetlabs-sslcertificate](https://github.com/puppetlabs/puppetlabs-sslcertificate) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-sslcertificate/releases/tag/v5.0.0), 1 month ago) - Puppet module to manage SSL Certificates on WIndows Server 2008 and upwards
+- [puppetlabs/puppetlabs-windows_env](https://github.com/puppetlabs/puppetlabs-windows_env) ([v5.0.0](https://github.com/puppetlabs/puppetlabs-windows_env/releases/tag/v5.0.0), 1 month ago) - Puppet module for managing Windows environment variables. 
+- [puppetlabs/puppetlabs-windows_eventlog](https://github.com/puppetlabs/puppetlabs-windows_eventlog) ([v4.0.0](https://github.com/puppetlabs/puppetlabs-windows_eventlog/releases/tag/v4.0.0), 1 month ago) - 
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.3.2](https://github.com/puppetlabs/influxdb/releases/tag/v2.3.2), 1 month ago) - 
 
 #### 📜 My recent blog posts
@@ -69,11 +69,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (today)
-- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (today)
-- [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (today)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (today)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
+- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (1 day ago)
+- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (1 day ago)
+- [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (1 day ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 day ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 week ago)
 - [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (1 week ago)
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (1 week ago)
