@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (today)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (2 days ago)
 - [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (2 days ago)
 - [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (2 days ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (5 days ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 week ago)
 - [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (1 week ago)
-- [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (1 week ago)
 - [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (1 week ago)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 week ago)
 
