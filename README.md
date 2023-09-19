@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/Spacegray.vim](https://github.com/bastelfreak/Spacegray.vim) - copy of https://github.com/ajh17/Spacegray.vim.git
 - [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x
 - [bastelfreak/puppet-ivanti](https://github.com/bastelfreak/puppet-ivanti) - A Puppet module to install Ivanti agent on Linux
 - [bastelfreak/cfgmgmtcamp2023](https://github.com/bastelfreak/cfgmgmtcamp2023) - My talk about open source contributions for Puppetize 2021
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/fluent-bit-pkgbuild](https://github.com/bastelfreak/fluent-bit-pkgbuild) - AUR package for fluent-bit
 - [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync!
 - [bastelfreak/env2module-differ](https://github.com/bastelfreak/env2module-differ) - Check your Puppet environments against metadata.json files from all modules!
-- [bastelfreak/puppetdocs](https://github.com/bastelfreak/puppetdocs) - Ultimate puppet walkthrough guide! (in German)
 
 #### 🔭 Latest releases I've contributed to
 
