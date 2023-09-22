@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.15.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.15.0), today) - Module for managing Puppet-Agent
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.1.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.1.0), today) - Puppet Module to manage LVM
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.4](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.4), 3 days ago) - A Puppet module to manage MCollective
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.14.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.14.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.15.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.15.0), 1 day ago) - Module for managing Puppet-Agent
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.1.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.1.0), 1 day ago) - Puppet Module to manage LVM
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.4](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.4), 4 days ago) - A Puppet module to manage MCollective
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.14.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.14.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v7.0.2](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v7.0.2), 1 week ago) - Puppet Firewall Module
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.0.1](https://github.com/sensson/puppet-powerdns/releases/tag/v4.0.1), 2 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.2.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.2.0), 2 weeks ago) - Puppet Webhook port in Golang
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 day ago)
-- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (1 day ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (2 days ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (3 days ago)
-- [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (4 days ago)
-- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (6 days ago)
-- [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (6 days ago)
-- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (6 days ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (6 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (2 days ago)
+- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (2 days ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (3 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (4 days ago)
+- [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) - indent check for puppet-lint (5 days ago)
+- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (1 week ago)
+- [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (1 week ago)
+- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (1 week ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
