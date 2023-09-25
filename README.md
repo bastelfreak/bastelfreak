@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.2), today) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v11.1.0), today) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.15.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.15.0), 4 days ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.1.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.1.0), 4 days ago) - Puppet Module to manage LVM
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.0.1](https://github.com/sensson/puppet-powerdns/releases/tag/v4.0.1), 2 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.2.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.2.0), 2 weeks ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v9.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v9.2.0), 3 weeks ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.15.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.15.0), 3 weeks ago) - Puppet Enterprise (PE) Beaker Library
 
 #### 📜 My recent blog posts
 
