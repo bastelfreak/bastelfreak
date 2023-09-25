@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v11.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v11.0.0), 3 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v11.1.0), today) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.15.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.15.0), 4 days ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.1.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.1.0), 4 days ago) - Puppet Module to manage LVM
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.4](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.4), 1 week ago) - A Puppet module to manage MCollective
