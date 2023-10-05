@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/voxpupuli-release](https://github.com/voxpupuli/voxpupuli-release) - A helper Gem for Vox Pupuli (today)
-- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (today)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
 - [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (today)
+- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (today)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
+- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (today)
 - [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 day ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (2 days ago)
 - [voxpupuli/puppet-blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with Puppet Module utilities (2 days ago)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 week ago)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (1 week ago)
-- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
