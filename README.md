@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v11.1.0](https://github.com/saz/puppet-ssh/releases/tag/v11.1.0), 1 day ago) - Puppet module to manage ssh server and client
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.0), 5 days ago) - Puppet Labs Standard Library module
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v11.1.0](https://github.com/saz/puppet-ssh/releases/tag/v11.1.0), 2 days ago) - Puppet module to manage ssh server and client
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.0), 6 days ago) - Puppet Labs Standard Library module
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.4.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.4.0), 1 week ago) - 
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.1.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.1.0), 1 week ago) - 
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.2), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v11.1.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.15.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.15.0), 1 week ago) - Module for managing Puppet-Agent
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.1.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.1.0), 1 week ago) - Puppet Module to manage LVM
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.15.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.15.0), 2 weeks ago) - Module for managing Puppet-Agent
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.1.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.1.0), 2 weeks ago) - Puppet Module to manage LVM
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.4](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.4), 2 weeks ago) - A Puppet module to manage MCollective
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.14.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.14.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
@@ -70,12 +70,12 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (today)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (today)
-- [voxpupuli/puppet-blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with Puppet Module utilities (1 day ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (6 days ago)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (6 days ago)
-- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (6 days ago)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 day ago)
+- [voxpupuli/puppet-blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with Puppet Module utilities (2 days ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (2 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 week ago)
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (1 week ago)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (1 week ago)
 - [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (1 week ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
 - [voxpupuli/beaker-hcloud](https://github.com/voxpupuli/beaker-hcloud) - Hetzner Cloud hypervisor library for beaker (1 week ago)
