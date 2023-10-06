@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.15.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.15.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v11.1.0](https://github.com/saz/puppet-ssh/releases/tag/v11.1.0), 3 days ago) - Puppet module to manage ssh server and client
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.0), 1 week ago) - Puppet Labs Standard Library module
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.4.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.4.0), 1 week ago) - 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.15.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.15.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.1.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.1.0), 2 weeks ago) - Puppet Module to manage LVM
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.4](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.4), 2 weeks ago) - A Puppet module to manage MCollective
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.14.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.14.0), 3 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
 #### 📜 My recent blog posts
 
