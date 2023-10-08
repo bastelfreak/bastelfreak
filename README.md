@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.1.0), today) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([3.2.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/3.2.0), today) - Python library for working with the PuppetDB API
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.15.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.15.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v11.1.0](https://github.com/saz/puppet-ssh/releases/tag/v11.1.0), 5 days ago) - Puppet module to manage ssh server and client
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.2), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v11.1.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.15.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.15.0), 2 weeks ago) - Module for managing Puppet-Agent
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.1.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.1.0), 2 weeks ago) - Puppet Module to manage LVM
 
 #### 📜 My recent blog posts
 
@@ -70,8 +70,8 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (today)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (today)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (today)
 - [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (2 days ago)
