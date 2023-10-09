@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.3), today) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.1.0), 1 day ago) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([3.2.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/3.2.0), 1 day ago) - Python library for working with the PuppetDB API
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.15.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.15.0), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -48,7 +49,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.0), 1 week ago) - Puppet Labs Standard Library module
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.4.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.4.0), 2 weeks ago) - 
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.1.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.1.0), 2 weeks ago) - 
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.2), 2 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v11.1.0), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.15.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.15.0), 2 weeks ago) - Module for managing Puppet-Agent
 
