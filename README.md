@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.0), 1 day ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.1), today) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.15.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.15.1), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.3), 3 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.1.0), 4 days ago) - Web frontend for PuppetDB
