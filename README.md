@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.3](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.3), today) - Ruby client for the Puppet Forge API
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.1), 1 day ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.15.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.15.1), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v6.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v6.0.3), 4 days ago) - A set of shared spec helpers specific to Puppetlabs projects
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.0), 2 weeks ago) - Puppet Labs Standard Library module
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.4.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.4.0), 2 weeks ago) - 
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.1.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.1.0), 2 weeks ago) - 
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v11.1.0), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 
 #### 📜 My recent blog posts
 
