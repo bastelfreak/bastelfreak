@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.0), 6 days ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.0), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.3](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.3), 1 week ago) - Ruby client for the Puppet Forge API
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.1), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.15.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.15.1), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -49,8 +49,8 @@ Statement from Puppet Inc.:
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([3.2.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/3.2.0), 2 weeks ago) - Python library for working with the PuppetDB API
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v11.1.0](https://github.com/saz/puppet-ssh/releases/tag/v11.1.0), 3 weeks ago) - Puppet module to manage ssh server and client
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.0), 3 weeks ago) - Puppet Labs Standard Library module
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.4.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.4.0), 4 weeks ago) - 
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.1.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.1.0), 4 weeks ago) - 
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v2.4.0](https://github.com/puppetlabs/influxdb/releases/tag/v2.4.0), 1 month ago) - 
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.1.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.1.0), 1 month ago) - 
 
 #### 📜 My recent blog posts
 
@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (today)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
-- [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (4 days ago)
-- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (4 days ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (5 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (5 days ago)
-- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (6 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (6 days ago)
-- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (6 days ago)
+- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (1 day ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
+- [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (5 days ago)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (5 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (6 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (6 days ago)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (1 week ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
+- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 week ago)
 - [voxpupuli/beaker-vmware](https://github.com/voxpupuli/beaker-vmware) - Vmware hypervisor library for beaker (1 week ago)
 
 #### 👥 Check out some of my recent followers
