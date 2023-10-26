@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
 - [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) -  (1 day ago)
 - [voxpupuli/puppet-clevis](https://github.com/voxpupuli/puppet-clevis) - Clevis is a pluggable framework for automated decryption (1 day ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
 - [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (1 day ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (2 days ago)
 - [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (2 days ago)
