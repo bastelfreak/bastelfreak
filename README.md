@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (today)
 - [voxpupuli/puppet-nscd](https://github.com/voxpupuli/puppet-nscd) - Configure /etc/nscd.conf and nscd. (2 days ago)
 - [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (2 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
 - [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) -  (3 days ago)
-- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (3 days ago)
 - [voxpupuli/puppet-clevis](https://github.com/voxpupuli/puppet-clevis) - Clevis is a pluggable framework for automated decryption (3 days ago)
+- [voxpupuli/plumbing](https://github.com/voxpupuli/plumbing) - Utilities for Vox Pupuli management (3 days ago)
 - [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (4 days ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (4 days ago)
-- [voxpupuli/puppet-rsyslog](https://github.com/voxpupuli/puppet-rsyslog) - Puppet module for managing rsyslog (1 week ago)
 - [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (1 week ago)
 
 #### 👥 Check out some of my recent followers
