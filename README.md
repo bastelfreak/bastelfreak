@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.1](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.1), 1 day ago) - Puppet Labs Standard Library module
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.2), 2 days ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.16.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.16.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.1](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.1), 2 days ago) - Puppet Labs Standard Library module
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.2), 3 days ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.16.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.16.0), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.0.2](https://github.com/Libera-Chat/curite/releases/tag/v0.0.2), 1 week ago) - nickserv account verification URL bot
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.0), 3 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.3](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.3), 4 weeks ago) - Ruby client for the Puppet Forge API
@@ -69,12 +69,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (today)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (today)
-- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 day ago)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (2 days ago)
-- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (4 days ago)
-- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (4 days ago)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 day ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 day ago)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (2 days ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (3 days ago)
+- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (5 days ago)
+- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (5 days ago)
 - [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (1 week ago)
 - [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (1 week ago)
 - [voxpupuli/beaker-hcloud](https://github.com/voxpupuli/beaker-hcloud) - Hetzner Cloud hypervisor library for beaker (1 week ago)
