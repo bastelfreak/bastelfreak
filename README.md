@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.16.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.16.0), today) - Module for managing Puppet-Agent
 - [voxpupuli/puppet-ghostbuster](https://github.com/voxpupuli/puppet-ghostbuster) ([1.0.0](https://github.com/voxpupuli/puppet-ghostbuster/releases/tag/1.0.0), 4 days ago) - 👻 Dead code detector for Puppet
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.1](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.1), 6 days ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.2), 1 week ago) - Puppet module for managing PostgreSQL
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.3](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.3), 1 month ago) - Ruby client for the Puppet Forge API
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.1.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.1.0), 1 month ago) - Web frontend for PuppetDB
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) ([3.2.0](https://github.com/voxpupuli/pypuppetdb/releases/tag/3.2.0), 1 month ago) - Python library for working with the PuppetDB API
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v11.1.0](https://github.com/saz/puppet-ssh/releases/tag/v11.1.0), 1 month ago) - Puppet module to manage ssh server and client
 
 #### 📜 My recent blog posts
 
