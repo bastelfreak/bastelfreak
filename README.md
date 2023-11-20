@@ -69,6 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (today)
 - [voxpupuli/puppet-hashi_stack](https://github.com/voxpupuli/puppet-hashi_stack) - This module contains shared code for various HashiCorp modules (1 day ago)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (3 days ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (5 days ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 week ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 week ago)
 - [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (2 weeks ago)
-- [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
