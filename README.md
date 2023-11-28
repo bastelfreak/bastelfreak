@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (today)
 - [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (1 day ago)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 day ago)
 - [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (3 days ago)
+- [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (4 days ago)
 - [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (4 days ago)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (4 days ago)
 - [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (4 days ago)
-- [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (4 days ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (5 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (5 days ago)
 - [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (5 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
