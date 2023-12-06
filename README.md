@@ -69,6 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (today)
 - [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (1 day ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
@@ -77,7 +78,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 week ago)
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (1 week ago)
 - [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (1 week ago)
-- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (1 week ago)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 week ago)
 
 #### 👥 Check out some of my recent followers
