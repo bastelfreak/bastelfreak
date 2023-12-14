@@ -41,13 +41,13 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.2), 1 day ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.17.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.17.0), 5 days ago) - Module for managing Puppet-Agent
-- [betadots/hdm](https://github.com/betadots/hdm) ([v1.3.0](https://github.com/betadots/hdm/releases/tag/v1.3.0), 5 days ago) - A Web UI to visualize Hiera Data and make it searchable!
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.2), 2 days ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.17.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.17.0), 6 days ago) - Module for managing Puppet-Agent
+- [betadots/hdm](https://github.com/betadots/hdm) ([v1.3.0](https://github.com/betadots/hdm/releases/tag/v1.3.0), 6 days ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.16.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.16.0), 1 week ago) - Puppet Enterprise (PE) Beaker Library
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.1), 2 weeks ago) - File concatenation system for Puppet
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.16.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.16.1), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.2.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.2.0), 3 weeks ago) - 
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.16.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.16.1), 3 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.2.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.2.0), 4 weeks ago) - 
 - [voxpupuli/puppet-ghostbuster](https://github.com/voxpupuli/puppet-ghostbuster) ([1.0.0](https://github.com/voxpupuli/puppet-ghostbuster/releases/tag/1.0.0), 1 month ago) - 👻 Dead code detector for Puppet
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.4.1](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.4.1), 1 month ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.2), 1 month ago) - Puppet module for managing PostgreSQL
@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (1 day ago)
-- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (1 day ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (2 days ago)
-- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (6 days ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (6 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (2 days ago)
+- [voxpupuli/puppet-archive](https://github.com/voxpupuli/puppet-archive) - Compressed archive file download and extraction with native types/providers for Windows and Unix (2 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (3 days ago)
+- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (1 week ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (1 week ago)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 week ago)
 - [voxpupuli/pypuppetdb](https://github.com/voxpupuli/pypuppetdb) - Python library for working with the PuppetDB API (1 week ago)
 
