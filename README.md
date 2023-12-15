@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (today)
-- [voxpupuli/puppet-homeassistant](https://github.com/voxpupuli/puppet-homeassistant) - Puppet Module for Home Assistant - home automation platform. https://home-assistant.io/ (today)
-- [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (today)
+- [voxpupuli/puppet-augeasproviders_apache](https://github.com/voxpupuli/puppet-augeasproviders_apache) - Augeas-based apache types and providers for Puppet  (today)
+- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (today)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-clevis](https://github.com/voxpupuli/puppet-clevis) - Clevis is a pluggable framework for automated decryption (today)
-- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (today)
-- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (today)
-- [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (today)
-- [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network) - Types and providers to manage network interfaces (today)
+- [voxpupuli/puppet-augeasproviders_ssh](https://github.com/voxpupuli/puppet-augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (today)
 - [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (today)
+- [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (today)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (today)
+- [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (today)
+- [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) - Installs and configures zram_generator with puppet (today)
 
 #### 👥 Check out some of my recent followers
 
