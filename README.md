@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-clevis](https://github.com/voxpupuli/puppet-clevis) - Clevis is a pluggable framework for automated decryption (2 days ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (2 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
-- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (2 days ago)
+- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (2 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (2 days ago)
+- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (2 days ago)
+- [voxpupuli/puppet-augeasproviders_ssh](https://github.com/voxpupuli/puppet-augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (2 days ago)
 - [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (2 days ago)
 - [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (2 days ago)
 - [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) - Installs and configures zram_generator with puppet (2 days ago)
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (2 days ago)
-- [voxpupuli/puppet-augeasproviders_apache](https://github.com/voxpupuli/puppet-augeasproviders_apache) - Augeas-based apache types and providers for Puppet  (2 days ago)
-- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
