@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (today)
 - [voxpupuli/puppetmodule.info](https://github.com/voxpupuli/puppetmodule.info) - Puppet module documentation website (today)
 - [voxpupuli/puppet-clevis](https://github.com/voxpupuli/puppet-clevis) - Clevis is a pluggable framework for automated decryption (3 days ago)
-- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (3 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
 - [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (3 days ago)
 - [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (3 days ago)
