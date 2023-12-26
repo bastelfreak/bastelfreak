@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.2), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.2), 2 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.17.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.17.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.3.0](https://github.com/betadots/hdm/releases/tag/v1.3.0), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
-- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.16.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.16.0), 2 weeks ago) - Puppet Enterprise (PE) Beaker Library
-- [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.1), 3 weeks ago) - File concatenation system for Puppet
+- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.16.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.16.0), 3 weeks ago) - Puppet Enterprise (PE) Beaker Library
+- [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.1), 4 weeks ago) - File concatenation system for Puppet
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.16.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.16.1), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.2.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.2.0), 1 month ago) - 
 - [voxpupuli/puppet-ghostbuster](https://github.com/voxpupuli/puppet-ghostbuster) ([1.0.0](https://github.com/voxpupuli/puppet-ghostbuster/releases/tag/1.0.0), 1 month ago) - 👻 Dead code detector for Puppet
@@ -69,10 +69,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (5 days ago)
-- [voxpupuli/puppetmodule.info](https://github.com/voxpupuli/puppetmodule.info) - Puppet module documentation website (6 days ago)
-- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (6 days ago)
-- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (6 days ago)
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (6 days ago)
+- [voxpupuli/puppetmodule.info](https://github.com/voxpupuli/puppetmodule.info) - Puppet module documentation website (1 week ago)
+- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (1 week ago)
+- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (1 week ago)
 - [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (1 week ago)
 - [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (1 week ago)
 - [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (1 week ago)
