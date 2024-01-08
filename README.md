@@ -70,8 +70,8 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
-- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (today)
 - [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (today)
+- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (today)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
 - [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (2 days ago)
 - [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (1 week ago)
