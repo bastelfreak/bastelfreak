@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
 - [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (today)
+- [voxpupuli/beaker_puppet_helpers](https://github.com/voxpupuli/beaker_puppet_helpers) - Beaker&#39;s Puppet DSL Extension Helpers (today)
 - [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (today)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
 - [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (2 days ago)
 - [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (1 week ago)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (1 week ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 week ago)
 - [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (2 weeks ago)
-- [voxpupuli/puppetmodule.info](https://github.com/voxpupuli/puppetmodule.info) - Puppet module documentation website (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
