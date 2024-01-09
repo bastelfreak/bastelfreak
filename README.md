@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.1), 4 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.2), 3 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.1), 5 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.2), 4 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.17.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.17.0), 1 month ago) - Module for managing Puppet-Agent
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.3.0](https://github.com/betadots/hdm/releases/tag/v1.3.0), 1 month ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.16.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.16.0), 1 month ago) - Puppet Enterprise (PE) Beaker Library
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (today)
-- [voxpupuli/beaker_puppet_helpers](https://github.com/voxpupuli/beaker_puppet_helpers) - Beaker&#39;s Puppet DSL Extension Helpers (today)
-- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (today)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
-- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (2 days ago)
+- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (1 day ago)
+- [voxpupuli/beaker_puppet_helpers](https://github.com/voxpupuli/beaker_puppet_helpers) - Beaker&#39;s Puppet DSL Extension Helpers (1 day ago)
+- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (1 day ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 day ago)
+- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (3 days ago)
 - [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (1 week ago)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (1 week ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 week ago)
-- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (2 weeks ago)
+- [voxpupuli/beaker-puppet](https://github.com/voxpupuli/beaker-puppet) - Beaker&#39;s puppet-specific helper library (3 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
