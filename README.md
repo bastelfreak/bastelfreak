@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.2), today) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.18.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.18.0), today) - Module for managing Puppet-Agent
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.4.0](https://github.com/betadots/hdm/releases/tag/v1.4.0), 1 day ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.3), 2 days ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.1), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.2), 1 month ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.16.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.16.0), 1 month ago) - Puppet Enterprise (PE) Beaker Library
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.1), 1 month ago) - File concatenation system for Puppet
