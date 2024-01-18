@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.2](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.2), today) - File concatenation system for Puppet
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.2.0), 1 day ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.2), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.18.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.18.0), 1 week ago) - Module for managing Puppet-Agent
@@ -48,7 +49,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.3), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.2](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.2), 1 month ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.16.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.16.0), 1 month ago) - Puppet Enterprise (PE) Beaker Library
-- [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.1](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.1), 1 month ago) - File concatenation system for Puppet
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.16.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.16.1), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.2.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.2.0), 2 months ago) - 
 
