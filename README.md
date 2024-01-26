@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.3), 1 day ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [betadots/hdm](https://github.com/betadots/hdm) ([v1.4.1](https://github.com/betadots/hdm/releases/tag/v1.4.1), 1 day ago) - A Web UI to visualize Hiera Data and make it searchable!
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.3), 2 days ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [betadots/hdm](https://github.com/betadots/hdm) ([v1.4.1](https://github.com/betadots/hdm/releases/tag/v1.4.1), 2 days ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.2](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.2), 1 week ago) - File concatenation system for Puppet
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.2.0), 1 week ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.2), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (today)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (today)
-- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 day ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 day ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (3 days ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (6 days ago)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 day ago)
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (1 day ago)
+- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (2 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (2 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (4 days ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 week ago)
 - [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (1 week ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (1 week ago)
