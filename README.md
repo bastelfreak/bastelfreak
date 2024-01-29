@@ -77,7 +77,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (5 days ago)
 - [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (5 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
-- [voxpupuli/puppetmodule.info](https://github.com/voxpupuli/puppetmodule.info) - Puppet module documentation website (1 week ago)
+- [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (1 week ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
 
 #### 👥 Check out some of my recent followers
