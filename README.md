@@ -78,7 +78,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 week ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 week ago)
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 week ago)
-- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 week ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
