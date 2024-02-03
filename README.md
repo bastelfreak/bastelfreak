@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.5](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.5), today) - A Puppet module to manage MCollective
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.3.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.3.0), 3 days ago) - Container image for Puppet Server
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.3), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.4.1](https://github.com/betadots/hdm/releases/tag/v1.4.1), 1 week ago) - A Web UI to visualize Hiera Data and make it searchable!
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.18.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.18.0), 3 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.3), 3 weeks ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([2.16.0](https://github.com/puppetlabs/beaker-pe/releases/tag/2.16.0), 2 months ago) - Puppet Enterprise (PE) Beaker Library
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.16.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.16.1), 2 months ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
 #### 📜 My recent blog posts
 
