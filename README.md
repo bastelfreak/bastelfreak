@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.5](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.5), 1 day ago) - A Puppet module to manage MCollective
-- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.3.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.3.0), 4 days ago) - Container image for Puppet Server
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.5](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.5), 2 days ago) - A Puppet module to manage MCollective
+- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.3.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.3.0), 5 days ago) - Container image for Puppet Server
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.3), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.4.1](https://github.com/betadots/hdm/releases/tag/v1.4.1), 1 week ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.2](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.2), 2 weeks ago) - File concatenation system for Puppet
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024 (today)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (2 days ago)
-- [voxpupuli/puppet-puppet_certificate](https://github.com/voxpupuli/puppet-puppet_certificate) - Puppet type &amp; provider to ensure Puppet certificates (3 days ago)
-- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (4 days ago)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (5 days ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (6 days ago)
+- [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024 (1 day ago)
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (3 days ago)
+- [voxpupuli/puppet-puppet_certificate](https://github.com/voxpupuli/puppet-puppet_certificate) - Puppet type &amp; provider to ensure Puppet certificates (4 days ago)
+- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (5 days ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (6 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (1 week ago)
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 week ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 week ago)
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 week ago)
-- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 week ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
