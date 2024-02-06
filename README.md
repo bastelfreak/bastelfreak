@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
+- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (today)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
+- [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (today)
 - [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (today)
-- [voxpupuli/puppet-opensearch](https://github.com/voxpupuli/puppet-opensearch) - Puppet module to manage OpenSearch (today)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (today)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
+- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (today)
+- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (today)
 - [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (today)
-- [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024 (1 day ago)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (4 days ago)
-- [voxpupuli/puppet-puppet_certificate](https://github.com/voxpupuli/puppet-puppet_certificate) - Puppet type &amp; provider to ensure Puppet certificates (5 days ago)
-- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (6 days ago)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (1 week ago)
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 week ago)
+- [voxpupuli/puppet-opensearch](https://github.com/voxpupuli/puppet-opensearch) - Puppet module to manage OpenSearch (today)
 
 #### 👥 Check out some of my recent followers
 
