@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.1.0](https://github.com/sensson/puppet-powerdns/releases/tag/v4.1.0), today) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.3.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.3.0), 1 day ago) - 
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.5](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.5), 3 days ago) - A Puppet module to manage MCollective
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.3.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.3.0), 6 days ago) - Container image for Puppet Server
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.2.0), 2 weeks ago) - Web frontend for PuppetDB
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.2), 3 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.18.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.18.0), 3 weeks ago) - Module for managing Puppet-Agent
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.0.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.0.3), 4 weeks ago) - Puppet module for managing PostgreSQL
 
 #### 📜 My recent blog posts
 
