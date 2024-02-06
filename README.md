@@ -70,6 +70,7 @@ Statement from Puppet Inc.:
 
 
 - [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (today)
+- [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (today)
 - [voxpupuli/puppet-opensearch](https://github.com/voxpupuli/puppet-opensearch) - Puppet module to manage OpenSearch (1 day ago)
 - [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024 (1 day ago)
 - [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (4 days ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (1 week ago)
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 week ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 week ago)
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
