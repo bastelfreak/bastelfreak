@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.17.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.17.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.1.0](https://github.com/sensson/puppet-powerdns/releases/tag/v4.1.0), 1 day ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.3.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.3.0), 2 days ago) - 
 - [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.0](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.0), 2 days ago) - Puppet module to manage Icinga 2
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [betadots/hdm](https://github.com/betadots/hdm) ([v1.4.1](https://github.com/betadots/hdm/releases/tag/v1.4.1), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/puppetlabs-concat](https://github.com/puppetlabs/puppetlabs-concat) ([v9.0.2](https://github.com/puppetlabs/puppetlabs-concat/releases/tag/v9.0.2), 2 weeks ago) - File concatenation system for Puppet
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.2.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.2.0), 3 weeks ago) - Web frontend for PuppetDB
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.2](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.2), 3 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 
 #### 📜 My recent blog posts
 
