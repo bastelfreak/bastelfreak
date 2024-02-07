@@ -41,8 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/gha-build-and-publish-a-container](https://github.com/voxpupuli/gha-build-and-publish-a-container) ([v2.0.0](https://github.com/voxpupuli/gha-build-and-publish-a-container/releases/tag/v2.0.0), today) - GHA to build and publish a 🛢️ container
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([3.0.0](https://github.com/puppetlabs/beaker-pe/releases/tag/3.0.0), today) - Puppet Enterprise (PE) Beaker Library
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.3.0), today) - Web frontend for PuppetDB
+- [voxpupuli/gha-build-and-publish-a-container](https://github.com/voxpupuli/gha-build-and-publish-a-container) ([v2.0.0](https://github.com/voxpupuli/gha-build-and-publish-a-container/releases/tag/v2.0.0), today) - GHA to build and publish a 🛢️ container
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.17.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.17.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.1.0](https://github.com/sensson/puppet-powerdns/releases/tag/v4.1.0), 1 day ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.3.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.3.0), 2 days ago) - 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.5](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.5), 4 days ago) - A Puppet module to manage MCollective
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.3.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.3.0), 1 week ago) - Container image for Puppet Server
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.3), 2 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [betadots/hdm](https://github.com/betadots/hdm) ([v1.4.1](https://github.com/betadots/hdm/releases/tag/v1.4.1), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024 (today)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (today)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
-- [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (1 day ago)
+- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (today)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (today)
+- [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024 (today)
+- [voxpupuli/puppet-opensearch](https://github.com/voxpupuli/puppet-opensearch) - Puppet module to manage OpenSearch (1 day ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (1 day ago)
-- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (1 day ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (1 day ago)
 - [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (1 day ago)
-- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
