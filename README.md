@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.0), today) - Puppet Firewall Module
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.4](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.4), today) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([3.0.0](https://github.com/puppetlabs/beaker-pe/releases/tag/3.0.0), 1 day ago) - Puppet Enterprise (PE) Beaker Library
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.3.0), 1 day ago) - Web frontend for PuppetDB
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.3.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.3.0), 3 days ago) - 
 - [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.0](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.0), 3 days ago) - Puppet module to manage Icinga 2
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.5](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.5), 5 days ago) - A Puppet module to manage MCollective
-- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.3.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.3.0), 1 week ago) - Container image for Puppet Server
 
 #### 📜 My recent blog posts
 
