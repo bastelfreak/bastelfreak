@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.4](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.4), today) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([3.0.0](https://github.com/puppetlabs/beaker-pe/releases/tag/3.0.0), 1 day ago) - Puppet Enterprise (PE) Beaker Library
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.3.0), 1 day ago) - Web frontend for PuppetDB
 - [voxpupuli/gha-build-and-publish-a-container](https://github.com/voxpupuli/gha-build-and-publish-a-container) ([v2.0.0](https://github.com/voxpupuli/gha-build-and-publish-a-container/releases/tag/v2.0.0), 1 day ago) - GHA to build and publish a 🛢️ container
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.0](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.0), 3 days ago) - Puppet module to manage Icinga 2
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.5](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.5), 5 days ago) - A Puppet module to manage MCollective
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.3.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.3.0), 1 week ago) - Container image for Puppet Server
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.3](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.3), 2 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 
 #### 📜 My recent blog posts
 
@@ -71,14 +71,14 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 day ago)
 - [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 day ago)
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 day ago)
 - [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024 (1 day ago)
-- [voxpupuli/puppet-opensearch](https://github.com/voxpupuli/puppet-opensearch) - Puppet module to manage OpenSearch (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
-- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (2 days ago)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 day ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 day ago)
 - [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (2 days ago)
+- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (2 days ago)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (2 days ago)
+- [voxpupuli/puppet-erlang](https://github.com/voxpupuli/puppet-erlang) - Puppet module to manage Erlang installation (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
