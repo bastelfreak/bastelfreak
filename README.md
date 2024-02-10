@@ -76,9 +76,9 @@ Statement from Puppet Inc.:
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
 - [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024 (2 days ago)
 - [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (2 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (3 days ago)
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (3 days ago)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (3 days ago)
-- [puppetlabs/beaker-puppet](https://github.com/puppetlabs/beaker-puppet) - Beaker&#39;s puppet-specific helper library (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
