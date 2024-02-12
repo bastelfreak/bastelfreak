@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.3.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.3.0), today) - Puppet Webhook port in Golang
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.5](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.5), 2 days ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.0), 3 days ago) - Puppet Firewall Module
-- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([3.0.0](https://github.com/puppetlabs/beaker-pe/releases/tag/3.0.0), 4 days ago) - Puppet Enterprise (PE) Beaker Library
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.3.0), 4 days ago) - Web frontend for PuppetDB
-- [voxpupuli/gha-build-and-publish-a-container](https://github.com/voxpupuli/gha-build-and-publish-a-container) ([v2.0.0](https://github.com/voxpupuli/gha-build-and-publish-a-container/releases/tag/v2.0.0), 4 days ago) - GHA to build and publish a 🛢️ container
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.17.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.17.0), 4 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.1.0](https://github.com/sensson/puppet-powerdns/releases/tag/v4.1.0), 5 days ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.3.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.3.0), 6 days ago) - 
-- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.0](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.0), 6 days ago) - Puppet module to manage Icinga 2
+- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.3.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.3.0), 1 day ago) - Puppet Webhook port in Golang
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.5](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.5), 3 days ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.0), 4 days ago) - Puppet Firewall Module
+- [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([3.0.0](https://github.com/puppetlabs/beaker-pe/releases/tag/3.0.0), 5 days ago) - Puppet Enterprise (PE) Beaker Library
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.3.0), 5 days ago) - Web frontend for PuppetDB
+- [voxpupuli/gha-build-and-publish-a-container](https://github.com/voxpupuli/gha-build-and-publish-a-container) ([v2.0.0](https://github.com/voxpupuli/gha-build-and-publish-a-container/releases/tag/v2.0.0), 5 days ago) - GHA to build and publish a 🛢️ container
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.17.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.17.0), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.1.0](https://github.com/sensson/puppet-powerdns/releases/tag/v4.1.0), 6 days ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.3.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.3.0), 1 week ago) - 
+- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.0](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.0), 1 week ago) - Puppet module to manage Icinga 2
 
 #### 📜 My recent blog posts
 
@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024 (today)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 day ago)
-- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (2 days ago)
-- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (2 days ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (3 days ago)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (3 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (4 days ago)
-- [puppetlabs/beaker-puppet](https://github.com/puppetlabs/beaker-puppet) - Beaker&#39;s puppet-specific helper library (4 days ago)
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (4 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
+- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (3 days ago)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (3 days ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (4 days ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (4 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (5 days ago)
+- [puppetlabs/beaker-puppet](https://github.com/puppetlabs/beaker-puppet) - Beaker&#39;s puppet-specific helper library (5 days ago)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
