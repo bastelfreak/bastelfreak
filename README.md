@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.1.1](https://github.com/sensson/puppet-powerdns/releases/tag/v4.1.1), today) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.3.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.3.0), 4 days ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.5](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.5), 6 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.0), 1 week ago) - Puppet Firewall Module
@@ -48,7 +49,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.3.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.3.0), 1 week ago) - Web frontend for PuppetDB
 - [voxpupuli/gha-build-and-publish-a-container](https://github.com/voxpupuli/gha-build-and-publish-a-container) ([v2.0.0](https://github.com/voxpupuli/gha-build-and-publish-a-container/releases/tag/v2.0.0), 1 week ago) - GHA to build and publish a 🛢️ container
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.17.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.17.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v4.1.0](https://github.com/sensson/puppet-powerdns/releases/tag/v4.1.0), 1 week ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.3.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.3.0), 1 week ago) - 
 - [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.0](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.0), 1 week ago) - Puppet module to manage Icinga 2
 
