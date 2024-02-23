@@ -27,7 +27,6 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
-- [bastelfreak/beaker-container-images](https://github.com/bastelfreak/beaker-container-images) - Building container images for beaker SUTs
 - [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024
 - [bastelfreak/Spacegray.vim](https://github.com/bastelfreak/Spacegray.vim) - copy of https://github.com/ajh17/Spacegray.vim.git
 - [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x
@@ -37,6 +36,7 @@ Statement from Puppet Inc.:
 - [bastelfreak/puppetize2021](https://github.com/bastelfreak/puppetize2021) - My talk about open source contributions for Puppetize 2021
 - [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams
 - [bastelfreak/fluent-bit-pkgbuild](https://github.com/bastelfreak/fluent-bit-pkgbuild) - AUR package for fluent-bit
+- [bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020) - My talk about managing &gt; 130 modules at Vox Pupuli with modulesync!
 
 #### 🔭 Latest releases I've contributed to
 
@@ -72,7 +72,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (1 day ago)
 - [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (2 days ago)
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (2 days ago)
-- [bastelfreak/beaker-container-images](https://github.com/bastelfreak/beaker-container-images) - Building container images for beaker SUTs (5 days ago)
+- [voxpupuli/beaker-container-images](https://github.com/voxpupuli/beaker-container-images) - Building container images for beaker SUTs (5 days ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (5 days ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (6 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
