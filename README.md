@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 day ago)
+- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (today)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (4 days ago)
 - [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (5 days ago)
 - [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (5 days ago)
 - [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (6 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
-- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (1 week ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
+- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (1 week ago)
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (1 week ago)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (1 week ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
