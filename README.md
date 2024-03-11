@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-inifile](https://github.com/puppetlabs/puppetlabs-inifile) ([v6.1.1](https://github.com/puppetlabs/puppetlabs-inifile/releases/tag/v6.1.1), today) - Resource types for managing settings in INI files
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.19.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.19.0), 5 days ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.3](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.3), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v2.0.0](https://github.com/betadots/hdm/releases/tag/v2.0.0), 1 week ago) - A Web UI to visualize Hiera Data and make it searchable!
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.0.5](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.0.5), 1 month ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.0](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.0), 1 month ago) - Puppet Firewall Module
 - [puppetlabs/beaker-pe](https://github.com/puppetlabs/beaker-pe) ([3.0.0](https://github.com/puppetlabs/beaker-pe/releases/tag/3.0.0), 1 month ago) - Puppet Enterprise (PE) Beaker Library
-- [voxpupuli/gha-build-and-publish-a-container](https://github.com/voxpupuli/gha-build-and-publish-a-container) ([v2.0.0](https://github.com/voxpupuli/gha-build-and-publish-a-container/releases/tag/v2.0.0), 1 month ago) - GHA to build and publish a 🛢️ container
 
 #### 📜 My recent blog posts
 
