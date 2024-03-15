@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.1.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.1.0), 2 days ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [betadots/pdc](https://github.com/betadots/pdc) ([v2.1.0](https://github.com/betadots/pdc/releases/tag/v2.1.0), 2 days ago) - Puppet Development Container
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.5.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.5.0), 3 days ago) - Puppet Labs Standard Library module
-- [puppetlabs/puppetlabs-inifile](https://github.com/puppetlabs/puppetlabs-inifile) ([v6.1.1](https://github.com/puppetlabs/puppetlabs-inifile/releases/tag/v6.1.1), 3 days ago) - Resource types for managing settings in INI files
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.1.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.1.0), 3 days ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [betadots/pdc](https://github.com/betadots/pdc) ([v2.1.0](https://github.com/betadots/pdc/releases/tag/v2.1.0), 3 days ago) - Puppet Development Container
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.5.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.5.0), 4 days ago) - Puppet Labs Standard Library module
+- [puppetlabs/puppetlabs-inifile](https://github.com/puppetlabs/puppetlabs-inifile) ([v6.1.1](https://github.com/puppetlabs/puppetlabs-inifile/releases/tag/v6.1.1), 4 days ago) - Resource types for managing settings in INI files
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.19.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.19.0), 1 week ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.3](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.3), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v2.0.0](https://github.com/betadots/hdm/releases/tag/v2.0.0), 1 week ago) - A Web UI to visualize Hiera Data and make it searchable!
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.4.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.4.0), 1 week ago) - Web frontend for PuppetDB
+- [betadots/hdm](https://github.com/betadots/hdm) ([v2.0.0](https://github.com/betadots/hdm/releases/tag/v2.0.0), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.4.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.4.0), 2 weeks ago) - Web frontend for PuppetDB
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v5.0.0](https://github.com/sensson/puppet-powerdns/releases/tag/v5.0.0), 3 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.3.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.3.0), 1 month ago) - Puppet Webhook port in Golang
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (today)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (1 day ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
-- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (1 day ago)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (1 day ago)
-- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (2 days ago)
-- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (2 days ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (2 days ago)
+- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 day ago)
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (2 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
+- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (2 days ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (2 days ago)
+- [voxpupuli/puppet-redis](https://github.com/voxpupuli/puppet-redis) - Puppet Module to manage Redis (3 days ago)
+- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (3 days ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
