@@ -45,7 +45,7 @@ Statement from Puppet Inc.:
 - [betadots/pdc](https://github.com/betadots/pdc) ([v2.1.0](https://github.com/betadots/pdc/releases/tag/v2.1.0), 1 week ago) - Puppet Development Container
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.5.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.5.0), 1 week ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-inifile](https://github.com/puppetlabs/puppetlabs-inifile) ([v6.1.1](https://github.com/puppetlabs/puppetlabs-inifile/releases/tag/v6.1.1), 1 week ago) - Resource types for managing settings in INI files
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.19.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.19.0), 1 week ago) - Module for managing Puppet-Agent
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.19.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.19.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.3](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.3), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v2.0.0](https://github.com/betadots/hdm/releases/tag/v2.0.0), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.4.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.4.0), 2 weeks ago) - Web frontend for PuppetDB
@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (2 days ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (5 days ago)
-- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (5 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (6 days ago)
-- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (6 days ago)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (6 days ago)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (6 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (3 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (6 days ago)
+- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (6 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
+- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (1 week ago)
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (1 week ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (1 week ago)
 - [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (1 week ago)
 
 #### 👥 Check out some of my recent followers
