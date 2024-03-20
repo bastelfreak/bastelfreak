@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.1](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.1), today) - Puppet Firewall Module
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.1.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.1.0), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [betadots/pdc](https://github.com/betadots/pdc) ([v2.1.0](https://github.com/betadots/pdc/releases/tag/v2.1.0), 1 week ago) - Puppet Development Container
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.5.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.5.0), 1 week ago) - Puppet Labs Standard Library module
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [betadots/hdm](https://github.com/betadots/hdm) ([v2.0.0](https://github.com/betadots/hdm/releases/tag/v2.0.0), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.4.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.4.0), 2 weeks ago) - Web frontend for PuppetDB
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v5.0.0](https://github.com/sensson/puppet-powerdns/releases/tag/v5.0.0), 4 weeks ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.3.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.3.0), 1 month ago) - Puppet Webhook port in Golang
 
 #### 📜 My recent blog posts
 
