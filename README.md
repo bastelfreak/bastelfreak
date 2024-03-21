@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v2.1.0](https://github.com/betadots/hdm/releases/tag/v2.1.0), today) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.1](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.1), 1 day ago) - Puppet Firewall Module
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.1.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.1.0), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [betadots/pdc](https://github.com/betadots/pdc) ([v2.1.0](https://github.com/betadots/pdc/releases/tag/v2.1.0), 1 week ago) - Puppet Development Container
@@ -48,7 +49,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-inifile](https://github.com/puppetlabs/puppetlabs-inifile) ([v6.1.1](https://github.com/puppetlabs/puppetlabs-inifile/releases/tag/v6.1.1), 1 week ago) - Resource types for managing settings in INI files
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.19.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.19.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.0.3](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.0.3), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v2.0.0](https://github.com/betadots/hdm/releases/tag/v2.0.0), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) ([v5.4.0](https://github.com/voxpupuli/puppetboard/releases/tag/v5.4.0), 2 weeks ago) - Web frontend for PuppetDB
 - [sensson/puppet-powerdns](https://github.com/sensson/puppet-powerdns) ([v5.0.0](https://github.com/sensson/puppet-powerdns/releases/tag/v5.0.0), 1 month ago) - A Puppet module to install and configure the PowerDNS 4.x authorative server and recursor
 
