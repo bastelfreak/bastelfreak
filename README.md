@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.1.0), 1 day ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.6.0), 1 day ago) - Puppet Labs Standard Library module
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.0.0), 1 week ago) - Vox Pupuli Test Box
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [betadots/hdm](https://github.com/betadots/hdm) ([v2.1.0](https://github.com/betadots/hdm/releases/tag/v2.1.0), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.1](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.1), 2 weeks ago) - Puppet Firewall Module
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.1.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.1.0), 3 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [betadots/pdc](https://github.com/betadots/pdc) ([v2.1.0](https://github.com/betadots/pdc/releases/tag/v2.1.0), 3 weeks ago) - Puppet Development Container
 
 #### 📜 My recent blog posts
 
