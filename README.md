@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.4.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.4.0), today) - Container image for PuppetDB
+- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.4.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.4.0), today) - Container image for Puppet Server
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.1.0), 2 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.6.0), 2 days ago) - Puppet Labs Standard Library module
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.1.1](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.1.1), 1 week ago) - Account management module
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.4.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.4.0), 1 week ago) - Puppet Webhook port in Golang
 - [betadots/hdm](https://github.com/betadots/hdm) ([v2.1.0](https://github.com/betadots/hdm/releases/tag/v2.1.0), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
-- [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.1](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.1), 2 weeks ago) - Puppet Firewall Module
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.1.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.1.0), 3 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 
 #### 📜 My recent blog posts
 
@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (today)
 - [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (today)
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (today)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
+- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (today)
 - [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 day ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (3 days ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
 - [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (3 days ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
 
 #### 👥 Check out some of my recent followers
