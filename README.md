@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing
 - [bastelfreak/clt2024](https://github.com/bastelfreak/clt2024) - myslides for Chemnitzer Linux Tage 2024
 - [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024
 - [bastelfreak/Spacegray.vim](https://github.com/bastelfreak/Spacegray.vim) - copy of https://github.com/ajh17/Spacegray.vim.git
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/.github](https://github.com/bastelfreak/.github) - Repo that generates my GitHub Profile
 - [bastelfreak/puppetize2021](https://github.com/bastelfreak/puppetize2021) - My talk about open source contributions for Puppetize 2021
 - [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams
-- [bastelfreak/fluent-bit-pkgbuild](https://github.com/bastelfreak/fluent-bit-pkgbuild) - AUR package for fluent-bit
 
 #### 🔭 Latest releases I've contributed to
 
@@ -72,13 +72,13 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 day ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (3 days ago)
 - [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (3 days ago)
 - [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (3 days ago)
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (3 days ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 week ago)
-- [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (1 week ago)
 - [betadots/hdm](https://github.com/betadots/hdm) - A Web UI to visualize Hiera Data and make it searchable! (1 week ago)
+- [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
