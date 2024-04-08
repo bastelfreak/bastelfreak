@@ -70,24 +70,24 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (3 days ago)
 - [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (3 days ago)
 - [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (3 days ago)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (3 days ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (4 days ago)
 - [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (4 days ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (5 days ago)
-- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (6 days ago)
 - [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (6 days ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (6 days ago)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/13933712?u=a470738534c0d41e22161a07fbbf933de698729a&amp;v=4" height="20"/> Vincevrp](https://github.com/Vincevrp)
 - [<img src="https://avatars.githubusercontent.com/u/129240033?u=fe3c4c597ebe772ad803d7f47591f4fe093f111d&amp;v=4" height="20"/> mrmichaelque](https://github.com/mrmichaelque)
 - [<img src="https://avatars.githubusercontent.com/u/23338994?u=f7bd8b8fb1b99a76cc89737f108500e6ae6f5798&amp;v=4" height="20"/> Aaronoftheages](https://github.com/Aaronoftheages)
 - [<img src="https://avatars.githubusercontent.com/u/43711429?u=6c38b42f625071a01150df1a962ae02382b442a8&amp;v=4" height="20"/> nicodarge](https://github.com/nicodarge)
 - [<img src="https://avatars.githubusercontent.com/u/43463187?v=4" height="20"/> senthil28](https://github.com/senthil28)
-- [<img src="https://avatars.githubusercontent.com/u/18531667?v=4" height="20"/> andrei693](https://github.com/andrei693)
 
 ### Top languages
 
