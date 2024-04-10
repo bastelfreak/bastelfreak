@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.6.0](https://github.com/puppetlabs/puppet/releases/tag/8.6.0), today) - Server automation framework and application
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.4.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.4.0), 5 days ago) - Container image for PuppetDB
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.4.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.4.0), 5 days ago) - Container image for Puppet Server
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.1.0), 2 weeks ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.1.1](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.1.1), 2 weeks ago) - Account management module
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.4.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.4.0), 2 weeks ago) - Puppet Webhook port in Golang
-- [betadots/hdm](https://github.com/betadots/hdm) ([v2.1.0](https://github.com/betadots/hdm/releases/tag/v2.1.0), 2 weeks ago) - A Web UI to visualize Hiera Data and make it searchable!
 
 #### 📜 My recent blog posts
 
