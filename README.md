@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.1.0](https://github.com/puppetlabs/pdk/releases/tag/v3.1.0), today) - The shortest path to better modules: Puppet Development Kit; Download:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.2.0), today) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.6.0](https://github.com/puppetlabs/puppet/releases/tag/8.6.0), 1 day ago) - Server automation framework and application
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.4.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.4.0), 6 days ago) - Container image for PuppetDB
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.6.0), 1 week ago) - Puppet Labs Standard Library module
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.0.0), 2 weeks ago) - Vox Pupuli Test Box
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.1.1](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.1.1), 2 weeks ago) - Account management module
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.4.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.4.0), 2 weeks ago) - Puppet Webhook port in Golang
 
 #### 📜 My recent blog posts
 
