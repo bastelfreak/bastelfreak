@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-augeasproviders_ssh](https://github.com/voxpupuli/puppet-augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (today)
-- [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (today)
+- [voxpupuli/puppet-clevis](https://github.com/voxpupuli/puppet-clevis) - Clevis is a pluggable framework for automated decryption (today)
+- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (today)
-- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (today)
+- [voxpupuli/puppet-nscd](https://github.com/voxpupuli/puppet-nscd) - Configure /etc/nscd.conf and nscd. (today)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
-- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (today)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (today)
-- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (today)
-- [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network) - Types and providers to manage network interfaces (today)
+- [voxpupuli/puppet-dotnet](https://github.com/voxpupuli/puppet-dotnet) - puppet module for managing Microsoft .NET (today)
+- [voxpupuli/puppet-strongswan](https://github.com/voxpupuli/puppet-strongswan) - Puppet Strongswan Module (today)
+- [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (today)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (today)
 
 #### 👥 Check out some of my recent followers
 
