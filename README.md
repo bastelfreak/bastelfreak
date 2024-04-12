@@ -69,25 +69,25 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (today)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) - A puppet module for installing and managing puppetdb (1 day ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
 - [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (4 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
 - [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 week ago)
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 week ago)
 - [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (1 week ago)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 week ago)
 - [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 week ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/105724608?u=f681a25c1d4d803130b39693cd1fc4662fdaf44d&amp;v=4" height="20"/> smahima27](https://github.com/smahima27)
 - [<img src="https://avatars.githubusercontent.com/u/13933712?u=a470738534c0d41e22161a07fbbf933de698729a&amp;v=4" height="20"/> Vincevrp](https://github.com/Vincevrp)
 - [<img src="https://avatars.githubusercontent.com/u/129240033?u=fe3c4c597ebe772ad803d7f47591f4fe093f111d&amp;v=4" height="20"/> mrmichaelque](https://github.com/mrmichaelque)
 - [<img src="https://avatars.githubusercontent.com/u/23338994?u=f7bd8b8fb1b99a76cc89737f108500e6ae6f5798&amp;v=4" height="20"/> Aaronoftheages](https://github.com/Aaronoftheages)
 - [<img src="https://avatars.githubusercontent.com/u/43711429?u=6c38b42f625071a01150df1a962ae02382b442a8&amp;v=4" height="20"/> nicodarge](https://github.com/nicodarge)
-- [<img src="https://avatars.githubusercontent.com/u/43463187?v=4" height="20"/> senthil28](https://github.com/senthil28)
 
 ### Top languages
 
