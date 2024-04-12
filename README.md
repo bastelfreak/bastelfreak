@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-augeasproviders_base](https://github.com/voxpupuli/puppet-augeasproviders_base) - Augeas-based additional providers for Puppet base types (today)
+- [voxpupuli/puppet-dotnet](https://github.com/voxpupuli/puppet-dotnet) - puppet module for managing Microsoft .NET (today)
 - [voxpupuli/puppet-clevis](https://github.com/voxpupuli/puppet-clevis) - Clevis is a pluggable framework for automated decryption (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (today)
-- [voxpupuli/puppet-augeasproviders_core](https://github.com/voxpupuli/puppet-augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (today)
 - [voxpupuli/puppet-augeasproviders_postgresql](https://github.com/voxpupuli/puppet-augeasproviders_postgresql) - Augeas-based postgresql types and providers for Puppet  (today)
-- [voxpupuli/puppet-augeasproviders_apache](https://github.com/voxpupuli/puppet-augeasproviders_apache) - Augeas-based apache types and providers for Puppet  (today)
-- [voxpupuli/puppet-dotnet](https://github.com/voxpupuli/puppet-dotnet) - puppet module for managing Microsoft .NET (today)
+- [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (today)
 - [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (today)
-- [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (today)
+- [voxpupuli/puppet-ferm](https://github.com/voxpupuli/puppet-ferm) - Puppet module to manage the ferm firewall tooling (today)
+- [voxpupuli/puppet-augeasproviders_sysctl](https://github.com/voxpupuli/puppet-augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (today)
+- [voxpupuli/puppet-augeasproviders_ssh](https://github.com/voxpupuli/puppet-augeasproviders_ssh) - Augeas-based ssh types and providers for Puppet  (today)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (today)
 
 #### 👥 Check out some of my recent followers
 
