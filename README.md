@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 day ago)
-- [voxpupuli/puppet-augeasproviders_sysctl](https://github.com/voxpupuli/puppet-augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (1 day ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
+- [voxpupuli/puppet-clevis](https://github.com/voxpupuli/puppet-clevis) - Clevis is a pluggable framework for automated decryption (1 day ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
-- [voxpupuli/puppet-falco](https://github.com/voxpupuli/puppet-falco) -  (1 day ago)
-- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (1 day ago)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (1 day ago)
+- [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (1 day ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
-- [voxpupuli/puppet-puppet_certificate](https://github.com/voxpupuli/puppet-puppet_certificate) - Puppet type &amp; provider to ensure Puppet certificates (1 day ago)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (1 day ago)
 - [voxpupuli/puppet-dotnet](https://github.com/voxpupuli/puppet-dotnet) - puppet module for managing Microsoft .NET (1 day ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 day ago)
-- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (1 day ago)
+- [voxpupuli/puppet-strongswan](https://github.com/voxpupuli/puppet-strongswan) - Puppet Strongswan Module (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
