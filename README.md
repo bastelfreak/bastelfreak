@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.1.0](https://github.com/puppetlabs/pdk/releases/tag/v3.1.0), 1 day ago) - The shortest path to better modules: Puppet Development Kit; Download:
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.2.0), 1 day ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.6.0](https://github.com/puppetlabs/puppet/releases/tag/8.6.0), 2 days ago) - Server automation framework and application
+- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.1.0](https://github.com/puppetlabs/pdk/releases/tag/v3.1.0), 2 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.2.0), 2 days ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.6.0](https://github.com/puppetlabs/puppet/releases/tag/8.6.0), 3 days ago) - Server automation framework and application
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.4.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.4.0), 1 week ago) - Container image for PuppetDB
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.4.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.4.0), 1 week ago) - Container image for Puppet Server
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (today)
-- [voxpupuli/puppet-augeasproviders_sysctl](https://github.com/voxpupuli/puppet-augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-puppet_certificate](https://github.com/voxpupuli/puppet-puppet_certificate) - Puppet type &amp; provider to ensure Puppet certificates (today)
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (today)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (today)
-- [voxpupuli/puppet-network](https://github.com/voxpupuli/puppet-network) - Types and providers to manage network interfaces (today)
-- [voxpupuli/puppet-format](https://github.com/voxpupuli/puppet-format) - Text formatting functions for puppet lang (today)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (today)
-- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (today)
+- [voxpupuli/puppet-kmod](https://github.com/voxpupuli/puppet-kmod) - manage kernel module with puppet (1 day ago)
+- [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [voxpupuli/puppet-ssh_keygen](https://github.com/voxpupuli/puppet-ssh_keygen) - Generation of ssh keys with ssh-keygen (1 day ago)
+- [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (1 day ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (1 day ago)
+- [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (1 day ago)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (1 day ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 day ago)
+- [voxpupuli/puppet-mysql_java_connector](https://github.com/voxpupuli/puppet-mysql_java_connector) - This module manages the MySQL Java Connector (Connector/J). (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
