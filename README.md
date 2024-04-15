@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
+- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (1 day ago)
 - [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (1 day ago)
-- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (1 day ago)
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (1 day ago)
-- [voxpupuli/puppet-falco](https://github.com/voxpupuli/puppet-falco) -  (3 days ago)
-- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (3 days ago)
-- [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (3 days ago)
-- [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (3 days ago)
+- [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (1 day ago)
+- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (1 day ago)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (3 days ago)
+- [voxpupuli/puppet-squid](https://github.com/voxpupuli/puppet-squid) - Puppet module for configuration of squid caching proxy. (3 days ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
-- [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (3 days ago)
+- [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
