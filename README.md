@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.5.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.5.0), today) - Container image for PuppetDB
+- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.5.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.5.0), today) - Container image for Puppet Server
 - [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.1.0](https://github.com/puppetlabs/pdk/releases/tag/v3.1.0), 4 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.2.0), 4 days ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.6.0](https://github.com/puppetlabs/puppet/releases/tag/8.6.0), 5 days ago) - Server automation framework and application
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.4.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.4.0), 1 week ago) - Container image for PuppetDB
-- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.4.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.4.0), 1 week ago) - Container image for Puppet Server
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.1.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.6.0), 1 week ago) - Puppet Labs Standard Library module
