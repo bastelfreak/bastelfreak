@@ -71,13 +71,13 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (today)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
-- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (2 days ago)
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (2 days ago)
 - [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (2 days ago)
-- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (2 days ago)
 - [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (2 days ago)
-- [voxpupuli/puppet-openvmtools](https://github.com/voxpupuli/puppet-openvmtools) - Puppet module to manage Open Virtual Machine Tools intallation. (4 days ago)
-- [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (4 days ago)
+- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (2 days ago)
+- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (2 days ago)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (2 days ago)
+- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (4 days ago)
+- [voxpupuli/puppet-augeasproviders_shellvar](https://github.com/voxpupuli/puppet-augeasproviders_shellvar) - Augeas-based shellvar type and provider for Puppet (4 days ago)
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet (4 days ago)
 
 #### 👥 Check out some of my recent followers
