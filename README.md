@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), today) - Vox Pupuli Test Box
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.1), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 3 days ago) - Puppet Development Container
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.0), 3 days ago) - Puppet Module to manage Java
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.2.0), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.6.0](https://github.com/puppetlabs/puppet/releases/tag/8.6.0), 1 week ago) - Server automation framework and application
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.1.0), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.6.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.6.0), 2 weeks ago) - Puppet Labs Standard Library module
 
 #### 📜 My recent blog posts
 
