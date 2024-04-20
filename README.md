@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), today) - Vox Pupuli Test Box
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.1), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 3 days ago) - Puppet Development Container
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.0), 3 days ago) - Puppet Module to manage Java
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.5.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.5.0), 4 days ago) - Container image for PuppetDB
-- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.5.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.5.0), 4 days ago) - Container image for Puppet Server
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), 1 day ago) - Vox Pupuli Test Box
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.1), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 4 days ago) - Puppet Development Container
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.0), 4 days ago) - Puppet Module to manage Java
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.5.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.5.0), 5 days ago) - Container image for PuppetDB
+- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.5.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.5.0), 5 days ago) - Container image for Puppet Server
 - [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.1.0](https://github.com/puppetlabs/pdk/releases/tag/v3.1.0), 1 week ago) - The shortest path to better modules: Puppet Development Kit; Download:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.2.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.2.0), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.6.0](https://github.com/puppetlabs/puppet/releases/tag/8.6.0), 1 week ago) - Server automation framework and application
@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (1 day ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (3 days ago)
-- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (5 days ago)
-- [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (5 days ago)
-- [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (5 days ago)
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (5 days ago)
-- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (5 days ago)
-- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (5 days ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (2 days ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (4 days ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (4 days ago)
+- [voxpupuli/puppet-unattended_upgrades](https://github.com/voxpupuli/puppet-unattended_upgrades) - Unattended-upgrades for APT (6 days ago)
+- [voxpupuli/puppet-windows_firewall](https://github.com/voxpupuli/puppet-windows_firewall) - puppet module for configuring the windows firewall (6 days ago)
+- [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (6 days ago)
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) - Container image for PuppetDB (6 days ago)
+- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (6 days ago)
+- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (6 days ago)
 - [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (1 week ago)
 
 #### 👥 Check out some of my recent followers
