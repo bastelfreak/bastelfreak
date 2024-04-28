@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.1](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.1), 2 days ago) - Puppet module to manage Icinga 2
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.2.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.2.0), 5 days ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.1](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.1), 3 days ago) - Puppet module to manage Icinga 2
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.2.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.2.0), 6 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), 1 week ago) - Vox Pupuli Test Box
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.1), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 1 week ago) - Puppet Development Container
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (today)
-- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (today)
-- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (today)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (today)
-- [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) -  (today)
-- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (today)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 day ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 day ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 day ago)
-- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (1 day ago)
+- [voxpupuli/puppet-wireguard](https://github.com/voxpupuli/puppet-wireguard) - Puppet module to setup wireguard with systemd (1 day ago)
+- [voxpupuli/puppet-nomad](https://github.com/voxpupuli/puppet-nomad) - Puppet module for managing Nomad (1 day ago)
+- [voxpupuli/puppet-unbound](https://github.com/voxpupuli/puppet-unbound) - Puppet module for deploying the swiss-army of DNS, Unbound (1 day ago)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 day ago)
+- [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) -  (1 day ago)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (1 day ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (2 days ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (2 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
+- [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
