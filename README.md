@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) ([v8.0.1](https://github.com/puppetlabs/puppetlabs-puppetdb/releases/tag/v8.0.1), today) - A puppet module for installing and managing puppetdb
+- [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) ([v8.0.1](https://github.com/puppetlabs/puppetlabs-puppetdb/releases/tag/v8.0.1), 1 day ago) - A puppet module for installing and managing puppetdb
 - [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.1](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.1), 1 week ago) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.2.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.2.0), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), 1 week ago) - Vox Pupuli Test Box
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), 2 weeks ago) - Vox Pupuli Test Box
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.1), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 2 weeks ago) - Puppet Development Container
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.0), 2 weeks ago) - Puppet Module to manage Java
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (today)
-- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (today)
-- [voxpupuli/puppet-augeasproviders_sysctl](https://github.com/voxpupuli/puppet-augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (today)
-- [voxpupuli/beaker-vmware](https://github.com/voxpupuli/beaker-vmware) - Vmware hypervisor library for beaker (today)
-- [voxpupuli/puppet-augeasproviders_core](https://github.com/voxpupuli/puppet-augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (today)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (today)
-- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (today)
-- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (today)
-- [voxpupuli/puppet-augeasproviders_postgresql](https://github.com/voxpupuli/puppet-augeasproviders_postgresql) - Augeas-based postgresql types and providers for Puppet  (today)
-- [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) - A puppet module for installing and managing puppetdb (today)
+- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (1 day ago)
+- [voxpupuli/voxpupuli-acceptance](https://github.com/voxpupuli/voxpupuli-acceptance) - Puppet acceptance testing helpers for Voxpupuli (1 day ago)
+- [voxpupuli/puppet-augeasproviders_sysctl](https://github.com/voxpupuli/puppet-augeasproviders_sysctl) - Augeas-based sysctl type and provider for Puppet (1 day ago)
+- [voxpupuli/beaker-vmware](https://github.com/voxpupuli/beaker-vmware) - Vmware hypervisor library for beaker (1 day ago)
+- [voxpupuli/puppet-augeasproviders_core](https://github.com/voxpupuli/puppet-augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (1 day ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 day ago)
+- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (1 day ago)
+- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (1 day ago)
+- [voxpupuli/puppet-augeasproviders_postgresql](https://github.com/voxpupuli/puppet-augeasproviders_postgresql) - Augeas-based postgresql types and providers for Puppet  (1 day ago)
+- [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) - A puppet module for installing and managing puppetdb (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
