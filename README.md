@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.5.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.5.1), today) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.3.0), today) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.0](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.0), today) - Account management module
 - [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) ([v8.1.0](https://github.com/puppetlabs/puppetlabs-puppetdb/releases/tag/v8.1.0), 1 day ago) - A puppet module for installing and managing puppetdb
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.18.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.18.1), 3 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 3 weeks ago) - Puppet Development Container
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.0), 3 weeks ago) - Puppet Module to manage Java
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.5.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.5.0), 3 weeks ago) - Container image for PuppetDB
 
 #### 📜 My recent blog posts
 
