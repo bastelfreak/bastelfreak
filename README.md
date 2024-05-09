@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.2.0](https://github.com/puppetlabs/pdk/releases/tag/v3.2.0), today) - The shortest path to better modules: Puppet Development Kit; Download:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.19.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.19.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.5.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.5.1), 1 day ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.3.0), 1 day ago) - Puppet module for managing PostgreSQL
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.2.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.2.0), 2 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), 2 weeks ago) - Vox Pupuli Test Box
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 3 weeks ago) - Puppet Development Container
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.0), 3 weeks ago) - Puppet Module to manage Java
 
 #### 📜 My recent blog posts
 
