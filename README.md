@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.2.0](https://github.com/puppetlabs/pdk/releases/tag/v3.2.0), 4 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.19.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.19.0), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.5.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.5.1), 5 days ago) - Puppet Webhook port in Golang
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.3.0), 5 days ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.0](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.0), 5 days ago) - Account management module
-- [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) ([v8.1.0](https://github.com/puppetlabs/puppetlabs-puppetdb/releases/tag/v8.1.0), 6 days ago) - A puppet module for installing and managing puppetdb
+- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.2.0](https://github.com/puppetlabs/pdk/releases/tag/v3.2.0), 5 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.19.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.19.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.5.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.5.1), 6 days ago) - Puppet Webhook port in Golang
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.3.0), 6 days ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.0](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.0), 6 days ago) - Account management module
+- [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) ([v8.1.0](https://github.com/puppetlabs/puppetlabs-puppetdb/releases/tag/v8.1.0), 1 week ago) - A puppet module for installing and managing puppetdb
 - [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.1](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.1), 2 weeks ago) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.2.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.2.0), 3 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), 3 weeks ago) - Vox Pupuli Test Box
-- [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 3 weeks ago) - Puppet Development Container
+- [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 4 weeks ago) - Puppet Development Container
 
 #### 📜 My recent blog posts
 
@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (today)
-- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (today)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (today)
-- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (today)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 days ago)
-- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (2 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 day ago)
+- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (1 day ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (1 day ago)
+- [voxpupuli/hiera-eyaml](https://github.com/voxpupuli/hiera-eyaml) - A backend for Hiera that provides per-value asymmetric encryption of sensitive data (1 day ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (3 days ago)
+- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (3 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
