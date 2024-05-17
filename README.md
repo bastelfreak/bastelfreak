@@ -47,7 +47,7 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.3.0), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.0](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.0), 1 week ago) - Account management module
 - [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) ([v8.1.0](https://github.com/puppetlabs/puppetlabs-puppetdb/releases/tag/v8.1.0), 1 week ago) - A puppet module for installing and managing puppetdb
-- [Icinga/puppet-icinga2](https://github.com/Icinga/puppet-icinga2) ([v4.2.1](https://github.com/Icinga/puppet-icinga2/releases/tag/v4.2.1), 3 weeks ago) - Puppet module to manage Icinga 2
+- [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v4.2.1](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v4.2.1), 3 weeks ago) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.2.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.2.0), 3 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), 4 weeks ago) - Vox Pupuli Test Box
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 1 month ago) - Puppet Development Container
@@ -71,6 +71,7 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (today)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (today)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 days ago)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (2 days ago)
 - [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (3 days ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
 - [voxpupuli/puppet-rundeck](https://github.com/voxpupuli/puppet-rundeck) - Module for managing the installatation and configuration of the rundeck orchestration tool (3 days ago)
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (4 days ago)
-- [voxpupuli/puppet-puppetboard](https://github.com/voxpupuli/puppet-puppetboard) - Puppet module to install and manage puppetboard (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
