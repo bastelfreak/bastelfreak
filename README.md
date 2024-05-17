@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v5.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v5.0.0), today) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
 - [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.2.0](https://github.com/puppetlabs/pdk/releases/tag/v3.2.0), 1 week ago) - The shortest path to better modules: Puppet Development Kit; Download:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.19.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.19.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.5.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.5.1), 1 week ago) - Puppet Webhook port in Golang
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v4.2.1](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v4.2.1), 3 weeks ago) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.2.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.2.0), 3 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.1.0), 4 weeks ago) - Vox Pupuli Test Box
-- [betadots/pdc](https://github.com/betadots/pdc) ([v3.0.0](https://github.com/betadots/pdc/releases/tag/v3.0.0), 1 month ago) - Puppet Development Container
 
 #### 📜 My recent blog posts
 
