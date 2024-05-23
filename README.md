@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.0), today) - Puppet module to manage IcingaDB.
 - [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v5.0.1](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v5.0.1), today) - Puppet module to manage Icinga 2
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.3.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.3.0), today) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall) ([v8.0.2](https://github.com/puppetlabs/puppetlabs-firewall/releases/tag/v8.0.2), 1 day ago) - Puppet Firewall Module
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.5.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.5.1), 2 weeks ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.3.0), 2 weeks ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.0](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.0), 2 weeks ago) - Account management module
-- [puppetlabs/puppetlabs-puppetdb](https://github.com/puppetlabs/puppetlabs-puppetdb) ([v8.1.0](https://github.com/puppetlabs/puppetlabs-puppetdb/releases/tag/v8.1.0), 2 weeks ago) - A puppet module for installing and managing puppetdb
 
 #### 📜 My recent blog posts
 
