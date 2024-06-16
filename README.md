@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.2.0), 2 days ago) - Vox Pupuli Test Box
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.7.0](https://github.com/puppetlabs/puppet/releases/tag/8.7.0), 5 days ago) - Server automation framework and application
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.2.0), 3 days ago) - Vox Pupuli Test Box
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.7.0](https://github.com/puppetlabs/puppet/releases/tag/8.7.0), 6 days ago) - Server automation framework and application
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.3.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.3.1), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.6.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.6.1), 1 week ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.20.1](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.20.1), 1 week ago) - Module for managing Puppet-Agent
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.0), 3 weeks ago) - Puppet module to manage IcingaDB.
 - [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v5.0.1](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v5.0.1), 3 weeks ago) - Puppet module to manage Icinga 2
-- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v5.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v5.0.0), 4 weeks ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
+- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v5.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v5.0.0), 1 month ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
 - [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.2.0](https://github.com/puppetlabs/pdk/releases/tag/v3.2.0), 1 month ago) - The shortest path to better modules: Puppet Development Kit; Download:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.19.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.19.0), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (2 days ago)
-- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (3 days ago)
-- [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) - Puppet Module to manage bareos (3 days ago)
-- [voxpupuli/puppet-gerrit](https://github.com/voxpupuli/puppet-gerrit) - gerrit puppet module (3 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
-- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (3 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (3 days ago)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (4 days ago)
+- [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) - Puppet Module to manage bareos (4 days ago)
+- [voxpupuli/puppet-gerrit](https://github.com/voxpupuli/puppet-gerrit) - gerrit puppet module (4 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (4 days ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (4 days ago)
+- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
