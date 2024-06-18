@@ -76,9 +76,9 @@ Statement from Puppet Inc.:
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (4 days ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (5 days ago)
 - [voxpupuli/puppet-healthcheck](https://github.com/voxpupuli/puppet-healthcheck) - Puppet resources to evaluate the health and status of things. (6 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (6 days ago)
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (6 days ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (6 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
