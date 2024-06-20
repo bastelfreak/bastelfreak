@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [betadots/pdc](https://github.com/betadots/pdc) ([v3.1.0](https://github.com/betadots/pdc/releases/tag/v3.1.0), 1 day ago) - Puppet Development Container
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.2.0), 6 days ago) - Vox Pupuli Test Box
+- [betadots/pdc](https://github.com/betadots/pdc) ([v3.1.0](https://github.com/betadots/pdc/releases/tag/v3.1.0), 2 days ago) - Puppet Development Container
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.2.0), 1 week ago) - Vox Pupuli Test Box
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.7.0](https://github.com/puppetlabs/puppet/releases/tag/8.7.0), 1 week ago) - Server automation framework and application
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.3.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.3.1), 1 week ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.3.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.3.1), 2 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.6.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.6.1), 2 weeks ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.20.1](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.20.1), 2 weeks ago) - Module for managing Puppet-Agent
-- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.0), 3 weeks ago) - Puppet module to manage IcingaDB.
-- [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v5.0.1](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v5.0.1), 3 weeks ago) - Puppet module to manage Icinga 2
+- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.0), 4 weeks ago) - Puppet module to manage IcingaDB.
+- [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v5.0.1](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v5.0.1), 4 weeks ago) - Puppet module to manage Icinga 2
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v5.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v5.0.0), 1 month ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
 - [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.2.0](https://github.com/puppetlabs/pdk/releases/tag/v3.2.0), 1 month ago) - The shortest path to better modules: Puppet Development Kit; Download:
 
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (today)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
-- [voxpupuli/puppet-allknowingdns](https://github.com/voxpupuli/puppet-allknowingdns) - Tiny DNS server for IPv6 Reverse DNS (1 day ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (5 days ago)
+- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (1 day ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (2 days ago)
+- [voxpupuli/puppet-allknowingdns](https://github.com/voxpupuli/puppet-allknowingdns) - Tiny DNS server for IPv6 Reverse DNS (2 days ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (3 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (5 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (6 days ago)
 - [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 week ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 week ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 week ago)
