@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [betadots/pdc](https://github.com/betadots/pdc) ([v3.1.0](https://github.com/betadots/pdc/releases/tag/v3.1.0), 6 days ago) - Puppet Development Container
+- [betadots/pdc](https://github.com/betadots/pdc) ([v3.1.0](https://github.com/betadots/pdc/releases/tag/v3.1.0), 1 week ago) - Puppet Development Container
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.2.0), 1 week ago) - Vox Pupuli Test Box
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.7.0](https://github.com/puppetlabs/puppet/releases/tag/8.7.0), 2 weeks ago) - Server automation framework and application
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.3.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.3.1), 2 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (today)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (today)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (today)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (3 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (3 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (3 days ago)
-- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) - Puppet module to manage Icinga Web 2 (4 days ago)
-- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (5 days ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 day ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (1 day ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (1 day ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (4 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (4 days ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (4 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (4 days ago)
+- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) - Puppet module to manage Icinga Web 2 (5 days ago)
+- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
