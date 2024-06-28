@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (today)
+- [voxpupuli/voxpupuli-rubocop](https://github.com/voxpupuli/voxpupuli-rubocop) - metagem that provides RuboCop &#43; configs. Used in our gems (today)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (today)
-- [voxpupuli/beaker-vcloud](https://github.com/voxpupuli/beaker-vcloud) - Vcloud hypervisor library for beaker (today)
-- [voxpupuli/beaker-google](https://github.com/voxpupuli/beaker-google) - Google hypervisor library for beaker (today)
-- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (today)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (today)
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (today)
 - [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (today)
+- [voxpupuli/beaker-vcloud](https://github.com/voxpupuli/beaker-vcloud) - Vcloud hypervisor library for beaker (today)
+- [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (today)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (today)
 - [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (today)
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (today)
+- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (today)
 
 #### 👥 Check out some of my recent followers
 
