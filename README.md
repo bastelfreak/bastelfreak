@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.3.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.3.0), today) - Self Service Module for Puppet Enterprise
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.2.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.2.0), 5 days ago) - Puppet Module to manage LVM
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.1.0](https://github.com/betadots/pdc/releases/tag/v3.1.0), 1 week ago) - Puppet Development Container
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.2.0), 2 weeks ago) - Vox Pupuli Test Box
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.20.1](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.20.1), 4 weeks ago) - Module for managing Puppet-Agent
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.0), 1 month ago) - Puppet module to manage IcingaDB.
 - [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v5.0.1](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v5.0.1), 1 month ago) - Puppet module to manage Icinga 2
-- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v5.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v5.0.0), 1 month ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
 
 #### 📜 My recent blog posts
 
