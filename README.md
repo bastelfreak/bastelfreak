@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.0](https://github.com/Libera-Chat/curite/releases/tag/v0.1.0), today) - nickserv account verification URL bot
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.2.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.2.0), today) - Puppet Module to manage LVM
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.1](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.1), 1 day ago) - Puppet module to manage IcingaDB.
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.20.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.20.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.7.0](https://github.com/puppetlabs/puppet/releases/tag/8.7.0), 3 weeks ago) - Server automation framework and application
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.3.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.3.1), 3 weeks ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.6.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.6.1), 4 weeks ago) - Puppet Webhook port in Golang
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.20.1](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.20.1), 1 month ago) - Module for managing Puppet-Agent
 
 #### 📜 My recent blog posts
 
@@ -74,11 +74,11 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-collectd](https://github.com/voxpupuli/puppet-collectd) - Collectd module for Puppet (3 days ago)
 - [voxpupuli/modulesync](https://github.com/voxpupuli/modulesync) - Synchronize common files across your Git repositories. (3 days ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (5 days ago)
+- [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile (5 days ago)
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (5 days ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (5 days ago)
-- [voxpupuli/beaker-google](https://github.com/voxpupuli/beaker-google) - Google hypervisor library for beaker (5 days ago)
-- [voxpupuli/puppet-syntax](https://github.com/voxpupuli/puppet-syntax) - Syntax checks for Puppet manifests and templates (5 days ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (5 days ago)
+- [voxpupuli/beaker-vmware](https://github.com/voxpupuli/beaker-vmware) - Vmware hypervisor library for beaker (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
