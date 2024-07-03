@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.2.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.2.0), today) - Puppet Module to manage LVM
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.1](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.1), 1 day ago) - Puppet module to manage IcingaDB.
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.20.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.20.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.3.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.3.0), 2 days ago) - Self Service Module for Puppet Enterprise
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.2.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.2.0), 1 week ago) - Puppet Module to manage LVM
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.1.0](https://github.com/betadots/pdc/releases/tag/v3.1.0), 2 weeks ago) - Puppet Development Container
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.2.0), 2 weeks ago) - Vox Pupuli Test Box
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.7.0](https://github.com/puppetlabs/puppet/releases/tag/8.7.0), 3 weeks ago) - Server automation framework and application
