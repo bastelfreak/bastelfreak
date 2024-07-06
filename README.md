@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/156711189?u=9b9925c5b1a132b6999132405caf05f519a36bf7&amp;v=4" height="20"/> laura107](https://github.com/laura107)
 - [<img src="https://avatars.githubusercontent.com/u/18188907?u=52a69ab075e8c7bff61fd95ffb7186f2c2cbe9e1&amp;v=4" height="20"/> camillo-toselli](https://github.com/camillo-toselli)
 - [<img src="https://avatars.githubusercontent.com/u/66702800?u=e0725d237081b8e21433e5404921f322882e327d&amp;v=4" height="20"/> karasowles](https://github.com/karasowles)
 - [<img src="https://avatars.githubusercontent.com/u/105724608?u=f681a25c1d4d803130b39693cd1fc4662fdaf44d&amp;v=4" height="20"/> smahima27](https://github.com/smahima27)
 - [<img src="https://avatars.githubusercontent.com/u/13933712?u=a470738534c0d41e22161a07fbbf933de698729a&amp;v=4" height="20"/> Vincevrp](https://github.com/Vincevrp)
-- [<img src="https://avatars.githubusercontent.com/u/129240033?u=fe3c4c597ebe772ad803d7f47591f4fe093f111d&amp;v=4" height="20"/> mrmichaelque](https://github.com/mrmichaelque)
 
 ### Top languages
 
