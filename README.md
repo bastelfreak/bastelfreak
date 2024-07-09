@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.3.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.3.0), today) - Vox Pupuli Test Box
 - [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.0.1), 4 days ago) - Create and manage PE node groups as resources.
 - [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) ([v0.4.0](https://github.com/voxpupuli/puppet-example/releases/tag/v0.4.0), 4 days ago) - An example Puppet repository to test out automation and coding styles
 - [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.0](https://github.com/Libera-Chat/curite/releases/tag/v0.1.0), 6 days ago) - nickserv account verification URL bot
@@ -49,7 +50,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.20.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.20.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.3.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.3.0), 1 week ago) - Self Service Module for Puppet Enterprise
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.1.0](https://github.com/betadots/pdc/releases/tag/v3.1.0), 3 weeks ago) - Puppet Development Container
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.2.0), 3 weeks ago) - Vox Pupuli Test Box
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.7.0](https://github.com/puppetlabs/puppet/releases/tag/8.7.0), 4 weeks ago) - Server automation framework and application
 
 #### 📜 My recent blog posts
