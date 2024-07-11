@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.3.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.3.0), today) - Puppet Module to manage LVM
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v3.1.1](https://github.com/voxpupuli/puppet-openssl/releases/tag/v3.1.1), today) - Puppet OpenSSL module
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) ([v4.2.0](https://github.com/voxpupuli/puppet-cron/releases/tag/v4.2.0), 1 day ago) - Puppet module to manage cron jobs via /etc/cron.d
 - [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) ([v5.1.1](https://github.com/voxpupuli/puppet-augeasproviders_grub/releases/tag/v5.1.1), 1 day ago) - Augeas-based grub type and providers
@@ -48,7 +49,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.0.1), 6 days ago) - Create and manage PE node groups as resources.
 - [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) ([v0.4.0](https://github.com/voxpupuli/puppet-example/releases/tag/v0.4.0), 6 days ago) - An example Puppet repository to test out automation and coding styles
 - [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.0](https://github.com/Libera-Chat/curite/releases/tag/v0.1.0), 1 week ago) - nickserv account verification URL bot
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.2.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.2.0), 1 week ago) - Puppet Module to manage LVM
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.1](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.1), 1 week ago) - Puppet module to manage IcingaDB.
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.20.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.20.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
