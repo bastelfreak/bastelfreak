@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.1](https://github.com/Libera-Chat/curite/releases/tag/v0.1.1), today) - nickserv account verification URL bot
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.0.0), 2 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.3.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.3.0), 2 days ago) - Puppet Module to manage LVM
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v3.1.1](https://github.com/voxpupuli/puppet-openssl/releases/tag/v3.1.1), 2 days ago) - Puppet OpenSSL module
@@ -49,7 +50,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.3.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.3.0), 4 days ago) - Vox Pupuli Test Box
 - [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.0.1), 1 week ago) - Create and manage PE node groups as resources.
 - [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) ([v0.4.0](https://github.com/voxpupuli/puppet-example/releases/tag/v0.4.0), 1 week ago) - An example Puppet repository to test out automation and coding styles
-- [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.0](https://github.com/Libera-Chat/curite/releases/tag/v0.1.0), 1 week ago) - nickserv account verification URL bot
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.1](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.1), 1 week ago) - Puppet module to manage IcingaDB.
 
 #### 📜 My recent blog posts
