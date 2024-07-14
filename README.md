@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (2 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (3 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (4 days ago)
+- [voxpupuli/puppet-sssd](https://github.com/voxpupuli/puppet-sssd) - yet another puppet sssd module (5 days ago)
 - [voxpupuli/puppet-gerrit](https://github.com/voxpupuli/puppet-gerrit) - gerrit puppet module (5 days ago)
-- [voxpupuli/puppet-augeasproviders_puppet](https://github.com/voxpupuli/puppet-augeasproviders_puppet) - Augeas-based Puppet configuration types and providers for Puppet  (5 days ago)
-- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) - Puppet module to manage Icinga Web 2 (5 days ago)
-- [voxpupuli/puppet-allknowingdns](https://github.com/voxpupuli/puppet-allknowingdns) - Tiny DNS server for IPv6 Reverse DNS (5 days ago)
+- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (5 days ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (5 days ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (5 days ago)
+- [voxpupuli/puppet-augeasproviders_syslog](https://github.com/voxpupuli/puppet-augeasproviders_syslog) - Augeas-based syslog type and providers for Puppet (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
