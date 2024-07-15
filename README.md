@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.1](https://github.com/Libera-Chat/curite/releases/tag/v0.1.1), 2 days ago) - nickserv account verification URL bot
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.0.0), 4 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.3.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.3.0), 4 days ago) - Puppet Module to manage LVM
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.3.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.3.0), 6 days ago) - Vox Pupuli Test Box
 - [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.0.1), 1 week ago) - Create and manage PE node groups as resources.
 - [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) ([v0.4.0](https://github.com/voxpupuli/puppet-example/releases/tag/v0.4.0), 1 week ago) - An example Puppet repository to test out automation and coding styles
-- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v2.0.1](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v2.0.1), 1 week ago) - Puppet module to manage IcingaDB.
 
 #### 📜 My recent blog posts
 
