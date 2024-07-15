@@ -73,10 +73,10 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (4 days ago)
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (4 days ago)
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (5 days ago)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (6 days ago)
+- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) - Puppet postfix module (6 days ago)
 - [voxpupuli/puppet-amanda](https://github.com/voxpupuli/puppet-amanda) - Puppet module for amanda (6 days ago)
-- [voxpupuli/puppet-gerrit](https://github.com/voxpupuli/puppet-gerrit) - gerrit puppet module (6 days ago)
-- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (6 days ago)
+- [voxpupuli/puppet-augeasproviders_puppet](https://github.com/voxpupuli/puppet-augeasproviders_puppet) - Augeas-based Puppet configuration types and providers for Puppet  (6 days ago)
+- [voxpupuli/puppet-augeasproviders_syslog](https://github.com/voxpupuli/puppet-augeasproviders_syslog) - Augeas-based syslog type and providers for Puppet (6 days ago)
 - [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (6 days ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (6 days ago)
 
