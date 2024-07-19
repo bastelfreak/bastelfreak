@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v3.2.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v3.2.0), today) - Puppet OpenSSL module
-- [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 1 day ago) - A bacula module recovered from the Puppet Labs Operations team
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.1](https://github.com/Libera-Chat/curite/releases/tag/v0.1.1), 5 days ago) - nickserv account verification URL bot
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v3.2.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v3.2.0), 1 day ago) - Puppet OpenSSL module
+- [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 2 days ago) - A bacula module recovered from the Puppet Labs Operations team
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), 4 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.1](https://github.com/Libera-Chat/curite/releases/tag/v0.1.1), 6 days ago) - nickserv account verification URL bot
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.0.0), 1 week ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.3.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.3.0), 1 week ago) - Puppet Module to manage LVM
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) ([v4.2.0](https://github.com/voxpupuli/puppet-cron/releases/tag/v4.2.0), 1 week ago) - Puppet module to manage cron jobs via /etc/cron.d
 - [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) ([v5.1.1](https://github.com/voxpupuli/puppet-augeasproviders_grub/releases/tag/v5.1.1), 1 week ago) - Augeas-based grub type and providers
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.3.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.3.0), 1 week ago) - Vox Pupuli Test Box
-- [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.0.1), 1 week ago) - Create and manage PE node groups as resources.
+- [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.0.1), 2 weeks ago) - Create and manage PE node groups as resources.
 
 #### 📜 My recent blog posts
 
@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (today)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 day ago)
-- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (6 days ago)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (1 day ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
+- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (1 week ago)
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (1 week ago)
 - [voxpupuli/puppet-sssd](https://github.com/voxpupuli/puppet-sssd) - yet another puppet sssd module (1 week ago)
 - [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (1 week ago)
