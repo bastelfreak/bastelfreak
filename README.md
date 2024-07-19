@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), today) - Container image for PuppetDB
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), today) - Puppet OpenSSL module
 - [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 2 days ago) - A bacula module recovered from the Puppet Labs Operations team
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), 4 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) ([v4.2.0](https://github.com/voxpupuli/puppet-cron/releases/tag/v4.2.0), 1 week ago) - Puppet module to manage cron jobs via /etc/cron.d
 - [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) ([v5.1.1](https://github.com/voxpupuli/puppet-augeasproviders_grub/releases/tag/v5.1.1), 1 week ago) - Augeas-based grub type and providers
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v1.3.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v1.3.0), 1 week ago) - Vox Pupuli Test Box
-- [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.0.1), 2 weeks ago) - Create and manage PE node groups as resources.
 
 #### 📜 My recent blog posts
 
