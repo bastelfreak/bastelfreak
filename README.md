@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 1 day ago) - Container image for Puppet Server
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 1 day ago) - Container image for PuppetDB
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 1 day ago) - Puppet OpenSSL module
-- [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 3 days ago) - A bacula module recovered from the Puppet Labs Operations team
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 2 days ago) - Container image for Puppet Server
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 2 days ago) - Container image for PuppetDB
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 2 days ago) - Puppet OpenSSL module
+- [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 4 days ago) - A bacula module recovered from the Puppet Labs Operations team
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.1](https://github.com/Libera-Chat/curite/releases/tag/v0.1.1), 1 week ago) - nickserv account verification URL bot
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.0.0), 1 week ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.3.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.3.0), 1 week ago) - Puppet Module to manage LVM
@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (1 day ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (1 day ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (2 days ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (2 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (4 days ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (1 week ago)
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (1 week ago)
 - [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (1 week ago)
