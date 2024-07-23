@@ -84,10 +84,10 @@ Statement from Puppet Inc.:
 
 
 - [<img src="https://avatars.githubusercontent.com/u/3961183?u=01582e87de4eed440b07b84786cf348e731cb2b1&amp;v=4" height="20"/> zhouxinyu](https://github.com/zhouxinyu)
-- [<img src="https://avatars.githubusercontent.com/u/1527648?u=9b9ed328f45640b4bc29594ffae22380a3048ae7&amp;v=4" height="20"/> vintagewang](https://github.com/vintagewang)
 - [<img src="https://avatars.githubusercontent.com/u/173689185?u=f277153ad0db91745595465c67c6211354195d67&amp;v=4" height="20"/> pavelkovtunov](https://github.com/pavelkovtunov)
 - [<img src="https://avatars.githubusercontent.com/u/156711189?u=9b9925c5b1a132b6999132405caf05f519a36bf7&amp;v=4" height="20"/> laura107](https://github.com/laura107)
 - [<img src="https://avatars.githubusercontent.com/u/18188907?u=52a69ab075e8c7bff61fd95ffb7186f2c2cbe9e1&amp;v=4" height="20"/> camillo-toselli](https://github.com/camillo-toselli)
+- [<img src="https://avatars.githubusercontent.com/u/66702800?u=e0725d237081b8e21433e5404921f322882e327d&amp;v=4" height="20"/> karasowles](https://github.com/karasowles)
 
 ### Top languages
 
