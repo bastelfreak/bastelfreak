@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.0](https://github.com/puppetlabs/puppet/releases/tag/7.32.0), today) - Server automation framework and application
-- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 3 days ago) - Container image for Puppet Server
-- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 3 days ago) - Container image for PuppetDB
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 3 days ago) - Puppet OpenSSL module
-- [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 5 days ago) - A bacula module recovered from the Puppet Labs Operations team
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.0](https://github.com/puppetlabs/puppet/releases/tag/7.32.0), 1 day ago) - Server automation framework and application
+- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 4 days ago) - Container image for Puppet Server
+- [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 4 days ago) - Container image for PuppetDB
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 4 days ago) - Puppet OpenSSL module
+- [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 6 days ago) - A bacula module recovered from the Puppet Labs Operations team
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.1](https://github.com/Libera-Chat/curite/releases/tag/v0.1.1), 1 week ago) - nickserv account verification URL bot
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.0.0), 1 week ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (today)
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (3 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (5 days ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (1 day ago)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (4 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (6 days ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (1 week ago)
 - [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (1 week ago)
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (1 week ago)
-- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (1 week ago)
-- [voxpupuli/puppet-augeasproviders_syslog](https://github.com/voxpupuli/puppet-augeasproviders_syslog) - Augeas-based syslog type and providers for Puppet (1 week ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (1 week ago)
-- [voxpupuli/puppet-amanda](https://github.com/voxpupuli/puppet-amanda) - Puppet module for amanda (1 week ago)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (2 weeks ago)
+- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (2 weeks ago)
+- [voxpupuli/puppet-augeasproviders_syslog](https://github.com/voxpupuli/puppet-augeasproviders_syslog) - Augeas-based syslog type and providers for Puppet (2 weeks ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (2 weeks ago)
+- [voxpupuli/puppet-amanda](https://github.com/voxpupuli/puppet-amanda) - Puppet module for amanda (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
