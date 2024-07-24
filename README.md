@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.0](https://github.com/puppetlabs/puppet/releases/tag/7.32.0), 2 days ago) - Server automation framework and application
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.8.1](https://github.com/puppetlabs/puppet/releases/tag/8.8.1), today) - Server automation framework and application
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 5 days ago) - Container image for Puppet Server
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 5 days ago) - Container image for PuppetDB
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 5 days ago) - Puppet OpenSSL module
