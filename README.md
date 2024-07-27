@@ -69,6 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (today)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (2 days ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (1 week ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 week ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (2 weeks ago)
-- [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) - Puppet module to manage cron jobs via /etc/cron.d (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
