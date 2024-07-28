@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.1](https://github.com/puppetlabs/puppet/releases/tag/7.32.1), 3 days ago) - Server automation framework and application
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.1](https://github.com/puppetlabs/puppet/releases/tag/7.32.1), 4 days ago) - Server automation framework and application
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 1 week ago) - Container image for Puppet Server
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 1 week ago) - Container image for PuppetDB
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 1 week ago) - Puppet OpenSSL module
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
-- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (2 days ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (3 days ago)
-- [voxpupuli/beaker-hiera](https://github.com/voxpupuli/beaker-hiera) - Beaker DSL Extension Helpers! (4 days ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (5 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 day ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
+- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (3 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (4 days ago)
+- [voxpupuli/beaker-hiera](https://github.com/voxpupuli/beaker-hiera) - Beaker DSL Extension Helpers! (5 days ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (6 days ago)
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (1 week ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 week ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (2 weeks ago)
