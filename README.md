@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) ([v2.0.0](https://github.com/voxpupuli/puppet-zram_generator/releases/tag/v2.0.0), today) - Installs and configures zram_generator with puppet
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.1](https://github.com/puppetlabs/puppet/releases/tag/7.32.1), 5 days ago) - Server automation framework and application
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 1 week ago) - Container image for Puppet Server
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 1 week ago) - Container image for PuppetDB
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.1](https://github.com/Libera-Chat/curite/releases/tag/v0.1.1), 2 weeks ago) - nickserv account verification URL bot
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.0.0), 2 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v2.3.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v2.3.0), 2 weeks ago) - Puppet Module to manage LVM
-- [voxpupuli/puppet-cron](https://github.com/voxpupuli/puppet-cron) ([v4.2.0](https://github.com/voxpupuli/puppet-cron/releases/tag/v4.2.0), 2 weeks ago) - Puppet module to manage cron jobs via /etc/cron.d
 
 #### 📜 My recent blog posts
 
