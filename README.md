@@ -70,13 +70,13 @@ Statement from Puppet Inc.:
 
 
 - [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (today)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (3 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (5 days ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (6 days ago)
 - [voxpupuli/beaker-hiera](https://github.com/voxpupuli/beaker-hiera) - Beaker DSL Extension Helpers! (1 week ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (1 week ago)
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (1 week ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 week ago)
 
