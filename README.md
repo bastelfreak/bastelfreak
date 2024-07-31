@@ -41,13 +41,13 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), today) - 
-- [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) ([v2.0.0](https://github.com/voxpupuli/puppet-zram_generator/releases/tag/v2.0.0), 1 day ago) - Installs and configures zram_generator with puppet
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.1](https://github.com/puppetlabs/puppet/releases/tag/7.32.1), 6 days ago) - Server automation framework and application
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), 1 day ago) - 
+- [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) ([v2.0.0](https://github.com/voxpupuli/puppet-zram_generator/releases/tag/v2.0.0), 2 days ago) - Installs and configures zram_generator with puppet
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.1](https://github.com/puppetlabs/puppet/releases/tag/7.32.1), 1 week ago) - Server automation framework and application
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 1 week ago) - Container image for Puppet Server
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 1 week ago) - Container image for PuppetDB
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 1 week ago) - Puppet OpenSSL module
-- [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 1 week ago) - A bacula module recovered from the Puppet Labs Operations team
+- [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 2 weeks ago) - A bacula module recovered from the Puppet Labs Operations team
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [Libera-Chat/curite](https://github.com/Libera-Chat/curite) ([v0.1.1](https://github.com/Libera-Chat/curite/releases/tag/v0.1.1), 2 weeks ago) - nickserv account verification URL bot
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.0.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.0.0), 2 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (today)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (today)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (3 days ago)
-- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (5 days ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (6 days ago)
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (1 day ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (1 day ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (4 days ago)
+- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (6 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 week ago)
 - [voxpupuli/beaker-hiera](https://github.com/voxpupuli/beaker-hiera) - Beaker DSL Extension Helpers! (1 week ago)
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (1 week ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 week ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
