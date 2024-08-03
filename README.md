@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 1 day ago) - This module provides functions that are out of scope for stdlib.
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.0.0), 2 days ago) - Vox Pupuli Test Box
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), 3 days ago) - 
-- [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) ([v2.0.0](https://github.com/voxpupuli/puppet-zram_generator/releases/tag/v2.0.0), 4 days ago) - Installs and configures zram_generator with puppet
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 2 days ago) - This module provides functions that are out of scope for stdlib.
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.0.0), 3 days ago) - Vox Pupuli Test Box
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), 4 days ago) - 
+- [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) ([v2.0.0](https://github.com/voxpupuli/puppet-zram_generator/releases/tag/v2.0.0), 5 days ago) - Installs and configures zram_generator with puppet
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.1](https://github.com/puppetlabs/puppet/releases/tag/7.32.1), 1 week ago) - Server automation framework and application
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 2 weeks ago) - Container image for Puppet Server
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 2 weeks ago) - Container image for PuppetDB
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (1 day ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (3 days ago)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (3 days ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (6 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (1 day ago)
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (2 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (3 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (4 days ago)
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (4 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 week ago)
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (1 week ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 week ago)
 - [voxpupuli/beaker-hiera](https://github.com/voxpupuli/beaker-hiera) - Beaker DSL Extension Helpers! (1 week ago)
