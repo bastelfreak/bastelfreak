@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/peadm](https://github.com/bastelfreak/peadm) - 
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing
 - [bastelfreak/clt2024](https://github.com/bastelfreak/clt2024) - myslides for Chemnitzer Linux Tage 2024
 - [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/cfgmgmtcamp2023](https://github.com/bastelfreak/cfgmgmtcamp2023) - My talk about open source contributions for Puppetize 2021
 - [bastelfreak/.github](https://github.com/bastelfreak/.github) - Repo that generates my GitHub Profile
 - [bastelfreak/puppetize2021](https://github.com/bastelfreak/puppetize2021) - My talk about open source contributions for Puppetize 2021
-- [bastelfreak/puppetcamp2021](https://github.com/bastelfreak/puppetcamp2021) - My talk about scaling automation across teams
 
 #### 🔭 Latest releases I've contributed to
 
