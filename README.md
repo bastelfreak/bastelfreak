@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) ([v4.0.0](https://github.com/voxpupuli/puppet-nftables/releases/tag/v4.0.0), today) - Puppet Module to manage nftables firewall rules.
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 4 days ago) - This module provides functions that are out of scope for stdlib.
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.0.0), 5 days ago) - Vox Pupuli Test Box
 - [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), 6 days ago) - 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 2 weeks ago) - Container image for PuppetDB
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 2 weeks ago) - Puppet OpenSSL module
 - [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 2 weeks ago) - A bacula module recovered from the Puppet Labs Operations team
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), 3 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
 #### 📜 My recent blog posts
 
@@ -69,10 +69,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (today)
 - [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 day ago)
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (1 day ago)
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (2 days ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 days ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (2 days ago)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (4 days ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (5 days ago)
