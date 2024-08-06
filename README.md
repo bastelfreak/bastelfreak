@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) ([v4.0.0](https://github.com/voxpupuli/puppet-nftables/releases/tag/v4.0.0), today) - Puppet Module to manage nftables firewall rules.
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 4 days ago) - This module provides functions that are out of scope for stdlib.
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.0.0), 5 days ago) - Vox Pupuli Test Box
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), 6 days ago) - 
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) ([v4.0.0](https://github.com/voxpupuli/puppet-nftables/releases/tag/v4.0.0), 1 day ago) - Puppet Module to manage nftables firewall rules.
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 5 days ago) - This module provides functions that are out of scope for stdlib.
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.0.0), 6 days ago) - Vox Pupuli Test Box
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), 1 week ago) - 
 - [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) ([v2.0.0](https://github.com/voxpupuli/puppet-zram_generator/releases/tag/v2.0.0), 1 week ago) - Installs and configures zram_generator with puppet
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.1](https://github.com/puppetlabs/puppet/releases/tag/7.32.1), 1 week ago) - Server automation framework and application
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 2 weeks ago) - Container image for Puppet Server
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (today)
-- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (today)
-- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 day ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 days ago)
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (2 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (4 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (5 days ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (5 days ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (6 days ago)
+- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (1 day ago)
+- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (1 day ago)
+- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (2 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (3 days ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (3 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (4 days ago)
+- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (5 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (6 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (6 days ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
