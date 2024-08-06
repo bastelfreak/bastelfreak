@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) ([v3.0.0](https://github.com/voxpupuli/puppet-nfs/releases/tag/v3.0.0), today) - Installs and configures NFS server and clients
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) ([v4.0.0](https://github.com/voxpupuli/puppet-nftables/releases/tag/v4.0.0), 1 day ago) - Puppet Module to manage nftables firewall rules.
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 5 days ago) - This module provides functions that are out of scope for stdlib.
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.0.0), 6 days ago) - Vox Pupuli Test Box
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 2 weeks ago) - Container image for Puppet Server
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 2 weeks ago) - Container image for PuppetDB
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 2 weeks ago) - Puppet OpenSSL module
-- [voxpupuli/puppet-bacula](https://github.com/voxpupuli/puppet-bacula) ([v8.0.0](https://github.com/voxpupuli/puppet-bacula/releases/tag/v8.0.0), 2 weeks ago) - A bacula module recovered from the Puppet Labs Operations team
 
 #### 📜 My recent blog posts
 
@@ -70,8 +70,8 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) - Installs and configures NFS server and clients (today)
-- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (1 day ago)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (1 day ago)
+- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (1 day ago)
 - [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (2 days ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (3 days ago)
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (3 days ago)
