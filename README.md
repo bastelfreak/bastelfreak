@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v4.1.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v4.1.0), today) - Puppet module to manage Icinga Web 2
 - [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) ([v3.0.0](https://github.com/voxpupuli/puppet-nfs/releases/tag/v3.0.0), 2 days ago) - Installs and configures NFS server and clients
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) ([v4.0.0](https://github.com/voxpupuli/puppet-nftables/releases/tag/v4.0.0), 3 days ago) - Puppet Module to manage nftables firewall rules.
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 1 week ago) - This module provides functions that are out of scope for stdlib.
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.1](https://github.com/puppetlabs/puppet/releases/tag/7.32.1), 2 weeks ago) - Server automation framework and application
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 2 weeks ago) - Container image for Puppet Server
 - [voxpupuli/container-puppetdb](https://github.com/voxpupuli/container-puppetdb) ([v1.6.0](https://github.com/voxpupuli/container-puppetdb/releases/tag/v1.6.0), 2 weeks ago) - Container image for PuppetDB
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.0.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.0.0), 2 weeks ago) - Puppet OpenSSL module
 
 #### 📜 My recent blog posts
 
