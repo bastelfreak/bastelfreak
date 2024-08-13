@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v4.1.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v4.1.0), 4 days ago) - Puppet module to manage Icinga Web 2
-- [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) ([v3.0.0](https://github.com/voxpupuli/puppet-nfs/releases/tag/v3.0.0), 6 days ago) - Installs and configures NFS server and clients
+- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v4.1.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v4.1.0), 5 days ago) - Puppet module to manage Icinga Web 2
+- [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) ([v3.0.0](https://github.com/voxpupuli/puppet-nfs/releases/tag/v3.0.0), 1 week ago) - Installs and configures NFS server and clients
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) ([v4.0.0](https://github.com/voxpupuli/puppet-nftables/releases/tag/v4.0.0), 1 week ago) - Puppet Module to manage nftables firewall rules.
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 1 week ago) - This module provides functions that are out of scope for stdlib.
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.0.0), 1 week ago) - Vox Pupuli Test Box
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), 1 week ago) - 
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), 2 weeks ago) - 
 - [voxpupuli/puppet-zram_generator](https://github.com/voxpupuli/puppet-zram_generator) ([v2.0.0](https://github.com/voxpupuli/puppet-zram_generator/releases/tag/v2.0.0), 2 weeks ago) - Installs and configures zram_generator with puppet
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.32.1](https://github.com/puppetlabs/puppet/releases/tag/7.32.1), 2 weeks ago) - Server automation framework and application
 - [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) ([v1.6.0](https://github.com/voxpupuli/container-puppetserver/releases/tag/v1.6.0), 3 weeks ago) - Container image for Puppet Server
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (2 days ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (3 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
-- [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) - An example Puppet repository to test out automation and coding styles (3 days ago)
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (3 days ago)
-- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (5 days ago)
-- [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) - Installs and configures NFS server and clients (6 days ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (3 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (4 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
+- [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) - An example Puppet repository to test out automation and coding styles (4 days ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (4 days ago)
+- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (6 days ago)
+- [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) - Installs and configures NFS server and clients (1 week ago)
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) - Puppet Module to manage nftables firewall rules. (1 week ago)
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (1 week ago)
 - [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 week ago)
