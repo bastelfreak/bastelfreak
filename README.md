@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v5.0.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v5.0.0), today) - Puppet module to manage Icinga Web 2
-- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.0.0), today) - Puppet module to manage IcingaDB.
-- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.4](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.4), 2 days ago) - Ruby client for the Puppet Forge API
-- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) ([v6.0.0](https://github.com/voxpupuli/puppet-hiera/releases/tag/v6.0.0), 2 days ago) - Hiera hierarchy module for templating `hiera.yaml`
-- [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.1](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.1), 2 days ago) - Account management module
+- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v5.0.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v5.0.0), 1 day ago) - Puppet module to manage Icinga Web 2
+- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.0.0), 1 day ago) - Puppet module to manage IcingaDB.
+- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.4](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.4), 3 days ago) - Ruby client for the Puppet Forge API
+- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) ([v6.0.0](https://github.com/voxpupuli/puppet-hiera/releases/tag/v6.0.0), 3 days ago) - Hiera hierarchy module for templating `hiera.yaml`
+- [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.1](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.1), 3 days ago) - Account management module
 - [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) ([v3.0.0](https://github.com/voxpupuli/puppet-nfs/releases/tag/v3.0.0), 1 week ago) - Installs and configures NFS server and clients
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) ([v4.0.0](https://github.com/voxpupuli/puppet-nftables/releases/tag/v4.0.0), 1 week ago) - Puppet Module to manage nftables firewall rules.
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 2 weeks ago) - This module provides functions that are out of scope for stdlib.
@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) - Puppet module to manage Icinga Web 2 (1 day ago)
-- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (2 days ago)
-- [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) - An example Puppet repository to test out automation and coding styles (2 days ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 days ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (6 days ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (6 days ago)
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (6 days ago)
+- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) - Puppet module to manage Icinga Web 2 (2 days ago)
+- [voxpupuli/rspec-puppet-facts](https://github.com/voxpupuli/rspec-puppet-facts) - Simplify your unit tests by looping on every supported Operating System and populating facts. (3 days ago)
+- [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) - An example Puppet repository to test out automation and coding styles (3 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (3 days ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (3 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 week ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 week ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (1 week ago)
 - [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) - Installs and configures NFS server and clients (1 week ago)
 
