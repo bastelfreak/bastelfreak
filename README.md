@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (today)
+- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (today)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (today)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (today)
 - [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (today)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (today)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
 - [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) - Puppet module to manage Icinga Web 2 (5 days ago)
 - [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) - An example Puppet repository to test out automation and coding styles (6 days ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
