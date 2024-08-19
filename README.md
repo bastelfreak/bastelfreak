@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v6.0.0), today) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
+- [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v6.0.0), today) - Puppet module to manage Icinga 2
 - [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v5.0.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v5.0.0), 4 days ago) - Puppet module to manage Icinga Web 2
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.0.0), 4 days ago) - Puppet module to manage IcingaDB.
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.4](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.4), 6 days ago) - Ruby client for the Puppet Forge API
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) ([v3.0.0](https://github.com/voxpupuli/puppet-nfs/releases/tag/v3.0.0), 1 week ago) - Installs and configures NFS server and clients
 - [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) ([v4.0.0](https://github.com/voxpupuli/puppet-nftables/releases/tag/v4.0.0), 2 weeks ago) - Puppet Module to manage nftables firewall rules.
 - [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) ([v7.2.0](https://github.com/voxpupuli/puppet-extlib/releases/tag/v7.2.0), 2 weeks ago) - This module provides functions that are out of scope for stdlib.
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.0.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.0.0), 2 weeks ago) - Vox Pupuli Test Box
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.1.1](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.1.1), 2 weeks ago) - 
 
 #### 📜 My recent blog posts
 
