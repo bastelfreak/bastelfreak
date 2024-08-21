@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.1.0), today) - Vox Pupuli Test Box
 - [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) ([v5.0.0](https://github.com/voxpupuli/puppet-mrepo/releases/tag/v5.0.0), 2 days ago) - Puppet module for creating and managing RPM based repository mirrors.
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v6.0.0), 2 days ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
 - [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v6.0.0), 2 days ago) - Puppet module to manage Icinga 2
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) ([v6.0.0](https://github.com/voxpupuli/puppet-hiera/releases/tag/v6.0.0), 1 week ago) - Hiera hierarchy module for templating `hiera.yaml`
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.1](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.1), 1 week ago) - Account management module
 - [voxpupuli/puppet-nfs](https://github.com/voxpupuli/puppet-nfs) ([v3.0.0](https://github.com/voxpupuli/puppet-nfs/releases/tag/v3.0.0), 2 weeks ago) - Installs and configures NFS server and clients
-- [voxpupuli/puppet-nftables](https://github.com/voxpupuli/puppet-nftables) ([v4.0.0](https://github.com/voxpupuli/puppet-nftables/releases/tag/v4.0.0), 2 weeks ago) - Puppet Module to manage nftables firewall rules.
 
 #### 📜 My recent blog posts
 
