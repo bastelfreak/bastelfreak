@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.1.0), today) - Vox Pupuli Test Box
-- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) ([v5.0.0](https://github.com/voxpupuli/puppet-mrepo/releases/tag/v5.0.0), 2 days ago) - Puppet module for creating and managing RPM based repository mirrors.
-- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v6.0.0), 2 days ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
-- [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v6.0.0), 2 days ago) - Puppet module to manage Icinga 2
-- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v5.0.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v5.0.0), 6 days ago) - Puppet module to manage Icinga Web 2
-- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.0.0), 6 days ago) - Puppet module to manage IcingaDB.
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.1.0), 1 day ago) - Vox Pupuli Test Box
+- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) ([v5.0.0](https://github.com/voxpupuli/puppet-mrepo/releases/tag/v5.0.0), 3 days ago) - Puppet module for creating and managing RPM based repository mirrors.
+- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v6.0.0), 3 days ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
+- [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v6.0.0), 3 days ago) - Puppet module to manage Icinga 2
+- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v5.0.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v5.0.0), 1 week ago) - Puppet module to manage Icinga Web 2
+- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.0.0), 1 week ago) - Puppet module to manage IcingaDB.
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.4](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.4), 1 week ago) - Ruby client for the Puppet Forge API
 - [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) ([v6.0.0](https://github.com/voxpupuli/puppet-hiera/releases/tag/v6.0.0), 1 week ago) - Hiera hierarchy module for templating `hiera.yaml`
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.1](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.1), 1 week ago) - Account management module
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (today)
-- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 day ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
-- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (2 days ago)
-- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (2 days ago)
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (2 days ago)
-- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (2 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (4 days ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (1 day ago)
+- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (2 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
+- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (3 days ago)
+- [voxpupuli/metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - Tool to check the validity of Puppet metadata.json files (3 days ago)
+- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (3 days ago)
+- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (3 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
