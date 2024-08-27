@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) ([v3.2.0](https://github.com/voxpupuli/puppet-wildfly/releases/tag/v3.2.0), today) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan.
-- [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) ([v5.1.2](https://github.com/voxpupuli/puppet-augeasproviders_grub/releases/tag/v5.1.2), 4 days ago) - Augeas-based grub type and providers
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.1.0), 5 days ago) - Vox Pupuli Test Box
+- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) ([v3.2.0](https://github.com/voxpupuli/puppet-wildfly/releases/tag/v3.2.0), 1 day ago) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan.
+- [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) ([v5.1.2](https://github.com/voxpupuli/puppet-augeasproviders_grub/releases/tag/v5.1.2), 5 days ago) - Augeas-based grub type and providers
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.1.0), 6 days ago) - Vox Pupuli Test Box
 - [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) ([v5.0.0](https://github.com/voxpupuli/puppet-mrepo/releases/tag/v5.0.0), 1 week ago) - Puppet module for creating and managing RPM based repository mirrors.
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v6.0.0), 1 week ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
 - [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v6.0.0), 1 week ago) - Puppet module to manage Icinga 2
 - [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v5.0.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v5.0.0), 1 week ago) - Puppet module to manage Icinga Web 2
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.0.0), 1 week ago) - Puppet module to manage IcingaDB.
-- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.4](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.4), 1 week ago) - Ruby client for the Puppet Forge API
-- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) ([v6.0.0](https://github.com/voxpupuli/puppet-hiera/releases/tag/v6.0.0), 1 week ago) - Hiera hierarchy module for templating `hiera.yaml`
+- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v5.0.4](https://github.com/puppetlabs/forge-ruby/releases/tag/v5.0.4), 2 weeks ago) - Ruby client for the Puppet Forge API
+- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) ([v6.0.0](https://github.com/voxpupuli/puppet-hiera/releases/tag/v6.0.0), 2 weeks ago) - Hiera hierarchy module for templating `hiera.yaml`
 
 #### 📜 My recent blog posts
 
@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (today)
-- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (today)
-- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (3 days ago)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (3 days ago)
-- [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) - Augeas-based grub type and providers (4 days ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (4 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (4 days ago)
-- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (5 days ago)
-- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (6 days ago)
+- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (1 day ago)
+- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (1 day ago)
+- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (4 days ago)
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (4 days ago)
+- [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) - Augeas-based grub type and providers (5 days ago)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (5 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (5 days ago)
+- [voxpupuli/puppet-python](https://github.com/voxpupuli/puppet-python) - Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts. (6 days ago)
+- [voxpupuli/gha-puppet](https://github.com/voxpupuli/gha-puppet) - Reusable workflows to run Puppet tests within GitHub Actions (1 week ago)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (1 week ago)
 
 #### 👥 Check out some of my recent followers
