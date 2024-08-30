@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.0), 2 days ago) - Puppet Webhook port in Golang
-- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) ([v3.2.0](https://github.com/voxpupuli/puppet-wildfly/releases/tag/v3.2.0), 3 days ago) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan.
+- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.0), 3 days ago) - Puppet Webhook port in Golang
+- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) ([v3.2.0](https://github.com/voxpupuli/puppet-wildfly/releases/tag/v3.2.0), 4 days ago) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan.
 - [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) ([v5.1.2](https://github.com/voxpupuli/puppet-augeasproviders_grub/releases/tag/v5.1.2), 1 week ago) - Augeas-based grub type and providers
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.1.0), 1 week ago) - Vox Pupuli Test Box
 - [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) ([v5.0.0](https://github.com/voxpupuli/puppet-mrepo/releases/tag/v5.0.0), 1 week ago) - Puppet module for creating and managing RPM based repository mirrors.
@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (today)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 days ago)
-- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (2 days ago)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (2 days ago)
-- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (3 days ago)
-- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (6 days ago)
-- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (6 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 day ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (3 days ago)
+- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (3 days ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (3 days ago)
+- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (4 days ago)
+- [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (1 week ago)
+- [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (1 week ago)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (1 week ago)
 - [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) - Augeas-based grub type and providers (1 week ago)
 
