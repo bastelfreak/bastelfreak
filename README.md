@@ -71,9 +71,9 @@ Statement from Puppet Inc.:
 
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (3 days ago)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (4 days ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (5 days ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (5 days ago)
 - [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (5 days ago)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (5 days ago)
 - [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (6 days ago)
 - [voxpupuli/beaker-vagrant](https://github.com/voxpupuli/beaker-vagrant) - Vagrant hypervisor library for beaker (1 week ago)
 - [betadots/pdc](https://github.com/betadots/pdc) - Puppet Development Container (1 week ago)
