@@ -42,7 +42,6 @@ Statement from Puppet Inc.:
 
 
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.22.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.22.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.14.6](https://github.com/choria-io/puppet-mcollective/releases/tag/0.14.6), 4 days ago) - A Puppet module to manage MCollective
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.0), 1 week ago) - Puppet Webhook port in Golang
 - [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) ([v3.2.0](https://github.com/voxpupuli/puppet-wildfly/releases/tag/v3.2.0), 1 week ago) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan.
 - [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) ([v5.1.2](https://github.com/voxpupuli/puppet-augeasproviders_grub/releases/tag/v5.1.2), 2 weeks ago) - Augeas-based grub type and providers
@@ -51,6 +50,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v6.0.0), 2 weeks ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
 - [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v6.0.0), 2 weeks ago) - Puppet module to manage Icinga 2
 - [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v5.0.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v5.0.0), 3 weeks ago) - Puppet module to manage Icinga Web 2
+- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.0.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.0.0), 3 weeks ago) - Puppet module to manage IcingaDB.
 
 #### 📜 My recent blog posts
 
