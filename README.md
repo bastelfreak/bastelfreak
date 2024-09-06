@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.9.0](https://github.com/puppetlabs/facter/releases/tag/4.9.0), today) - Collect and display system facts
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.33.0](https://github.com/puppetlabs/puppet/releases/tag/7.33.0), today) - Server automation framework and application
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.4.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.4.0), today) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.22.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.22.0), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.1.0), 2 weeks ago) - Vox Pupuli Test Box
 - [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) ([v5.0.0](https://github.com/voxpupuli/puppet-mrepo/releases/tag/v5.0.0), 2 weeks ago) - Puppet module for creating and managing RPM based repository mirrors.
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v6.0.0), 2 weeks ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
-- [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v6.0.0), 2 weeks ago) - Puppet module to manage Icinga 2
 
 #### 📜 My recent blog posts
 
@@ -77,8 +77,8 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 week ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 week ago)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (1 week ago)
 - [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (1 week ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
