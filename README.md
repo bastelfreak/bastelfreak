@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([7.33.0](https://github.com/puppetlabs/puppet/releases/tag/7.33.0), today) - Server automation framework and application
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.4.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.4.0), today) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.22.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.22.0), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.0), 1 week ago) - Puppet Webhook port in Golang
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) ([v5.0.0](https://github.com/voxpupuli/puppet-mrepo/releases/tag/v5.0.0), 2 weeks ago) - Puppet module for creating and managing RPM based repository mirrors.
 - [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga/releases/tag/v6.0.0), 2 weeks ago) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis.
 - [voxpupuli/puppet-icinga2](https://github.com/voxpupuli/puppet-icinga2) ([v6.0.0](https://github.com/voxpupuli/puppet-icinga2/releases/tag/v6.0.0), 2 weeks ago) - Puppet module to manage Icinga 2
-- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) ([v5.0.0](https://github.com/voxpupuli/puppet-icingaweb2/releases/tag/v5.0.0), 3 weeks ago) - Puppet module to manage Icinga Web 2
 
 #### 📜 My recent blog posts
 
