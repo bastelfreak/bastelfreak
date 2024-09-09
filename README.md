@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) ([v6.1.0](https://github.com/voxpupuli/puppet-lldpd/releases/tag/v6.1.0), today) - Module to manage lldpd package, service and facts
+- [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) ([v0.2.0](https://github.com/voxpupuli/puppet-tang/releases/tag/v0.2.0), today) - 
 - [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.0.0](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.0.0), 3 days ago) - Puppet module to manage Podman Quadlets
 - [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) ([v13.7.0](https://github.com/voxpupuli/puppet-rabbitmq/releases/tag/v13.7.0), 3 days ago) - RabbitMQ Puppet Module
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.9.0](https://github.com/puppetlabs/puppet/releases/tag/8.9.0), 3 days ago) - Server automation framework and application
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.22.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.22.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.0), 1 week ago) - Puppet Webhook port in Golang
 - [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) ([v3.2.0](https://github.com/voxpupuli/puppet-wildfly/releases/tag/v3.2.0), 2 weeks ago) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan.
-- [voxpupuli/puppet-augeasproviders_grub](https://github.com/voxpupuli/puppet-augeasproviders_grub) ([v5.1.2](https://github.com/voxpupuli/puppet-augeasproviders_grub/releases/tag/v5.1.2), 2 weeks ago) - Augeas-based grub type and providers
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.1.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.1.0), 2 weeks ago) - Vox Pupuli Test Box
 
 #### 📜 My recent blog posts
 
