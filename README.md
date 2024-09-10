@@ -77,8 +77,8 @@ Statement from Puppet Inc.:
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (6 days ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (6 days ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 weeks ago)
 - [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (2 weeks ago)
+- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
