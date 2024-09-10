@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-augeas](https://github.com/voxpupuli/puppet-augeas) ([v2.0.0](https://github.com/voxpupuli/puppet-augeas/releases/tag/v2.0.0), today) - Helper for using augeas with puppet
 - [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) ([v2.1.1](https://github.com/voxpupuli/puppet-mosquitto/releases/tag/v2.1.1), today) - Puppet module to manage Eclipse Mosquitto
 - [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.0.1](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.0.1), today) - Puppet module to manage Podman Quadlets
 - [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) ([v6.1.0](https://github.com/voxpupuli/puppet-lldpd/releases/tag/v6.1.0), 1 day ago) - Module to manage lldpd package, service and facts
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.9.0](https://github.com/puppetlabs/facter/releases/tag/4.9.0), 4 days ago) - Collect and display system facts
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.4.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.4.0), 4 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.22.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.22.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.0), 2 weeks ago) - Puppet Webhook port in Golang
 
 #### 📜 My recent blog posts
 
