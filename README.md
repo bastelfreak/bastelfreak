@@ -41,15 +41,15 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) ([v6.1.0](https://github.com/voxpupuli/puppet-lldpd/releases/tag/v6.1.0), today) - Module to manage lldpd package, service and facts
-- [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) ([v0.2.0](https://github.com/voxpupuli/puppet-tang/releases/tag/v0.2.0), today) - 
-- [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.0.0](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.0.0), 3 days ago) - Puppet module to manage Podman Quadlets
-- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) ([v13.7.0](https://github.com/voxpupuli/puppet-rabbitmq/releases/tag/v13.7.0), 3 days ago) - RabbitMQ Puppet Module
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.9.0](https://github.com/puppetlabs/puppet/releases/tag/8.9.0), 3 days ago) - Server automation framework and application
-- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.9.0](https://github.com/puppetlabs/facter/releases/tag/4.9.0), 3 days ago) - Collect and display system facts
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.4.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.4.0), 3 days ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.22.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.22.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.0), 1 week ago) - Puppet Webhook port in Golang
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) ([v6.1.0](https://github.com/voxpupuli/puppet-lldpd/releases/tag/v6.1.0), 1 day ago) - Module to manage lldpd package, service and facts
+- [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) ([v0.2.0](https://github.com/voxpupuli/puppet-tang/releases/tag/v0.2.0), 1 day ago) - 
+- [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.0.0](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.0.0), 4 days ago) - Puppet module to manage Podman Quadlets
+- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) ([v13.7.0](https://github.com/voxpupuli/puppet-rabbitmq/releases/tag/v13.7.0), 4 days ago) - RabbitMQ Puppet Module
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.9.0](https://github.com/puppetlabs/puppet/releases/tag/8.9.0), 4 days ago) - Server automation framework and application
+- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.9.0](https://github.com/puppetlabs/facter/releases/tag/4.9.0), 4 days ago) - Collect and display system facts
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.4.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.4.0), 4 days ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.22.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.22.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.0](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.0), 2 weeks ago) - Puppet Webhook port in Golang
 - [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) ([v3.2.0](https://github.com/voxpupuli/puppet-wildfly/releases/tag/v3.2.0), 2 weeks ago) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan.
 
 #### 📜 My recent blog posts
@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
-- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (today)
-- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (3 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (3 days ago)
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (3 days ago)
-- [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (5 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (5 days ago)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (1 day ago)
+- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (4 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (4 days ago)
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (4 days ago)
+- [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (6 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (6 days ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
-- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (1 week ago)
-- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (1 week ago)
+- [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 weeks ago)
+- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
