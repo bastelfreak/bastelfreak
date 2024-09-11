@@ -71,13 +71,13 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
 - [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (2 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (5 days ago)
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (5 days ago)
 - [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (5 days ago)
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (5 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (5 days ago)
+- [voxpupuli/container-puppetserver](https://github.com/voxpupuli/container-puppetserver) - Container image for Puppet Server (6 days ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 week ago)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 week ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
-- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (2 weeks ago)
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
