@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.23.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.23.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), today) - Puppet Module to manage SELinux on RHEL machines
 - [voxpupuli/puppet-augeas](https://github.com/voxpupuli/puppet-augeas) ([v2.0.0](https://github.com/voxpupuli/puppet-augeas/releases/tag/v2.0.0), 2 days ago) - Helper for using augeas with puppet
 - [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) ([v2.1.1](https://github.com/voxpupuli/puppet-mosquitto/releases/tag/v2.1.1), 2 days ago) - Puppet module to manage Eclipse Mosquitto
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) ([v13.7.0](https://github.com/voxpupuli/puppet-rabbitmq/releases/tag/v13.7.0), 6 days ago) - RabbitMQ Puppet Module
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.9.0](https://github.com/puppetlabs/puppet/releases/tag/8.9.0), 6 days ago) - Server automation framework and application
 - [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.9.0](https://github.com/puppetlabs/facter/releases/tag/4.9.0), 6 days ago) - Collect and display system facts
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v7.4.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v7.4.0), 6 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 
 #### 📜 My recent blog posts
 
