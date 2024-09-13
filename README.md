@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) ([v6.0.1](https://github.com/voxpupuli/puppet-nginx/releases/tag/v6.0.1), today) - Puppet Module to manage NGINX on various UNIXes
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.23.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.23.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), 1 day ago) - Puppet Module to manage SELinux on RHEL machines
 - [voxpupuli/puppet-augeas](https://github.com/voxpupuli/puppet-augeas) ([v2.0.0](https://github.com/voxpupuli/puppet-augeas/releases/tag/v2.0.0), 3 days ago) - Helper for using augeas with puppet
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) ([v0.2.0](https://github.com/voxpupuli/puppet-tang/releases/tag/v0.2.0), 4 days ago) - 
 - [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) ([v13.7.0](https://github.com/voxpupuli/puppet-rabbitmq/releases/tag/v13.7.0), 1 week ago) - RabbitMQ Puppet Module
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.9.0](https://github.com/puppetlabs/puppet/releases/tag/8.9.0), 1 week ago) - Server automation framework and application
-- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.9.0](https://github.com/puppetlabs/facter/releases/tag/4.9.0), 1 week ago) - Collect and display system facts
 
 #### 📜 My recent blog posts
 
