@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.23.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.23.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), today) - Puppet Module to manage SELinux on RHEL machines
-- [voxpupuli/puppet-augeas](https://github.com/voxpupuli/puppet-augeas) ([v2.0.0](https://github.com/voxpupuli/puppet-augeas/releases/tag/v2.0.0), 2 days ago) - Helper for using augeas with puppet
-- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) ([v2.1.1](https://github.com/voxpupuli/puppet-mosquitto/releases/tag/v2.1.1), 2 days ago) - Puppet module to manage Eclipse Mosquitto
-- [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.0.1](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.0.1), 2 days ago) - Puppet module to manage Podman Quadlets
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) ([v6.1.0](https://github.com/voxpupuli/puppet-lldpd/releases/tag/v6.1.0), 3 days ago) - Module to manage lldpd package, service and facts
-- [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) ([v0.2.0](https://github.com/voxpupuli/puppet-tang/releases/tag/v0.2.0), 3 days ago) - 
-- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) ([v13.7.0](https://github.com/voxpupuli/puppet-rabbitmq/releases/tag/v13.7.0), 6 days ago) - RabbitMQ Puppet Module
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.9.0](https://github.com/puppetlabs/puppet/releases/tag/8.9.0), 6 days ago) - Server automation framework and application
-- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.9.0](https://github.com/puppetlabs/facter/releases/tag/4.9.0), 6 days ago) - Collect and display system facts
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.23.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.23.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), 1 day ago) - Puppet Module to manage SELinux on RHEL machines
+- [voxpupuli/puppet-augeas](https://github.com/voxpupuli/puppet-augeas) ([v2.0.0](https://github.com/voxpupuli/puppet-augeas/releases/tag/v2.0.0), 3 days ago) - Helper for using augeas with puppet
+- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) ([v2.1.1](https://github.com/voxpupuli/puppet-mosquitto/releases/tag/v2.1.1), 3 days ago) - Puppet module to manage Eclipse Mosquitto
+- [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.0.1](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.0.1), 3 days ago) - Puppet module to manage Podman Quadlets
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) ([v6.1.0](https://github.com/voxpupuli/puppet-lldpd/releases/tag/v6.1.0), 4 days ago) - Module to manage lldpd package, service and facts
+- [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) ([v0.2.0](https://github.com/voxpupuli/puppet-tang/releases/tag/v0.2.0), 4 days ago) - 
+- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) ([v13.7.0](https://github.com/voxpupuli/puppet-rabbitmq/releases/tag/v13.7.0), 1 week ago) - RabbitMQ Puppet Module
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.9.0](https://github.com/puppetlabs/puppet/releases/tag/8.9.0), 1 week ago) - Server automation framework and application
+- [puppetlabs/facter](https://github.com/puppetlabs/facter) ([4.9.0](https://github.com/puppetlabs/facter/releases/tag/4.9.0), 1 week ago) - Collect and display system facts
 
 #### 📜 My recent blog posts
 
@@ -69,12 +69,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (today)
-- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (1 day ago)
-- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (3 days ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (6 days ago)
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (6 days ago)
-- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (6 days ago)
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) - Puppet Module to manage SELinux on RHEL machines (1 day ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (2 days ago)
+- [voxpupuli/puppet-letsencrypt](https://github.com/voxpupuli/puppet-letsencrypt) - A Puppet module to install the Letsencrypt client and request certificates. (4 days ago)
+- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (1 week ago)
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (1 week ago)
+- [voxpupuli/puppet-rabbitmq](https://github.com/voxpupuli/puppet-rabbitmq) - RabbitMQ Puppet Module (1 week ago)
 - [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 week ago)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 week ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 weeks ago)
