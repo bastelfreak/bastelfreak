@@ -71,13 +71,13 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
 - [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (today)
-- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (3 days ago)
-- [voxpupuli/puppet-icinga](https://github.com/voxpupuli/puppet-icinga) - Puppet module to manage repositories that are needed by Icinga and other base class classes like icinga::redis. (3 days ago)
-- [voxpupuli/puppet-extlib](https://github.com/voxpupuli/puppet-extlib) - This module provides functions that are out of scope for stdlib. (3 days ago)
+- [voxpupuli/puppet-borg](https://github.com/voxpupuli/puppet-borg) - Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore (3 days ago)
+- [voxpupuli/puppet-splunk](https://github.com/voxpupuli/puppet-splunk) - Manage Splunk servers and forwarders using Puppet (3 days ago)
+- [voxpupuli/puppet-kafka](https://github.com/voxpupuli/puppet-kafka) - The kafka module for managing the installation and configuration of Apache Kafka (3 days ago)
 - [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (3 days ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
-- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (3 days ago)
-- [voxpupuli/puppet-augeasproviders_core](https://github.com/voxpupuli/puppet-augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (3 days ago)
+- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (3 days ago)
+- [voxpupuli/puppet-appd_db_agent](https://github.com/voxpupuli/puppet-appd_db_agent) - Puppet module for installing and configuring AppDynamics Database Agent (3 days ago)
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) - Puppet OpenSSL module (3 days ago)
 
 #### 👥 Check out some of my recent followers
