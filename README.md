@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), today) - Create and manage PE node groups as resources.
 - [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.0](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.0), today) - This module installs, configures and manages the Fail2ban service.
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.2.0), today) - Vox Pupuli Test Box
 - [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.3.0](https://github.com/puppetlabs/pdk/releases/tag/v3.3.0), 3 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), 4 days ago) - Puppet Module to manage SELinux on RHEL machines
 - [voxpupuli/puppet-augeas](https://github.com/voxpupuli/puppet-augeas) ([v2.0.0](https://github.com/voxpupuli/puppet-augeas/releases/tag/v2.0.0), 6 days ago) - Helper for using augeas with puppet
 - [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) ([v2.1.1](https://github.com/voxpupuli/puppet-mosquitto/releases/tag/v2.1.1), 6 days ago) - Puppet module to manage Eclipse Mosquitto
-- [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.0.1](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.0.1), 6 days ago) - Puppet module to manage Podman Quadlets
 
 #### 📜 My recent blog posts
 
