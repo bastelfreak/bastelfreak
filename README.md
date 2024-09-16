@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.3.0](https://github.com/puppetlabs/pdk/releases/tag/v3.3.0), 2 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
-- [betadots/pdc](https://github.com/betadots/pdc) ([v3.2.0](https://github.com/betadots/pdc/releases/tag/v3.2.0), 2 days ago) - Puppet Development Container
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) ([v6.0.1](https://github.com/voxpupuli/puppet-nginx/releases/tag/v6.0.1), 2 days ago) - Puppet Module to manage NGINX on various UNIXes
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.23.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.23.0), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), 3 days ago) - Puppet Module to manage SELinux on RHEL machines
-- [voxpupuli/puppet-augeas](https://github.com/voxpupuli/puppet-augeas) ([v2.0.0](https://github.com/voxpupuli/puppet-augeas/releases/tag/v2.0.0), 5 days ago) - Helper for using augeas with puppet
-- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) ([v2.1.1](https://github.com/voxpupuli/puppet-mosquitto/releases/tag/v2.1.1), 5 days ago) - Puppet module to manage Eclipse Mosquitto
-- [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.0.1](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.0.1), 5 days ago) - Puppet module to manage Podman Quadlets
-- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) ([v6.1.0](https://github.com/voxpupuli/puppet-lldpd/releases/tag/v6.1.0), 6 days ago) - Module to manage lldpd package, service and facts
-- [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) ([v0.2.0](https://github.com/voxpupuli/puppet-tang/releases/tag/v0.2.0), 6 days ago) - 
+- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.3.0](https://github.com/puppetlabs/pdk/releases/tag/v3.3.0), 3 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
+- [betadots/pdc](https://github.com/betadots/pdc) ([v3.2.0](https://github.com/betadots/pdc/releases/tag/v3.2.0), 3 days ago) - Puppet Development Container
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) ([v6.0.1](https://github.com/voxpupuli/puppet-nginx/releases/tag/v6.0.1), 3 days ago) - Puppet Module to manage NGINX on various UNIXes
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.23.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.23.0), 4 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), 4 days ago) - Puppet Module to manage SELinux on RHEL machines
+- [voxpupuli/puppet-augeas](https://github.com/voxpupuli/puppet-augeas) ([v2.0.0](https://github.com/voxpupuli/puppet-augeas/releases/tag/v2.0.0), 6 days ago) - Helper for using augeas with puppet
+- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) ([v2.1.1](https://github.com/voxpupuli/puppet-mosquitto/releases/tag/v2.1.1), 6 days ago) - Puppet module to manage Eclipse Mosquitto
+- [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.0.1](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.0.1), 6 days ago) - Puppet module to manage Podman Quadlets
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) ([v6.1.0](https://github.com/voxpupuli/puppet-lldpd/releases/tag/v6.1.0), 1 week ago) - Module to manage lldpd package, service and facts
+- [voxpupuli/puppet-tang](https://github.com/voxpupuli/puppet-tang) ([v0.2.0](https://github.com/voxpupuli/puppet-tang/releases/tag/v0.2.0), 1 week ago) - 
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) - Puppet module to manage Icinga Web 2 (2 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 days ago)
-- [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (2 days ago)
-- [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) - An example Puppet repository to test out automation and coding styles (2 days ago)
-- [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) - Puppet Module to manage bareos (2 days ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (2 days ago)
-- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (2 days ago)
-- [voxpupuli/puppet-gerrit](https://github.com/voxpupuli/puppet-gerrit) - gerrit puppet module (2 days ago)
-- [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (2 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (2 days ago)
+- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) - Puppet module to manage Icinga Web 2 (3 days ago)
+- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
+- [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (3 days ago)
+- [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) - An example Puppet repository to test out automation and coding styles (3 days ago)
+- [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) - Puppet Module to manage bareos (3 days ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (3 days ago)
+- [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
+- [voxpupuli/puppet-gerrit](https://github.com/voxpupuli/puppet-gerrit) - gerrit puppet module (3 days ago)
+- [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (3 days ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
