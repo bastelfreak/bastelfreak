@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-icingaweb2](https://github.com/voxpupuli/puppet-icingaweb2) - Puppet module to manage Icinga Web 2 (3 days ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (3 days ago)
+- [voxpupuli/facterdb](https://github.com/voxpupuli/facterdb) - A Database of OS facts provided by Facter (today)
+- [voxpupuli/puppet-lldpd](https://github.com/voxpupuli/puppet-lldpd) - Module to manage lldpd package, service and facts (3 days ago)
 - [voxpupuli/puppet-bird](https://github.com/voxpupuli/puppet-bird) - Manage bird Internet routing daemon with puppet (3 days ago)
 - [voxpupuli/puppet-example](https://github.com/voxpupuli/puppet-example) - An example Puppet repository to test out automation and coding styles (3 days ago)
-- [voxpupuli/puppet-bareos](https://github.com/voxpupuli/puppet-bareos) - Puppet Module to manage bareos (3 days ago)
+- [voxpupuli/puppet-gerrit](https://github.com/voxpupuli/puppet-gerrit) - gerrit puppet module (3 days ago)
 - [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (3 days ago)
 - [voxpupuli/puppet-keepalived](https://github.com/voxpupuli/puppet-keepalived) - Puppet Module to manage Keepalived (3 days ago)
-- [voxpupuli/puppet-gerrit](https://github.com/voxpupuli/puppet-gerrit) - gerrit puppet module (3 days ago)
+- [voxpupuli/puppet-augeasproviders_syslog](https://github.com/voxpupuli/puppet-augeasproviders_syslog) - Augeas-based syslog type and providers for Puppet (3 days ago)
+- [voxpupuli/puppet-augeasproviders_puppet](https://github.com/voxpupuli/puppet-augeasproviders_puppet) - Augeas-based Puppet configuration types and providers for Puppet  (3 days ago)
 - [voxpupuli/puppet-k8s](https://github.com/voxpupuli/puppet-k8s) - Home for the K8s Puppet module (3 days ago)
-- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
