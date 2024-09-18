@@ -41,15 +41,15 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.0](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.0), today) - The canonical gem to build puppet modules
-- [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), 1 day ago) - Create and manage PE node groups as resources.
-- [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.0](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.0), 1 day ago) - This module installs, configures and manages the Fail2ban service.
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.2.0), 1 day ago) - Vox Pupuli Test Box
-- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.3.0](https://github.com/puppetlabs/pdk/releases/tag/v3.3.0), 4 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
-- [betadots/pdc](https://github.com/betadots/pdc) ([v3.2.0](https://github.com/betadots/pdc/releases/tag/v3.2.0), 4 days ago) - Puppet Development Container
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) ([v6.0.1](https://github.com/voxpupuli/puppet-nginx/releases/tag/v6.0.1), 4 days ago) - Puppet Module to manage NGINX on various UNIXes
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.23.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.23.0), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), 5 days ago) - Puppet Module to manage SELinux on RHEL machines
+- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.0](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.0), 1 day ago) - The canonical gem to build puppet modules
+- [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), 2 days ago) - Create and manage PE node groups as resources.
+- [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.0](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.0), 2 days ago) - This module installs, configures and manages the Fail2ban service.
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.2.0), 2 days ago) - Vox Pupuli Test Box
+- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.3.0](https://github.com/puppetlabs/pdk/releases/tag/v3.3.0), 5 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
+- [betadots/pdc](https://github.com/betadots/pdc) ([v3.2.0](https://github.com/betadots/pdc/releases/tag/v3.2.0), 5 days ago) - Puppet Development Container
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) ([v6.0.1](https://github.com/voxpupuli/puppet-nginx/releases/tag/v6.0.1), 5 days ago) - Puppet Module to manage NGINX on various UNIXes
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.23.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.23.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), 6 days ago) - Puppet Module to manage SELinux on RHEL machines
 - [voxpupuli/puppet-augeas](https://github.com/voxpupuli/puppet-augeas) ([v2.0.0](https://github.com/voxpupuli/puppet-augeas/releases/tag/v2.0.0), 1 week ago) - Helper for using augeas with puppet
 
 #### 📜 My recent blog posts
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (today)
-- [voxpupuli/puppet-augeasproviders_core](https://github.com/voxpupuli/puppet-augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (today)
-- [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (today)
-- [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (today)
-- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (today)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (today)
-- [voxpupuli/puppet-gitlab_ci_runner](https://github.com/voxpupuli/puppet-gitlab_ci_runner) - Module to mange gitlab CI runners. Extracted from https://github.com/voxpupuli/puppet-gitlab (today)
-- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (today)
-- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) - Hiera hierarchy module for templating `hiera.yaml` (today)
-- [voxpupuli/puppet-format](https://github.com/voxpupuli/puppet-format) - Text formatting functions for puppet lang (today)
+- [voxpupuli/puppet-consul](https://github.com/voxpupuli/puppet-consul) - A Puppet Module to Manage Consul (1 day ago)
+- [voxpupuli/puppet-format](https://github.com/voxpupuli/puppet-format) - Text formatting functions for puppet lang (1 day ago)
+- [voxpupuli/puppet-mrepo](https://github.com/voxpupuli/puppet-mrepo) - Puppet module for creating and managing RPM based repository mirrors. (1 day ago)
+- [voxpupuli/puppet-dbbackup](https://github.com/voxpupuli/puppet-dbbackup) - configure dump scripts for mysql, postgres and ldap (1 day ago)
+- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) - Hiera hierarchy module for templating `hiera.yaml` (1 day ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (1 day ago)
+- [voxpupuli/puppet-augeasproviders_core](https://github.com/voxpupuli/puppet-augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (1 day ago)
+- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (1 day ago)
+- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (1 day ago)
+- [voxpupuli/puppet-prometheus](https://github.com/voxpupuli/puppet-prometheus) - Puppet module for prometheus (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
