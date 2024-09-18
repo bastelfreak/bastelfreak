@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v8.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v8.0.0), today) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.1](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.1), today) - The canonical gem to build puppet modules
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.1), today) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), 2 days ago) - Create and manage PE node groups as resources.
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [betadots/pdc](https://github.com/betadots/pdc) ([v3.2.0](https://github.com/betadots/pdc/releases/tag/v3.2.0), 5 days ago) - Puppet Development Container
 - [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) ([v6.0.1](https://github.com/voxpupuli/puppet-nginx/releases/tag/v6.0.1), 5 days ago) - Puppet Module to manage NGINX on various UNIXes
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.23.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.23.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [voxpupuli/puppet-selinux](https://github.com/voxpupuli/puppet-selinux) ([v5.0.0](https://github.com/voxpupuli/puppet-selinux/releases/tag/v5.0.0), 6 days ago) - Puppet Module to manage SELinux on RHEL machines
 
 #### 📜 My recent blog posts
 
