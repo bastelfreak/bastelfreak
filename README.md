@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) ([v6.0.0](https://github.com/voxpupuli/puppet-alternatives/releases/tag/v6.0.0), today) - Manage Debian alternatives links
-- [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.1](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.1), today) - This module installs, configures and manages the Fail2ban service.
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v8.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v8.0.0), today) - A set of shared spec helpers specific to Puppetlabs projects
-- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.1](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.1), today) - The canonical gem to build puppet modules
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.1), today) - Puppet Webhook port in Golang
-- [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), 2 days ago) - Create and manage PE node groups as resources.
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.2.0), 2 days ago) - Vox Pupuli Test Box
-- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.3.0](https://github.com/puppetlabs/pdk/releases/tag/v3.3.0), 5 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
-- [betadots/pdc](https://github.com/betadots/pdc) ([v3.2.0](https://github.com/betadots/pdc/releases/tag/v3.2.0), 5 days ago) - Puppet Development Container
-- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) ([v6.0.1](https://github.com/voxpupuli/puppet-nginx/releases/tag/v6.0.1), 5 days ago) - Puppet Module to manage NGINX on various UNIXes
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) ([v6.0.0](https://github.com/voxpupuli/puppet-alternatives/releases/tag/v6.0.0), 1 day ago) - Manage Debian alternatives links
+- [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.1](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.1), 1 day ago) - This module installs, configures and manages the Fail2ban service.
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v8.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v8.0.0), 1 day ago) - A set of shared spec helpers specific to Puppetlabs projects
+- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.1](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.1), 1 day ago) - The canonical gem to build puppet modules
+- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.1), 1 day ago) - Puppet Webhook port in Golang
+- [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), 3 days ago) - Create and manage PE node groups as resources.
+- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.2.0), 3 days ago) - Vox Pupuli Test Box
+- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.3.0](https://github.com/puppetlabs/pdk/releases/tag/v3.3.0), 6 days ago) - The shortest path to better modules: Puppet Development Kit; Download:
+- [betadots/pdc](https://github.com/betadots/pdc) ([v3.2.0](https://github.com/betadots/pdc/releases/tag/v3.2.0), 6 days ago) - Puppet Development Container
+- [voxpupuli/puppet-nginx](https://github.com/voxpupuli/puppet-nginx) ([v6.0.1](https://github.com/voxpupuli/puppet-nginx/releases/tag/v6.0.1), 6 days ago) - Puppet Module to manage NGINX on various UNIXes
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (today)
-- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (1 day ago)
-- [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (1 day ago)
-- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (1 day ago)
-- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (1 day ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (1 day ago)
-- [voxpupuli/puppet-format](https://github.com/voxpupuli/puppet-format) - Text formatting functions for puppet lang (1 day ago)
-- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (1 day ago)
-- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) - Hiera hierarchy module for templating `hiera.yaml` (1 day ago)
-- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (1 day ago)
+- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 day ago)
+- [voxpupuli/puppet-wildfly](https://github.com/voxpupuli/puppet-wildfly) - Puppet module to install, configure and manage Wildfly (8/9/10&#43;), JBoss EAP (6.1&#43;/7.0&#43;) and some Wildfly based products like apiman, Keycloak and Infinispan. (2 days ago)
+- [voxpupuli/puppet-kibana](https://github.com/voxpupuli/puppet-kibana) - Kibana Puppet module by Elastic. (2 days ago)
+- [voxpupuli/puppet-fetchcrl](https://github.com/voxpupuli/puppet-fetchcrl) - Installs and Configures fetch-crl along with IGTF certificates. (2 days ago)
+- [voxpupuli/puppet-augeasproviders_mounttab](https://github.com/voxpupuli/puppet-augeasproviders_mounttab) - Augeas-based mounttab provider (2 days ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (2 days ago)
+- [voxpupuli/puppet-format](https://github.com/voxpupuli/puppet-format) - Text formatting functions for puppet lang (2 days ago)
+- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (2 days ago)
+- [voxpupuli/puppet-hiera](https://github.com/voxpupuli/puppet-hiera) - Hiera hierarchy module for templating `hiera.yaml` (2 days ago)
+- [voxpupuli/puppet-mosquitto](https://github.com/voxpupuli/puppet-mosquitto) - Puppet module to manage Eclipse Mosquitto (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
