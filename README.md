@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.2](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.2), today) - This module installs, configures and manages the Fail2ban service.
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.4.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.4.0), today) - Self Service Module for Puppet Enterprise
 - [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) ([v6.0.0](https://github.com/voxpupuli/puppet-alternatives/releases/tag/v6.0.0), 1 day ago) - Manage Debian alternatives links
-- [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.1](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.1), 1 day ago) - This module installs, configures and manages the Fail2ban service.
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v8.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v8.0.0), 1 day ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.1](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.1), 1 day ago) - The canonical gem to build puppet modules
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.1), 1 day ago) - Puppet Webhook port in Golang
