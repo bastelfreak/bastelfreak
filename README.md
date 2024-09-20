@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.0.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.0.0), today) - Ruby client for the Puppet Forge API
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) ([v10.0.0](https://github.com/voxpupuli/puppet-gitlab/releases/tag/v10.0.0), today) - Puppet module to manage Gitlab (Omnibus)
 - [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.2](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.2), 1 day ago) - This module installs, configures and manages the Fail2ban service.
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.4.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.4.0), 1 day ago) - Self Service Module for Puppet Enterprise
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.1), 2 days ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), 4 days ago) - Create and manage PE node groups as resources.
 - [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.2.0), 4 days ago) - Vox Pupuli Test Box
-- [puppetlabs/pdk](https://github.com/puppetlabs/pdk) ([v3.3.0](https://github.com/puppetlabs/pdk/releases/tag/v3.3.0), 1 week ago) - The shortest path to better modules: Puppet Development Kit; Download:
 
 #### 📜 My recent blog posts
 
