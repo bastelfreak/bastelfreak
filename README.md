@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.24.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.24.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.0.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.0.0), today) - Ruby client for the Puppet Forge API
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) ([v10.0.0](https://github.com/voxpupuli/puppet-gitlab/releases/tag/v10.0.0), today) - Puppet module to manage Gitlab (Omnibus)
 - [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.2](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.2), 1 day ago) - This module installs, configures and manages the Fail2ban service.
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.1](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.1), 2 days ago) - The canonical gem to build puppet modules
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.1), 2 days ago) - Puppet Webhook port in Golang
 - [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), 4 days ago) - Create and manage PE node groups as resources.
-- [voxpupuli/container-voxbox](https://github.com/voxpupuli/container-voxbox) ([v2.2.0](https://github.com/voxpupuli/container-voxbox/releases/tag/v2.2.0), 4 days ago) - Vox Pupuli Test Box
 
 #### 📜 My recent blog posts
 
