@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (today)
-- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (today)
 - [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (today)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (today)
-- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (today)
+- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (today)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (today)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (today)
+- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (today)
+- [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (today)
+- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (today)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (1 day ago)
 - [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (2 days ago)
-- [voxpupuli/puppet-augeasproviders_syslog](https://github.com/voxpupuli/puppet-augeasproviders_syslog) - Augeas-based syslog type and providers for Puppet (3 days ago)
-- [voxpupuli/puppet-augeasproviders_core](https://github.com/voxpupuli/puppet-augeasproviders_core) - Alternative Augeas-based providers for Puppet, core library  http://augeasproviders.com/ (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
