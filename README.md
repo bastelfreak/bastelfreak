@@ -50,7 +50,7 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) ([v6.0.0](https://github.com/voxpupuli/puppet-alternatives/releases/tag/v6.0.0), 4 days ago) - Manage Debian alternatives links
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v8.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v8.0.0), 4 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.1](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.1), 4 days ago) - The canonical gem to build puppet modules
-- [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) ([v2.7.1](https://github.com/voxpupuli/webhook-go/releases/tag/v2.7.1), 4 days ago) - Puppet Webhook port in Golang
+- [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), 6 days ago) - Create and manage PE node groups as resources.
 
 #### 📜 My recent blog posts
 
