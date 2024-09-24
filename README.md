@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.2](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.2), today) - The canonical gem to build puppet modules
 - [voxpupuli/puppet-quadlets](https://github.com/voxpupuli/puppet-quadlets) ([v1.1.0](https://github.com/voxpupuli/puppet-quadlets/releases/tag/v1.1.0), 4 days ago) - Puppet module to manage Podman Quadlets
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.24.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.24.0), 4 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.0.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.0.0), 4 days ago) - Ruby client for the Puppet Forge API
@@ -49,7 +50,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.4.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.4.0), 5 days ago) - Self Service Module for Puppet Enterprise
 - [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) ([v6.0.0](https://github.com/voxpupuli/puppet-alternatives/releases/tag/v6.0.0), 6 days ago) - Manage Debian alternatives links
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v8.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v8.0.0), 6 days ago) - A set of shared spec helpers specific to Puppetlabs projects
-- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.1](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.1), 6 days ago) - The canonical gem to build puppet modules
 - [puppetlabs/puppetlabs-node_manager](https://github.com/puppetlabs/puppetlabs-node_manager) ([v1.1.0](https://github.com/puppetlabs/puppetlabs-node_manager/releases/tag/v1.1.0), 1 week ago) - Create and manage PE node groups as resources.
 
 #### 📜 My recent blog posts
