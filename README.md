@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.21.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.21.0), today) - Module for managing Puppet-Agent
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.1.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.1.0), 1 day ago) - Puppet module to manage IcingaDB.
 - [voxpupuli/container-semantic-release](https://github.com/voxpupuli/container-semantic-release) ([v1.0.0](https://github.com/voxpupuli/container-semantic-release/releases/tag/v1.0.0), 1 day ago) - Voxpupuli Container for semantic-release
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.2](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.2), 1 day ago) - The canonical gem to build puppet modules
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) ([v10.0.0](https://github.com/voxpupuli/puppet-gitlab/releases/tag/v10.0.0), 5 days ago) - Puppet module to manage Gitlab (Omnibus)
 - [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.2](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.2), 6 days ago) - This module installs, configures and manages the Fail2ban service.
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.4.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.4.0), 6 days ago) - Self Service Module for Puppet Enterprise
-- [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) ([v6.0.0](https://github.com/voxpupuli/puppet-alternatives/releases/tag/v6.0.0), 1 week ago) - Manage Debian alternatives links
 
 #### 📜 My recent blog posts
 
@@ -71,12 +71,12 @@ Statement from Puppet Inc.:
 
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 day ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (5 days ago)
+- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (5 days ago)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (5 days ago)
+- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (5 days ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (5 days ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (5 days ago)
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (5 days ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (5 days ago)
-- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (5 days ago)
-- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (5 days ago)
-- [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (5 days ago)
 - [voxpupuli/controlrepo](https://github.com/voxpupuli/controlrepo) - The puppet code that powers our dashboard (6 days ago)
 - [voxpupuli/puppet-alternatives](https://github.com/voxpupuli/puppet-alternatives) - Manage Debian alternatives links (1 week ago)
 
