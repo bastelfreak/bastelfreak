@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v3.0.0](https://github.com/betadots/hdm/releases/tag/v3.0.0), today) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.21.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.21.0), 1 day ago) - Module for managing Puppet-Agent
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.1.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.1.0), 2 days ago) - Puppet module to manage IcingaDB.
 - [voxpupuli/container-semantic-release](https://github.com/voxpupuli/container-semantic-release) ([v1.0.0](https://github.com/voxpupuli/container-semantic-release/releases/tag/v1.0.0), 2 days ago) - Voxpupuli Container for semantic-release
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.0.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.0.0), 6 days ago) - Ruby client for the Puppet Forge API
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) ([v10.0.0](https://github.com/voxpupuli/puppet-gitlab/releases/tag/v10.0.0), 6 days ago) - Puppet module to manage Gitlab (Omnibus)
 - [voxpupuli/puppet-fail2ban](https://github.com/voxpupuli/puppet-fail2ban) ([v5.0.2](https://github.com/voxpupuli/puppet-fail2ban/releases/tag/v5.0.2), 1 week ago) - This module installs, configures and manages the Fail2ban service.
-- [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.4.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.4.0), 1 week ago) - Self Service Module for Puppet Enterprise
 
 #### 📜 My recent blog posts
 
