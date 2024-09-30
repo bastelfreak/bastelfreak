@@ -73,11 +73,11 @@ Statement from Puppet Inc.:
 - [voxpupuli/puppet-autofs](https://github.com/voxpupuli/puppet-autofs) - Puppet Module for autofs https://forge.puppet.com/puppet/autofs (5 days ago)
 - [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (6 days ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (1 week ago)
-- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (1 week ago)
-- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (1 week ago)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 week ago)
-- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (1 week ago)
 - [voxpupuli/puppet-gitlab](https://github.com/voxpupuli/puppet-gitlab) - Puppet module to manage Gitlab (Omnibus) (1 week ago)
+- [voxpupuli/puppet-vault_lookup](https://github.com/voxpupuli/puppet-vault_lookup) -  (1 week ago)
+- [voxpupuli/beaker-docker](https://github.com/voxpupuli/beaker-docker) - Docker hypervisor for Beaker acceptance testing framework (1 week ago)
+- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 week ago)
+- [voxpupuli/puppet-ipset](https://github.com/voxpupuli/puppet-ipset) - Puppet module to manage ipset tooling and actual sets (1 week ago)
 - [voxpupuli/puppet-telegraf](https://github.com/voxpupuli/puppet-telegraf) - A Puppet module for installing and configuring InfluxData&#39;s Telegraf (1 week ago)
 
 #### 👥 Check out some of my recent followers
