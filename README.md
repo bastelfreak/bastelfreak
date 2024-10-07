@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.1), today) - Puppet Module to manage Java
 - [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) ([v7.2.0](https://github.com/voxpupuli/puppet-snmp/releases/tag/v7.2.0), 6 days ago) - Puppet module to manage Net-SNMP.
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.1.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.1.0), 6 days ago) - Puppet OpenSSL module
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.25.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.25.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.21.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.21.0), 1 week ago) - Module for managing Puppet-Agent
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.1.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.1.0), 1 week ago) - Puppet module to manage IcingaDB.
 - [voxpupuli/container-semantic-release](https://github.com/voxpupuli/container-semantic-release) ([v1.0.0](https://github.com/voxpupuli/container-semantic-release/releases/tag/v1.0.0), 1 week ago) - Voxpupuli Container for semantic-release
-- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.2](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.2), 1 week ago) - The canonical gem to build puppet modules
 
 #### 📜 My recent blog posts
 
