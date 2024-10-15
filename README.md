@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) ([v4.5.0](https://github.com/voxpupuli/puppet-postfix/releases/tag/v4.5.0), today) - Puppet postfix module
 - [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.2.2](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.2.2), today) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.1), 1 week ago) - Puppet Module to manage Java
 - [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) ([v7.2.0](https://github.com/voxpupuli/puppet-snmp/releases/tag/v7.2.0), 2 weeks ago) - Puppet module to manage Net-SNMP.
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [betadots/hdm](https://github.com/betadots/hdm) ([v3.0.0](https://github.com/betadots/hdm/releases/tag/v3.0.0), 2 weeks ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.21.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.21.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.1.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.1.0), 3 weeks ago) - Puppet module to manage IcingaDB.
-- [voxpupuli/container-semantic-release](https://github.com/voxpupuli/container-semantic-release) ([v1.0.0](https://github.com/voxpupuli/container-semantic-release/releases/tag/v1.0.0), 3 weeks ago) - Voxpupuli Container for semantic-release
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) -  (today)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (today)
 - [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (today)
 - [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (today)
+- [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) -  (today)
 - [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (2 days ago)
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (6 days ago)
 - [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (1 week ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (1 week ago)
 - [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (1 week ago)
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (1 week ago)
-- [voxpupuli/modulesync_config](https://github.com/voxpupuli/modulesync_config) - configuration for our module sync (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
