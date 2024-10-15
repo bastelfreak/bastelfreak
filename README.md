@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.2.2](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.2.2), today) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.1), 1 week ago) - Puppet Module to manage Java
 - [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) ([v7.2.0](https://github.com/voxpupuli/puppet-snmp/releases/tag/v7.2.0), 2 weeks ago) - Puppet module to manage Net-SNMP.
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.1.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.1.0), 2 weeks ago) - Puppet OpenSSL module
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.25.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.25.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [voxpupuli/puppet-augeasproviders_ssh](https://github.com/voxpupuli/puppet-augeasproviders_ssh) ([v7.0.0](https://github.com/voxpupuli/puppet-augeasproviders_ssh/releases/tag/v7.0.0), 2 weeks ago) - Augeas-based ssh types and providers for Puppet 
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.2.0](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.2.0), 2 weeks ago) - 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v3.0.0](https://github.com/betadots/hdm/releases/tag/v3.0.0), 2 weeks ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.21.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.21.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.1.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.1.0), 3 weeks ago) - Puppet module to manage IcingaDB.
