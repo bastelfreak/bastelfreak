@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) ([v4.5.0](https://github.com/voxpupuli/puppet-postfix/releases/tag/v4.5.0), today) - Puppet postfix module
+- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) ([v5.0.0](https://github.com/voxpupuli/puppet-postfix/releases/tag/v5.0.0), today) - Puppet postfix module
 - [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.2.2](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.2.2), today) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.1), 1 week ago) - Puppet Module to manage Java
 - [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) ([v7.2.0](https://github.com/voxpupuli/puppet-snmp/releases/tag/v7.2.0), 2 weeks ago) - Puppet module to manage Net-SNMP.
