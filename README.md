@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) ([v5.0.0](https://github.com/voxpupuli/puppet-postfix/releases/tag/v5.0.0), 2 days ago) - Puppet postfix module
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.2.2](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.2.2), 2 days ago) - 
+- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) ([v5.0.0](https://github.com/voxpupuli/puppet-postfix/releases/tag/v5.0.0), 3 days ago) - Puppet postfix module
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.2.2](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.2.2), 3 days ago) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.1), 1 week ago) - Puppet Module to manage Java
 - [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) ([v7.2.0](https://github.com/voxpupuli/puppet-snmp/releases/tag/v7.2.0), 2 weeks ago) - Puppet module to manage Net-SNMP.
 - [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.1.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.1.0), 2 weeks ago) - Puppet OpenSSL module
@@ -69,11 +69,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
-- [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) -  (2 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (2 days ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (2 days ago)
-- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (4 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 days ago)
+- [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) -  (3 days ago)
+- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
+- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (3 days ago)
+- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (5 days ago)
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 week ago)
 - [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (1 week ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (1 week ago)
