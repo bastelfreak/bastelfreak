@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [voxpupuli/puppet-postfix](https://github.com/voxpupuli/puppet-postfix) ([v5.0.0](https://github.com/voxpupuli/puppet-postfix/releases/tag/v5.0.0), 3 days ago) - Puppet postfix module
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) ([v1.2.2](https://github.com/voxpupuli/puppet-bolt/releases/tag/v1.2.2), 3 days ago) - 
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.1), 1 week ago) - Puppet Module to manage Java
-- [voxpupuli/puppet-snmp](https://github.com/voxpupuli/puppet-snmp) ([v7.2.0](https://github.com/voxpupuli/puppet-snmp/releases/tag/v7.2.0), 2 weeks ago) - Puppet module to manage Net-SNMP.
-- [voxpupuli/puppet-openssl](https://github.com/voxpupuli/puppet-openssl) ([v4.1.0](https://github.com/voxpupuli/puppet-openssl/releases/tag/v4.1.0), 2 weeks ago) - Puppet OpenSSL module
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.25.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.25.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [voxpupuli/puppet-augeasproviders_ssh](https://github.com/voxpupuli/puppet-augeasproviders_ssh) ([v7.0.0](https://github.com/voxpupuli/puppet-augeasproviders_ssh/releases/tag/v7.0.0), 2 weeks ago) - Augeas-based ssh types and providers for Puppet 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v3.0.0](https://github.com/betadots/hdm/releases/tag/v3.0.0), 3 weeks ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.21.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.21.0), 3 weeks ago) - Module for managing Puppet-Agent
-- [voxpupuli/puppet-icingadb](https://github.com/voxpupuli/puppet-icingadb) ([v3.1.0](https://github.com/voxpupuli/puppet-icingadb/releases/tag/v3.1.0), 3 weeks ago) - Puppet module to manage IcingaDB.
+- [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.5.1](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.5.1), today) - Self Service Module for Puppet Enterprise
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.25.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.25.1), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.2.0), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.10.0](https://github.com/puppetlabs/puppet/releases/tag/8.10.0), 1 month ago) - Server automation framework and application
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.1), 1 month ago) - Puppet Module to manage Java
+- [betadots/hdm](https://github.com/betadots/hdm) ([v3.0.0](https://github.com/betadots/hdm/releases/tag/v3.0.0), 2 months ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.21.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.21.0), 2 months ago) - Module for managing Puppet-Agent
+- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.2](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.2), 2 months ago) - The canonical gem to build puppet modules
+- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.0.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.0.0), 2 months ago) - Ruby client for the Puppet Forge API
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v8.0.0](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v8.0.0), 2 months ago) - A set of shared spec helpers specific to Puppetlabs projects
 
 #### 📜 My recent blog posts
 
@@ -69,25 +69,25 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 days ago)
-- [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) -  (3 days ago)
-- [voxpupuli/voxpupuli.github.io](https://github.com/voxpupuli/voxpupuli.github.io) - What this is all about. (3 days ago)
-- [voxpupuli/puppet-bolt](https://github.com/voxpupuli/puppet-bolt) -  (3 days ago)
-- [voxpupuli/json-schema](https://github.com/voxpupuli/json-schema) - Ruby JSON Schema Validator (5 days ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 week ago)
-- [voxpupuli/voxpupuli-test](https://github.com/voxpupuli/voxpupuli-test) - Gem with Voxpupuli test helper code (1 week ago)
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) - The gem intends to provide an abstraction over Puppet&#39;s metadata.json file. Its API allow easy iteration over its illogical data structures. (1 week ago)
-- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (1 week ago)
-- [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet. (2 weeks ago)
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (4 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 weeks ago)
+- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (1 month ago)
+- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (1 month ago)
+- [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) -  (1 month ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 month ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 month ago)
+- [bastelfreak/petuning](https://github.com/bastelfreak/petuning) -  (1 month ago)
+- [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (1 month ago)
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers (1 month ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/72575602?u=ad7c98f855d11ef18db34bcb0ddbb5b7fc768f40&amp;v=4" height="20"/> OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [<img src="https://avatars.githubusercontent.com/u/37978213?v=4" height="20"/> ceovishal](https://github.com/ceovishal)
 - [<img src="https://avatars.githubusercontent.com/u/8357866?v=4" height="20"/> augustocarvalho](https://github.com/augustocarvalho)
 - [<img src="https://avatars.githubusercontent.com/u/71723339?v=4" height="20"/> techsk8](https://github.com/techsk8)
 - [<img src="https://avatars.githubusercontent.com/u/133056472?u=f0118db611ed7ebba7844cf672a317206636dcb2&amp;v=4" height="20"/> parsaa74](https://github.com/parsaa74)
-- [<img src="https://avatars.githubusercontent.com/u/39115651?u=698b472b817b1e117b5a86aec9f97be8902db342&amp;v=4" height="20"/> eust-w](https://github.com/eust-w)
 
 ### Top languages
 
