@@ -71,6 +71,7 @@ Statement from Puppet Inc.:
 
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (6 days ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 weeks ago)
+- [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (4 weeks ago)
 - [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (1 month ago)
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (1 month ago)
 - [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) -  (1 month ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 month ago)
 - [bastelfreak/petuning](https://github.com/bastelfreak/petuning) -  (1 month ago)
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers (1 month ago)
-- [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (1 month ago)
 
 #### 👥 Check out some of my recent followers
 
