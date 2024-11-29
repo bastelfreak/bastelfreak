@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.4.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.4.0), today) - 
-- [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.5.1](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.5.1), 3 days ago) - Self Service Module for Puppet Enterprise
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.4.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.4.0), 1 day ago) - 
+- [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.5.1](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.5.1), 4 days ago) - Self Service Module for Puppet Enterprise
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.25.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.25.1), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.2.0), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.10.0](https://github.com/puppetlabs/puppet/releases/tag/8.10.0), 1 month ago) - Server automation framework and application
@@ -70,8 +70,8 @@ Statement from Puppet Inc.:
 
 
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (1 week ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 weeks ago)
-- [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (4 weeks ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (4 weeks ago)
+- [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (1 month ago)
 - [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (1 month ago)
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (1 month ago)
 - [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) -  (1 month ago)
