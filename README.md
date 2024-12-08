@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v3.1.0](https://github.com/betadots/hdm/releases/tag/v3.1.0), 4 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
+- [betadots/hdm](https://github.com/betadots/hdm) ([v3.1.0](https://github.com/betadots/hdm/releases/tag/v3.1.0), 5 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.4.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.4.0), 1 week ago) - 
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.5.1](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.5.1), 1 week ago) - Self Service Module for Puppet Enterprise
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.25.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.25.1), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -69,7 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 days ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (3 days ago)
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (2 weeks ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 month ago)
 - [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (1 month ago)
@@ -77,7 +77,7 @@ Statement from Puppet Inc.:
 - [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (1 month ago)
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (1 month ago)
 - [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) -  (1 month ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 month ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (2 months ago)
 - [bastelfreak/petuning](https://github.com/bastelfreak/petuning) -  (2 months ago)
 
 #### 👥 Check out some of my recent followers
