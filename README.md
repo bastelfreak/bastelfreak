@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.1.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.1.0), today) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [betadots/hdm](https://github.com/betadots/hdm) ([v3.1.0](https://github.com/betadots/hdm/releases/tag/v3.1.0), 6 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.4.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.4.0), 1 week ago) - 
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.5.1](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.5.1), 2 weeks ago) - Self Service Module for Puppet Enterprise
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.1), 2 months ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.21.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.21.0), 2 months ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.0.2](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.0.2), 2 months ago) - The canonical gem to build puppet modules
-- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.0.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.0.0), 2 months ago) - Ruby client for the Puppet Forge API
 
 #### 📜 My recent blog posts
 
