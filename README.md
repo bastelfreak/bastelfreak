@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.1.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.1.0), 2 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.1.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.1.0), 3 days ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [betadots/hdm](https://github.com/betadots/hdm) ([v3.1.0](https://github.com/betadots/hdm/releases/tag/v3.1.0), 1 week ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.4.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.4.0), 1 week ago) - 
+- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.4.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.4.0), 2 weeks ago) - 
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.5.1](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.5.1), 2 weeks ago) - Self Service Module for Puppet Enterprise
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.25.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.25.1), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.2.0), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -69,8 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (6 days ago)
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (2 weeks ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 week ago)
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (3 weeks ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 month ago)
 - [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (1 month ago)
 - [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (1 month ago)
