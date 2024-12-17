@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-node_encrypt](https://github.com/puppetlabs/puppetlabs-node_encrypt) ([v3.2.0](https://github.com/puppetlabs/puppetlabs-node_encrypt/releases/tag/v3.2.0), today) - Encrypt secrets inside Puppet catalogs and reports
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.1.0), today) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.4.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.4.0), 1 day ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v3.0.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v3.0.0), 1 day ago) - Puppet Module to manage LVM
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.26.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.26.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.4.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.4.0), 2 weeks ago) - 
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.5.1](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.5.1), 3 weeks ago) - Self Service Module for Puppet Enterprise
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.2.0), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) ([8.10.0](https://github.com/puppetlabs/puppet/releases/tag/8.10.0), 1 month ago) - Server automation framework and application
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.0.1](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.0.1), 2 months ago) - Puppet Module to manage Java
 
 #### 📜 My recent blog posts
 
