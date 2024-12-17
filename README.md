@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.2](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.2), today) - Account management module
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.7.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.7.0), today) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-node_encrypt](https://github.com/puppetlabs/puppetlabs-node_encrypt) ([v3.2.0](https://github.com/puppetlabs/puppetlabs-node_encrypt/releases/tag/v3.2.0), today) - Encrypt secrets inside Puppet catalogs and reports
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.1.0), today) - Puppet Module to manage Java
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.2.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.2.0), 1 day ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [betadots/hdm](https://github.com/betadots/hdm) ([v3.1.0](https://github.com/betadots/hdm/releases/tag/v3.1.0), 2 weeks ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v2.4.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v2.4.0), 2 weeks ago) - 
-- [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.5.1](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.5.1), 3 weeks ago) - Self Service Module for Puppet Enterprise
 
 #### 📜 My recent blog posts
 
