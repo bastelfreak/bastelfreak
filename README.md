@@ -57,7 +57,7 @@ Statement from Puppet Inc.:
 
 - [Debug systemd and define a loglevel](https://blog.bastelfreak.de/2022/02/debug-systemd-and-define-a-loglevel/) (2 years ago)
 - [systemd unit hardening followup followup](https://blog.bastelfreak.de/2022/01/systemd-unit-hardening-followup-followup/) (2 years ago)
-- [Puppet PQL Queries](https://blog.bastelfreak.de/2022/01/puppet-pql-queries/) (2 years ago)
+- [Puppet PQL Queries](https://blog.bastelfreak.de/2022/01/puppet-pql-queries/) (3 years ago)
 - [PostgreSQL: Do a VACUUM FULL without exclusive locks!](https://blog.bastelfreak.de/2022/01/postgresql-do-a-vacuum-full-without-exclusive-locks/) (3 years ago)
 - [systemd unit hardening followup](https://blog.bastelfreak.de/2022/01/systemd-unit-hardening-followup/) (3 years ago)
 - [Migrate CentOS 8 to AlmaLinux](https://blog.bastelfreak.de/2022/01/migrate-centos-8-to-almalinux/) (3 years ago)
@@ -74,7 +74,7 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (1 week ago)
 - [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (1 week ago)
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (1 week ago)
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 week ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 weeks ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 month ago)
 - [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (1 month ago)
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (2 months ago)
