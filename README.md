@@ -78,7 +78,7 @@ Statement from Puppet Inc.:
 - [tailored-automation/puppet-module-patroni](https://github.com/tailored-automation/puppet-module-patroni) - Puppet module to manage Patroni, a tool for making PostgreSQL highly available (1 month ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 months ago)
 - [puppetlabs/r10k](https://github.com/puppetlabs/r10k) - Smarter Puppet deployment (2 months ago)
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (2 months ago)
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (2 months ago)
 
 #### 👥 Check out some of my recent followers
 
