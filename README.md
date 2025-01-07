@@ -42,10 +42,10 @@ Statement from Puppet Inc.:
 
 
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.1.0), 2 weeks ago) - The Puppet Docker repository
-- [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.2](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.2), 2 weeks ago) - Account management module
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.7.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.7.0), 2 weeks ago) - Puppet Labs Standard Library module
-- [puppetlabs/puppetlabs-node_encrypt](https://github.com/puppetlabs/puppetlabs-node_encrypt) ([v3.2.0](https://github.com/puppetlabs/puppetlabs-node_encrypt/releases/tag/v3.2.0), 2 weeks ago) - Encrypt secrets inside Puppet catalogs and reports
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.1.0), 2 weeks ago) - Puppet Module to manage Java
+- [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.2](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.2), 3 weeks ago) - Account management module
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.7.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.7.0), 3 weeks ago) - Puppet Labs Standard Library module
+- [puppetlabs/puppetlabs-node_encrypt](https://github.com/puppetlabs/puppetlabs-node_encrypt) ([v3.2.0](https://github.com/puppetlabs/puppetlabs-node_encrypt/releases/tag/v3.2.0), 3 weeks ago) - Encrypt secrets inside Puppet catalogs and reports
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.1.0), 3 weeks ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.4.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.4.0), 3 weeks ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v3.0.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v3.0.0), 3 weeks ago) - Puppet Module to manage LVM
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.26.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.26.0), 3 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
