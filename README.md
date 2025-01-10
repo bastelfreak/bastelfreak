@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.5.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.5.0), 2 days ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.5.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.5.0), 3 days ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.1.0), 3 weeks ago) - The Puppet Docker repository
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.2](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.2), 3 weeks ago) - Account management module
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.7.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.7.0), 3 weeks ago) - Puppet Labs Standard Library module
@@ -69,8 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 day ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (3 days ago)
 - [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (3 weeks ago)
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (3 weeks ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (3 weeks ago)
