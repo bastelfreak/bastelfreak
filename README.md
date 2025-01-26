@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025
 - [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) - 
 - [bastelfreak/petuning](https://github.com/bastelfreak/petuning) - 
 - [bastelfreak/froscon2024](https://github.com/bastelfreak/froscon2024) - 
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024
 - [bastelfreak/Spacegray.vim](https://github.com/bastelfreak/Spacegray.vim) - copy of https://github.com/ajh17/Spacegray.vim.git
 - [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x
-- [bastelfreak/puppet-ivanti](https://github.com/bastelfreak/puppet-ivanti) - A Puppet module to install Ivanti agent on Linux
 
 #### 🔭 Latest releases I've contributed to
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (today)
 - [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) - The next generation Puppet documentation extraction and presentation tool. (1 week ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 weeks ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 weeks ago)
-- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (1 month ago)
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (1 month ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 month ago)
-- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (1 month ago)
+- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (1 month ago)
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (1 month ago)
+- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (1 month ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 month ago)
-- [tailored-automation/puppet-module-patroni](https://github.com/tailored-automation/puppet-module-patroni) - Puppet module to manage Patroni, a tool for making PostgreSQL highly available (2 months ago)
 
 #### 👥 Check out some of my recent followers
 
