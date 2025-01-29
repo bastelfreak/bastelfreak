@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.26.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.26.1), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.22.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.22.0), 1 week ago) - Module for managing Puppet-Agent
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.26.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.26.1), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.22.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.22.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.5.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.5.0), 3 weeks ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.1.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.1.0), 1 month ago) - The Puppet Docker repository
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.2](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.2), 1 month ago) - Account management module
@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (1 day ago)
+- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (2 days ago)
 - [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) - The next generation Puppet documentation extraction and presentation tool. (1 week ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 weeks ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 weeks ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (3 weeks ago)
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (1 month ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 month ago)
