@@ -55,7 +55,7 @@ Statement from Puppet Inc.:
 #### 📜 My recent blog posts
 
 
-- [Debug systemd and define a loglevel](https://blog.bastelfreak.de/2022/02/debug-systemd-and-define-a-loglevel/) (2 years ago)
+- [Debug systemd and define a loglevel](https://blog.bastelfreak.de/2022/02/debug-systemd-and-define-a-loglevel/) (3 years ago)
 - [systemd unit hardening followup followup](https://blog.bastelfreak.de/2022/01/systemd-unit-hardening-followup-followup/) (3 years ago)
 - [Puppet PQL Queries](https://blog.bastelfreak.de/2022/01/puppet-pql-queries/) (3 years ago)
 - [PostgreSQL: Do a VACUUM FULL without exclusive locks!](https://blog.bastelfreak.de/2022/01/postgresql-do-a-vacuum-full-without-exclusive-locks/) (3 years ago)
@@ -69,7 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (2 days ago)
+- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (3 days ago)
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 week ago)
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 week ago)
 - [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) - The next generation Puppet documentation extraction and presentation tool. (3 weeks ago)
