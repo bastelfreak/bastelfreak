@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.5.2](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.5.2), today) - Self Service Module for Puppet Enterprise
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.26.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.26.1), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.22.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.22.0), 4 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.5.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.5.0), 1 month ago) - Puppet module for managing PostgreSQL
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-node_encrypt](https://github.com/puppetlabs/puppetlabs-node_encrypt) ([v3.2.0](https://github.com/puppetlabs/puppetlabs-node_encrypt/releases/tag/v3.2.0), 1 month ago) - Encrypt secrets inside Puppet catalogs and reports
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.1.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.1.0), 1 month ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v3.0.0](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v3.0.0), 1 month ago) - Puppet Module to manage LVM
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.2.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.2.0), 1 month ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 
 #### 📜 My recent blog posts
 
@@ -76,8 +76,8 @@ Statement from Puppet Inc.:
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 month ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 month ago)
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (1 month ago)
-- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (1 month ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 month ago)
+- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (1 month ago)
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (1 month ago)
 
 #### 👥 Check out some of my recent followers
