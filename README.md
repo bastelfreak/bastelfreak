@@ -69,6 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [tailored-automation/puppet-module-patroni](https://github.com/tailored-automation/puppet-module-patroni) - Puppet module to manage Patroni, a tool for making PostgreSQL highly available (1 week ago)
 - [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (1 week ago)
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (2 weeks ago)
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (2 weeks ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (2 months ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (2 months ago)
 - [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (2 months ago)
-- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (2 months ago)
 
 #### 👥 Check out some of my recent followers
 
