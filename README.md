@@ -84,10 +84,10 @@ Statement from Puppet Inc.:
 
 
 - [<img src="https://avatars.githubusercontent.com/u/193270912?u=d8a1415fd9659fa32dd8fce194d3a1aadd2feda2&amp;v=4" height="20"/> LinuxJS](https://github.com/LinuxJS)
-- [<img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&amp;v=4" height="20"/> XiaomingX](https://github.com/XiaomingX)
 - [<img src="https://avatars.githubusercontent.com/u/36569275?v=4" height="20"/> kw4tts](https://github.com/kw4tts)
 - [<img src="https://avatars.githubusercontent.com/u/32958970?v=4" height="20"/> jaypi95](https://github.com/jaypi95)
 - [<img src="https://avatars.githubusercontent.com/u/79200609?v=4" height="20"/> jc16180](https://github.com/jc16180)
+- [<img src="https://avatars.githubusercontent.com/u/72575602?u=ad7c98f855d11ef18db34bcb0ddbb5b7fc768f40&amp;v=4" height="20"/> OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 ### Top languages
 
