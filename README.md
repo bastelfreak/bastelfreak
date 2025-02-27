@@ -69,10 +69,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (today)
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (5 days ago)
 - [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (3 weeks ago)
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (3 weeks ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (4 weeks ago)
 - [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) - The next generation Puppet documentation extraction and presentation tool. (1 month ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 month ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 month ago)
