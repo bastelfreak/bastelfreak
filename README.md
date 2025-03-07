@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.3.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.3.0), 1 day ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.3.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.3.0), 2 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v3.0.1](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v3.0.1), 1 week ago) - Puppet Module to manage LVM
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.6.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.6.0), 2 weeks ago) - Self Service Module for Puppet Enterprise
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.26.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.26.1), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (1 day ago)
-- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) - Puppet Labs Standard Library module (1 day ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (6 days ago)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 days ago)
+- [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) - Puppet Labs Standard Library module (2 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 week ago)
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (1 week ago)
 - [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (4 weeks ago)
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 month ago)
