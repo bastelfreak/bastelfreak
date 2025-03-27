@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v3.2.0](https://github.com/betadots/hdm/releases/tag/v3.2.0), today) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.2.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.2.0), 2 weeks ago) - The Puppet Docker repository
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.27.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.27.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.3.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.3.0), 3 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.5.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.5.0), 2 months ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.2.2](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.2.2), 3 months ago) - Account management module
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.7.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.7.0), 3 months ago) - Puppet Labs Standard Library module
-- [puppetlabs/puppetlabs-node_encrypt](https://github.com/puppetlabs/puppetlabs-node_encrypt) ([v3.2.0](https://github.com/puppetlabs/puppetlabs-node_encrypt/releases/tag/v3.2.0), 3 months ago) - Encrypt secrets inside Puppet catalogs and reports
 
 #### 📜 My recent blog posts
 
@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/182880279?u=552d599b8aa0f957f1a9976a1b264de22aac1f69&amp;v=4" height="20"/> piotrmkaminski](https://github.com/piotrmkaminski)
 - [<img src="https://avatars.githubusercontent.com/u/173074602?v=4" height="20"/> AKJUS](https://github.com/AKJUS)
 - [<img src="https://avatars.githubusercontent.com/u/15269375?u=b5e947f482886181fe4b8b8d52472ac5c620e076&amp;v=4" height="20"/> flaviopavim](https://github.com/flaviopavim)
 - [<img src="https://avatars.githubusercontent.com/u/193270912?u=d8a1415fd9659fa32dd8fce194d3a1aadd2feda2&amp;v=4" height="20"/> LinuxJS](https://github.com/LinuxJS)
 - [<img src="https://avatars.githubusercontent.com/u/36569275?v=4" height="20"/> kw4tts](https://github.com/kw4tts)
-- [<img src="https://avatars.githubusercontent.com/u/32958970?v=4" height="20"/> jaypi95](https://github.com/jaypi95)
 
 ### Top languages
 
