@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.28.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.28.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [betadots/hdm](https://github.com/betadots/hdm) ([v3.2.0](https://github.com/betadots/hdm/releases/tag/v3.2.0), 2 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.28.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.28.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [betadots/hdm](https://github.com/betadots/hdm) ([v3.2.0](https://github.com/betadots/hdm/releases/tag/v3.2.0), 3 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.2.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.2.0), 2 weeks ago) - The Puppet Docker repository
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.3.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.3.0), 3 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v3.0.1](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v3.0.1), 1 month ago) - Puppet Module to manage LVM
