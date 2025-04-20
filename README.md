@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.3.0](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.3.0), 2 days ago) - Account management module
-- [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.3.0), 5 days ago) - The Puppet Docker repository
+- [puppetlabs/puppetlabs-accounts](https://github.com/puppetlabs/puppetlabs-accounts) ([v8.3.0](https://github.com/puppetlabs/puppetlabs-accounts/releases/tag/v8.3.0), 3 days ago) - Account management module
+- [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.3.0), 6 days ago) - The Puppet Docker repository
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.23.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.23.0), 1 week ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.3.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.3.1), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.28.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.28.0), 3 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
