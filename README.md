@@ -48,7 +48,7 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.28.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.28.0), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [betadots/hdm](https://github.com/betadots/hdm) ([v3.2.0](https://github.com/betadots/hdm/releases/tag/v3.2.0), 1 month ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.6.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.6.0), 2 months ago) - Self Service Module for Puppet Enterprise
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.5.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.5.0), 3 months ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.5.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.5.0), 4 months ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.7.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.7.0), 4 months ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-node_encrypt](https://github.com/puppetlabs/puppetlabs-node_encrypt) ([v3.2.0](https://github.com/puppetlabs/puppetlabs-node_encrypt/releases/tag/v3.2.0), 4 months ago) - Encrypt secrets inside Puppet catalogs and reports
 
@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
-- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (today)
-- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (3 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
+- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (1 day ago)
+- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (4 days ago)
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) -  (1 week ago)
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (3 weeks ago)
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (3 weeks ago)
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (3 weeks ago)
-- [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) - RESTful proxies for DNS, DHCP, TFTP, BMC and Puppet (3 weeks ago)
+- [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) - RESTful proxies for DNS, DHCP, TFTP, BMC and Puppet (4 weeks ago)
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (1 month ago)
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) - The canonical gem to build puppet modules (1 month ago)
 
