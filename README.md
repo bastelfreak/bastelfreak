@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (today)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
-- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (2 days ago)
-- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (5 days ago)
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (1 day ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (2 days ago)
+- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (3 days ago)
+- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025 (6 days ago)
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) -  (2 weeks ago)
-- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (3 weeks ago)
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (3 weeks ago)
-- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (3 weeks ago)
-- [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) - RESTful proxies for DNS, DHCP, TFTP, BMC and Puppet (4 weeks ago)
+- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (4 weeks ago)
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (4 weeks ago)
+- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (4 weeks ago)
+- [theforeman/smart-proxy](https://github.com/theforeman/smart-proxy) - RESTful proxies for DNS, DHCP, TFTP, BMC and Puppet (1 month ago)
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (1 month ago)
 
 #### 👥 Check out some of my recent followers
