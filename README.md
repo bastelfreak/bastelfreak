@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.29.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.29.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.29.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.29.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.3.0), 1 month ago) - The Puppet Docker repository
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.23.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.23.0), 1 month ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.3.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.3.1), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -50,7 +50,7 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.5.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.5.0), 4 months ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) ([v9.7.0](https://github.com/puppetlabs/puppetlabs-stdlib/releases/tag/v9.7.0), 4 months ago) - Puppet Labs Standard Library module
 - [puppetlabs/puppetlabs-node_encrypt](https://github.com/puppetlabs/puppetlabs-node_encrypt) ([v3.2.0](https://github.com/puppetlabs/puppetlabs-node_encrypt/releases/tag/v3.2.0), 4 months ago) - Encrypt secrets inside Puppet catalogs and reports
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.2.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.2.0), 4 months ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
+- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.2.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.2.0), 5 months ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (1 day ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
-- [OpenVoxProject/homebrew-openvox](https://github.com/OpenVoxProject/homebrew-openvox) - clone of puppetlabs/homebrew-puppet (1 day ago)
-- [OpenVoxProject/bolt-vanagon](https://github.com/OpenVoxProject/bolt-vanagon) - clone of puppetlabs/bolt-vanagon (1 day ago)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 day ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 day ago)
-- [OpenVoxProject/bolt](https://github.com/OpenVoxProject/bolt) - clone of puppetlabs/bolt (1 day ago)
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (1 day ago)
-- [OpenVoxProject/openvox-release](https://github.com/OpenVoxProject/openvox-release) - clone of puppetlabs/puppetlabs-release (5 days ago)
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (5 days ago)
+- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (2 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
+- [OpenVoxProject/homebrew-openvox](https://github.com/OpenVoxProject/homebrew-openvox) - clone of puppetlabs/homebrew-puppet (2 days ago)
+- [OpenVoxProject/bolt-vanagon](https://github.com/OpenVoxProject/bolt-vanagon) - clone of puppetlabs/bolt-vanagon (2 days ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (2 days ago)
+- [OpenVoxProject/bolt](https://github.com/OpenVoxProject/bolt) - clone of puppetlabs/bolt (2 days ago)
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (2 days ago)
+- [OpenVoxProject/openvox-release](https://github.com/OpenVoxProject/openvox-release) - clone of puppetlabs/puppetlabs-release (6 days ago)
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
