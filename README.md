@@ -69,8 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [betadots/smart_proxy_hdm](https://github.com/betadots/smart_proxy_hdm) -  (today)
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (today)
+- [betadots/smart_proxy_hdm](https://github.com/betadots/smart_proxy_hdm) -  (today)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
 - [OpenVoxProject/bolt](https://github.com/OpenVoxProject/bolt) - clone of puppetlabs/bolt (2 days ago)
 - [OpenVoxProject/bolt-vanagon](https://github.com/OpenVoxProject/bolt-vanagon) - clone of puppetlabs/bolt-vanagon (2 days ago)
