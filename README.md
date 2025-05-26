@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.1), today) - Library of utility functions for clojure
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.3.38](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.3.38), 1 day ago) - A clojure project that defines version numbers for common dependencies
-- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.1.0](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.1.0), 4 days ago) - The canonical gem to build puppet modules
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.1), 1 day ago) - Library of utility functions for clojure
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.3.38](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.3.38), 2 days ago) - A clojure project that defines version numbers for common dependencies
+- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.1.0](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.1.0), 5 days ago) - The canonical gem to build puppet modules
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.29.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.29.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.3.0), 1 month ago) - The Puppet Docker repository
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.23.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.23.0), 1 month ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.3.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.3.1), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v3.2.0](https://github.com/betadots/hdm/releases/tag/v3.2.0), 1 month ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
+- [betadots/hdm](https://github.com/betadots/hdm) ([v3.2.0](https://github.com/betadots/hdm/releases/tag/v3.2.0), 2 months ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.6.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.6.0), 3 months ago) - Self Service Module for Puppet Enterprise
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.5.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.5.0), 4 months ago) - Puppet module for managing PostgreSQL
 
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (today)
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (1 day ago)
-- [OpenVoxProject/facter](https://github.com/OpenVoxProject/facter) - clone of puppetlabs/facter (1 day ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 day ago)
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (1 day ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (2 days ago)
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (2 days ago)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 day ago)
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (2 days ago)
+- [OpenVoxProject/facter](https://github.com/OpenVoxProject/facter) - clone of puppetlabs/facter (2 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (2 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (3 days ago)
 - [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 week ago)
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (1 week ago)
 - [betadots/smart_proxy_hdm](https://github.com/betadots/smart_proxy_hdm) -  (1 week ago)
