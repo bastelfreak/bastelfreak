@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.19.0](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.19.0), today) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) ([8.19.0](https://github.com/OpenVoxProject/puppet/releases/tag/8.19.0), 1 day ago) - clone of puppetlabs/puppet
 - [betadots/hdm](https://github.com/betadots/hdm) ([v3.3.0](https://github.com/betadots/hdm/releases/tag/v3.3.0), 3 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.1), 6 days ago) - Library of utility functions for clojure
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.3.0), 1 month ago) - The Puppet Docker repository
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.23.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.23.0), 1 month ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v12.3.1](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v12.3.1), 2 months ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [puppetlabs/puppetlabs-pe_status_check](https://github.com/puppetlabs/puppetlabs-pe_status_check) ([v4.6.0](https://github.com/puppetlabs/puppetlabs-pe_status_check/releases/tag/v4.6.0), 3 months ago) - Self Service Module for Puppet Enterprise
 
 #### 📜 My recent blog posts
 
