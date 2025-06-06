@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) ([7.37.2](https://github.com/OpenVoxProject/puppet/releases/tag/7.37.2), today) - clone of puppetlabs/puppet
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([7.37.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/7.37.1), 3 days ago) - clone of puppetlabs/puppet-agent
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) ([7.37.1](https://github.com/OpenVoxProject/puppet/releases/tag/7.37.1), 3 days ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.1), 1 week ago) - Library of utility functions for clojure
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.3.38](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.3.38), 1 week ago) - A clojure project that defines version numbers for common dependencies
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.1.0](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.1.0), 2 weeks ago) - The canonical gem to build puppet modules
