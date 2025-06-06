@@ -69,7 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (1 day ago)
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (today)
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (2 days ago)
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (2 days ago)
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (2 days ago)
