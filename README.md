@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), today) - Module for managing Puppet-Agent
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.19.2](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.19.2), 1 day ago) - clone of puppetlabs/puppet-agent
-- [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) ([v5.0.0](https://github.com/puppetlabs/puppet-strings/releases/tag/v5.0.0), 2 days ago) - The next generation Puppet documentation extraction and presentation tool.
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) ([8.19.2](https://github.com/OpenVoxProject/puppet/releases/tag/8.19.2), 5 days ago) - clone of puppetlabs/puppet
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 1 day ago) - Module for managing Puppet-Agent
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.19.2](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.19.2), 2 days ago) - clone of puppetlabs/puppet-agent
+- [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) ([v5.0.0](https://github.com/puppetlabs/puppet-strings/releases/tag/v5.0.0), 3 days ago) - The next generation Puppet documentation extraction and presentation tool.
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) ([8.19.2](https://github.com/OpenVoxProject/puppet/releases/tag/8.19.2), 6 days ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.1), 2 weeks ago) - Library of utility functions for clojure
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.3.38](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.3.38), 2 weeks ago) - A clojure project that defines version numbers for common dependencies
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.1.0](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.1.0), 3 weeks ago) - The canonical gem to build puppet modules
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/dropsonde](https://github.com/OpenVoxProject/dropsonde) - A simple telemetry probe for gathering usage information about OpenVox and Puppet infrastructures. (1 day ago)
-- [jpartlow/nested_vms](https://github.com/jpartlow/nested_vms) -  (2 days ago)
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (5 days ago)
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (5 days ago)
+- [OpenVoxProject/dropsonde](https://github.com/OpenVoxProject/dropsonde) - A simple telemetry probe for gathering usage information about OpenVox and Puppet infrastructures. (2 days ago)
+- [jpartlow/nested_vms](https://github.com/jpartlow/nested_vms) -  (3 days ago)
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (6 days ago)
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (6 days ago)
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (1 week ago)
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 week ago)
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (1 week ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 week ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
-- [OpenVoxProject/facter](https://github.com/OpenVoxProject/facter) - clone of puppetlabs/facter (1 week ago)
+- [OpenVoxProject/facter](https://github.com/OpenVoxProject/facter) - clone of puppetlabs/facter (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
