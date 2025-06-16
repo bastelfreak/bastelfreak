@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 4 days ago) - Module for managing Puppet-Agent
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.19.2](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.19.2), 5 days ago) - clone of puppetlabs/puppet-agent
-- [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) ([v5.0.0](https://github.com/puppetlabs/puppet-strings/releases/tag/v5.0.0), 6 days ago) - The next generation Puppet documentation extraction and presentation tool.
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 5 days ago) - Module for managing Puppet-Agent
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.19.2](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.19.2), 6 days ago) - clone of puppetlabs/puppet-agent
+- [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) ([v5.0.0](https://github.com/puppetlabs/puppet-strings/releases/tag/v5.0.0), 1 week ago) - The next generation Puppet documentation extraction and presentation tool.
 - [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) ([8.19.2](https://github.com/OpenVoxProject/puppet/releases/tag/8.19.2), 1 week ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.1), 3 weeks ago) - Library of utility functions for clojure
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.3.38](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.3.38), 3 weeks ago) - A clojure project that defines version numbers for common dependencies
@@ -69,12 +69,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (2 days ago)
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (2 days ago)
-- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (2 days ago)
-- [jpartlow/kvm_automation_tooling](https://github.com/jpartlow/kvm_automation_tooling) -  (2 days ago)
-- [OpenVoxProject/dropsonde](https://github.com/OpenVoxProject/dropsonde) - A simple telemetry probe for gathering usage information about OpenVox and Puppet infrastructures. (5 days ago)
-- [jpartlow/nested_vms](https://github.com/jpartlow/nested_vms) -  (6 days ago)
+- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (3 days ago)
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (3 days ago)
+- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (3 days ago)
+- [jpartlow/kvm_automation_tooling](https://github.com/jpartlow/kvm_automation_tooling) -  (3 days ago)
+- [OpenVoxProject/dropsonde](https://github.com/OpenVoxProject/dropsonde) - A simple telemetry probe for gathering usage information about OpenVox and Puppet infrastructures. (6 days ago)
+- [jpartlow/nested_vms](https://github.com/jpartlow/nested_vms) -  (1 week ago)
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (1 week ago)
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (1 week ago)
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 week ago)
