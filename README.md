@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/gha-test](https://github.com/OpenVoxProject/gha-test) - Test GitHub Actions (today)
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (today)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (today)
+- [OpenVoxProject/gha-test](https://github.com/OpenVoxProject/gha-test) - Test GitHub Actions (today)
 - [OpenVoxProject/facter](https://github.com/OpenVoxProject/facter) - clone of puppetlabs/facter (3 days ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 days ago)
-- [jpartlow/kvm_automation_tooling](https://github.com/jpartlow/kvm_automation_tooling) -  (6 days ago)
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (6 days ago)
+- [jpartlow/kvm_automation_tooling](https://github.com/jpartlow/kvm_automation_tooling) -  (6 days ago)
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (6 days ago)
 - [OpenVoxProject/dropsonde](https://github.com/OpenVoxProject/dropsonde) - A simple telemetry probe for gathering usage information about OpenVox and Puppet infrastructures. (1 week ago)
 - [jpartlow/nested_vms](https://github.com/jpartlow/nested_vms) -  (1 week ago)
