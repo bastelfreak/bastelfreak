@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/puppethacks](https://github.com/bastelfreak/puppethacks) - My talk about puppet hacks nobody dares to ask for!
 - [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025
 - [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) - 
 - [bastelfreak/petuning](https://github.com/bastelfreak/petuning) - 
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/clt2024](https://github.com/bastelfreak/clt2024) - myslides for Chemnitzer Linux Tage 2024
 - [bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024) - My two talks for CfgMgmtCamp 2024
 - [bastelfreak/Spacegray.vim](https://github.com/bastelfreak/Spacegray.vim) - copy of https://github.com/ajh17/Spacegray.vim.git
-- [bastelfreak/scale20x](https://github.com/bastelfreak/scale20x) - My talk about Vox Pupuli at Scale20x
 
 #### 🔭 Latest releases I've contributed to
 
@@ -69,8 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/bolt](https://github.com/OpenVoxProject/bolt) - clone of puppetlabs/bolt (3 days ago)
+- [bastelfreak/puppethacks](https://github.com/bastelfreak/puppethacks) - My talk about puppet hacks nobody dares to ask for! (today)
 - [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (3 days ago)
+- [OpenVoxProject/bolt](https://github.com/OpenVoxProject/bolt) - clone of puppetlabs/bolt (3 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (4 days ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (4 days ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/facter](https://github.com/OpenVoxProject/facter) - clone of puppetlabs/facter (1 week ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 week ago)
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (1 week ago)
-- [jpartlow/kvm_automation_tooling](https://github.com/jpartlow/kvm_automation_tooling) -  (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
