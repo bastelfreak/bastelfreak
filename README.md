@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202506191](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202506191), 5 days ago) - clone of puppetlabs/puppet-runtime
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 1 week ago) - Module for managing Puppet-Agent
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202506191](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202506191), 6 days ago) - clone of puppetlabs/puppet-runtime
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.19.2](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.19.2), 2 weeks ago) - clone of puppetlabs/puppet-agent
 - [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) ([v5.0.0](https://github.com/puppetlabs/puppet-strings/releases/tag/v5.0.0), 2 weeks ago) - The next generation Puppet documentation extraction and presentation tool.
 - [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) ([8.19.2](https://github.com/OpenVoxProject/puppet/releases/tag/8.19.2), 2 weeks ago) - clone of puppetlabs/puppet
@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/puppethacks](https://github.com/bastelfreak/puppethacks) - My talk about puppet hacks nobody dares to ask for! (today)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (today)
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (4 days ago)
-- [OpenVoxProject/bolt](https://github.com/OpenVoxProject/bolt) - clone of puppetlabs/bolt (4 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (4 days ago)
-- [OpenVoxProject/gha-test](https://github.com/OpenVoxProject/gha-test) - Test GitHub Actions (5 days ago)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (5 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (5 days ago)
+- [bastelfreak/puppethacks](https://github.com/bastelfreak/puppethacks) - My talk about puppet hacks nobody dares to ask for! (1 day ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 day ago)
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (5 days ago)
+- [OpenVoxProject/bolt](https://github.com/OpenVoxProject/bolt) - clone of puppetlabs/bolt (5 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (5 days ago)
+- [OpenVoxProject/gha-test](https://github.com/OpenVoxProject/gha-test) - Test GitHub Actions (6 days ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (6 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (6 days ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - clone of puppetlabs/facter (1 week ago)
 - [jpartlow/kvm_automation_tooling](https://github.com/jpartlow/kvm_automation_tooling) -  (1 week ago)
 
