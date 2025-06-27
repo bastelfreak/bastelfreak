@@ -45,7 +45,7 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.19.2](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.19.2), 2 weeks ago) - clone of puppetlabs/puppet-agent
 - [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) ([v5.0.0](https://github.com/puppetlabs/puppet-strings/releases/tag/v5.0.0), 2 weeks ago) - The next generation Puppet documentation extraction and presentation tool.
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) ([8.19.2](https://github.com/OpenVoxProject/puppet/releases/tag/8.19.2), 2 weeks ago) - clone of puppetlabs/puppet
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) ([8.19.2](https://github.com/OpenVoxProject/puppet/releases/tag/8.19.2), 3 weeks ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.1), 1 month ago) - Library of utility functions for clojure
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.3.38](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.3.38), 1 month ago) - A clojure project that defines version numbers for common dependencies
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.1.0](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.1.0), 1 month ago) - The canonical gem to build puppet modules
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - clone of puppetlabs/facter (today)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (today)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (today)
-- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (1 day ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
-- [bastelfreak/puppethacks](https://github.com/bastelfreak/puppethacks) - My talk about puppet hacks nobody dares to ask for! (2 days ago)
-- [OpenVoxProject/bolt](https://github.com/OpenVoxProject/bolt) - clone of puppetlabs/bolt (6 days ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - clone of puppetlabs/facter (1 day ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 day ago)
+- [OpenVoxProject/puppet](https://github.com/OpenVoxProject/puppet) - clone of puppetlabs/puppet (2 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 days ago)
+- [bastelfreak/puppethacks](https://github.com/bastelfreak/puppethacks) - My talk about puppet hacks nobody dares to ask for! (3 days ago)
+- [OpenVoxProject/bolt](https://github.com/OpenVoxProject/bolt) - clone of puppetlabs/bolt (1 week ago)
 - [OpenVoxProject/gha-test](https://github.com/OpenVoxProject/gha-test) - Test GitHub Actions (1 week ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 week ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
