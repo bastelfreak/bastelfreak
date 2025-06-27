@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.0.0.rc1](https://github.com/OpenVoxProject/openfact/releases/tag/5.0.0.rc1), today) - clone of puppetlabs/facter
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202506191](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202506191), 1 week ago) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.19.2](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.19.2), 2 weeks ago) - clone of puppetlabs/puppet-agent
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.3.38](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.3.38), 1 month ago) - A clojure project that defines version numbers for common dependencies
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) ([v2.1.0](https://github.com/puppetlabs/puppet-modulebuilder/releases/tag/v2.1.0), 1 month ago) - The canonical gem to build puppet modules
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.29.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.29.0), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [puppetlabs/puppetlabs-docker](https://github.com/puppetlabs/puppetlabs-docker) ([v10.3.0](https://github.com/puppetlabs/puppetlabs-docker/releases/tag/v10.3.0), 2 months ago) - The Puppet Docker repository
 
 #### 📜 My recent blog posts
 
