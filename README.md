@@ -47,10 +47,10 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.0.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.0.0), 1 week ago) - clone of puppetlabs/facter
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.30.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.30.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 3 weeks ago) - Module for managing Puppet-Agent
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.19.2](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.19.2), 4 weeks ago) - clone of puppetlabs/puppet-agent
 - [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) ([v5.0.0](https://github.com/puppetlabs/puppet-strings/releases/tag/v5.0.0), 4 weeks ago) - The next generation Puppet documentation extraction and presentation tool.
 - [betadots/hdm](https://github.com/betadots/hdm) ([v3.3.0](https://github.com/betadots/hdm/releases/tag/v3.3.0), 1 month ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.1), 1 month ago) - Library of utility functions for clojure
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.3.38](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.3.38), 1 month ago) - A clojure project that defines version numbers for common dependencies
 
 #### 📜 My recent blog posts
 
