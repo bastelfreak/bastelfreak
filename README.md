@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202507081](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202507081), today) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202507082](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202507082), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([0.54.0](https://github.com/OpenVoxProject/vanagon/releases/tag/0.54.0), today) - clone of puppetlabs/vanagon
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.20.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.20.0), 1 week ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.0.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.0.0), 1 week ago) - clone of puppetlabs/facter
