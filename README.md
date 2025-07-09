@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.0.0-rc1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.0.0-rc1), today) - clone of puppetlabs/puppetserver-ca-cli
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.0](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.0), today) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.21.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.21.0), today) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202507082](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202507082), 1 day ago) - clone of puppetlabs/puppet-runtime
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 4 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) ([v5.0.0](https://github.com/puppetlabs/puppet-strings/releases/tag/v5.0.0), 1 month ago) - The next generation Puppet documentation extraction and presentation tool.
 - [betadots/hdm](https://github.com/betadots/hdm) ([v3.3.0](https://github.com/betadots/hdm/releases/tag/v3.3.0), 1 month ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.1), 1 month ago) - Library of utility functions for clojure
 
 #### 📜 My recent blog posts
 
