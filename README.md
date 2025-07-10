@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.0.0-rc1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.0.0-rc1), 1 day ago) - clone of puppetlabs/puppetserver-ca-cli
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.0.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.0.0), today) - clone of puppetlabs/puppetserver-ca-cli
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.1.0), today) - clone of puppetlabs/facter
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.0](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.0), 1 day ago) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.21.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.21.0), 1 day ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202507082](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202507082), 2 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([0.54.0](https://github.com/OpenVoxProject/vanagon/releases/tag/0.54.0), 2 days ago) - clone of puppetlabs/vanagon
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.0.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.0.0), 1 week ago) - clone of puppetlabs/facter
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.30.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.30.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 4 weeks ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppet-strings](https://github.com/puppetlabs/puppet-strings) ([v5.0.0](https://github.com/puppetlabs/puppet-strings/releases/tag/v5.0.0), 1 month ago) - The next generation Puppet documentation extraction and presentation tool.
@@ -69,8 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (today)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - clone of puppetlabs/facter (today)
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (1 day ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (1 day ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 days ago)
@@ -78,7 +78,7 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
 - [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (3 days ago)
 - [OpenVoxProject/voxoculi](https://github.com/OpenVoxProject/voxoculi) - Tooling to visualize the OpenVox projects and artifacts, and to see how they are related together (1 week ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 week ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
