@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.25.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.25.0), today) - Module for managing Puppet-Agent
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0.rc1](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0.rc1), 3 days ago) - clone of puppetlabs/bolt
 - [sebastianrakel/openvoxview](https://github.com/sebastianrakel/openvoxview) ([v0.1.3](https://github.com/sebastianrakel/openvoxview/releases/tag/v0.1.3), 4 days ago) - OpenVox View - OpenVox Viewer Board
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.0.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.0.0), 4 days ago) - clone of puppetlabs/puppetserver-ca-cli
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202507082](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202507082), 6 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([0.54.0](https://github.com/OpenVoxProject/vanagon/releases/tag/0.54.0), 6 days ago) - clone of puppetlabs/vanagon
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.30.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.30.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.24.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.24.0), 1 month ago) - Module for managing Puppet-Agent
 
 #### 📜 My recent blog posts
 
