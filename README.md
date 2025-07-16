@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [sebastianrakel/openvoxview](https://github.com/sebastianrakel/openvoxview) ([v0.1.4](https://github.com/sebastianrakel/openvoxview/releases/tag/v0.1.4), today) - OpenVox View - OpenVox Viewer Board
-- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) ([1.0.0](https://github.com/OpenVoxProject/packaging/releases/tag/1.0.0), today) - clone of puppetlabs/packaging
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.25.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.25.0), 1 day ago) - Module for managing Puppet-Agent
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0.rc1](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0.rc1), 4 days ago) - clone of puppetlabs/bolt
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.0.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.0.0), 5 days ago) - clone of puppetlabs/puppetserver-ca-cli
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.1.0), 5 days ago) - clone of puppetlabs/facter
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.0](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.0), 6 days ago) - clone of puppetlabs/puppet-agent
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.21.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.21.0), 6 days ago) - clone of puppetlabs/puppet
+- [sebastianrakel/openvoxview](https://github.com/sebastianrakel/openvoxview) ([v0.1.4](https://github.com/sebastianrakel/openvoxview/releases/tag/v0.1.4), 1 day ago) - OpenVox View - OpenVox Viewer Board
+- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) ([1.0.0](https://github.com/OpenVoxProject/packaging/releases/tag/1.0.0), 1 day ago) - clone of puppetlabs/packaging
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.25.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.25.0), 2 days ago) - Module for managing Puppet-Agent
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0.rc1](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0.rc1), 5 days ago) - clone of puppetlabs/bolt
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.0.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.0.0), 6 days ago) - clone of puppetlabs/puppetserver-ca-cli
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.1.0), 6 days ago) - clone of puppetlabs/facter
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.0](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.0), 1 week ago) - clone of puppetlabs/puppet-agent
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.21.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.21.0), 1 week ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202507082](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202507082), 1 week ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([0.54.0](https://github.com/OpenVoxProject/vanagon/releases/tag/0.54.0), 1 week ago) - clone of puppetlabs/vanagon
 
@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [bastelfreak/foreman2025](https://github.com/bastelfreak/foreman2025) - My talk about migrating from PE to Foreman (today)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (today)
-- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (today)
-- [sebastianrakel/openvoxview](https://github.com/sebastianrakel/openvoxview) - OpenVox View - OpenVox Viewer Board (today)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (4 days ago)
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (4 days ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - clone of puppetlabs/facter (4 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 day ago)
+- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (1 day ago)
+- [sebastianrakel/openvoxview](https://github.com/sebastianrakel/openvoxview) - OpenVox View - OpenVox Viewer Board (1 day ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (5 days ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (5 days ago)
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (5 days ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - clone of puppetlabs/facter (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
