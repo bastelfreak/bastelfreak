@@ -76,9 +76,9 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (1 day ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (1 day ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - clone of puppetlabs/facter (5 days ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (5 days ago)
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (5 days ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - clone of puppetlabs/facter (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
