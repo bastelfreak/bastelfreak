@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [sebastianrakel/openvoxview](https://github.com/sebastianrakel/openvoxview) ([v0.1.4](https://github.com/sebastianrakel/openvoxview/releases/tag/v0.1.4), 2 days ago) - OpenVox View - OpenVox Viewer Board
+- [sebastianrakel/openvoxview](https://github.com/sebastianrakel/openvoxview) ([v0.1.5](https://github.com/sebastianrakel/openvoxview/releases/tag/v0.1.5), today) - OpenVox View - OpenVox Viewer Board
 - [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) ([1.0.0](https://github.com/OpenVoxProject/packaging/releases/tag/1.0.0), 2 days ago) - clone of puppetlabs/packaging
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.25.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.25.0), 3 days ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0.rc1](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0.rc1), 6 days ago) - clone of puppetlabs/bolt
