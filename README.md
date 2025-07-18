@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.2.0), today) - Puppet Module to manage Java
 - [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) ([1.0.0](https://github.com/OpenVoxProject/packaging/releases/tag/1.0.0), 3 days ago) - clone of puppetlabs/packaging
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.25.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.25.0), 4 days ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0.rc1](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0.rc1), 1 week ago) - clone of puppetlabs/bolt
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.21.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.21.0), 1 week ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202507082](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202507082), 1 week ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([0.54.0](https://github.com/OpenVoxProject/vanagon/releases/tag/0.54.0), 1 week ago) - clone of puppetlabs/vanagon
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.30.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.30.0), 3 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
 #### 📜 My recent blog posts
 
@@ -71,12 +71,12 @@ Statement from Puppet Inc.:
 
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) - Puppet Module to manage Java (today)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
+- [OpenVoxProject/voxoculi](https://github.com/OpenVoxProject/voxoculi) - Tooling to visualize the OpenVox projects and artifacts, and to see how they are related together (today)
 - [bastelfreak/foreman2025](https://github.com/bastelfreak/foreman2025) - My talk about migrating from PE to Foreman (2 days ago)
-- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (3 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
+- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (3 days ago)
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (3 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 week ago)
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (1 week ago)
 
