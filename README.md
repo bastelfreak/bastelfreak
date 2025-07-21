@@ -70,8 +70,8 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 days ago)
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) - Puppet Module to manage Java (3 days ago)
