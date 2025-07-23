@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.1), today) - clone of puppetlabs/puppet-agent
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.21.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.21.1), today) - clone of puppetlabs/puppet
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.9.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.9.0), 4 days ago) - clone of puppetlabs/puppetserver
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.2.0), 5 days ago) - Puppet Module to manage Java
 - [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) ([1.0.0](https://github.com/OpenVoxProject/packaging/releases/tag/1.0.0), 1 week ago) - clone of puppetlabs/packaging
@@ -48,8 +50,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0.rc1](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0.rc1), 1 week ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.0.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.0.0), 1 week ago) - clone of puppetlabs/puppetserver-ca-cli
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.1.0), 1 week ago) - clone of puppetlabs/facter
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.0](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.0), 2 weeks ago) - clone of puppetlabs/puppet-agent
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.21.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.21.0), 2 weeks ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202507082](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202507082), 2 weeks ago) - clone of puppetlabs/puppet-runtime
 
 #### 📜 My recent blog posts
@@ -75,8 +75,8 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (4 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (4 days ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (4 days ago)
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) - Puppet Module to manage Java (5 days ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 week ago)
 
