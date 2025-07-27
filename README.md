@@ -71,9 +71,9 @@ Statement from Puppet Inc.:
 
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (4 days ago)
 - [OpenVoxProject/voxoculi](https://github.com/OpenVoxProject/voxoculi) - Tooling to visualize the OpenVox projects and artifacts, and to see how they are related together (4 days ago)
