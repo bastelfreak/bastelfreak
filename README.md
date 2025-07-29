@@ -41,13 +41,13 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0-rc2](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0-rc2), today) - clone of puppetlabs/bolt
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.1), 6 days ago) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.21.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.21.1), 6 days ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.9.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.9.0), 1 week ago) - clone of puppetlabs/puppetserver
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.2.0), 1 week ago) - Puppet Module to manage Java
 - [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) ([1.0.0](https://github.com/OpenVoxProject/packaging/releases/tag/1.0.0), 2 weeks ago) - clone of puppetlabs/packaging
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.25.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.25.0), 2 weeks ago) - Module for managing Puppet-Agent
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0.rc1](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0.rc1), 2 weeks ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.0.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.0.0), 2 weeks ago) - clone of puppetlabs/puppetserver-ca-cli
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.1.0), 2 weeks ago) - clone of puppetlabs/facter
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202507082](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202507082), 3 weeks ago) - clone of puppetlabs/puppet-runtime
