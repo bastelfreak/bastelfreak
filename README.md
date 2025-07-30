@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([3.0.0](https://github.com/OpenVoxProject/ezbake/releases/tag/3.0.0), today) - clone of puppetlabs/ezbake
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.3.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.3.0), today) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0-rc2](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0-rc2), 1 day ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.1), 1 week ago) - clone of puppetlabs/puppet-agent
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) ([1.0.0](https://github.com/OpenVoxProject/packaging/releases/tag/1.0.0), 2 weeks ago) - clone of puppetlabs/packaging
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.25.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.25.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.0.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.0.0), 2 weeks ago) - clone of puppetlabs/puppetserver-ca-cli
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.1.0), 2 weeks ago) - clone of puppetlabs/facter
 
 #### 📜 My recent blog posts
 
@@ -70,24 +70,24 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (today)
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (today)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (3 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (4 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (5 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (5 days ago)
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (1 week ago)
 - [OpenVoxProject/voxoculi](https://github.com/OpenVoxProject/voxoculi) - Tooling to visualize the OpenVox projects and artifacts, and to see how they are related together (1 week ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&amp;v=4" height="20"/> XiaomingX](https://github.com/XiaomingX)
 - [<img src="https://avatars.githubusercontent.com/u/222501283?v=4" height="20"/> r84280298-ux](https://github.com/r84280298-ux)
 - [<img src="https://avatars.githubusercontent.com/u/103543324?u=4c76cb91f6abca5444730c5828fb1cee19c1e773&amp;v=4" height="20"/> SteveTheAnimator](https://github.com/SteveTheAnimator)
 - [<img src="https://avatars.githubusercontent.com/u/63122?v=4" height="20"/> a-st](https://github.com/a-st)
 - [<img src="https://avatars.githubusercontent.com/u/119617043?u=df5574bd55e232f59a1e38982b2f6a0a70b2db87&amp;v=4" height="20"/> dotconfig404](https://github.com/dotconfig404)
-- [<img src="https://avatars.githubusercontent.com/u/5828237?u=76b39de5ba51d4e9c9a926b50b33b57c42ecabe8&amp;v=4" height="20"/> mababio](https://github.com/mababio)
 
 ### Top languages
 
