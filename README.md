@@ -69,6 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (today)
 - [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (1 day ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (6 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
-- [OpenVoxProject/voxoculi](https://github.com/OpenVoxProject/voxoculi) - Tooling to visualize the OpenVox projects and artifacts, and to see how they are related together (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
