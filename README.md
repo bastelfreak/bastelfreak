@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([202508061](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/202508061), today) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.31.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.31.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.4.0](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.4.0), 1 day ago) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.10.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.10.0), 2 days ago) - clone of puppetlabs/puppetdb
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0-rc2](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0-rc2), 1 week ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.1), 2 weeks ago) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.21.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.21.1), 2 weeks ago) - clone of puppetlabs/puppet
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v11.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v11.2.0), 2 weeks ago) - Puppet Module to manage Java
 
 #### 📜 My recent blog posts
 
