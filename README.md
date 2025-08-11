@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025-08-10-1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025-08-10-1), today) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.0), 4 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.31.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.31.0), 4 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.4.0](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.4.0), 5 days ago) - A clojure project that defines version numbers for common dependencies
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.10.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.10.0), 6 days ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025-08-10-1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025-08-10-1), 1 day ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.0), 5 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.31.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.31.0), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.4.0](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.4.0), 6 days ago) - A clojure project that defines version numbers for common dependencies
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.10.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.10.0), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.10.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.10.0), 1 week ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([3.0.0](https://github.com/OpenVoxProject/ezbake/releases/tag/3.0.0), 1 week ago) - clone of puppetlabs/ezbake
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.3.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.3.0), 1 week ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (2 days ago)
-- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (3 days ago)
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (3 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (4 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (4 days ago)
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (4 days ago)
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (5 days ago)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (5 days ago)
+- [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (3 days ago)
+- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (4 days ago)
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (4 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (4 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (5 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (5 days ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (5 days ago)
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (5 days ago)
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (6 days ago)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
