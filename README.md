@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxserver/releases/tag/v1.0.0), today) - Container builds for the OpenVox server
+- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxdb/releases/tag/v1.0.0), today) - Container builds for the OpenVox DB
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025-08-10-1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025-08-10-1), 5 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.0), 1 week ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.31.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.31.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.10.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.10.0), 2 weeks ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([3.0.0](https://github.com/OpenVoxProject/ezbake/releases/tag/3.0.0), 2 weeks ago) - clone of puppetlabs/ezbake
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.3.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.3.0), 2 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.0.0-rc2](https://github.com/OpenVoxProject/openbolt/releases/tag/5.0.0-rc2), 2 weeks ago) - clone of puppetlabs/bolt
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.21.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.21.1), 3 weeks ago) - clone of puppetlabs/puppet-agent
 
 #### 📜 My recent blog posts
 
