@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 day ago)
+- [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (today)
 - [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (1 day ago)
 - [bastelfreak/cv](https://github.com/bastelfreak/cv) -  (1 day ago)
-- [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (1 day ago)
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 day ago)
+- [betadots/container-ruby](https://github.com/betadots/container-ruby) - Ruby container based on Ubuntu (4 days ago)
 - [betadots/smart_proxy_hdm](https://github.com/betadots/smart_proxy_hdm) -  (4 days ago)
 - [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (4 days ago)
-- [betadots/container-ruby](https://github.com/betadots/container-ruby) - Ruby container based on Ubuntu (4 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (5 days ago)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (5 days ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (5 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
