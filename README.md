@@ -69,7 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (1 day ago)
+- [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (today)
 - [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (2 days ago)
 - [bastelfreak/cv](https://github.com/bastelfreak/cv) -  (2 days ago)
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (2 days ago)
