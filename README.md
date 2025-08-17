@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxagent/releases/tag/v1.0.0), today) - Container builds for the OpenVox agent
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxserver/releases/tag/v1.0.0), 2 days ago) - Container builds for the OpenVox server
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxdb/releases/tag/v1.0.0), 2 days ago) - Container builds for the OpenVox DB
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025-08-10-1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025-08-10-1), 1 week ago) - clone of puppetlabs/puppet-runtime
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.10.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.10.0), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.10.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.10.0), 2 weeks ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([3.0.0](https://github.com/OpenVoxProject/ezbake/releases/tag/3.0.0), 2 weeks ago) - clone of puppetlabs/ezbake
-- [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) ([v16.3.0](https://github.com/puppetlabs/puppetlabs-mysql/releases/tag/v16.3.0), 2 weeks ago) - MySQL Puppet Module / Manifests &#43; Types &amp; Providers
 
 #### 📜 My recent blog posts
 
