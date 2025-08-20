@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxagent/releases/tag/v1.0.0), 2 days ago) - Container builds for the OpenVox agent
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxserver/releases/tag/v1.0.0), 4 days ago) - Container builds for the OpenVox server
-- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxdb/releases/tag/v1.0.0), 4 days ago) - Container builds for the OpenVox DB
+- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxagent/releases/tag/v1.0.0), 3 days ago) - Container builds for the OpenVox agent
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxserver/releases/tag/v1.0.0), 5 days ago) - Container builds for the OpenVox server
+- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxdb/releases/tag/v1.0.0), 5 days ago) - Container builds for the OpenVox DB
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025-08-10-1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025-08-10-1), 1 week ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.0), 1 week ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.31.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.31.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.0), 2 weeks ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.31.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.31.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.4.0](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.4.0), 2 weeks ago) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.10.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.10.0), 2 weeks ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.10.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.10.0), 2 weeks ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([3.0.0](https://github.com/OpenVoxProject/ezbake/releases/tag/3.0.0), 2 weeks ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([3.0.0](https://github.com/OpenVoxProject/ezbake/releases/tag/3.0.0), 3 weeks ago) - clone of puppetlabs/ezbake
 
 #### 📜 My recent blog posts
 
@@ -69,10 +69,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (2 days ago)
-- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (4 days ago)
-- [bastelfreak/cv](https://github.com/bastelfreak/cv) -  (4 days ago)
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (4 days ago)
+- [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (3 days ago)
+- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (5 days ago)
+- [bastelfreak/cv](https://github.com/bastelfreak/cv) -  (5 days ago)
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (5 days ago)
 - [betadots/container-ruby](https://github.com/betadots/container-ruby) - Ruby container based on Ubuntu (1 week ago)
 - [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 week ago)
 - [betadots/smart_proxy_hdm](https://github.com/betadots/smart_proxy_hdm) -  (1 week ago)
