@@ -50,7 +50,7 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.31.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.31.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.4.0](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.4.0), 2 weeks ago) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.10.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.10.0), 2 weeks ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([3.0.0](https://github.com/OpenVoxProject/ezbake/releases/tag/3.0.0), 3 weeks ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.10.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.10.0), 3 weeks ago) - clone of puppetlabs/puppetserver
 
 #### 📜 My recent blog posts
 
