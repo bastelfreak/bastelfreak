@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.22.0](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.22.0), today) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.11.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.11.0), 1 day ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.11.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.11.0), 1 day ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.22.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.22.0), 2 days ago) - clone of puppetlabs/puppet
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxdb/releases/tag/v1.0.0), 1 week ago) - Container builds for the OpenVox DB
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.0), 2 weeks ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.31.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.31.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.4.0](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.4.0), 2 weeks ago) - A clojure project that defines version numbers for common dependencies
 
 #### 📜 My recent blog posts
 
