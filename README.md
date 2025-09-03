@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([99.99.99](https://github.com/OpenVoxProject/openvox-agent/releases/tag/99.99.99), today) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.0.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.0.0), 5 days ago) - clone of puppetlabs/vanagon
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.22.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.22.1), 1 week ago) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.11.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.11.0), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.11.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.11.0), 1 week ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.22.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.22.0), 1 week ago) - clone of puppetlabs/puppet
