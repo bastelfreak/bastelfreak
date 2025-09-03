@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.0.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.0.0), 4 days ago) - clone of puppetlabs/vanagon
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.0.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.0.0), 5 days ago) - clone of puppetlabs/vanagon
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.22.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.22.1), 1 week ago) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.11.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.11.0), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.11.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.11.0), 1 week ago) - clone of puppetlabs/puppetserver
@@ -50,7 +50,7 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxagent/releases/tag/v1.0.0), 2 weeks ago) - Container builds for the OpenVox agent
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxserver/releases/tag/v1.0.0), 2 weeks ago) - Container builds for the OpenVox server
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxdb/releases/tag/v1.0.0), 2 weeks ago) - Container builds for the OpenVox DB
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.0), 3 weeks ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.0), 4 weeks ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 
 #### 📜 My recent blog posts
 
@@ -69,10 +69,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (4 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (4 days ago)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (4 days ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (4 days ago)
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (5 days ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (5 days ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (5 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (5 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 week ago)
 - [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (1 week ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 week ago)
