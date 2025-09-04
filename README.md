@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025-09-04-1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025-09-04-1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.0.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.0.0), 6 days ago) - clone of puppetlabs/vanagon
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.22.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.22.1), 1 week ago) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.11.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.11.0), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.11.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.11.0), 1 week ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.22.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.22.0), 1 week ago) - clone of puppetlabs/puppet
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025-08-23-1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025-08-23-1), 1 week ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxagent/releases/tag/v1.0.0), 2 weeks ago) - Container builds for the OpenVox agent
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxserver/releases/tag/v1.0.0), 2 weeks ago) - Container builds for the OpenVox server
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) ([v1.0.0](https://github.com/OpenVoxProject/container-openvoxdb/releases/tag/v1.0.0), 2 weeks ago) - Container builds for the OpenVox DB
