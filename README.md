@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/16622232?v=4" height="20"/> fluidum](https://github.com/fluidum)
 - [<img src="https://avatars.githubusercontent.com/u/10766800?v=4" height="20"/> solcitus](https://github.com/solcitus)
 - [<img src="https://avatars.githubusercontent.com/u/222501283?v=4" height="20"/> r84280298-ux](https://github.com/r84280298-ux)
 - [<img src="https://avatars.githubusercontent.com/u/103543324?u=4c76cb91f6abca5444730c5828fb1cee19c1e773&amp;v=4" height="20"/> SteveTheAnimator](https://github.com/SteveTheAnimator)
 - [<img src="https://avatars.githubusercontent.com/u/63122?v=4" height="20"/> a-st](https://github.com/a-st)
-- [<img src="https://avatars.githubusercontent.com/u/119617043?u=df5574bd55e232f59a1e38982b2f6a0a70b2db87&amp;v=4" height="20"/> dotconfig404](https://github.com/dotconfig404)
 
 ### Top languages
 
