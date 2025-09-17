@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (today)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (5 days ago)
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (5 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 week ago)
 - [betadots/container-ruby](https://github.com/betadots/container-ruby) - Ruby container based on Ubuntu (1 week ago)
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 week ago)
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (2 weeks ago)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (2 weeks ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 weeks ago)
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) - clone of puppetlabs/puppet-agent (2 weeks ago)
-- [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon (3 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
