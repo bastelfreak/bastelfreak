@@ -69,8 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
 - [bastelfreak/windows](https://github.com/bastelfreak/windows) -  (today)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (2 days ago)
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (1 week ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 week ago)
