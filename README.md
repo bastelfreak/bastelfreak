@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.0.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.23.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.23.1), 4 weeks ago) - clone of puppetlabs/puppet
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.09.08.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.09.08.1), 4 weeks ago) - clone of puppetlabs/puppet-runtime
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.0.0), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.23.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.23.1), 1 month ago) - clone of puppetlabs/puppet
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.09.08.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.09.08.1), 1 month ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.0.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.0.0), 1 month ago) - clone of puppetlabs/vanagon
 - [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.22.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.22.1), 1 month ago) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.11.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.11.0), 1 month ago) - clone of puppetlabs/puppetdb
@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (today)
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (today)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (1 day ago)
+- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 day ago)
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (1 day ago)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 days ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 weeks ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 weeks ago)
 - [bastelfreak/windows](https://github.com/bastelfreak/windows) -  (2 weeks ago)
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (2 weeks ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (3 weeks ago)
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (3 weeks ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 month ago)
 
