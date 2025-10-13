@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.0.0), 2 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.23.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.23.1), 1 month ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.09.08.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.09.08.1), 1 month ago) - clone of puppetlabs/puppet-runtime
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
-- [theforeman/foreman-installer-modulesync](https://github.com/theforeman/foreman-installer-modulesync) - Standard config files used across foreman-installer modules (2 days ago)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 days ago)
-- [theforeman/foreman-infra](https://github.com/theforeman/foreman-infra) - Puppet modules and scripts to manage Foreman project infrastructure (4 days ago)
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (5 days ago)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (5 days ago)
-- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (5 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
+- [theforeman/foreman-installer-modulesync](https://github.com/theforeman/foreman-installer-modulesync) - Standard config files used across foreman-installer modules (3 days ago)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (3 days ago)
+- [theforeman/foreman-infra](https://github.com/theforeman/foreman-infra) - Puppet modules and scripts to manage Foreman project infrastructure (5 days ago)
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (6 days ago)
+- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (6 days ago)
+- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (6 days ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 weeks ago)
 - [bastelfreak/windows](https://github.com/bastelfreak/windows) -  (3 weeks ago)
