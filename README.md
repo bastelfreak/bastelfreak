@@ -69,8 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (today)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (today)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 days ago)
 - [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (5 days ago)
 - [theforeman/foreman-installer-modulesync](https://github.com/theforeman/foreman-installer-modulesync) - Standard config files used across foreman-installer modules (5 days ago)
