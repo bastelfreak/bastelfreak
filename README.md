@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), today) - clone of puppetlabs/bolt
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.0), 3 days ago) - Puppet module for managing PostgreSQL
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 1 day ago) - clone of puppetlabs/bolt
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.0), 4 days ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.0.0), 3 weeks ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.23.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.23.1), 1 month ago) - clone of puppetlabs/puppet
@@ -69,11 +69,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 day ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (3 days ago)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (6 days ago)
-- [theforeman/foreman-installer-modulesync](https://github.com/theforeman/foreman-installer-modulesync) - Standard config files used across foreman-installer modules (6 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (4 days ago)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (1 week ago)
+- [theforeman/foreman-installer-modulesync](https://github.com/theforeman/foreman-installer-modulesync) - Standard config files used across foreman-installer modules (1 week ago)
 - [theforeman/foreman-infra](https://github.com/theforeman/foreman-infra) - Puppet modules and scripts to manage Foreman project infrastructure (1 week ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 week ago)
 - [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (1 week ago)
