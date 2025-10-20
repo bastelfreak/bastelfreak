@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE
 - [bastelfreak/ansible2openbolt](https://github.com/bastelfreak/ansible2openbolt) - OpenBolt examples for Ansible developers
 - [bastelfreak/windows](https://github.com/bastelfreak/windows) - 
 - [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) - 
 - [bastelfreak/petuning](https://github.com/bastelfreak/petuning) - 
 - [bastelfreak/froscon2024](https://github.com/bastelfreak/froscon2024) - 
-- [bastelfreak/peadm](https://github.com/bastelfreak/peadm) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE (today)
 - [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (3 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (4 days ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (4 days ago)
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (5 days ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (5 days ago)
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (5 days ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
 - [theforeman/foreman-installer-modulesync](https://github.com/theforeman/foreman-installer-modulesync) - Standard config files used across foreman-installer modules (1 week ago)
 - [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (1 week ago)
-- [theforeman/foreman-infra](https://github.com/theforeman/foreman-infra) - Puppet modules and scripts to manage Foreman project infrastructure (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
