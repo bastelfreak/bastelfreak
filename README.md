@@ -69,7 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE (1 day ago)
+- [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE (today)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 day ago)
 - [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (5 days ago)
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (6 days ago)
