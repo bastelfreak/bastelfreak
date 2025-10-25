@@ -48,7 +48,7 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.23.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.23.1), 1 month ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.09.08.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.09.08.1), 1 month ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.0.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.0.0), 1 month ago) - clone of puppetlabs/vanagon
-- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.22.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.22.1), 1 month ago) - clone of puppetlabs/puppet-agent
+- [OpenVoxProject/openvox-agent](https://github.com/OpenVoxProject/openvox-agent) ([8.22.1](https://github.com/OpenVoxProject/openvox-agent/releases/tag/8.22.1), 2 months ago) - clone of puppetlabs/puppet-agent
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.11.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.11.0), 2 months ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.11.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.11.0), 2 months ago) - clone of puppetlabs/puppetserver
 
@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
-- [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE (2 days ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 days ago)
+- [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE (3 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (4 days ago)
 - [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (1 week ago)
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (1 week ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
