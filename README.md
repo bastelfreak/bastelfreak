@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) - 
 - [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE
 - [bastelfreak/ansible2openbolt](https://github.com/bastelfreak/ansible2openbolt) - OpenBolt examples for Ansible developers
 - [bastelfreak/windows](https://github.com/bastelfreak/windows) - 
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025
 - [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) - 
 - [bastelfreak/petuning](https://github.com/bastelfreak/petuning) - 
-- [bastelfreak/froscon2024](https://github.com/bastelfreak/froscon2024) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -69,6 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) -  (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 days ago)
 - [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE (3 days ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (4 days ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 week ago)
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (1 week ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
