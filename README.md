@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (today)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (today)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (today)
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (today)
+- [OpenVoxProject/openvox-release](https://github.com/OpenVoxProject/openvox-release) - clone of puppetlabs/puppetlabs-release (today)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (today)
 - [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) -  (2 days ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (4 days ago)
 - [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE (5 days ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (6 days ago)
-- [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (1 week ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 week ago)
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) - Module for managing Puppet-Agent (1 week ago)
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (1 week ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
