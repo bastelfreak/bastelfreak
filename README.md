@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.0.2](https://github.com/saz/puppet-ssh/releases/tag/v14.0.2), today) - Puppet module to manage ssh server and client
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.1.0](https://github.com/saz/puppet-ssh/releases/tag/v14.1.0), today) - Puppet module to manage ssh server and client
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.26.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.26.0), 2 days ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 2 weeks ago) - clone of puppetlabs/bolt
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.0), 2 weeks ago) - Puppet module for managing PostgreSQL
