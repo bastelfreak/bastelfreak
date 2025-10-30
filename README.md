@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.26.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.26.0), 1 day ago) - Module for managing Puppet-Agent
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.0.1](https://github.com/saz/puppet-ssh/releases/tag/v14.0.1), 1 day ago) - Puppet module to manage ssh server and client
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 1 week ago) - clone of puppetlabs/bolt
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.26.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.26.0), 2 days ago) - Module for managing Puppet-Agent
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.0.1](https://github.com/saz/puppet-ssh/releases/tag/v14.0.1), 2 days ago) - Puppet module to manage ssh server and client
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 2 weeks ago) - clone of puppetlabs/bolt
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.0), 2 weeks ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 3 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.0.0), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (today)
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 day ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
-- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (1 day ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (1 day ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
-- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (2 days ago)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (1 day ago)
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (2 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
+- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (2 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (2 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (3 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
+- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
