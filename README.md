@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.1.0](https://github.com/saz/puppet-ssh/releases/tag/v14.1.0), 6 days ago) - Puppet module to manage ssh server and client
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.1.0](https://github.com/saz/puppet-ssh/releases/tag/v14.1.0), 1 week ago) - Puppet module to manage ssh server and client
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.26.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.26.0), 1 week ago) - Module for managing Puppet-Agent
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 2 weeks ago) - clone of puppetlabs/bolt
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 3 weeks ago) - clone of puppetlabs/bolt
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.0), 3 weeks ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.0.0), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (4 days ago)
-- [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) -  (5 days ago)
-- [OpenVoxProject/openbolt-vanagon](https://github.com/OpenVoxProject/openbolt-vanagon) - clone of puppetlabs/bolt-vanagon (6 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (5 days ago)
+- [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) -  (6 days ago)
+- [OpenVoxProject/openbolt-vanagon](https://github.com/OpenVoxProject/openbolt-vanagon) - clone of puppetlabs/bolt-vanagon (1 week ago)
 - [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (1 week ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 week ago)
