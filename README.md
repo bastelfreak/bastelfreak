@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([0.1.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/0.1.0), today) - Bolt integration plugin for Foreman
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([0.0.1](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/0.0.1), 3 days ago) - Foreman Smart Proxy for Bolt integration
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([0.0.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/0.0.1), 3 days ago) - Bolt integration plugin for Foreman
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.1.0](https://github.com/saz/puppet-ssh/releases/tag/v14.1.0), 1 week ago) - Puppet module to manage ssh server and client
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.26.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.26.0), 1 week ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 3 weeks ago) - clone of puppetlabs/bolt
