@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([0.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/0.1.1), 3 days ago) - Bolt integration plugin for Foreman
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([0.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/0.1.0), 3 days ago) - Foreman Smart Proxy for Bolt integration
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([0.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/0.1.1), 4 days ago) - Bolt integration plugin for Foreman
+- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([0.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/0.1.0), 4 days ago) - Foreman Smart Proxy for Bolt integration
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.1.0](https://github.com/saz/puppet-ssh/releases/tag/v14.1.0), 2 weeks ago) - Puppet module to manage ssh server and client
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.26.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.26.0), 2 weeks ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 4 weeks ago) - clone of puppetlabs/bolt
@@ -69,12 +69,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (2 days ago)
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) - Foreman Smart Proxy for Bolt integration (3 days ago)
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (3 days ago)
-- [theforeman/theforeman-rubocop](https://github.com/theforeman/theforeman-rubocop) - Foreman RuboCop basic rules (6 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (3 days ago)
+- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) - Foreman Smart Proxy for Bolt integration (4 days ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (4 days ago)
+- [theforeman/theforeman-rubocop](https://github.com/theforeman/theforeman-rubocop) - Foreman RuboCop basic rules (1 week ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 week ago)
-- [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) -  (1 week ago)
+- [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) -  (2 weeks ago)
 - [OpenVoxProject/openbolt-vanagon](https://github.com/OpenVoxProject/openbolt-vanagon) - clone of puppetlabs/bolt-vanagon (2 weeks ago)
 - [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 weeks ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 weeks ago)
