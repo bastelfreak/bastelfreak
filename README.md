@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([0.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/0.1.1), 4 days ago) - Bolt integration plugin for Foreman
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([0.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/0.1.0), 4 days ago) - Foreman Smart Proxy for Bolt integration
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([0.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/0.1.1), 5 days ago) - Bolt integration plugin for Foreman
+- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([0.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/0.1.0), 5 days ago) - Foreman Smart Proxy for Bolt integration
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.1.0](https://github.com/saz/puppet-ssh/releases/tag/v14.1.0), 2 weeks ago) - Puppet module to manage ssh server and client
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.26.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.26.0), 2 weeks ago) - Module for managing Puppet-Agent
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 4 weeks ago) - clone of puppetlabs/bolt
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.1.0), 1 month ago) - clone of puppetlabs/bolt
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.0), 1 month ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.0.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.0.0), 1 month ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -69,11 +69,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (3 days ago)
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) - Foreman Smart Proxy for Bolt integration (4 days ago)
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (4 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (4 days ago)
+- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) - Foreman Smart Proxy for Bolt integration (5 days ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (5 days ago)
 - [theforeman/theforeman-rubocop](https://github.com/theforeman/theforeman-rubocop) - Foreman RuboCop basic rules (1 week ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 week ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 weeks ago)
 - [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) -  (2 weeks ago)
 - [OpenVoxProject/openbolt-vanagon](https://github.com/OpenVoxProject/openbolt-vanagon) - clone of puppetlabs/bolt-vanagon (2 weeks ago)
 - [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 weeks ago)
