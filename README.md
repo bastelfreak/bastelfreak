@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.2.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.2.0), 3 days ago) - clone of puppetlabs/bolt
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.1.0), 4 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.2.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.2.0), 4 days ago) - clone of puppetlabs/bolt
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.1.0), 5 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([0.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/0.1.1), 1 week ago) - Bolt integration plugin for Foreman
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([0.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/0.1.0), 1 week ago) - Foreman Smart Proxy for Bolt integration
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.1.0](https://github.com/saz/puppet-ssh/releases/tag/v14.1.0), 3 weeks ago) - Puppet module to manage ssh server and client
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/homebrew-openvox](https://github.com/OpenVoxProject/homebrew-openvox) - clone of puppetlabs/homebrew-puppet (1 day ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
-- [OpenVoxProject/openvox-release](https://github.com/OpenVoxProject/openvox-release) - clone of puppetlabs/puppetlabs-release (1 day ago)
-- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (1 day ago)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 day ago)
-- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (2 days ago)
-- [OpenVoxProject/container-openbolt](https://github.com/OpenVoxProject/container-openbolt) - Container for OpenBolt (2 days ago)
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (4 days ago)
+- [OpenVoxProject/homebrew-openvox](https://github.com/OpenVoxProject/homebrew-openvox) - clone of puppetlabs/homebrew-puppet (2 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 days ago)
+- [OpenVoxProject/openvox-release](https://github.com/OpenVoxProject/openvox-release) - clone of puppetlabs/puppetlabs-release (2 days ago)
+- [OpenVoxProject/packaging](https://github.com/OpenVoxProject/packaging) - clone of puppetlabs/packaging (2 days ago)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (2 days ago)
+- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (3 days ago)
+- [OpenVoxProject/container-openbolt](https://github.com/OpenVoxProject/container-openbolt) - Container for OpenBolt (3 days ago)
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
