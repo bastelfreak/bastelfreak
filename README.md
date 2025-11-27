@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v4.0.0](https://github.com/betadots/hdm/releases/tag/v4.0.0), today) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([0.1.1](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/0.1.1), 2 days ago) - Foreman Smart Proxy for Bolt integration
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.2.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.2.0), 1 week ago) - clone of puppetlabs/bolt
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.1.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.1.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.0), 1 month ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.23.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.23.1), 2 months ago) - clone of puppetlabs/puppet
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.09.08.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.09.08.1), 2 months ago) - clone of puppetlabs/puppet-runtime
 
 #### 📜 My recent blog posts
 
