@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v3.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v3.0.0), today) - 
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.12.02.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.12.02.1), 2 days ago) - clone of puppetlabs/puppet-runtime
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.0.0](https://github.com/betadots/hdm/releases/tag/v4.0.0), 1 week ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([0.1.1](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/0.1.1), 1 week ago) - Foreman Smart Proxy for Bolt integration
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v14.1.0](https://github.com/saz/puppet-ssh/releases/tag/v14.1.0), 1 month ago) - Puppet module to manage ssh server and client
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.26.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.26.0), 1 month ago) - Module for managing Puppet-Agent
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.0), 1 month ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
 #### 📜 My recent blog posts
 
