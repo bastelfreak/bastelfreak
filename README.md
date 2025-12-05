@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.12.05.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.12.05.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.24.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.24.0), 1 day ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.2.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.2.0), 1 day ago) - Community implementation of Facter
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v3.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v3.0.0), 1 day ago) - 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.12.02.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.12.02.1), 3 days ago) - clone of puppetlabs/puppet-runtime
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.0.0](https://github.com/betadots/hdm/releases/tag/v4.0.0), 1 week ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([0.1.1](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/0.1.1), 1 week ago) - Foreman Smart Proxy for Bolt integration
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.2.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.2.0), 2 weeks ago) - clone of puppetlabs/bolt
