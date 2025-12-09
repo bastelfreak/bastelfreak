@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.12.09.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.12.09.1), today) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v3.0.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v3.0.0), 1 day ago) - 
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.24.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.24.1), 4 days ago) - clone of puppetlabs/puppet
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.12.05.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.12.05.1), 4 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.2.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.2.0), 5 days ago) - Community implementation of Facter
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v3.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v3.0.0), 5 days ago) - 
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.0.0](https://github.com/betadots/hdm/releases/tag/v4.0.0), 1 week ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
