@@ -69,6 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (today)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (today)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) - Foreman Smart Proxy for Bolt integration (2 weeks ago)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (2 weeks ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 weeks ago)
-- [OpenVoxProject/openvox-release](https://github.com/OpenVoxProject/openvox-release) - clone of puppetlabs/puppetlabs-release (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
