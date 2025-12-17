@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (today)
 - [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) - Automated Foreman installation and configuration (1 day ago)
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) - Foreman Smart Proxy for Bolt integration (2 days ago)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
 - [OpenVoxProject/openvox-release](https://github.com/OpenVoxProject/openvox-release) - clone of puppetlabs/puppetlabs-release (2 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 days ago)
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (2 days ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (2 days ago)
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (2 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
