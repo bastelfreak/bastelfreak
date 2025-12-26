@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.1), today) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.34.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.34.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.3.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.3.0), 1 week ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.12.15.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.12.15.1), 1 week ago) - clone of puppetlabs/puppet-runtime
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.1.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.1.0), 2 weeks ago) - Ruby client for the Puppet Forge API
 - [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v3.0.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v3.0.0), 2 weeks ago) - 
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v3.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v3.0.0), 3 weeks ago) - 
-- [betadots/hdm](https://github.com/betadots/hdm) ([v4.0.0](https://github.com/betadots/hdm/releases/tag/v4.0.0), 4 weeks ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (3 days ago)
 - [southalc/podman](https://github.com/southalc/podman) - Puppet module for podman (5 days ago)
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 week ago)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (1 week ago)
 - [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) - Automated Foreman installation and configuration (1 week ago)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (1 week ago)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 week ago)
 - [OpenVoxProject/openvox-release](https://github.com/OpenVoxProject/openvox-release) - clone of puppetlabs/puppetlabs-release (1 week ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 week ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 week ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
