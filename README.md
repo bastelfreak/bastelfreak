@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) - 
 - [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) - 
 - [bastelfreak/puppetrun2025](https://github.com/bastelfreak/puppetrun2025) - My puppet.run 2025 talk about upgrading PE
 - [bastelfreak/ansible2openbolt](https://github.com/bastelfreak/ansible2openbolt) - OpenBolt examples for Ansible developers
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/puppethacks](https://github.com/bastelfreak/puppethacks) - My talk about puppet hacks nobody dares to ask for!
 - [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025
 - [bastelfreak/puppetrun](https://github.com/bastelfreak/puppetrun) - 
-- [bastelfreak/petuning](https://github.com/bastelfreak/petuning) - 
 
 #### 🔭 Latest releases I've contributed to
 
