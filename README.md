@@ -74,11 +74,11 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (4 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 week ago)
 - [theforeman/puppetdb_foreman](https://github.com/theforeman/puppetdb_foreman) - PuppetDB proxy in Foreman (1 week ago)
+- [choria-io/website](https://github.com/choria-io/website) - Docs for choria found at choria.io (1 week ago)
 - [southalc/podman](https://github.com/southalc/podman) - Puppet module for podman (1 week ago)
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 week ago)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (1 week ago)
 - [theforeman/foreman-installer](https://github.com/theforeman/foreman-installer) - Automated Foreman installation and configuration (2 weeks ago)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
