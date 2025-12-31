@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.0.2](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.0.2), today) - clone of puppetlabs/clj-shell-utils
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.2.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.2.1), today) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.1.6](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.1.6), today) - clone of puppetlabs/clj-http-client
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.2), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.3](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.3), today) - Library of utility functions for clojure
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.5.1](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.5.1), today) - A clojure project that defines version numbers for common dependencies
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.1.5](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.1.5), today) - clone of puppetlabs/clj-http-client
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.1), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.1), 5 days ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.34.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.34.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.3.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.3.0), 2 weeks ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.12.15.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.12.15.1), 2 weeks ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.24.2](https://github.com/OpenVoxProject/openvox/releases/tag/8.24.2), 2 weeks ago) - clone of puppetlabs/puppet
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.2.1](https://github.com/OpenVoxProject/openfact/releases/tag/5.2.1), 2 weeks ago) - Community implementation of Facter
 
 #### 📜 My recent blog posts
 
