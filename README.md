@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.5.0](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.5.0), today) - A clojure project that defines version numbers for common dependencies
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.2](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.2), today) - Library of utility functions for clojure
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.1), 5 days ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.34.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.34.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.3.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.3.0), 2 weeks ago) - clone of puppetlabs/bolt
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.2.1](https://github.com/OpenVoxProject/openfact/releases/tag/5.2.1), 2 weeks ago) - Community implementation of Facter
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) ([v1.1.0](https://github.com/OpenVoxProject/container-openvoxdb/releases/tag/v1.1.0), 2 weeks ago) - Container builds for the OpenVox DB
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.1.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.1.0), 2 weeks ago) - Ruby client for the Puppet Forge API
-- [puppetlabs/puppet_operational_dashboards](https://github.com/puppetlabs/puppet_operational_dashboards) ([v3.0.0](https://github.com/puppetlabs/puppet_operational_dashboards/releases/tag/v3.0.0), 3 weeks ago) - 
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v3.0.0](https://github.com/puppetlabs/influxdb/releases/tag/v3.0.0), 3 weeks ago) - 
 
 #### 📜 My recent blog posts
 
