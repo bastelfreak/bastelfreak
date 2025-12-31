@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.1.5](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.1.5), today) - clone of puppetlabs/clj-http-client
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.1), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.5.0](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.5.0), today) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.2](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.2), today) - Library of utility functions for clojure
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.12.15.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.12.15.1), 2 weeks ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.24.2](https://github.com/OpenVoxProject/openvox/releases/tag/8.24.2), 2 weeks ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.2.1](https://github.com/OpenVoxProject/openfact/releases/tag/5.2.1), 2 weeks ago) - Community implementation of Facter
-- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) ([v1.1.0](https://github.com/OpenVoxProject/container-openvoxdb/releases/tag/v1.1.0), 2 weeks ago) - Container builds for the OpenVox DB
 
 #### 📜 My recent blog posts
 
