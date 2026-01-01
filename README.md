@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.0](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.0), today) - clone of puppetlabs/ezbake
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.0.2](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.0.2), 1 day ago) - clone of puppetlabs/clj-shell-utils
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.2.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.2.1), 1 day ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.1.6](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.1.6), 1 day ago) - clone of puppetlabs/clj-http-client
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.1), 6 days ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.34.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.34.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.3.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.3.0), 2 weeks ago) - clone of puppetlabs/bolt
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2025.12.15.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2025.12.15.1), 2 weeks ago) - clone of puppetlabs/puppet-runtime
 
 #### 📜 My recent blog posts
 
@@ -75,8 +75,8 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (4 days ago)
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (6 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 week ago)
-- [southalc/podman](https://github.com/southalc/podman) - Puppet module for podman (1 week ago)
 - [theforeman/puppetdb_foreman](https://github.com/theforeman/puppetdb_foreman) - PuppetDB proxy in Foreman (1 week ago)
+- [southalc/podman](https://github.com/southalc/podman) - Puppet module for podman (1 week ago)
 - [choria-io/website](https://github.com/choria-io/website) - Docs for choria found at choria.io (1 week ago)
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 week ago)
 
