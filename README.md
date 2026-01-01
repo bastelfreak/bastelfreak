@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.0](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.0), today) - clone of puppetlabs/ezbake
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.1](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.1), today) - clone of puppetlabs/ezbake
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.0.2](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.0.2), 1 day ago) - clone of puppetlabs/clj-shell-utils
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.2.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.2.1), 1 day ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.1.6](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.1.6), 1 day ago) - clone of puppetlabs/clj-http-client
