@@ -41,15 +41,15 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.1](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.1), today) - clone of puppetlabs/ezbake
-- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.0.2](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.0.2), 1 day ago) - clone of puppetlabs/clj-shell-utils
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.2.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.2.1), 1 day ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.1.6](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.1.6), 1 day ago) - clone of puppetlabs/clj-http-client
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.2), 1 day ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.3](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.3), 1 day ago) - Library of utility functions for clojure
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.5.1](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.5.1), 1 day ago) - A clojure project that defines version numbers for common dependencies
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.1), 6 days ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.34.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.34.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.1](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.1), 1 day ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.0.2](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.0.2), 2 days ago) - clone of puppetlabs/clj-shell-utils
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.2.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.2.1), 2 days ago) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.1.6](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.1.6), 2 days ago) - clone of puppetlabs/clj-http-client
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.2), 2 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.4.3](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.4.3), 2 days ago) - Library of utility functions for clojure
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.5.1](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.5.1), 2 days ago) - A clojure project that defines version numbers for common dependencies
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.1), 1 week ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.34.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.34.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.3.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.3.0), 2 weeks ago) - clone of puppetlabs/bolt
 
 #### 📜 My recent blog posts
@@ -69,12 +69,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
-- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) - clone of puppetlabs/clj-shell-utils (1 day ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (3 days ago)
-- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (4 days ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (6 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
+- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) - clone of puppetlabs/clj-shell-utils (2 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (4 days ago)
+- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (5 days ago)
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 week ago)
 - [southalc/podman](https://github.com/southalc/podman) - Puppet module for podman (1 week ago)
 - [theforeman/puppetdb_foreman](https://github.com/theforeman/puppetdb_foreman) - PuppetDB proxy in Foreman (1 week ago)
