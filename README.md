@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.1](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.1), 1 day ago) - Library of utility functions for clojure
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.6.1](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.6.1), 1 day ago) - A clojure project that defines version numbers for common dependencies
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.2.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.2.0), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.3](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.3), today) - Library of utility functions for clojure
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.6.3](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.6.3), today) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.1](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.1), 2 days ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.0.2](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.0.2), 3 days ago) - clone of puppetlabs/clj-shell-utils
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.2.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.2.1), 3 days ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.0.19](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.0.19), 3 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.1.6](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.1.6), 3 days ago) - clone of puppetlabs/clj-http-client
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.1.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.1.2), 3 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.1), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.34.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.34.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
