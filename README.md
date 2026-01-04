@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 day ago)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
-- [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (2 days ago)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 day ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (2 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (4 days ago)
+- [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (2 days ago)
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) - clone of puppetlabs/clj-shell-utils (4 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (4 days ago)
 - [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (6 days ago)
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (1 week ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
