@@ -41,13 +41,13 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.1), today) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.6.4](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.6.4), today) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.1.0](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.1.0), 1 day ago) - clone of puppetlabs/clj-shell-utils
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.0), 1 day ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.0](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.0), 1 day ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.0](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.0), 1 day ago) - clone of puppetlabs/clj-http-client
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.2.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.2.0), 1 day ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.3](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.3), 1 day ago) - Library of utility functions for clojure
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.6.3](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.6.3), 1 day ago) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.1](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.1), 3 days ago) - clone of puppetlabs/ezbake
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.1](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.1), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.34.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.34.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 day ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (2 days ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (2 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (4 days ago)
