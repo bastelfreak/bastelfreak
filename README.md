@@ -72,13 +72,13 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (today)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (1 day ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (1 day ago)
+- [puppetlabs/beaker-puppet](https://github.com/puppetlabs/beaker-puppet) - Beaker&#39;s puppet-specific helper library (1 day ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (3 days ago)
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (4 days ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
