@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.6.5](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.6.5), today) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.3.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.3.0), 1 day ago) - Community implementation of Facter
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.0), 2 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.1), 3 days ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.6.4](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.6.4), 3 days ago) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.1.0](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.1.0), 4 days ago) - clone of puppetlabs/clj-shell-utils
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.0](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.0), 4 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.0](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.0), 4 days ago) - clone of puppetlabs/clj-http-client
