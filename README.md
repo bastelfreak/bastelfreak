@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.6.5](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.6.5), 1 day ago) - A clojure project that defines version numbers for common dependencies
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.6.6](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.6.6), today) - A clojure project that defines version numbers for common dependencies
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.3.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.3.0), 2 days ago) - Community implementation of Facter
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.0), 3 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.1), 4 days ago) - Tools for working with JRuby from Clojure
