@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.1), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) ([1.5.0](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher/releases/tag/1.5.0), today) - clone of puppetlabs/trapperkeeper-filesystem-watcher
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-2](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-2), today) - clone of puppetlabs/jruby-deps
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.1](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.1), today) - clone of puppetlabs/clj-typesafe-config
 - [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.6.2](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.6.2), today) - clone of puppetlabs/jvm-ssl-utils
-- [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) ([1.4.0](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher/releases/tag/1.4.0), today) - clone of puppetlabs/trapperkeeper-filesystem-watcher
 - [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) ([1.1.2](https://github.com/OpenVoxProject/comidi/releases/tag/1.1.2), today) - clone of puppetlabs/comidi
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.5](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.5), today) - Library of utility functions for clojure
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.2](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.2), today) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.1](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.1), today) - clone of puppetlabs/clj-http-client
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) ([7.6.6](https://github.com/OpenVoxProject/clj-parent/releases/tag/7.6.6), 1 day ago) - A clojure project that defines version numbers for common dependencies
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.3.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.3.0), 3 days ago) - Community implementation of Facter
 
 #### 📜 My recent blog posts
 
@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (today)
-- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (today)
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (today)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (today)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (today)
+- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) - clone of puppetlabs/stockpile (today)
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (today)
 - [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (today)
-- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) - clone of puppetlabs/dujour-version-check (today)
-- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (today)
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (today)
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (today)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (today)
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (today)
 
 #### 👥 Check out some of my recent followers
 
