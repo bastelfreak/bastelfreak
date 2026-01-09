@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.1), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.2), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) ([1.5.0](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher/releases/tag/1.5.0), today) - clone of puppetlabs/trapperkeeper-filesystem-watcher
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-2](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-2), today) - clone of puppetlabs/jruby-deps
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.1](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.1), today) - clone of puppetlabs/clj-typesafe-config
