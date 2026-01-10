@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.3.1](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.3.1), today) - clone of puppetlabs/trapperkeeper-scheduler
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.1](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.1), today) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.2](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.2), today) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.1](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.1), today) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) ([1.1.1](https://github.com/OpenVoxProject/dujour-version-check/releases/tag/1.1.1), today) - clone of puppetlabs/dujour-version-check
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.1](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.1), today) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.2](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.2), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.2](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.2), 1 day ago) - clone of puppetlabs/clj-http-client
-- [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) ([1.5.1](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher/releases/tag/1.5.1), 1 day ago) - clone of puppetlabs/trapperkeeper-filesystem-watcher
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.2), 1 day ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 
 #### 📜 My recent blog posts
 
