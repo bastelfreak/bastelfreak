@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.4](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.4), today) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.2](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.2), today) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.2](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.2), today) - clone of puppetlabs/clj-rbac-client
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.3](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.3), today) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.4](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.4), 1 day ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.2](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.2), 1 day ago) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.3.1](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.3.1), 1 day ago) - clone of puppetlabs/trapperkeeper-scheduler
