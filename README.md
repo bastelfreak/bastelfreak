@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.1](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.1), today) - clone of puppetlabs/trapperkeeper-status
+- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.1](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.1), today) - clone of puppetlabs/stockpile
+- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.1](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.1), today) - clone of puppetlabs/structured-logging
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.5](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.5), today) - clone of puppetlabs/trapperkeeper-metrics
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.5](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.5), today) - clone of puppetlabs/trapperkeeper-authorization
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.3](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.3), today) - clone of puppetlabs/clj-rbac-client
+- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) ([1.1.2](https://github.com/OpenVoxProject/dujour-version-check/releases/tag/1.1.2), today) - clone of puppetlabs/dujour-version-check
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.5](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.5), today) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.3](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.3), today) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.3](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.3), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.3](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.3), today) - clone of puppetlabs/clj-http-client
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.4](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.4), today) - clone of puppetlabs/trapperkeeper-metrics
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.4](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.4), 1 day ago) - clone of puppetlabs/trapperkeeper-authorization
-- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.2](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.2), 1 day ago) - clone of puppetlabs/clj-rbac-client
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.4](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.4), 2 days ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.2](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.2), 2 days ago) - clone of puppetlabs/ring-middleware
-- [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.3.1](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.3.1), 2 days ago) - clone of puppetlabs/trapperkeeper-scheduler
-- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) ([1.1.1](https://github.com/OpenVoxProject/dujour-version-check/releases/tag/1.1.1), 2 days ago) - clone of puppetlabs/dujour-version-check
-- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.1.1](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.1.1), 2 days ago) - clone of puppetlabs/clj-shell-utils
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (today)
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 day ago)
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (1 day ago)
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (1 day ago)
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (1 day ago)
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (1 day ago)
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 day ago)
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (2 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (2 days ago)
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (2 days ago)
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
