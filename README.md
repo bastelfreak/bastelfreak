@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.2](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.2), today) - clone of puppetlabs/trapperkeeper-comidi-metrics
+- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.3](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.3), today) - clone of puppetlabs/trapperkeeper-comidi-metrics
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.6](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.6), today) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.1](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.1), 1 day ago) - clone of puppetlabs/trapperkeeper-status
 - [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.1](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.1), 1 day ago) - clone of puppetlabs/stockpile
 - [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.1](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.1), 1 day ago) - clone of puppetlabs/structured-logging
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.5](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.5), 1 day ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.5](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.5), 1 day ago) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.3](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.3), 1 day ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) ([1.1.2](https://github.com/OpenVoxProject/dujour-version-check/releases/tag/1.1.2), 1 day ago) - clone of puppetlabs/dujour-version-check
