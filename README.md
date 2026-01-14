@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.2](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.2), today) - clone of puppetlabs/ezbake
 - [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.3](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.3), 1 day ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.6](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.6), 1 day ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.1](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.1), 2 days ago) - clone of puppetlabs/trapperkeeper-status
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.3](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.3), 2 days ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) ([1.1.2](https://github.com/OpenVoxProject/dujour-version-check/releases/tag/1.1.2), 2 days ago) - clone of puppetlabs/dujour-version-check
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.5](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.5), 2 days ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.3](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.3), 2 days ago) - clone of puppetlabs/ring-middleware
 
 #### 📜 My recent blog posts
 
