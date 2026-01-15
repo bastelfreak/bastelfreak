@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.2](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.2), today) - clone of puppetlabs/ezbake
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.3](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.3), 1 day ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.6](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.6), 1 day ago) - clone of puppetlabs/trapperkeeper-metrics
-- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.1](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.1), 2 days ago) - clone of puppetlabs/trapperkeeper-status
-- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.1](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.1), 2 days ago) - clone of puppetlabs/stockpile
-- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.1](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.1), 2 days ago) - clone of puppetlabs/structured-logging
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.5](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.5), 2 days ago) - clone of puppetlabs/trapperkeeper-authorization
-- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.3](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.3), 2 days ago) - clone of puppetlabs/clj-rbac-client
-- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) ([1.1.2](https://github.com/OpenVoxProject/dujour-version-check/releases/tag/1.1.2), 2 days ago) - clone of puppetlabs/dujour-version-check
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.5](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.5), 2 days ago) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.2](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.2), 1 day ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.3](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.3), 2 days ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.6](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.6), 2 days ago) - clone of puppetlabs/trapperkeeper-metrics
+- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.1](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.1), 3 days ago) - clone of puppetlabs/trapperkeeper-status
+- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.1](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.1), 3 days ago) - clone of puppetlabs/stockpile
+- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.1](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.1), 3 days ago) - clone of puppetlabs/structured-logging
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.5](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.5), 3 days ago) - clone of puppetlabs/trapperkeeper-authorization
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.3](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.3), 3 days ago) - clone of puppetlabs/clj-rbac-client
+- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) ([1.1.2](https://github.com/OpenVoxProject/dujour-version-check/releases/tag/1.1.2), 3 days ago) - clone of puppetlabs/dujour-version-check
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.5](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.5), 3 days ago) - Tools for working with JRuby from Clojure
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (1 day ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (1 day ago)
-- [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (1 day ago)
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (2 days ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
-- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (3 days ago)
-- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (3 days ago)
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (3 days ago)
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (3 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
+- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (2 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (2 days ago)
+- [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (2 days ago)
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (3 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (4 days ago)
+- [OpenVoxProject/clj-parent](https://github.com/OpenVoxProject/clj-parent) - A clojure project that defines version numbers for common dependencies (4 days ago)
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (4 days ago)
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
