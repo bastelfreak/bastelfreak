@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.12.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.12.0), 4 days ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.2](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.2), 5 days ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.3](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.3), 6 days ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.6](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.6), 6 days ago) - clone of puppetlabs/trapperkeeper-metrics
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.12.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.12.0), 5 days ago) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.2](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.2), 6 days ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.3](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.3), 1 week ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.6](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.6), 1 week ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.1](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.1), 1 week ago) - clone of puppetlabs/trapperkeeper-status
 - [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.1](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.1), 1 week ago) - clone of puppetlabs/stockpile
 - [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.1](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.1), 1 week ago) - clone of puppetlabs/structured-logging
@@ -69,12 +69,12 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
-- [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (today)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (5 days ago)
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (6 days ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (6 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
+- [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (1 day ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (6 days ago)
+- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (1 week ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (1 week ago)
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (1 week ago)
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (1 week ago)
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (1 week ago)
