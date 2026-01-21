@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.12.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.12.1), today) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.4](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.4), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.6](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.6), today) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.6](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.6), today) - clone of puppetlabs/trapperkeeper-authorization
@@ -49,7 +50,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.2](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.2), today) - clone of puppetlabs/trapperkeeper-status
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.7](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.7), today) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.4](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.4), today) - clone of puppetlabs/trapperkeeper-comidi-metrics
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.12.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.12.0), today) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.2](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.2), 1 week ago) - clone of puppetlabs/ezbake
 
 #### 📜 My recent blog posts
