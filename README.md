@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.3](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.3), today) - clone of puppetlabs/ezbake
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.35.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.35.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.12.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.12.1), 1 day ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.4](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.4), 1 day ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.4](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.4), 1 day ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.2](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.2), 1 day ago) - clone of puppetlabs/trapperkeeper-status
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.7](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.7), 1 day ago) - clone of puppetlabs/trapperkeeper-metrics
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.4](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.4), 1 day ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
 
 #### 📜 My recent blog posts
 
