@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (today)
-- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (today)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
+- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (today)
+- [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (today)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 day ago)
-- [theforeman/foreman-plugin-overview](https://github.com/theforeman/foreman-plugin-overview) - An overview of the Foreman landscape (1 day ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
+- [theforeman/foreman-plugin-overview](https://github.com/theforeman/foreman-plugin-overview) - An overview of the Foreman landscape (1 day ago)
 - [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (3 days ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (4 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (4 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
