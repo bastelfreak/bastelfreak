@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.12.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.12.0), today) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.3](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.3), 1 day ago) - clone of puppetlabs/ezbake
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.35.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.35.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.12.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.12.1), 2 days ago) - clone of puppetlabs/puppetserver
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.4](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.4), 2 days ago) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.4](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.4), 2 days ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.2](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.2), 2 days ago) - clone of puppetlabs/trapperkeeper-status
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.7](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.7), 2 days ago) - clone of puppetlabs/trapperkeeper-metrics
 
 #### 📜 My recent blog posts
 
