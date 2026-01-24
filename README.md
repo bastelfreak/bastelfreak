@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (today)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (today)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
 - [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (today)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (today)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
-- [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (1 day ago)
-- [theforeman/minitest_reporters_github](https://github.com/theforeman/minitest_reporters_github) - A GitHub reporter for the minitest-reporters gem (1 day ago)
 - [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 day ago)
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 days ago)
+- [theforeman/minitest_reporters_github](https://github.com/theforeman/minitest_reporters_github) - A GitHub reporter for the minitest-reporters gem (1 day ago)
+- [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (1 day ago)
+- [theforeman/foreman-plugin-overview](https://github.com/theforeman/foreman-plugin-overview) - An overview of the Foreman landscape (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
