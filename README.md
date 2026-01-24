@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.1.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.1.0), today) - clone of puppetlabs/vanagon
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.12.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.12.1), 1 day ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.3](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.3), 2 days ago) - clone of puppetlabs/ezbake
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.35.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.35.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.6](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.6), 3 days ago) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.4](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.4), 3 days ago) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.4](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.4), 3 days ago) - clone of puppetlabs/clj-rbac-client
-- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.2](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.2), 3 days ago) - clone of puppetlabs/trapperkeeper-status
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (today)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (today)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (today)
-- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 day ago)
-- [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (1 day ago)
+- [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (today)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
+- [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (1 day ago)
 - [theforeman/minitest_reporters_github](https://github.com/theforeman/minitest_reporters_github) - A GitHub reporter for the minitest-reporters gem (1 day ago)
-- [theforeman/foreman-plugin-overview](https://github.com/theforeman/foreman-plugin-overview) - An overview of the Foreman landscape (2 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
+- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 day ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 days ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
