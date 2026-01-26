@@ -71,14 +71,14 @@ Statement from Puppet Inc.:
 
 - [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (1 day ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 days ago)
 - [theforeman/minitest_reporters_github](https://github.com/theforeman/minitest_reporters_github) - A GitHub reporter for the minitest-reporters gem (3 days ago)
-- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (3 days ago)
 - [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (3 days ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
+- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
