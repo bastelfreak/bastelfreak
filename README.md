@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.01.29.2](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.01.29.2), 1 day ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.01.30.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.01.30.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.2.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.2.0), 1 day ago) - clone of puppetlabs/vanagon
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.12.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.12.1), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.3](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.3), 1 week ago) - clone of puppetlabs/ezbake
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (today)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 day ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
 - [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) -  (5 days ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (5 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (6 days ago)
-- [theforeman/minitest_reporters_github](https://github.com/theforeman/minitest_reporters_github) - A GitHub reporter for the minitest-reporters gem (1 week ago)
-- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 week ago)
 - [theforeman/kafo_wizards](https://github.com/theforeman/kafo_wizards) -  (1 week ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 week ago)
+- [betadots/foreman_hdm](https://github.com/betadots/foreman_hdm) -  (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
