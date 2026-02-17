@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.25.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.25.0), today) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.02.16.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.02.16.1), 1 day ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.4.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.4.0), 2 days ago) - Community implementation of Facter
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.3.1](https://github.com/OpenVoxProject/vanagon/releases/tag/1.3.1), 6 days ago) - clone of puppetlabs/vanagon
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.35.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.35.0), 3 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.12.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.12.1), 3 weeks ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.4](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.4), 3 weeks ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.6](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.6), 3 weeks ago) - Tools for working with JRuby from Clojure
 
 #### 📜 My recent blog posts
 
