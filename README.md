@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.5.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.5.0), today) - Community implementation of Facter
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.1.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.1.0), today) - clone of puppetlabs/puppetserver-ca-cli
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.25.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.25.0), 3 days ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.02.16.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.02.16.1), 4 days ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.4.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.4.0), 5 days ago) - Community implementation of Facter
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.3.1](https://github.com/OpenVoxProject/vanagon/releases/tag/1.3.1), 1 week ago) - clone of puppetlabs/vanagon
 - [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v3.0.1](https://github.com/puppetlabs/influxdb/releases/tag/v3.0.1), 2 weeks ago) - 
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.12.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.12.1), 4 weeks ago) - clone of puppetlabs/puppetdb
