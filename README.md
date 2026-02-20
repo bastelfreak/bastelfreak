@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.1.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.1.0), today) - clone of puppetlabs/puppetserver-ca-cli
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.25.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.25.0), 3 days ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.02.16.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.02.16.1), 4 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.4.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.4.0), 5 days ago) - Community implementation of Facter
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.3](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.3), 4 weeks ago) - clone of puppetlabs/ezbake
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.35.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.35.0), 4 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.12.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.12.1), 1 month ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.4](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.4), 1 month ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 
 #### 📜 My recent blog posts
 
@@ -71,8 +71,8 @@ Statement from Puppet Inc.:
 
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
-- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (3 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
+- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (3 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (4 days ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (4 days ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (5 days ago)
