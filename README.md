@@ -69,8 +69,8 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (today)
 - [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (today)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (today)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (3 days ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (4 days ago)
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (1 week ago)
