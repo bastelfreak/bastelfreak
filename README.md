@@ -70,6 +70,7 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (today)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (today)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (3 days ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (4 days ago)
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (1 week ago)
@@ -78,7 +79,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 week ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 week ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 weeks ago)
-- [bastelfreak/pumademo](https://github.com/bastelfreak/pumademo) - minimalistic demo for puma (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
