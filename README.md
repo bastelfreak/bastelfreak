@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.0.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.0.0), today) - Bolt integration plugin for Foreman
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.6](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.6), 4 days ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.2](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.2), 4 days ago) - clone of puppetlabs/clj-typesafe-config
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.0](https://github.com/betadots/hdm/releases/tag/v4.1.0), 4 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.5.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.5.0), 1 week ago) - Community implementation of Facter
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.25.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.25.0), 1 week ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.3.1](https://github.com/OpenVoxProject/vanagon/releases/tag/1.3.1), 2 weeks ago) - clone of puppetlabs/vanagon
-- [puppetlabs/influxdb](https://github.com/puppetlabs/influxdb) ([v3.0.1](https://github.com/puppetlabs/influxdb/releases/tag/v3.0.1), 3 weeks ago) - 
 
 #### 📜 My recent blog posts
 
