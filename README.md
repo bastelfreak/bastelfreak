@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.0.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.0.0), 1 day ago) - Bolt integration plugin for Foreman
-- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.6](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.6), 5 days ago) - clone of puppetlabs/clj-rbac-client
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.2](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.2), 5 days ago) - clone of puppetlabs/clj-typesafe-config
-- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.0](https://github.com/betadots/hdm/releases/tag/v4.1.0), 5 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.02.25.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.02.25.1), 6 days ago) - clone of puppetlabs/puppet-runtime
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.0.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.0.0), 2 days ago) - Bolt integration plugin for Foreman
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.6](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.6), 6 days ago) - clone of puppetlabs/clj-rbac-client
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.2](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.2), 6 days ago) - clone of puppetlabs/clj-typesafe-config
+- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.0](https://github.com/betadots/hdm/releases/tag/v4.1.0), 6 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.02.25.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.02.25.1), 1 week ago) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.27.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.27.0), 1 week ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.1.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.1.1), 1 week ago) - clone of puppetlabs/puppetserver-ca-cli
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.5.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.5.0), 1 week ago) - Community implementation of Facter
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.25.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.25.0), 2 weeks ago) - clone of puppetlabs/puppet
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.3.1](https://github.com/OpenVoxProject/vanagon/releases/tag/1.3.1), 2 weeks ago) - clone of puppetlabs/vanagon
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.3.1](https://github.com/OpenVoxProject/vanagon/releases/tag/1.3.1), 3 weeks ago) - clone of puppetlabs/vanagon
 
 #### 📜 My recent blog posts
 
@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (1 day ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (5 days ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (5 days ago)
-- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (5 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (5 days ago)
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) - clone of puppetlabs/clj-typesafe-config (5 days ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (2 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (6 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (6 days ago)
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (6 days ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (6 days ago)
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) - clone of puppetlabs/clj-typesafe-config (6 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 week ago)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (1 week ago)
 
