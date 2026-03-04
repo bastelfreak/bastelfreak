@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.03.04.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.03.04.1), today) - clone of puppetlabs/puppet-runtime
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.0.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.0.0), 2 days ago) - Bolt integration plugin for Foreman
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.6](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.6), 6 days ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.2](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.2), 6 days ago) - clone of puppetlabs/clj-typesafe-config
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.0](https://github.com/betadots/hdm/releases/tag/v4.1.0), 6 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.02.25.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.02.25.1), 1 week ago) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.27.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.27.0), 1 week ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.1.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.1.1), 1 week ago) - clone of puppetlabs/puppetserver-ca-cli
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.5.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.5.0), 1 week ago) - Community implementation of Facter
