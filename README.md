@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [xeger/backticks](https://github.com/xeger/backticks) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering. (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
+- [xeger/backticks](https://github.com/xeger/backticks) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering. (today)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
 - [OpenVoxProject/container-openbolt](https://github.com/OpenVoxProject/container-openbolt) - Container for OpenBolt (2 days ago)
-- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) - Ruby client for the Puppet Forge API (3 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (3 days ago)
+- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) - Ruby client for the Puppet Forge API (3 days ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (4 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (6 days ago)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (6 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 week ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (6 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
