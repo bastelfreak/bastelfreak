@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [xeger/backticks](https://github.com/xeger/backticks) ([v1.0.6](https://github.com/xeger/backticks/releases/tag/v1.0.6), today) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering.
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.2.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.2.0), 3 days ago) - Ruby client for the Puppet Forge API
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.4.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.4.0), 4 days ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.03.04.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.03.04.1), 4 days ago) - clone of puppetlabs/puppet-runtime
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.0](https://github.com/betadots/hdm/releases/tag/v4.1.0), 1 week ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.27.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.27.0), 1 week ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.1.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.1.1), 2 weeks ago) - clone of puppetlabs/puppetserver-ca-cli
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.5.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.5.0), 2 weeks ago) - Community implementation of Facter
 
 #### 📜 My recent blog posts
 
