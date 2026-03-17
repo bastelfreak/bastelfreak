@@ -69,6 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
 - [Smarteon/puppet-rclone](https://github.com/Smarteon/puppet-rclone) - Puppet Rclone management module (2 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (5 days ago)
 - [xeger/backticks](https://github.com/xeger/backticks) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering. (1 week ago)
@@ -77,7 +78,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) - Ruby client for the Puppet Forge API (1 week ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 week ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 week ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 weeks ago)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (2 weeks ago)
 
 #### 👥 Check out some of my recent followers
