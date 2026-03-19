@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.03.19.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.03.19.1), today) - clone of puppetlabs/puppet-runtime
 - [xeger/backticks](https://github.com/xeger/backticks) ([v1.0.6](https://github.com/xeger/backticks/releases/tag/v1.0.6), 1 week ago) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering.
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.2.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.2.0), 2 weeks ago) - Ruby client for the Puppet Forge API
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.4.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.4.0), 2 weeks ago) - clone of puppetlabs/bolt
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.03.04.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.03.04.1), 2 weeks ago) - clone of puppetlabs/puppet-runtime
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.0.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.0.0), 2 weeks ago) - Bolt integration plugin for Foreman
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.6](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.6), 3 weeks ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.2](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.2), 3 weeks ago) - clone of puppetlabs/clj-typesafe-config
