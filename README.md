@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.03.19.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.03.19.1), 4 days ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.03.19.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.03.19.1), 5 days ago) - clone of puppetlabs/puppet-runtime
 - [xeger/backticks](https://github.com/xeger/backticks) ([v1.0.6](https://github.com/xeger/backticks/releases/tag/v1.0.6), 2 weeks ago) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering.
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.2.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.2.0), 2 weeks ago) - Ruby client for the Puppet Forge API
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.4.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.4.0), 2 weeks ago) - clone of puppetlabs/bolt
@@ -49,7 +49,7 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.6](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.6), 3 weeks ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.2](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.2), 3 weeks ago) - clone of puppetlabs/clj-typesafe-config
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.0](https://github.com/betadots/hdm/releases/tag/v4.1.0), 3 weeks ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
-- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.27.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.27.0), 3 weeks ago) - Module for managing Puppet-Agent
+- [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.27.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.27.0), 4 weeks ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.1.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.1.1), 1 month ago) - clone of puppetlabs/puppetserver-ca-cli
 
 #### 📜 My recent blog posts
@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (4 days ago)
-- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (4 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (6 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (5 days ago)
+- [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (5 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
 - [Smarteon/puppet-rclone](https://github.com/Smarteon/puppet-rclone) - Puppet Rclone management module (1 week ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 week ago)
 - [xeger/backticks](https://github.com/xeger/backticks) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering. (2 weeks ago)
