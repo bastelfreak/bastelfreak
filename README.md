@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.36.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.36.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.03.19.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.03.19.1), 6 days ago) - clone of puppetlabs/puppet-runtime
 - [xeger/backticks](https://github.com/xeger/backticks) ([v1.0.6](https://github.com/xeger/backticks/releases/tag/v1.0.6), 2 weeks ago) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering.
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.2.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.2.0), 2 weeks ago) - Ruby client for the Puppet Forge API
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.2](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.2), 3 weeks ago) - clone of puppetlabs/clj-typesafe-config
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.0](https://github.com/betadots/hdm/releases/tag/v4.1.0), 3 weeks ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.27.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.27.0), 4 weeks ago) - Module for managing Puppet-Agent
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.1.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.1.1), 1 month ago) - clone of puppetlabs/puppetserver-ca-cli
 
 #### 📜 My recent blog posts
 
