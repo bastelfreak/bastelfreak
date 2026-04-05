@@ -70,9 +70,9 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (2 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (4 days ago)
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) - Foreman Smart Proxy for Bolt integration (4 days ago)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (5 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
 - [betadots/slides](https://github.com/betadots/slides) - betadots conference slides (1 week ago)
 - [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (1 week ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 weeks ago)
