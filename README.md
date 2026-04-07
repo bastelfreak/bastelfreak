@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.05.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.05.1), 1 day ago) - clone of puppetlabs/puppet-runtime
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.37.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.37.0), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [xeger/backticks](https://github.com/xeger/backticks) ([v1.0.6](https://github.com/xeger/backticks/releases/tag/v1.0.6), 4 weeks ago) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering.
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.05.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.05.1), 2 days ago) - clone of puppetlabs/puppet-runtime
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.37.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.37.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [xeger/backticks](https://github.com/xeger/backticks) ([v1.0.6](https://github.com/xeger/backticks/releases/tag/v1.0.6), 1 month ago) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering.
 - [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.2.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.2.0), 1 month ago) - Ruby client for the Puppet Forge API
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.4.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.4.0), 1 month ago) - clone of puppetlabs/bolt
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.0.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.0.0), 1 month ago) - Bolt integration plugin for Foreman
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (5 days ago)
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) - Foreman Smart Proxy for Bolt integration (5 days ago)
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (6 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (4 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (6 days ago)
+- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) - Foreman Smart Proxy for Bolt integration (6 days ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (1 week ago)
 - [betadots/slides](https://github.com/betadots/slides) - betadots conference slides (1 week ago)
 - [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (1 week ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 weeks ago)
 - [bastelfreak/testcontrolrepo](https://github.com/bastelfreak/testcontrolrepo) - a nonworking controlrepo for testing (2 weeks ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 weeks ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (3 weeks ago)
 
 #### 👥 Check out some of my recent followers
 
