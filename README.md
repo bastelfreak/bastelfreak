@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.1](https://github.com/betadots/hdm/releases/tag/v4.1.1), today) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.09.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.09.1), 1 day ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.6.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.6.0), 1 day ago) - Community implementation of Facter
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.37.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.37.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.0.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.0.0), 1 month ago) - Bolt integration plugin for Foreman
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.6](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.6), 1 month ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.2](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.2), 1 month ago) - clone of puppetlabs/clj-typesafe-config
-- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.0](https://github.com/betadots/hdm/releases/tag/v4.1.0), 1 month ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 
 #### 📜 My recent blog posts
 
@@ -72,12 +72,12 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (today)
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (today)
 - [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (today)
-- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (1 day ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 day ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (today)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 day ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (1 day ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (2 days ago)
 
 #### 👥 Check out some of my recent followers
