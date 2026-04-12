@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.5](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.5), today) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.5](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.5), today) - clone of puppetlabs/clj-http-client
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.3](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.3), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.6](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.6), today) - Library of utility functions for clojure
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.6.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.6.0), 3 days ago) - Community implementation of Facter
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.37.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.37.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [xeger/backticks](https://github.com/xeger/backticks) ([v1.0.6](https://github.com/xeger/backticks/releases/tag/v1.0.6), 1 month ago) - Intuitive OOP wrapper for command-line processes; uses PTY to avoid buffering.
-- [puppetlabs/forge-ruby](https://github.com/puppetlabs/forge-ruby) ([v6.2.0](https://github.com/puppetlabs/forge-ruby/releases/tag/v6.2.0), 1 month ago) - Ruby client for the Puppet Forge API
 
 #### 📜 My recent blog posts
 
@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (today)
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (today)
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (today)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (today)
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (today)
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (today)
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (today)
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (2 days ago)
-- [OpenVoxProject/container-openvoxdb](https://github.com/OpenVoxProject/container-openvoxdb) - Container builds for the OpenVox DB (2 days ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (2 days ago)
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (2 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (2 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
