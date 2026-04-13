@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.7](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.7), today) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.7](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.7), today) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-3](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-3), today) - clone of puppetlabs/jruby-deps
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.5](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.5), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.6](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.6), 1 day ago) - Library of utility functions for clojure
 - [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.6.3](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.6.3), 1 day ago) - clone of puppetlabs/jvm-ssl-utils
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.1](https://github.com/betadots/hdm/releases/tag/v4.1.1), 3 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.09.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.09.1), 4 days ago) - clone of puppetlabs/puppet-runtime
 
 #### 📜 My recent blog posts
 
