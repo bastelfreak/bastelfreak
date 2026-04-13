@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.7](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.7), today) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-3](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-3), today) - clone of puppetlabs/jruby-deps
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.5](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.5), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.4](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.4), 1 day ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.5](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.5), 1 day ago) - clone of puppetlabs/ring-middleware
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.6.3](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.6.3), 1 day ago) - clone of puppetlabs/jvm-ssl-utils
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.1](https://github.com/betadots/hdm/releases/tag/v4.1.1), 3 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.09.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.09.1), 4 days ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.6.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.6.0), 4 days ago) - Community implementation of Facter
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.37.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.37.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
 #### 📜 My recent blog posts
 
@@ -71,14 +71,14 @@ Statement from Puppet Inc.:
 
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (today)
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (today)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (today)
+- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) - clone of puppetlabs/jruby-deps (today)
+- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) - clone of puppetlabs/dujour-version-check (today)
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (1 day ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 day ago)
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (1 day ago)
-- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (3 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (3 days ago)
 - [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (3 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
