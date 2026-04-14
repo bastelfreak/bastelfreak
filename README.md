@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
 - [betadots/slides](https://github.com/betadots/slides) - betadots conference slides (today)
-- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) - clone of puppetlabs/dujour-version-check (1 day ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 day ago)
+- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) - clone of puppetlabs/dujour-version-check (1 day ago)
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (1 day ago)
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) - clone of puppetlabs/jruby-deps (1 day ago)
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (1 day ago)
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (2 days ago)
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (2 days ago)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (2 days ago)
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
