@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.7](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.7), today) - clone of puppetlabs/trapperkeeper-authorization
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.7](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.7), today) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-3](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-3), today) - clone of puppetlabs/jruby-deps
-- [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.5](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.5), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.4](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.4), 1 day ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.5](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.5), 1 day ago) - clone of puppetlabs/ring-middleware
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.5](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.5), 1 day ago) - clone of puppetlabs/clj-http-client
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.6](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.6), 1 day ago) - Library of utility functions for clojure
-- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.6.3](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.6.3), 1 day ago) - clone of puppetlabs/jvm-ssl-utils
-- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.1](https://github.com/betadots/hdm/releases/tag/v4.1.1), 3 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.7](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.7), 1 day ago) - clone of puppetlabs/trapperkeeper-authorization
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.7](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.7), 1 day ago) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-3](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-3), 1 day ago) - clone of puppetlabs/jruby-deps
+- [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.5](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.5), 1 day ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.4](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.4), 2 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.5](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.5), 2 days ago) - clone of puppetlabs/ring-middleware
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.5](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.5), 2 days ago) - clone of puppetlabs/clj-http-client
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.6](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.6), 2 days ago) - Library of utility functions for clojure
+- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.6.3](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.6.3), 2 days ago) - clone of puppetlabs/jvm-ssl-utils
+- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.1](https://github.com/betadots/hdm/releases/tag/v4.1.1), 4 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (today)
-- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (today)
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (today)
-- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) - clone of puppetlabs/jruby-deps (today)
-- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) - clone of puppetlabs/dujour-version-check (today)
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (1 day ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 day ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (3 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 day ago)
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (1 day ago)
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (1 day ago)
+- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) - clone of puppetlabs/jruby-deps (1 day ago)
+- [OpenVoxProject/dujour-version-check](https://github.com/OpenVoxProject/dujour-version-check) - clone of puppetlabs/dujour-version-check (1 day ago)
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (2 days ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (2 days ago)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (2 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (4 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
