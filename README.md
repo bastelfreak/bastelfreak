@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.15.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.15.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.26.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.26.0), 1 day ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.7](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.7), 2 days ago) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.7](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.7), 2 days ago) - Tools for working with JRuby from Clojure
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.5](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.5), 3 days ago) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.5](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.5), 3 days ago) - clone of puppetlabs/clj-http-client
 - [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.6](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.6), 3 days ago) - Library of utility functions for clojure
-- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.6.3](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.6.3), 3 days ago) - clone of puppetlabs/jvm-ssl-utils
 
 #### 📜 My recent blog posts
 
