@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.1.1), today) - Bolt integration plugin for Foreman
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.16.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.16.1), 1 day ago) - clone of puppetlabs/puppet-runtime
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.1.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.1.0), 1 day ago) - Bolt integration plugin for Foreman
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.1.0), 1 day ago) - Foreman Smart Proxy for Bolt integration
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.26.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.26.1), 2 days ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.7](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.7), 4 days ago) - clone of puppetlabs/trapperkeeper-authorization
