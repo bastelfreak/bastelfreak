@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.6](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.6), today) - clone of puppetlabs/ring-middleware
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.7](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.7), today) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.26.2](https://github.com/OpenVoxProject/openvox/releases/tag/8.26.2), 1 day ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.17.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.17.1), 2 days ago) - clone of puppetlabs/puppet-runtime
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.1.1), 2 days ago) - Bolt integration plugin for Foreman
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.7](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.7), 6 days ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-3](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-3), 6 days ago) - clone of puppetlabs/jruby-deps
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.5](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.5), 6 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([4.3.4](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/4.3.4), 1 week ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.5](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.5), 1 week ago) - clone of puppetlabs/ring-middleware
 
 #### 📜 My recent blog posts
 
