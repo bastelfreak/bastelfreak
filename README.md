@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.8](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.8), today) - clone of puppetlabs/trapperkeeper-authorization
-- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.6](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.6), today) - clone of puppetlabs/ring-middleware
-- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.7](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.7), today) - clone of puppetlabs/clj-rbac-client
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.26.2](https://github.com/OpenVoxProject/openvox/releases/tag/8.26.2), 1 day ago) - clone of puppetlabs/puppet
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.17.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.17.1), 2 days ago) - clone of puppetlabs/puppet-runtime
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.1.1), 2 days ago) - Bolt integration plugin for Foreman
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.1.0), 3 days ago) - Foreman Smart Proxy for Bolt integration
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.7](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.7), 6 days ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-3](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-3), 6 days ago) - clone of puppetlabs/jruby-deps
-- [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.5](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.5), 6 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.8](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.8), 1 day ago) - clone of puppetlabs/trapperkeeper-authorization
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.6](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.6), 1 day ago) - clone of puppetlabs/ring-middleware
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.7](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.7), 1 day ago) - clone of puppetlabs/clj-rbac-client
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.26.2](https://github.com/OpenVoxProject/openvox/releases/tag/8.26.2), 2 days ago) - clone of puppetlabs/puppet
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.17.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.17.1), 3 days ago) - clone of puppetlabs/puppet-runtime
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.1.1), 3 days ago) - Bolt integration plugin for Foreman
+- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.1.0), 4 days ago) - Foreman Smart Proxy for Bolt integration
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.7](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.7), 1 week ago) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-3](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-3), 1 week ago) - clone of puppetlabs/jruby-deps
+- [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.5](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.5), 1 week ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (2 days ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (3 days ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (5 days ago)
-- [betadots/slides](https://github.com/betadots/slides) - betadots conference slides (5 days ago)
-- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (5 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (3 days ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (3 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (3 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (4 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (4 days ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (4 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (6 days ago)
+- [betadots/slides](https://github.com/betadots/slides) - betadots conference slides (6 days ago)
+- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
