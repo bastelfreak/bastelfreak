@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.4](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.4), today) - clone of puppetlabs/ezbake
 - [Smarteon/puppet-rclone](https://github.com/Smarteon/puppet-rclone) ([v0.0.3](https://github.com/Smarteon/puppet-rclone/releases/tag/v0.0.3), 2 days ago) - Puppet Rclone management module
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.04.20.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.04.20.1), 3 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.8](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.8), 4 days ago) - clone of puppetlabs/trapperkeeper-authorization
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.1.1), 6 days ago) - Bolt integration plugin for Foreman
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.1.0), 1 week ago) - Foreman Smart Proxy for Bolt integration
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.3.7](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.3.7), 1 week ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.12.1-3](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.12.1-3), 1 week ago) - clone of puppetlabs/jruby-deps
 
 #### 📜 My recent blog posts
 
@@ -69,7 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (6 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (6 days ago)
