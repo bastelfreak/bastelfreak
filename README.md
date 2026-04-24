@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) ([3.5.7](https://github.com/OpenVoxProject/clj-kitchensink/releases/tag/3.5.7), today) - Library of utility functions for clojure
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.2.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.2.0), 1 day ago) - clone of puppetlabs/puppetserver-ca-cli
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.4](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.4), 1 day ago) - clone of puppetlabs/ezbake
 - [Smarteon/puppet-rclone](https://github.com/Smarteon/puppet-rclone) ([v0.0.3](https://github.com/Smarteon/puppet-rclone/releases/tag/v0.0.3), 3 days ago) - Puppet Rclone management module
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.7](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.7), 5 days ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.26.2](https://github.com/OpenVoxProject/openvox/releases/tag/8.26.2), 6 days ago) - clone of puppetlabs/puppet
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.1.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.1.1), 1 week ago) - Bolt integration plugin for Foreman
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.1.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.1.0), 1 week ago) - Foreman Smart Proxy for Bolt integration
 
 #### 📜 My recent blog posts
 
@@ -69,13 +69,13 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (1 day ago)
-- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (1 day ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
+- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) - clone of puppetlabs/clj-i18n (today)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (today)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (1 day ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
-- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (1 day ago)
-- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (1 day ago)
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (1 day ago)
+- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) - clone of puppetlabs/clj-shell-utils (1 day ago)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (1 day ago)
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 day ago)
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (1 day ago)
