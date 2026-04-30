@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.5.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.5.0), today) - clone of puppetlabs/bolt
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.11](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.11), 5 days ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.8](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.8), 5 days ago) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.8](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.8), 5 days ago) - clone of puppetlabs/clj-http-client
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.5](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.5), 5 days ago) - clone of puppetlabs/trapperkeeper-status
 - [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) ([1.1.8](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10/releases/tag/1.1.8), 5 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.3.2](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.3.2), 6 days ago) - clone of puppetlabs/trapperkeeper-scheduler
-- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.1.2](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.1.2), 6 days ago) - clone of puppetlabs/clj-shell-utils
 
 #### 📜 My recent blog posts
 
