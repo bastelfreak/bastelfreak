@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.0), 1 day ago) - Bolt integration plugin for Foreman
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.2.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.2.0), 1 day ago) - Foreman Smart Proxy for Bolt integration
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.5.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.5.0), 2 days ago) - clone of puppetlabs/bolt
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.0), 2 days ago) - Bolt integration plugin for Foreman
+- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.2.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.2.0), 2 days ago) - Foreman Smart Proxy for Bolt integration
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.5.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.5.0), 3 days ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.11](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.11), 1 week ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.8](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.8), 1 week ago) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.8](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.8), 1 week ago) - clone of puppetlabs/clj-http-client
@@ -69,11 +69,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
-- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (1 day ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
+- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (2 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (3 days ago)
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (1 week ago)
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (1 week ago)
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (1 week ago)
