@@ -74,10 +74,10 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (2 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (1 week ago)
-- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (1 week ago)
-- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) - clone of puppetlabs/trapperkeeper-status (1 week ago)
+- [OpenVoxProject/trapperkeeper-webserver-jetty10](https://github.com/OpenVoxProject/trapperkeeper-webserver-jetty10) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (1 week ago)
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (1 week ago)
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (1 week ago)
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (1 week ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 week ago)
 
 #### 👥 Check out some of my recent followers
