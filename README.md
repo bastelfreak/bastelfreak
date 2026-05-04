@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.13.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.13.0), today) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.13.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.13.0), today) - clone of puppetlabs/puppetserver
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.0), 3 days ago) - Bolt integration plugin for Foreman
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.2.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.2.0), 3 days ago) - Foreman Smart Proxy for Bolt integration
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.5.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.5.0), 4 days ago) - clone of puppetlabs/bolt
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.8](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.8), 1 week ago) - clone of puppetlabs/clj-http-client
 - [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.7](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.7), 1 week ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.10](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.10), 1 week ago) - clone of puppetlabs/clj-rbac-client
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.1.10](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.1.10), 1 week ago) - clone of puppetlabs/trapperkeeper-authorization
-- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.3.5](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.3.5), 1 week ago) - clone of puppetlabs/trapperkeeper-status
 
 #### 📜 My recent blog posts
 
@@ -72,12 +72,12 @@ Statement from Puppet Inc.:
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (today)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
 - [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (today)
 - [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (today)
 - [theforeman/puppet-certs](https://github.com/theforeman/puppet-certs) - Puppet module for dealing with SSL certs across other modules used in Katello (today)
 - [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (today)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 day ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
 - [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (3 days ago)
 
 #### 👥 Check out some of my recent followers
