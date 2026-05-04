@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.5](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.5), today) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.13.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.13.0), today) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.13.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.13.0), today) - clone of puppetlabs/puppetserver
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.0), 3 days ago) - Bolt integration plugin for Foreman
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.8](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.8), 1 week ago) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.8](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.8), 1 week ago) - clone of puppetlabs/clj-http-client
 - [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.7](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.7), 1 week ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
-- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.2.10](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.2.10), 1 week ago) - clone of puppetlabs/clj-rbac-client
 
 #### 📜 My recent blog posts
 
