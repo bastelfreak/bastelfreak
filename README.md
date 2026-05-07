@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.07.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.07.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.5](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.5), 3 days ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.13.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.13.0), 3 days ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.13.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.13.0), 3 days ago) - clone of puppetlabs/puppetserver
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.11](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.11), 1 week ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.8](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.8), 1 week ago) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.8](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.8), 1 week ago) - clone of puppetlabs/clj-http-client
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.0.7](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.0.7), 1 week ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
 
 #### 📜 My recent blog posts
 
