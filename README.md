@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.5](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.5), 2 days ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.13.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.13.0), 2 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.13.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.13.0), 2 days ago) - clone of puppetlabs/puppetserver
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.0), 5 days ago) - Bolt integration plugin for Foreman
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.2.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.2.0), 5 days ago) - Foreman Smart Proxy for Bolt integration
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.5.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.5.0), 6 days ago) - clone of puppetlabs/bolt
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.5](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.5), 3 days ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.13.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.13.0), 3 days ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.13.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.13.0), 3 days ago) - clone of puppetlabs/puppetserver
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.0), 6 days ago) - Bolt integration plugin for Foreman
+- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.2.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.2.0), 6 days ago) - Foreman Smart Proxy for Bolt integration
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.5.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.5.0), 1 week ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.11](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.11), 1 week ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.1.8](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.1.8), 1 week ago) - clone of puppetlabs/ring-middleware
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.2.8](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.2.8), 1 week ago) - clone of puppetlabs/clj-http-client
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (1 day ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (2 days ago)
-- [theforeman/puppet-certs](https://github.com/theforeman/puppet-certs) - Puppet module for dealing with SSL certs across other modules used in Katello (2 days ago)
-- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (2 days ago)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (2 days ago)
-- [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (2 days ago)
-- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (2 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (3 days ago)
+- [theforeman/puppet-certs](https://github.com/theforeman/puppet-certs) - Puppet module for dealing with SSL certs across other modules used in Katello (3 days ago)
+- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (3 days ago)
+- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (3 days ago)
+- [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (3 days ago)
+- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (3 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
