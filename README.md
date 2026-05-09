@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.1.0](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.1.0), today) - clone of puppetlabs/trapperkeeper-comidi-metrics
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.2.0](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.2.0), today) - clone of puppetlabs/ring-middleware
+- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.4.0](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.4.0), today) - clone of puppetlabs/trapperkeeper-status
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.3.0](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.3.0), today) - clone of puppetlabs/clj-http-client
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.2.0](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.2.0), today) - clone of puppetlabs/trapperkeeper-metrics
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.2.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.2.0), today) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([10.0.0](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/10.0.0), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.0), 1 day ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.28.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.28.0), 2 days ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.07.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.07.1), 2 days ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.5](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.5), 5 days ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.13.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.13.0), 5 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.13.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.13.0), 5 days ago) - clone of puppetlabs/puppetserver
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.0), 1 week ago) - Bolt integration plugin for Foreman
-- [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.2.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.2.0), 1 week ago) - Foreman Smart Proxy for Bolt integration
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.5.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.5.0), 1 week ago) - clone of puppetlabs/bolt
 
 #### 📜 My recent blog posts
 
