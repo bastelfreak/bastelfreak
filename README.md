@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([10.0.0](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/10.0.0), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.0), 1 day ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.28.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.28.0), 2 days ago) - Module for managing Puppet-Agent
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.07.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.07.1), 2 days ago) - clone of puppetlabs/puppet-runtime
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.0), 1 week ago) - Bolt integration plugin for Foreman
 - [overlookinfra/smart_proxy_openbolt](https://github.com/overlookinfra/smart_proxy_openbolt) ([1.2.0](https://github.com/overlookinfra/smart_proxy_openbolt/releases/tag/1.2.0), 1 week ago) - Foreman Smart Proxy for Bolt integration
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.5.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.5.0), 1 week ago) - clone of puppetlabs/bolt
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.1.11](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.1.11), 2 weeks ago) - clone of puppetlabs/trapperkeeper-metrics
 
 #### 📜 My recent blog posts
 
