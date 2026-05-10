@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (2 days ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (5 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (5 days ago)
 - [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (5 days ago)
-- [theforeman/puppet-certs](https://github.com/theforeman/puppet-certs) - Puppet module for dealing with SSL certs across other modules used in Katello (6 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (6 days ago)
 - [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (6 days ago)
-- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (6 days ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
