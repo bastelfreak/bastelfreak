@@ -41,14 +41,14 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.3.0](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.3.0), today) - clone of puppetlabs/trapperkeeper-metrics
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.3.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.3.0), today) - clone of puppetlabs/trapperkeeper-authorization
+- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.5.0](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.5.0), today) - clone of puppetlabs/trapperkeeper-status
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.0](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.0), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) ([1.3.0](https://github.com/OpenVoxProject/clj-rbac-client/releases/tag/1.3.0), 2 days ago) - clone of puppetlabs/clj-rbac-client
 - [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.1.0](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.1.0), 2 days ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
 - [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) ([2.2.0](https://github.com/OpenVoxProject/ring-middleware/releases/tag/2.2.0), 2 days ago) - clone of puppetlabs/ring-middleware
-- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.4.0](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.4.0), 2 days ago) - clone of puppetlabs/trapperkeeper-status
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.3.0](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.3.0), 2 days ago) - clone of puppetlabs/clj-http-client
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.2.0](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.2.0), 2 days ago) - clone of puppetlabs/trapperkeeper-metrics
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.2.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.2.0), 2 days ago) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.0](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.0), 3 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent) ([v4.28.0](https://github.com/puppetlabs/puppetlabs-puppet_agent/releases/tag/v4.28.0), 4 days ago) - Module for managing Puppet-Agent
 
