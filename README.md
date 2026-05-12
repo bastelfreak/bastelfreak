@@ -41,6 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.6](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.6), today) - clone of puppetlabs/ezbake
+- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.1](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.1), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.1), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.11.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.11.1), 1 day ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.4.0](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.4.0), 1 day ago) - clone of puppetlabs/trapperkeeper-scheduler
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.2.0](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.2.0), 1 day ago) - clone of puppetlabs/clj-shell-utils
@@ -48,9 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) ([1.6.0](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher/releases/tag/1.6.0), 1 day ago) - clone of puppetlabs/trapperkeeper-filesystem-watcher
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.3](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.3), 1 day ago) - clone of puppetlabs/clj-typesafe-config
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.6.1](https://github.com/OpenVoxProject/openfact/releases/tag/5.6.1), 1 day ago) - Community implementation of Facter
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.3.0](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.3.0), 1 day ago) - clone of puppetlabs/trapperkeeper-metrics
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.3.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.3.0), 1 day ago) - clone of puppetlabs/trapperkeeper-authorization
-- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.5.0](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.5.0), 1 day ago) - clone of puppetlabs/trapperkeeper-status
 
 #### 📜 My recent blog posts
 
