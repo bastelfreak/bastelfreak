@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.6](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.6), today) - clone of puppetlabs/ezbake
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.7](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.7), today) - clone of puppetlabs/ezbake
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.1](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.1), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.1), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.11.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.11.1), 1 day ago) - clone of puppetlabs/puppet-runtime
