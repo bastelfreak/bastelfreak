@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.27.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.27.0), today) - clone of puppetlabs/puppet
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.2](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.2), 2 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.7](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.7), 3 days ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.1), 3 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.4.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.4.0), 4 days ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) ([1.6.0](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher/releases/tag/1.6.0), 4 days ago) - clone of puppetlabs/trapperkeeper-filesystem-watcher
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.3](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.3), 4 days ago) - clone of puppetlabs/clj-typesafe-config
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.6.1](https://github.com/OpenVoxProject/openfact/releases/tag/5.6.1), 4 days ago) - Community implementation of Facter
 
 #### 📜 My recent blog posts
 
