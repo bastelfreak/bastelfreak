@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.0](https://github.com/choria-io/go-choria/releases/tag/v0.30.0), 2 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.27.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.27.0), 3 days ago) - clone of puppetlabs/puppet
-- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.2](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.2), 5 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.7](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.7), 6 days ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.1), 6 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.0](https://github.com/choria-io/go-choria/releases/tag/v0.30.0), 3 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.27.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.27.0), 4 days ago) - clone of puppetlabs/puppet
+- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.2](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.2), 6 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.7](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.7), 1 week ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.1), 1 week ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.11.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.11.1), 1 week ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.4.0](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.4.0), 1 week ago) - clone of puppetlabs/trapperkeeper-scheduler
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.2.0](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.2.0), 1 week ago) - clone of puppetlabs/clj-shell-utils
@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (today)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 day ago)
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data (1 day ago)
-- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (2 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (3 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (4 days ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (4 days ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (6 days ago)
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (6 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data (2 days ago)
+- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) - clone of puppetlabs/puppet-docs (3 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (4 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (5 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (5 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 week ago)
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
