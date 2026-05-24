@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha1), 2 days ago) - clone of puppetlabs/puppet
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.20.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.20.1), 3 days ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha1), 3 days ago) - clone of puppetlabs/puppet
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.20.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.20.1), 4 days ago) - clone of puppetlabs/puppet-runtime
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.0](https://github.com/choria-io/go-choria/releases/tag/v0.30.0), 1 week ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.2](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.2), 1 week ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.7](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.7), 1 week ago) - clone of puppetlabs/ezbake
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 day ago)
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (1 day ago)
-- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 day ago)
-- [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) -  (3 days ago)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (3 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (3 days ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (3 days ago)
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (2 days ago)
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (2 days ago)
+- [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
+- [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) -  (4 days ago)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (4 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (4 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (4 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (4 days ago)
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
