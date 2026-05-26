@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.2](https://github.com/betadots/hdm/releases/tag/v4.1.2), today) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha1), 5 days ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.20.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.20.1), 6 days ago) - clone of puppetlabs/puppet-runtime
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.0](https://github.com/choria-io/go-choria/releases/tag/v0.30.0), 1 week ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.4.0](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.4.0), 2 weeks ago) - clone of puppetlabs/trapperkeeper-scheduler
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.2.0](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.2.0), 2 weeks ago) - clone of puppetlabs/clj-shell-utils
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.4.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.4.0), 2 weeks ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) ([1.6.0](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher/releases/tag/1.6.0), 2 weeks ago) - clone of puppetlabs/trapperkeeper-filesystem-watcher
 
 #### 📜 My recent blog posts
 
