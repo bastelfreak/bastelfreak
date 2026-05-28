@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.0.0](https://github.com/saz/puppet-ssh/releases/tag/v15.0.0), today) - Puppet module to manage ssh server and client
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.2](https://github.com/betadots/hdm/releases/tag/v4.1.2), 2 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha1), 1 week ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.20.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.20.1), 1 week ago) - clone of puppetlabs/puppet-runtime
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.1), 2 weeks ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.4.0](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.4.0), 2 weeks ago) - clone of puppetlabs/trapperkeeper-scheduler
 - [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) ([2.2.0](https://github.com/OpenVoxProject/clj-shell-utils/releases/tag/2.2.0), 2 weeks ago) - clone of puppetlabs/clj-shell-utils
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.4.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.4.0), 2 weeks ago) - Tools for working with JRuby from Clojure
 
 #### 📜 My recent blog posts
 
@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (2 days ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
-- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (6 days ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (6 days ago)
+- [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (6 days ago)
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (6 days ago)
+- [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) -  (1 week ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (1 week ago)
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) - Puppet module for the Apache httpd server, maintained by Puppet, Inc.  (1 week ago)
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) - Puppet module for managing PostgreSQL (1 week ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
