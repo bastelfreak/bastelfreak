@@ -72,7 +72,7 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
 - [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (3 days ago)
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 week ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 week ago)
