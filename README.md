@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.8](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.8), 1 day ago) - clone of puppetlabs/ezbake
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.0.0](https://github.com/saz/puppet-ssh/releases/tag/v15.0.0), 2 days ago) - Puppet module to manage ssh server and client
-- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.2](https://github.com/betadots/hdm/releases/tag/v4.1.2), 4 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.8](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.8), 2 days ago) - clone of puppetlabs/ezbake
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.0.0](https://github.com/saz/puppet-ssh/releases/tag/v15.0.0), 3 days ago) - Puppet module to manage ssh server and client
+- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.2](https://github.com/betadots/hdm/releases/tag/v4.1.2), 5 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha1), 1 week ago) - clone of puppetlabs/puppet
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.20.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.20.1), 1 week ago) - clone of puppetlabs/puppet-runtime
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.0](https://github.com/choria-io/go-choria/releases/tag/v0.30.0), 2 weeks ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
@@ -69,11 +69,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 day ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
-- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (4 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (2 days ago)
+- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (2 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable! (5 days ago)
 - [OpenVoxProject/container-openvoxserver](https://github.com/OpenVoxProject/container-openvoxserver) - Container builds for the OpenVox server (1 week ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 week ago)
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (1 week ago)
