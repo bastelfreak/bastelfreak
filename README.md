@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.4](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.4), today) - clone of puppetlabs/clj-typesafe-config
 - [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) ([v0.0.5](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations/releases/tag/v0.0.5), today) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions.
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.3](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.3), 1 day ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.8](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.8), 5 days ago) - clone of puppetlabs/ezbake
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.05.20.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.05.20.1), 2 weeks ago) - clone of puppetlabs/puppet-runtime
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.0](https://github.com/choria-io/go-choria/releases/tag/v0.30.0), 2 weeks ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.1), 3 weeks ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.4.0](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.4.0), 3 weeks ago) - clone of puppetlabs/trapperkeeper-scheduler
 
 #### 📜 My recent blog posts
 
@@ -70,12 +70,12 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
-- [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions. (today)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) - clone of puppetlabs/clj-typesafe-config (today)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (1 day ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (3 days ago)
 - [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (3 days ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (5 days ago)
