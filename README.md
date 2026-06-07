@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 day ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) - clone of puppetlabs/clj-typesafe-config (4 days ago)
+- [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions. (4 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
-- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
