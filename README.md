@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.4](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.4), 4 days ago) - clone of puppetlabs/clj-typesafe-config
-- [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) ([v0.0.5](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations/releases/tag/v0.0.5), 4 days ago) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions.
-- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.3](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.3), 5 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.4](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.4), 5 days ago) - clone of puppetlabs/clj-typesafe-config
+- [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) ([v0.0.5](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations/releases/tag/v0.0.5), 5 days ago) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions.
+- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.3](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.3), 6 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.8](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.8), 1 week ago) - clone of puppetlabs/ezbake
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.0.0](https://github.com/saz/puppet-ssh/releases/tag/v15.0.0), 1 week ago) - Puppet module to manage ssh server and client
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.2](https://github.com/betadots/hdm/releases/tag/v4.1.2), 1 week ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 day ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) - clone of puppetlabs/clj-typesafe-config (4 days ago)
-- [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions. (4 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (2 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (2 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (4 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (4 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (4 days ago)
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) - clone of puppetlabs/clj-typesafe-config (5 days ago)
+- [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions. (5 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (5 days ago)
 
 #### 👥 Check out some of my recent followers
 
