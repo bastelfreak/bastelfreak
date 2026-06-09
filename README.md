@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (today)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [theforeman/puppet-iop](https://github.com/theforeman/puppet-iop) -  (today)
-- [theforeman/puppet-iop_advisor_engine](https://github.com/theforeman/puppet-iop_advisor_engine) -  (today)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (today)
-- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (today)
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (today)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) - Puppet module for setting Katello specific configuration. Also includes provider for manipulating with Katello resources. (today)
+- [theforeman/puppet-iop](https://github.com/theforeman/puppet-iop) -  (today)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (today)
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (today)
+- [theforeman/puppet-iop_advisor_engine](https://github.com/theforeman/puppet-iop_advisor_engine) -  (today)
+- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (today)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - clone of puppetlabs/puppet (1 day ago)
 
