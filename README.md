@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.09.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.09.1), today) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.4](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.4), 6 days ago) - clone of puppetlabs/clj-typesafe-config
-- [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) ([v0.0.5](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations/releases/tag/v0.0.5), 6 days ago) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions.
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.09.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.09.1), 1 day ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.4](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.4), 1 week ago) - clone of puppetlabs/clj-typesafe-config
+- [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) ([v0.0.5](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations/releases/tag/v0.0.5), 1 week ago) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions.
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.3](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.3), 1 week ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.8](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.8), 1 week ago) - clone of puppetlabs/ezbake
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.0.0](https://github.com/saz/puppet-ssh/releases/tag/v15.0.0), 1 week ago) - Puppet module to manage ssh server and client
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (today)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) - Puppet module for setting Katello specific configuration. Also includes provider for manipulating with Katello resources. (today)
-- [theforeman/puppet-iop](https://github.com/theforeman/puppet-iop) -  (today)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (today)
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (today)
-- [theforeman/puppet-iop_advisor_engine](https://github.com/theforeman/puppet-iop_advisor_engine) -  (today)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (today)
-- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (today)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
+- [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) - Puppet module for setting Katello specific configuration. Also includes provider for manipulating with Katello resources. (1 day ago)
+- [theforeman/puppet-iop](https://github.com/theforeman/puppet-iop) -  (1 day ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (1 day ago)
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (1 day ago)
+- [theforeman/puppet-iop_advisor_engine](https://github.com/theforeman/puppet-iop_advisor_engine) -  (1 day ago)
+- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 day ago)
+- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
