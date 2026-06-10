@@ -70,10 +70,10 @@ Statement from Puppet Inc.:
 
 
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data (today)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 day ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
 - [theforeman/puppet-iop](https://github.com/theforeman/puppet-iop) -  (1 day ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 day ago)
 - [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (1 day ago)
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (1 day ago)
