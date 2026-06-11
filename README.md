@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) ([2.27.0](https://github.com/choria-io/choria-mcorpc-support/releases/tag/2.27.0), today) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.15.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.15.0), today) - A Puppet module to manage MCollective
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.6.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.6.0), today) - clone of puppetlabs/bolt
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.10.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.10.1), 1 day ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha2](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha2), 1 day ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.3](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.3), 1 week ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.8](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.8), 1 week ago) - clone of puppetlabs/ezbake
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.0.0](https://github.com/saz/puppet-ssh/releases/tag/v15.0.0), 2 weeks ago) - Puppet module to manage ssh server and client
-- [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.2](https://github.com/betadots/hdm/releases/tag/v4.1.2), 2 weeks ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.0](https://github.com/choria-io/go-choria/releases/tag/v0.30.0), 3 weeks ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 
 #### 📜 My recent blog posts
 
