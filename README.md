@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.10.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.10.1), today) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha2](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha2), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.10.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.10.1), 1 day ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha2](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha2), 1 day ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.4](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.4), 1 week ago) - clone of puppetlabs/clj-typesafe-config
 - [puppetlabs/puppet-lint-stdlib_deprecations](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations) ([v0.0.5](https://github.com/puppetlabs/puppet-lint-stdlib_deprecations/releases/tag/v0.0.5), 1 week ago) - A puppet-lint plugin to detect deprecated, removed and non-namespaced puppetlabs-stdlib functions.
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.3](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.3), 1 week ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.8](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.8), 1 week ago) - clone of puppetlabs/ezbake
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.0.0](https://github.com/saz/puppet-ssh/releases/tag/v15.0.0), 1 week ago) - Puppet module to manage ssh server and client
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.0.0](https://github.com/saz/puppet-ssh/releases/tag/v15.0.0), 2 weeks ago) - Puppet module to manage ssh server and client
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.1.2](https://github.com/betadots/hdm/releases/tag/v4.1.2), 2 weeks ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.0](https://github.com/choria-io/go-choria/releases/tag/v0.30.0), 3 weeks ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.1), 4 weeks ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.1](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.1), 1 month ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data (today)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
-- [theforeman/puppet-iop](https://github.com/theforeman/puppet-iop) -  (1 day ago)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 day ago)
-- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (1 day ago)
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (1 day ago)
-- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (1 day ago)
-- [theforeman/puppet-iop_advisor_engine](https://github.com/theforeman/puppet-iop_advisor_engine) -  (1 day ago)
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data (1 day ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
+- [theforeman/puppet-iop](https://github.com/theforeman/puppet-iop) -  (2 days ago)
+- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (2 days ago)
+- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (2 days ago)
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (2 days ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (2 days ago)
+- [theforeman/puppet-iop_advisor_engine](https://github.com/theforeman/puppet-iop_advisor_engine) -  (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
