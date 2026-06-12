@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.9](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.9), today) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.0), today) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.2), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.1](https://github.com/choria-io/go-choria/releases/tag/v0.30.1), 1 day ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.6.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.6.0), 1 day ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.10.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.10.1), 2 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha2](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha2), 2 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.4](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.4), 1 week ago) - clone of puppetlabs/clj-typesafe-config
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (today)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
 - [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (1 day ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data (2 days ago)
 - [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (3 days ago)
 - [theforeman/puppet-iop](https://github.com/theforeman/puppet-iop) -  (3 days ago)
-- [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) - Puppet module for setting Katello specific configuration. Also includes provider for manipulating with Katello resources. (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
