@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.0), today) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.9](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.9), today) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.0), today) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.2), today) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.15.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.15.0), 1 day ago) - A Puppet module to manage MCollective
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.6.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.6.0), 1 day ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.10.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.10.1), 2 days ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-alpha2](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-alpha2), 2 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 
 #### 📜 My recent blog posts
 
