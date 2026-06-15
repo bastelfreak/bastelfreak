@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.2](https://github.com/choria-io/go-choria/releases/tag/v0.30.2), today) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.0), 3 days ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.9](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.9), 3 days ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.0), 3 days ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.2), 3 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.1](https://github.com/choria-io/go-choria/releases/tag/v0.30.1), 4 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.32.0](https://github.com/choria-io/puppet-choria/releases/tag/0.32.0), 4 days ago) - Module to install and manage Choria
 - [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) ([2.27.0](https://github.com/choria-io/choria-mcorpc-support/releases/tag/2.27.0), 4 days ago) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.15.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.15.0), 4 days ago) - A Puppet module to manage MCollective
