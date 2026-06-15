@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.0), 2 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.9](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.9), 2 days ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.0), 2 days ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.2), 2 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.1](https://github.com/choria-io/go-choria/releases/tag/v0.30.1), 3 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.32.0](https://github.com/choria-io/puppet-choria/releases/tag/0.32.0), 3 days ago) - Module to install and manage Choria
-- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) ([2.27.0](https://github.com/choria-io/choria-mcorpc-support/releases/tag/2.27.0), 3 days ago) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.15.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.15.0), 3 days ago) - A Puppet module to manage MCollective
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.6.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.6.0), 3 days ago) - clone of puppetlabs/bolt
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.10.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.10.1), 4 days ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.0), 3 days ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.9](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.9), 3 days ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.0), 3 days ago) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.2), 3 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.1](https://github.com/choria-io/go-choria/releases/tag/v0.30.1), 4 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.32.0](https://github.com/choria-io/puppet-choria/releases/tag/0.32.0), 4 days ago) - Module to install and manage Choria
+- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) ([2.27.0](https://github.com/choria-io/choria-mcorpc-support/releases/tag/2.27.0), 4 days ago) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) ([0.15.0](https://github.com/choria-io/puppet-mcollective/releases/tag/0.15.0), 4 days ago) - A Puppet module to manage MCollective
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([5.6.0](https://github.com/OpenVoxProject/openbolt/releases/tag/5.6.0), 4 days ago) - clone of puppetlabs/bolt
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.10.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.10.1), 5 days ago) - clone of puppetlabs/puppet-runtime
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (2 days ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (2 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (3 days ago)
-- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (3 days ago)
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data (4 days ago)
-- [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) - Puppet module for setting Katello specific configuration. Also includes provider for manipulating with Katello resources. (5 days ago)
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (5 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (3 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
+- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (4 days ago)
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data (5 days ago)
+- [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) - Puppet module for setting Katello specific configuration. Also includes provider for manipulating with Katello resources. (6 days ago)
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
