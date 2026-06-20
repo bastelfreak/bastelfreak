@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([0.8.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/0.8.0), 2 days ago) - 
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.32.1](https://github.com/choria-io/puppet-choria/releases/tag/0.32.1), 3 days ago) - Module to install and manage Choria
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.2](https://github.com/choria-io/go-choria/releases/tag/v0.30.2), 4 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
+- [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([0.8.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/0.8.0), 3 days ago) - 
+- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.32.1](https://github.com/choria-io/puppet-choria/releases/tag/0.32.1), 4 days ago) - Module to install and manage Choria
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.2](https://github.com/choria-io/go-choria/releases/tag/v0.30.2), 5 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.0), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.9](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.9), 1 week ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.0), 1 week ago) - clone of puppetlabs/puppetserver
