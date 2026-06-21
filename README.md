@@ -77,8 +77,8 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (1 week ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data (1 week ago)
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) - Module to install and manage Choria (1 week ago)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 week ago)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (1 week ago)
+- [theforeman/puppet-iop](https://github.com/theforeman/puppet-iop) -  (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
