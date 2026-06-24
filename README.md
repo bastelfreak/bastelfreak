@@ -41,6 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.2](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.2), today) - clone of puppetlabs/structured-logging
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.24.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.24.1), today) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.2](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.2), today) - clone of puppetlabs/stockpile
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.3.1](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.3.1), today) - clone of puppetlabs/clj-http-client
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.1), today) - Bolt integration plugin for Foreman
 - [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([0.8.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/0.8.0), 1 week ago) - 
@@ -48,9 +51,6 @@ Statement from Puppet Inc.:
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.2](https://github.com/choria-io/go-choria/releases/tag/v0.30.2), 1 week ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.0), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.9](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.9), 1 week ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.0), 1 week ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.2](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.2), 1 week ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) ([2.27.0](https://github.com/choria-io/choria-mcorpc-support/releases/tag/2.27.0), 1 week ago) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (today)
-- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (today)
+- [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) - clone of puppetlabs/trapperkeeper-filesystem-watcher (today)
+- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) - clone of puppetlabs/stockpile (today)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (today)
 - [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (today)
-- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) - clone of puppetlabs/clj-i18n (today)
-- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) - clone of puppetlabs/trapperkeeper-status (today)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (today)
+- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (today)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (today)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (today)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (today)
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (today)
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (today)
 
 #### 👥 Check out some of my recent followers
 
