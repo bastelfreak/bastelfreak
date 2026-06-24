@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.1), today) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.1), today) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.2](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.2), today) - clone of puppetlabs/structured-logging
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.24.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.24.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.2](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.2), today) - clone of puppetlabs/stockpile
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([0.8.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/0.8.0), 1 week ago) - 
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.32.1](https://github.com/choria-io/puppet-choria/releases/tag/0.32.1), 1 week ago) - Module to install and manage Choria
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.2](https://github.com/choria-io/go-choria/releases/tag/v0.30.2), 1 week ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.0), 1 week ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.7.9](https://github.com/OpenVoxProject/ezbake/releases/tag/2.7.9), 1 week ago) - clone of puppetlabs/ezbake
 
 #### 📜 My recent blog posts
 
