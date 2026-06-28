@@ -71,14 +71,14 @@ Statement from Puppet Inc.:
 
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (3 days ago)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (3 days ago)
-- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (4 days ago)
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (4 days ago)
 - [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (4 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (4 days ago)
-- [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) - clone of puppetlabs/trapperkeeper-filesystem-watcher (4 days ago)
-- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) - clone of puppetlabs/trapperkeeper-status (4 days ago)
+- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (4 days ago)
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (4 days ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (4 days ago)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (4 days ago)
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (4 days ago)
+- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) - clone of puppetlabs/clj-i18n (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
