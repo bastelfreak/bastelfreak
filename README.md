@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.2.0), today) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.1), 4 days ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.1), 4 days ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.2](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.2), 4 days ago) - clone of puppetlabs/structured-logging
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.1), 4 days ago) - Bolt integration plugin for Foreman
 - [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([0.8.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/0.8.0), 1 week ago) - 
 - [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.32.1](https://github.com/choria-io/puppet-choria/releases/tag/0.32.1), 1 week ago) - Module to install and manage Choria
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.2](https://github.com/choria-io/go-choria/releases/tag/v0.30.2), 1 week ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 
 #### 📜 My recent blog posts
 
