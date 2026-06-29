@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.2), today) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.0.0), today) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.2.0), 1 day ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.1), 5 days ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.1), 5 days ago) - clone of puppetlabs/puppetdb
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.2](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.2), 5 days ago) - clone of puppetlabs/stockpile
 - [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.3.1](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.3.1), 5 days ago) - clone of puppetlabs/clj-http-client
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.2.1](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.2.1), 5 days ago) - Bolt integration plugin for Foreman
-- [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([0.8.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/0.8.0), 1 week ago) - 
-- [choria-io/puppet-choria](https://github.com/choria-io/puppet-choria) ([0.32.1](https://github.com/choria-io/puppet-choria/releases/tag/0.32.1), 1 week ago) - Module to install and manage Choria
 
 #### 📜 My recent blog posts
 
