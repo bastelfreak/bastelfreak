@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.2.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.2.1), 1 day ago) - clone of puppetlabs/puppetserver-ca-cli
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.2), 1 day ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.0.0), 1 day ago) - Puppet Module to manage Java
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.2.0), 2 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.1), 6 days ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.1), 6 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.2](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.2), 6 days ago) - clone of puppetlabs/structured-logging
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.24.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.24.1), 6 days ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.2](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.2), 6 days ago) - clone of puppetlabs/stockpile
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.2.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.2.1), 2 days ago) - clone of puppetlabs/puppetserver-ca-cli
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.2), 2 days ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.0.0), 2 days ago) - Puppet Module to manage Java
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.2.0), 3 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.1), 1 week ago) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.1), 1 week ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.2](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.2), 1 week ago) - clone of puppetlabs/structured-logging
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.06.24.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.06.24.1), 1 week ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.2](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.2), 1 week ago) - clone of puppetlabs/stockpile
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
-- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) - clone of puppetlabs/stockpile (1 day ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
-- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (1 day ago)
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (1 day ago)
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (1 day ago)
-- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (6 days ago)
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (6 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (6 days ago)
-- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) - clone of puppetlabs/clj-i18n (6 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
+- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) - clone of puppetlabs/stockpile (2 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
+- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (2 days ago)
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (2 days ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (2 days ago)
+- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (1 week ago)
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (1 week ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 week ago)
+- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) - clone of puppetlabs/clj-i18n (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
