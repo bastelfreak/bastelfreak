@@ -27,6 +27,7 @@ Statement from Puppet Inc.:
 #### 🌱 Check out what I'm currently working on
 
 
+- [bastelfreak/foreman2026](https://github.com/bastelfreak/foreman2026) - Foreman Birthday Party 2026 talk
 - [bastelfreak/pumademo](https://github.com/bastelfreak/pumademo) - minimalistic demo for puma
 - [bastelfreak/cfgmgmtcamp2026](https://github.com/bastelfreak/cfgmgmtcamp2026) - 
 - [bastelfreak/testrepo](https://github.com/bastelfreak/testrepo) - 
@@ -36,7 +37,6 @@ Statement from Puppet Inc.:
 - [bastelfreak/froscon2025](https://github.com/bastelfreak/froscon2025) - My talk about Vox Pupuli at FrOSCon
 - [bastelfreak/foreman2025](https://github.com/bastelfreak/foreman2025) - My talk about migrating from PE to Foreman
 - [bastelfreak/puppethacks](https://github.com/bastelfreak/puppethacks) - My talk about puppet hacks nobody dares to ask for!
-- [bastelfreak/cfgmgmtcamp2025](https://github.com/bastelfreak/cfgmgmtcamp2025) - My two talks for CfgMgmtCamp 2025
 
 #### 🔭 Latest releases I've contributed to
 
@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [choria-io/website](https://github.com/choria-io/website) - Docs for choria found at choria.io (today)
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (today)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (today)
+- [bastelfreak/foreman2026](https://github.com/bastelfreak/foreman2026) - Foreman Birthday Party 2026 talk (today)
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (today)
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (today)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (today)
+- [choria-io/website](https://github.com/choria-io/website) - Docs for choria found at choria.io (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) - clone of puppetlabs/jruby-deps (1 day ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (2 days ago)
 
 #### 👥 Check out some of my recent followers
