@@ -41,13 +41,13 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.3](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.3), 3 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.4.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.4.1), 3 days ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.15.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.15.0-1), 4 days ago) - clone of puppetlabs/jruby-deps
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.0), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.2.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.2.1), 6 days ago) - clone of puppetlabs/puppetserver-ca-cli
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.2), 6 days ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.0.0), 6 days ago) - Puppet Module to manage Java
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.3](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.3), 4 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.4.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.4.1), 4 days ago) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.15.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.15.0-1), 5 days ago) - clone of puppetlabs/jruby-deps
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.2.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.2.1), 1 week ago) - clone of puppetlabs/puppetserver-ca-cli
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.2), 1 week ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.0.0), 1 week ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.2.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.14.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.14.1), 1 week ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.14.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.14.1), 1 week ago) - clone of puppetlabs/puppetdb
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) - clone of puppetlabs/trapperkeeper-filesystem-watcher (today)
-- [OpenVoxProject/homebrew-openvox](https://github.com/OpenVoxProject/homebrew-openvox) - clone of puppetlabs/homebrew-puppet (today)
-- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (today)
-- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (today)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (today)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (today)
-- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (today)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (today)
-- [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) - clone of puppetlabs/trapperkeeper-scheduler (today)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (today)
+- [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) - clone of puppetlabs/trapperkeeper-filesystem-watcher (1 day ago)
+- [OpenVoxProject/homebrew-openvox](https://github.com/OpenVoxProject/homebrew-openvox) - clone of puppetlabs/homebrew-puppet (1 day ago)
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (1 day ago)
+- [OpenVoxProject/container-openvoxagent](https://github.com/OpenVoxProject/container-openvoxagent) - Container builds for the OpenVox agent (1 day ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 day ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
+- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (1 day ago)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 day ago)
+- [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) - clone of puppetlabs/trapperkeeper-scheduler (1 day ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
