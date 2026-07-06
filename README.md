@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.5.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.5.0), today) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.07.06.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.07.06.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.3](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.3), 4 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.4.1](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.4.1), 4 days ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([9.4.15.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/9.4.15.0-1), 5 days ago) - clone of puppetlabs/jruby-deps
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.2.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.2.1), 1 week ago) - clone of puppetlabs/puppetserver-ca-cli
