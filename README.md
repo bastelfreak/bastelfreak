@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.3), today) - Puppet module for managing PostgreSQL
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.28.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.28.1), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.0.6.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.0.6.0-1), 1 day ago) - clone of puppetlabs/jruby-deps
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.5.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.5.0), 1 day ago) - Tools for working with JRuby from Clojure
@@ -48,7 +49,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.3](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.3), 5 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.2.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.2.1), 1 week ago) - clone of puppetlabs/puppetserver-ca-cli
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.2](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.2), 1 week ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.0.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.0.0), 1 week ago) - Puppet Module to manage Java
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.2.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.2.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 
