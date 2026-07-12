@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.0), today) - Community implementation of Facter
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.4](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.4), 1 day ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.4](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.4), 1 day ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.8.0](https://github.com/OpenVoxProject/ezbake/releases/tag/2.8.0), 3 days ago) - clone of puppetlabs/ezbake
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.0.6.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.0.6.0-1), 6 days ago) - clone of puppetlabs/jruby-deps
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([5.5.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/5.5.0), 6 days ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.07.06.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.07.06.1), 6 days ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.2.1](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.2.1), 1 week ago) - clone of puppetlabs/puppetserver-ca-cli
 
 #### 📜 My recent blog posts
 
@@ -70,14 +70,14 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (today)
+- [bastelfreak/foreman2026](https://github.com/bastelfreak/foreman2026) - Foreman Birthday Party 2026 talk (today)
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [bastelfreak/foreman2026](https://github.com/bastelfreak/foreman2026) - Foreman Birthday Party 2026 talk (2 days ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (today)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
 - [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) - clone of puppetlabs/trapperkeeper-status (4 days ago)
 - [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (4 days ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (4 days ago)
 - [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) - clone of puppetlabs/trapperkeeper-filesystem-watcher (4 days ago)
 
 #### 👥 Check out some of my recent followers
