@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-beta1), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([6.0.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/6.0.0), 2 days ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.0), 3 days ago) - Community implementation of Facter
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.4](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.4), 4 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
@@ -48,7 +49,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.8.0](https://github.com/OpenVoxProject/ezbake/releases/tag/2.8.0), 6 days ago) - clone of puppetlabs/ezbake
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.1), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.3), 1 week ago) - Puppet module for managing PostgreSQL
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.28.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.28.1), 1 week ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.0.6.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.0.6.0-1), 1 week ago) - clone of puppetlabs/jruby-deps
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.07.06.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.07.06.1), 1 week ago) - clone of puppetlabs/puppet-runtime
 
