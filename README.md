@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([6.0.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/6.0.0), 1 day ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.0), 2 days ago) - Community implementation of Facter
-- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.4](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.4), 3 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.4](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.4), 3 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.8.0](https://github.com/OpenVoxProject/ezbake/releases/tag/2.8.0), 5 days ago) - clone of puppetlabs/ezbake
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.1), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([6.0.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/6.0.0), 2 days ago) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.0), 3 days ago) - Community implementation of Facter
+- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.4](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.4), 4 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.4](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.4), 4 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.8.0](https://github.com/OpenVoxProject/ezbake/releases/tag/2.8.0), 6 days ago) - clone of puppetlabs/ezbake
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.1), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.3), 1 week ago) - Puppet module for managing PostgreSQL
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.28.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.28.1), 1 week ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.0.6.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.0.6.0-1), 1 week ago) - clone of puppetlabs/jruby-deps
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (today)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 day ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
-- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (2 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (2 days ago)
-- [bastelfreak/foreman2026](https://github.com/bastelfreak/foreman2026) - Foreman Birthday Party 2026 talk (2 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (5 days ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (5 days ago)
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (6 days ago)
-- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (6 days ago)
+- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (1 day ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (2 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
+- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (3 days ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (3 days ago)
+- [bastelfreak/foreman2026](https://github.com/bastelfreak/foreman2026) - Foreman Birthday Party 2026 talk (3 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (6 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (6 days ago)
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 week ago)
+- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
