@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/1052302?u=3b801b30c231b59fbdce463806f46ae4dd3121d3&amp;v=4" height="20"/> amitkarsale](https://github.com/amitkarsale)
 - [<img src="https://avatars.githubusercontent.com/u/226408503?u=1ed07a904b8e5440bc531d07b7d4f8c8b4d88a20&amp;v=4" height="20"/> chrisipanaque](https://github.com/chrisipanaque)
 - [<img src="https://avatars.githubusercontent.com/u/72998205?u=99e250e7caa21c7db968eaed7c13aa01d51ce96e&amp;v=4" height="20"/> d1nuc0m](https://github.com/d1nuc0m)
 - [<img src="https://avatars.githubusercontent.com/u/175102886?v=4" height="20"/> nibe7](https://github.com/nibe7)
 - [<img src="https://avatars.githubusercontent.com/u/45852143?u=e4d7d9aca5aac2a997dc5d979580bb2004a1c67c&amp;v=4" height="20"/> PhysShell](https://github.com/PhysShell)
-- [<img src="https://avatars.githubusercontent.com/u/25819942?u=df3a6287b5be5b7f4bfa76b7d41e577a01f654c0&amp;v=4" height="20"/> JonasVerhofste](https://github.com/JonasVerhofste)
 
 ### Top languages
 
