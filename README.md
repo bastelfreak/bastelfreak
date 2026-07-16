@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.07.16.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.07.16.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.9.0](https://github.com/OpenVoxProject/ezbake/releases/tag/2.9.0), 1 day ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-beta1), 1 day ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0-beta1), 1 day ago) - clone of puppetlabs/puppetdb
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.4](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.4), 5 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.4](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.4), 5 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.1), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.6.3](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.6.3), 1 week ago) - Puppet module for managing PostgreSQL
 
 #### 📜 My recent blog posts
 
