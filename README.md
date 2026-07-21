@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.07.16.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.07.16.1), today) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.9.0](https://github.com/OpenVoxProject/ezbake/releases/tag/2.9.0), 1 day ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-beta1), 1 day ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0-beta1), 1 day ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-beta1), 1 day ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([6.0.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/6.0.0), 3 days ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.0](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.0), 4 days ago) - Community implementation of Facter
-- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.0.4](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.0.4), 5 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.4](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.4), 5 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.1), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v1.0.1), today) - 
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.4.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.4.0), 1 day ago) - clone of puppetlabs/trapperkeeper-authorization
+- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.1.0](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.1.0), 1 day ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
+- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) ([2.4.0](https://github.com/OpenVoxProject/clj-http-client/releases/tag/2.4.0), 1 day ago) - clone of puppetlabs/clj-http-client
+- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.7.0](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.7.0), 1 day ago) - clone of puppetlabs/jvm-ssl-utils
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.9.1](https://github.com/OpenVoxProject/ezbake/releases/tag/2.9.1), 4 days ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.07.16.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.07.16.1), 5 days ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-beta1), 6 days ago) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0-beta1), 6 days ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-beta1), 6 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 
 #### 📜 My recent blog posts
 
@@ -69,25 +69,25 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [bastelfreak/foreman2026](https://github.com/bastelfreak/foreman2026) - Foreman Birthday Party 2026 talk (1 day ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 day ago)
-- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (2 days ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (4 days ago)
-- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (4 days ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 week ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
+- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (2 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (4 days ago)
+- [bastelfreak/foreman2026](https://github.com/bastelfreak/foreman2026) - Foreman Birthday Party 2026 talk (6 days ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (6 days ago)
+- [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (1 week ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 week ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 week ago)
+- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) - clone of puppetlabs/trapperkeeper-webserver-jetty10 (1 week ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 week ago)
-- [OpenVoxProject/homebrew-openvox](https://github.com/OpenVoxProject/homebrew-openvox) - clone of puppetlabs/homebrew-puppet (1 week ago)
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/3587473?u=fc385098c73840b9d739f91a918502257cfd7aee&amp;v=4" height="20"/> edrude](https://github.com/edrude)
+- [<img src="https://avatars.githubusercontent.com/u/298345649?u=44ebaba48420b804e5b850e6149cfcc07c24586c&amp;v=4" height="20"/> olajideolaoye](https://github.com/olajideolaoye)
 - [<img src="https://avatars.githubusercontent.com/u/1052302?u=3b801b30c231b59fbdce463806f46ae4dd3121d3&amp;v=4" height="20"/> amitkarsale](https://github.com/amitkarsale)
 - [<img src="https://avatars.githubusercontent.com/u/226408503?u=1ed07a904b8e5440bc531d07b7d4f8c8b4d88a20&amp;v=4" height="20"/> chrisipanaque](https://github.com/chrisipanaque)
 - [<img src="https://avatars.githubusercontent.com/u/72998205?u=99e250e7caa21c7db968eaed7c13aa01d51ce96e&amp;v=4" height="20"/> d1nuc0m](https://github.com/d1nuc0m)
-- [<img src="https://avatars.githubusercontent.com/u/175102886?v=4" height="20"/> nibe7](https://github.com/nibe7)
-- [<img src="https://avatars.githubusercontent.com/u/45852143?u=e4d7d9aca5aac2a997dc5d979580bb2004a1c67c&amp;v=4" height="20"/> PhysShell](https://github.com/PhysShell)
 
 ### Top languages
 
