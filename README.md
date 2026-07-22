@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.15.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.15.0), today) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.15.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.15.1), today) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.15.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.15.0), today) - clone of puppetlabs/puppetdb
 - [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v1.0.1), 1 day ago) - 
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.4.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.4.0), 2 days ago) - clone of puppetlabs/trapperkeeper-authorization
