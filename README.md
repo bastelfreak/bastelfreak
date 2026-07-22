@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.15.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.15.0), today) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.15.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.15.0), today) - clone of puppetlabs/puppetdb
 - [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v1.0.1), 1 day ago) - 
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.4.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.4.0), 2 days ago) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.1.0](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.1.0), 2 days ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
@@ -48,8 +50,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.7.0](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.7.0), 2 days ago) - clone of puppetlabs/jvm-ssl-utils
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.9.1](https://github.com/OpenVoxProject/ezbake/releases/tag/2.9.1), 5 days ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.07.16.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.07.16.1), 6 days ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-beta1), 1 week ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0-beta1), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-beta1), 1 week ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 
 #### 📜 My recent blog posts
