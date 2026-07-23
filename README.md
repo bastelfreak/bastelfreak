@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.3.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.3.0), today) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.15.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.15.1), 1 day ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.15.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.15.0), 1 day ago) - clone of puppetlabs/puppetdb
 - [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v1.0.1), 2 days ago) - 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.7.0](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.7.0), 3 days ago) - clone of puppetlabs/jvm-ssl-utils
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.9.1](https://github.com/OpenVoxProject/ezbake/releases/tag/2.9.1), 6 days ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.07.16.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.07.16.1), 1 week ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-beta1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-beta1), 1 week ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 
 #### 📜 My recent blog posts
 
