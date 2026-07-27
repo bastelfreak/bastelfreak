@@ -41,10 +41,10 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-beta2](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-beta2), today) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([7.0.0](https://github.com/OpenVoxProject/jruby-utils/releases/tag/7.0.0), 3 days ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.1.1.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.1.1.0-1), 3 days ago) - clone of puppetlabs/jruby-deps
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.3.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.3.0), 4 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.15.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.15.1), 5 days ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.15.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.15.0), 5 days ago) - clone of puppetlabs/puppetdb
 - [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v1.0.1](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v1.0.1), 6 days ago) - 
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.4.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.4.0), 1 week ago) - clone of puppetlabs/trapperkeeper-authorization
@@ -69,9 +69,9 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (3 days ago)
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) - clone of puppetlabs/jruby-deps (3 days ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (3 days ago)
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (3 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
