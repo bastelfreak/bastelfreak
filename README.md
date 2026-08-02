@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.08.02.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.08.02.1), today) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.08.02.2](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.08.02.2), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.3.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.3.0), 1 day ago) - clone of puppetlabs/puppetserver-ca-cli
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([6.0.0](https://github.com/OpenVoxProject/openfact/releases/tag/6.0.0), 2 days ago) - Community implementation of Facter
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-beta2](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-beta2), 6 days ago) - clone of puppetlabs/puppetserver
