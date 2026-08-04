@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/openvoxproject.github.io](https://github.com/OpenVoxProject/openvoxproject.github.io) - One possible main site for the openvox project (today)
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (2 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (2 days ago)
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (2 days ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (2 days ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (3 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (4 days ago)
-- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (1 week ago)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
