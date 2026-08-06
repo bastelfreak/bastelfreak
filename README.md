@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-beta3](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-beta3), today) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-beta4](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-beta4), today) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-beta2](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-beta2), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.08.04.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.08.04.1), 2 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) ([3.3.0](https://github.com/OpenVoxProject/openvoxserver-ca/releases/tag/3.3.0), 5 days ago) - clone of puppetlabs/puppetserver-ca-cli
