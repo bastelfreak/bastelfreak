@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (today)
 - [theforeman/kafo_module_lint](https://github.com/theforeman/kafo_module_lint) - Validate Puppet modules are correctly documented for Kafo (today)
-- [theforeman/puppet-tftp](https://github.com/theforeman/puppet-tftp) - Puppet module for managing tftp (today)
 - [theforeman/foreman-installer-modulesync](https://github.com/theforeman/foreman-installer-modulesync) - Standard config files used across foreman-installer modules (today)
+- [theforeman/puppet-pulpcore](https://github.com/theforeman/puppet-pulpcore) - Puppet module for setting up Pulp 3 as part of Katello installation (today)
+- [theforeman/puppet-tftp](https://github.com/theforeman/puppet-tftp) - Puppet module for managing tftp (today)
+- [theforeman/puppet-candlepin](https://github.com/theforeman/puppet-candlepin) - Puppet modules for Candlepin (today)
 - [theforeman/theforeman.org](https://github.com/theforeman/theforeman.org) - The new and improved Foreman website. (1 day ago)
 - [OpenVoxProject/voxblocks](https://github.com/OpenVoxProject/voxblocks) - A web component library for openvox / vox pupuli sites to help maintain consistent branding across all offerings (1 day ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (2 days ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (2 days ago)
-- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (1 week ago)
-- [OpenVoxProject/clj-http-client](https://github.com/OpenVoxProject/clj-http-client) - clone of puppetlabs/clj-http-client (1 week ago)
+- [OpenVoxProject/ring-middleware](https://github.com/OpenVoxProject/ring-middleware) - clone of puppetlabs/ring-middleware (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
