@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [betadots/hdm](https://github.com/betadots/hdm) ([v4.2.0](https://github.com/betadots/hdm/releases/tag/v4.2.0), today) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.9.2](https://github.com/OpenVoxProject/ezbake/releases/tag/2.9.2), 1 day ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.08.27.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.08.27.1), 4 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([7.0.3](https://github.com/OpenVoxProject/jruby-utils/releases/tag/7.0.3), 1 week ago) - Tools for working with JRuby from Clojure
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.1.1](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.1.1), 2 weeks ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.3.2](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.3.2), 2 weeks ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) ([1.5.1](https://github.com/OpenVoxProject/trapperkeeper-status/releases/tag/1.5.1), 2 weeks ago) - clone of puppetlabs/trapperkeeper-status
-- [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) ([1.4.1](https://github.com/OpenVoxProject/trapperkeeper-scheduler/releases/tag/1.4.1), 2 weeks ago) - clone of puppetlabs/trapperkeeper-scheduler
 
 #### 📜 My recent blog posts
 
