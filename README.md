@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.4.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.4.0), today) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.3.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.3.0), 1 day ago) - Bolt integration plugin for Foreman
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.2](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.2), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.2.0](https://github.com/betadots/hdm/releases/tag/v4.2.0), 2 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.3](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.3), 3 weeks ago) - clone of puppetlabs/structured-logging
 - [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.3](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.3), 3 weeks ago) - clone of puppetlabs/stockpile
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-beta5](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-beta5), 3 weeks ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) ([1.1.1](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics/releases/tag/1.1.1), 3 weeks ago) - clone of puppetlabs/trapperkeeper-comidi-metrics
 
 #### 📜 My recent blog posts
 
