@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.09.02.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.09.02.1), today) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.4.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.4.0), today) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.3.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.3.0), 1 day ago) - Bolt integration plugin for Foreman
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.2](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.2), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.2.0](https://github.com/betadots/hdm/releases/tag/v4.2.0), 2 days ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([2.9.2](https://github.com/OpenVoxProject/ezbake/releases/tag/2.9.2), 3 days ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.08.27.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.08.27.1), 6 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([7.0.3](https://github.com/OpenVoxProject/jruby-utils/releases/tag/7.0.3), 1 week ago) - Tools for working with JRuby from Clojure
 - [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.3](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.3), 3 weeks ago) - clone of puppetlabs/structured-logging
 - [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) ([1.0.3](https://github.com/OpenVoxProject/stockpile/releases/tag/1.0.3), 3 weeks ago) - clone of puppetlabs/stockpile
