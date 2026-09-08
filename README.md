@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.7.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.7.0), today) - Puppet module for managing PostgreSQL
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.1.0](https://github.com/OpenVoxProject/ezbake/releases/tag/4.1.0), 2 days ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-rc1), 4 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.6](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.6), 5 days ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.2](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.2), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [betadots/hdm](https://github.com/betadots/hdm) ([v4.2.0](https://github.com/betadots/hdm/releases/tag/v4.2.0), 1 week ago) - The Hiera Data Manager (HDM) is a Web UI to visualize Hiera data and make it searchable!
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([7.0.3](https://github.com/OpenVoxProject/jruby-utils/releases/tag/7.0.3), 2 weeks ago) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) ([1.0.3](https://github.com/OpenVoxProject/structured-logging/releases/tag/1.0.3), 3 weeks ago) - clone of puppetlabs/structured-logging
 
 #### 📜 My recent blog posts
 
