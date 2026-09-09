@@ -71,9 +71,9 @@ Statement from Puppet Inc.:
 
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (today)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (2 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (5 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (5 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/34030545?u=ca7939adfde501156bbacd2faf634268a778fb9b&amp;v=4" height="20"/> djuarezg](https://github.com/djuarezg)
 - [<img src="https://avatars.githubusercontent.com/u/3587473?u=fc385098c73840b9d739f91a918502257cfd7aee&amp;v=4" height="20"/> edrude](https://github.com/edrude)
 - [<img src="https://avatars.githubusercontent.com/u/298345649?u=44ebaba48420b804e5b850e6149cfcc07c24586c&amp;v=4" height="20"/> olajideolaoye](https://github.com/olajideolaoye)
 - [<img src="https://avatars.githubusercontent.com/u/1052302?u=3b801b30c231b59fbdce463806f46ae4dd3121d3&amp;v=4" height="20"/> amitkarsale](https://github.com/amitkarsale)
 - [<img src="https://avatars.githubusercontent.com/u/72998205?u=99e250e7caa21c7db968eaed7c13aa01d51ce96e&amp;v=4" height="20"/> d1nuc0m](https://github.com/d1nuc0m)
-- [<img src="https://avatars.githubusercontent.com/u/175102886?v=4" height="20"/> nibe7](https://github.com/nibe7)
 
 ### Top languages
 
