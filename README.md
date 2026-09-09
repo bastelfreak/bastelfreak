@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0-rc1), today) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-rc1), today) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.16.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.16.0), 1 day ago) - clone of puppetlabs/puppetdb
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.7.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.7.0), 1 day ago) - Puppet module for managing PostgreSQL
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.1.0](https://github.com/OpenVoxProject/ezbake/releases/tag/4.1.0), 3 days ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-rc1), 5 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (today)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (2 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (2 days ago)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (5 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (5 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
-- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (1 week ago)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 week ago)
+- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
