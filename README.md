@@ -41,7 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([v1.0.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/v1.0.0), 1 day ago) - 
+- [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([v0.9.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/v0.9.0), today) - 
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([6.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/6.1.0), today) - Community implementation of Facter
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0-rc1), 2 days ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-rc1), 2 days ago) - clone of puppetlabs/puppetserver
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.7.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.7.0), 3 days ago) - Puppet module for managing PostgreSQL
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.6](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.6), 1 week ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.09.02.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.09.02.1), 1 week ago) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.4.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.4.0), 1 week ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.3.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.3.0), 1 week ago) - Bolt integration plugin for Foreman
 
 #### 📜 My recent blog posts
 
@@ -70,10 +70,10 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (today)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (today)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 day ago)
 - [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (1 day ago)
 - [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (1 day ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (4 days ago)
