@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([v0.9.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/v0.9.0), 3 days ago) - 
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([6.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/6.1.0), 3 days ago) - Community implementation of Facter
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0-rc1), 5 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-rc1), 5 days ago) - clone of puppetlabs/puppetserver
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.7.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.7.0), 6 days ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([v0.9.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/v0.9.0), 4 days ago) - 
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([6.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/6.1.0), 4 days ago) - Community implementation of Facter
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0-rc1), 6 days ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-rc1), 6 days ago) - clone of puppetlabs/puppetserver
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.7.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.7.0), 1 week ago) - Puppet module for managing PostgreSQL
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.1.0](https://github.com/OpenVoxProject/ezbake/releases/tag/4.1.0), 1 week ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-rc1), 1 week ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) ([5.0.6](https://github.com/OpenVoxProject/trapperkeeper/releases/tag/5.0.6), 1 week ago) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) - clone of puppetlabs/trapperkeeper-status (today)
-- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (today)
-- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) - clone of puppetlabs/stockpile (today)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
-- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (today)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (today)
-- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) - clone of puppetlabs/clj-i18n (today)
-- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) - The canonical gem to build puppet modules (today)
-- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (today)
-- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (today)
+- [OpenVoxProject/trapperkeeper-status](https://github.com/OpenVoxProject/trapperkeeper-status) - clone of puppetlabs/trapperkeeper-status (1 day ago)
+- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (1 day ago)
+- [OpenVoxProject/stockpile](https://github.com/OpenVoxProject/stockpile) - clone of puppetlabs/stockpile (1 day ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
+- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (1 day ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 day ago)
+- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) - clone of puppetlabs/clj-i18n (1 day ago)
+- [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) - The canonical gem to build puppet modules (1 day ago)
+- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (1 day ago)
+- [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
