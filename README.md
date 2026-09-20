@@ -72,13 +72,13 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (1 day ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 day ago)
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (2 days ago)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (2 days ago)
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (2 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (3 days ago)
-- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (6 days ago)
+- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (6 days ago)
+- [OpenVoxProject/trapperkeeper-filesystem-watcher](https://github.com/OpenVoxProject/trapperkeeper-filesystem-watcher) - clone of puppetlabs/trapperkeeper-filesystem-watcher (6 days ago)
 - [puppetlabs/puppet-modulebuilder](https://github.com/puppetlabs/puppet-modulebuilder) - The canonical gem to build puppet modules (6 days ago)
-- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (6 days ago)
-- [OpenVoxProject/trapperkeeper-scheduler](https://github.com/OpenVoxProject/trapperkeeper-scheduler) - clone of puppetlabs/trapperkeeper-scheduler (6 days ago)
+- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
