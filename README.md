@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.1.0](https://github.com/saz/puppet-ssh/releases/tag/v15.1.0), today) - Puppet module to manage ssh server and client
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.3.3](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.3.3), 3 days ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.3.2](https://github.com/OpenVoxProject/vanagon/releases/tag/1.3.2), 4 days ago) - clone of puppetlabs/vanagon
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.3](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.3), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-rc1), 1 week ago) - clone of puppetlabs/puppetserver
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.7.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.7.0), 1 week ago) - Puppet module for managing PostgreSQL
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.1.0](https://github.com/OpenVoxProject/ezbake/releases/tag/4.1.0), 2 weeks ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-rc1](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-rc1), 2 weeks ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 
 #### 📜 My recent blog posts
 
@@ -69,7 +69,7 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
 - [bastelfreak/talks](https://github.com/bastelfreak/talks) - My collection of talks and related stuff (2 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (2 days ago)
 - [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (3 days ago)
