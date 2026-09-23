@@ -41,13 +41,13 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.5](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.5), today) - clone of puppetlabs/clj-typesafe-config
-- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) ([1.0.6](https://github.com/OpenVoxProject/clj-i18n/releases/tag/1.0.6), today) - clone of puppetlabs/clj-i18n
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([7.0.4](https://github.com/OpenVoxProject/jruby-utils/releases/tag/7.0.4), today) - Tools for working with JRuby from Clojure
-- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.1.2.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.1.2.0-1), today) - clone of puppetlabs/jruby-deps
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.1.0](https://github.com/saz/puppet-ssh/releases/tag/v15.1.0), 1 day ago) - Puppet module to manage ssh server and client
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.3.3](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.3.3), 4 days ago) - clone of puppetlabs/trapperkeeper-metrics
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.3.2](https://github.com/OpenVoxProject/vanagon/releases/tag/1.3.2), 5 days ago) - clone of puppetlabs/vanagon
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.5](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.5), 1 day ago) - clone of puppetlabs/clj-typesafe-config
+- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) ([1.0.6](https://github.com/OpenVoxProject/clj-i18n/releases/tag/1.0.6), 1 day ago) - clone of puppetlabs/clj-i18n
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([7.0.4](https://github.com/OpenVoxProject/jruby-utils/releases/tag/7.0.4), 1 day ago) - Tools for working with JRuby from Clojure
+- [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.1.2.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.1.2.0-1), 1 day ago) - clone of puppetlabs/jruby-deps
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.1.0](https://github.com/saz/puppet-ssh/releases/tag/v15.1.0), 2 days ago) - Puppet module to manage ssh server and client
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.3.3](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.3.3), 5 days ago) - clone of puppetlabs/trapperkeeper-metrics
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.3.2](https://github.com/OpenVoxProject/vanagon/releases/tag/1.3.2), 6 days ago) - clone of puppetlabs/vanagon
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.3](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.3), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [puppetlabs/puppetlabs-aws_inventory](https://github.com/puppetlabs/puppetlabs-aws_inventory) ([v0.9.0](https://github.com/puppetlabs/puppetlabs-aws_inventory/releases/tag/v0.9.0), 1 week ago) - 
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([6.1.0](https://github.com/OpenVoxProject/openfact/releases/tag/6.1.0), 1 week ago) - Community implementation of Facter
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (today)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
-- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) - clone of puppetlabs/clj-shell-utils (today)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (today)
-- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (today)
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) - clone of puppetlabs/clj-typesafe-config (today)
-- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (today)
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (today)
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (today)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
+- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) - clone of puppetlabs/jvm-ssl-utils (1 day ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
+- [OpenVoxProject/clj-shell-utils](https://github.com/OpenVoxProject/clj-shell-utils) - clone of puppetlabs/clj-shell-utils (1 day ago)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (1 day ago)
+- [OpenVoxProject/trapperkeeper-comidi-metrics](https://github.com/OpenVoxProject/trapperkeeper-comidi-metrics) - clone of puppetlabs/trapperkeeper-comidi-metrics (1 day ago)
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) - clone of puppetlabs/clj-typesafe-config (1 day ago)
+- [OpenVoxProject/structured-logging](https://github.com/OpenVoxProject/structured-logging) - clone of puppetlabs/structured-logging (1 day ago)
+- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (1 day ago)
+- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
