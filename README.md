@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.09.24.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.09.24.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([6.2.0](https://github.com/OpenVoxProject/openfact/releases/tag/6.2.0), 1 day ago) - Community implementation of Facter
 - [puppetlabs/puppetlabs-java_ks](https://github.com/puppetlabs/puppetlabs-java_ks) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-java_ks/releases/tag/v6.1.0), 1 day ago) -  Uses a combination of keytool and openssl to manage entries in a Java keystore
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.5](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.5), 2 days ago) - clone of puppetlabs/clj-typesafe-config
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.1.0](https://github.com/saz/puppet-ssh/releases/tag/v15.1.0), 3 days ago) - Puppet module to manage ssh server and client
 - [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) ([2.3.3](https://github.com/OpenVoxProject/trapperkeeper-metrics/releases/tag/2.3.3), 6 days ago) - clone of puppetlabs/trapperkeeper-metrics
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.3.2](https://github.com/OpenVoxProject/vanagon/releases/tag/1.3.2), 1 week ago) - clone of puppetlabs/vanagon
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.38.3](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.38.3), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (today)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
-- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (today)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (1 day ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 day ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (today)
+- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (today)
+- [OpenVoxProject/openvoxserver-ca](https://github.com/OpenVoxProject/openvoxserver-ca) - clone of puppetlabs/puppetserver-ca-cli (today)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (today)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 day ago)
+- [OpenVoxProject/clj-rbac-client](https://github.com/OpenVoxProject/clj-rbac-client) - clone of puppetlabs/clj-rbac-client (1 day ago)
 - [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) - Tools for working with JRuby from Clojure (2 days ago)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (2 days ago)
-- [OpenVoxProject/trapperkeeper-metrics](https://github.com/OpenVoxProject/trapperkeeper-metrics) - clone of puppetlabs/trapperkeeper-metrics (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
