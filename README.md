@@ -83,11 +83,11 @@ Statement from Puppet Inc.:
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/35730763?u=a553b2221e27c6cde9e03682e7279eb6e6f1b432&amp;v=4" height="20"/> c8m6](https://github.com/c8m6)
 - [<img src="https://avatars.githubusercontent.com/u/34030545?u=ca7939adfde501156bbacd2faf634268a778fb9b&amp;v=4" height="20"/> djuarezg](https://github.com/djuarezg)
 - [<img src="https://avatars.githubusercontent.com/u/3587473?u=fc385098c73840b9d739f91a918502257cfd7aee&amp;v=4" height="20"/> edrude](https://github.com/edrude)
 - [<img src="https://avatars.githubusercontent.com/u/298345649?u=44ebaba48420b804e5b850e6149cfcc07c24586c&amp;v=4" height="20"/> olajideolaoye](https://github.com/olajideolaoye)
 - [<img src="https://avatars.githubusercontent.com/u/1052302?u=3b801b30c231b59fbdce463806f46ae4dd3121d3&amp;v=4" height="20"/> amitkarsale](https://github.com/amitkarsale)
-- [<img src="https://avatars.githubusercontent.com/u/72998205?u=99e250e7caa21c7db968eaed7c13aa01d51ce96e&amp;v=4" height="20"/> d1nuc0m](https://github.com/d1nuc0m)
 
 ### Top languages
 
