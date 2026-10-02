@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0-rc2](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0-rc2), 3 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.0-rc2](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.0-rc2), 3 days ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0-rc4](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0-rc4), 3 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0), today) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.1), today) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.09.29.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.09.29.1), 3 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.0](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.0), 3 days ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([6.2.1](https://github.com/OpenVoxProject/openfact/releases/tag/6.2.1), 3 days ago) - Community implementation of Facter
