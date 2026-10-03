@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.3](https://github.com/choria-io/go-choria/releases/tag/v0.30.3), today) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.0.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.0.0), 1 day ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.0.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.0.1), 1 day ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.0.0](https://github.com/OpenVoxProject/openvox/releases/tag/9.0.0), 1 day ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-java_ks](https://github.com/puppetlabs/puppetlabs-java_ks) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-java_ks/releases/tag/v6.1.0), 1 week ago) -  Uses a combination of keytool and openssl to manage entries in a Java keystore
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.5](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.5), 1 week ago) - clone of puppetlabs/clj-typesafe-config
 - [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) ([1.0.6](https://github.com/OpenVoxProject/clj-i18n/releases/tag/1.0.6), 1 week ago) - clone of puppetlabs/clj-i18n
-- [OpenVoxProject/jruby-utils](https://github.com/OpenVoxProject/jruby-utils) ([7.0.4](https://github.com/OpenVoxProject/jruby-utils/releases/tag/7.0.4), 1 week ago) - Tools for working with JRuby from Clojure
 
 #### 📜 My recent blog posts
 
