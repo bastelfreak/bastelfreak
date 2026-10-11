@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.17.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.17.0), 3 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.17.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.17.0), 3 days ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.30.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.30.0), 3 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 4 days ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 4 days ago) - Community implementation of Facter
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.05.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.05.1), 5 days ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.17.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.17.0), 4 days ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.17.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.17.0), 4 days ago) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.30.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.30.0), 4 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 5 days ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 5 days ago) - Community implementation of Facter
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.05.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.05.1), 6 days ago) - clone of puppetlabs/puppet-runtime
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.3](https://github.com/choria-io/go-choria/releases/tag/v0.30.3), 1 week ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [puppetlabs/puppetlabs-java_ks](https://github.com/puppetlabs/puppetlabs-java_ks) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-java_ks/releases/tag/v6.1.0), 2 weeks ago) -  Uses a combination of keytool and openssl to manage entries in a Java keystore
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.5](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.5), 2 weeks ago) - clone of puppetlabs/clj-typesafe-config
@@ -69,10 +69,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (1 day ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (2 days ago)
-- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (3 days ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (5 days ago)
+- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (2 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (4 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (6 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
 - [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 week ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 week ago)
