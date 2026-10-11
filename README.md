@@ -74,20 +74,20 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (4 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (6 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 week ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 week ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 week ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 week ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 week ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 week ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/336837489?u=dee026c60b027279a85fe317f0cb85221139b98d&amp;v=4" height="20"/> drivesgit](https://github.com/drivesgit)
 - [<img src="https://avatars.githubusercontent.com/u/72337417?v=4" height="20"/> giovanniclima](https://github.com/giovanniclima)
 - [<img src="https://avatars.githubusercontent.com/u/35730763?u=a553b2221e27c6cde9e03682e7279eb6e6f1b432&amp;v=4" height="20"/> c8m6](https://github.com/c8m6)
 - [<img src="https://avatars.githubusercontent.com/u/34030545?u=ca7939adfde501156bbacd2faf634268a778fb9b&amp;v=4" height="20"/> djuarezg](https://github.com/djuarezg)
 - [<img src="https://avatars.githubusercontent.com/u/3587473?u=fc385098c73840b9d739f91a918502257cfd7aee&amp;v=4" height="20"/> edrude](https://github.com/edrude)
-- [<img src="https://avatars.githubusercontent.com/u/298345649?u=44ebaba48420b804e5b850e6149cfcc07c24586c&amp;v=4" height="20"/> olajideolaoye](https://github.com/olajideolaoye)
 
 ### Top languages
 
