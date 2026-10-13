@@ -41,7 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.13.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.13.1), today) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.13.2](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.13.2), today) - clone of puppetlabs/puppet-runtime
 - [WinRb/WinRM](https://github.com/WinRb/WinRM) ([v2.4.2](https://github.com/WinRb/WinRM/releases/tag/v2.4.2), today) - Ruby library for Windows Remote Management
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.31.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.31.0), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.17.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.17.0), 6 days ago) - clone of puppetlabs/puppetdb
