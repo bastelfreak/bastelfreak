@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.12.2](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.12.2), today) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.17.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.17.0), 5 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.17.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.17.0), 5 days ago) - clone of puppetlabs/puppetserver
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.30.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.30.0), 5 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 6 days ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 6 days ago) - Community implementation of Facter
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.12.2](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.12.2), 1 day ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.17.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.17.0), 6 days ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.17.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.17.0), 6 days ago) - clone of puppetlabs/puppetserver
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.30.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.30.0), 6 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 1 week ago) - clone of puppetlabs/ezbake
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 1 week ago) - Community implementation of Facter
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.3](https://github.com/choria-io/go-choria/releases/tag/v0.30.3), 1 week ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [puppetlabs/puppetlabs-java_ks](https://github.com/puppetlabs/puppetlabs-java_ks) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-java_ks/releases/tag/v6.1.0), 2 weeks ago) -  Uses a combination of keytool and openssl to manage entries in a Java keystore
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.5](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.5), 2 weeks ago) - clone of puppetlabs/clj-typesafe-config
-- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) ([1.0.6](https://github.com/OpenVoxProject/clj-i18n/releases/tag/1.0.6), 2 weeks ago) - clone of puppetlabs/clj-i18n
+- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.5](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.5), 3 weeks ago) - clone of puppetlabs/clj-typesafe-config
+- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) ([1.0.6](https://github.com/OpenVoxProject/clj-i18n/releases/tag/1.0.6), 3 weeks ago) - clone of puppetlabs/clj-i18n
 
 #### 📜 My recent blog posts
 
@@ -69,11 +69,11 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (today)
-- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (3 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (4 days ago)
-- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (5 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 day ago)
+- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (4 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (5 days ago)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (6 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 week ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 week ago)
