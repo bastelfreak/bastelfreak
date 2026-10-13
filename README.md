@@ -41,8 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.13.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.13.1), today) - clone of puppetlabs/puppet-runtime
+- [WinRb/WinRM](https://github.com/WinRb/WinRM) ([v2.4.2](https://github.com/WinRb/WinRM/releases/tag/v2.4.2), today) - Ruby library for Windows Remote Management
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.31.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.31.0), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.12.2](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.12.2), 1 day ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.17.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.17.0), 6 days ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.17.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.17.0), 6 days ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 1 week ago) - clone of puppetlabs/ezbake
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.3](https://github.com/choria-io/go-choria/releases/tag/v0.30.3), 1 week ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [puppetlabs/puppetlabs-java_ks](https://github.com/puppetlabs/puppetlabs-java_ks) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-java_ks/releases/tag/v6.1.0), 2 weeks ago) -  Uses a combination of keytool and openssl to manage entries in a Java keystore
 - [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.5](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.5), 3 weeks ago) - clone of puppetlabs/clj-typesafe-config
-- [OpenVoxProject/clj-i18n](https://github.com/OpenVoxProject/clj-i18n) ([1.0.6](https://github.com/OpenVoxProject/clj-i18n/releases/tag/1.0.6), 3 weeks ago) - clone of puppetlabs/clj-i18n
 
 #### 📜 My recent blog posts
 
@@ -72,8 +72,8 @@ Statement from Puppet Inc.:
 - [WinRb/WinRM](https://github.com/WinRb/WinRM) - Ruby library for Windows Remote Management (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (today)
 - [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (today)
+- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (today)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
-- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (4 days ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (5 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 week ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
@@ -84,10 +84,10 @@ Statement from Puppet Inc.:
 
 
 - [<img src="https://avatars.githubusercontent.com/u/233393097?v=4" height="20"/> marwahossein61-ops](https://github.com/marwahossein61-ops)
-- [<img src="https://avatars.githubusercontent.com/u/336837489?u=dee026c60b027279a85fe317f0cb85221139b98d&amp;v=4" height="20"/> drivesgit](https://github.com/drivesgit)
 - [<img src="https://avatars.githubusercontent.com/u/72337417?v=4" height="20"/> giovanniclima](https://github.com/giovanniclima)
 - [<img src="https://avatars.githubusercontent.com/u/35730763?u=a553b2221e27c6cde9e03682e7279eb6e6f1b432&amp;v=4" height="20"/> c8m6](https://github.com/c8m6)
 - [<img src="https://avatars.githubusercontent.com/u/34030545?u=ca7939adfde501156bbacd2faf634268a778fb9b&amp;v=4" height="20"/> djuarezg](https://github.com/djuarezg)
+- [<img src="https://avatars.githubusercontent.com/u/3587473?u=fc385098c73840b9d739f91a918502257cfd7aee&amp;v=4" height="20"/> edrude](https://github.com/edrude)
 
 ### Top languages
 
