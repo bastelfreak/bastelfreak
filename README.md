@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), today) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.1.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.1.0), today) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.13.2](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.13.2), 1 day ago) - clone of puppetlabs/puppet-runtime
 - [WinRb/WinRM](https://github.com/WinRb/WinRM) ([v2.4.2](https://github.com/WinRb/WinRM/releases/tag/v2.4.2), 1 day ago) - Ruby library for Windows Remote Management
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.31.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.31.0), 1 day ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.17.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.17.0), 1 week ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.17.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.17.0), 1 week ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 1 week ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 1 week ago) - Community implementation of Facter
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.3](https://github.com/choria-io/go-choria/releases/tag/v0.30.3), 1 week ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
@@ -69,25 +69,25 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (today)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (today)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (today)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (today)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 day ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [WinRb/WinRM](https://github.com/WinRb/WinRM) - Ruby library for Windows Remote Management (1 day ago)
-- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (1 day ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 day ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 week ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/79897291?u=86a783d81083e7081848933d05a74b295f62f9ee&amp;v=4" height="20"/> 0vm](https://github.com/0vm)
 - [<img src="https://avatars.githubusercontent.com/u/233393097?v=4" height="20"/> marwahossein61-ops](https://github.com/marwahossein61-ops)
 - [<img src="https://avatars.githubusercontent.com/u/72337417?v=4" height="20"/> giovanniclima](https://github.com/giovanniclima)
 - [<img src="https://avatars.githubusercontent.com/u/35730763?u=a553b2221e27c6cde9e03682e7279eb6e6f1b432&amp;v=4" height="20"/> c8m6](https://github.com/c8m6)
 - [<img src="https://avatars.githubusercontent.com/u/34030545?u=ca7939adfde501156bbacd2faf634268a778fb9b&amp;v=4" height="20"/> djuarezg](https://github.com/djuarezg)
-- [<img src="https://avatars.githubusercontent.com/u/3587473?u=fc385098c73840b9d739f91a918502257cfd7aee&amp;v=4" height="20"/> edrude](https://github.com/edrude)
 
 ### Top languages
 
