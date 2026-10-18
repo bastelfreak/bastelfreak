@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (today)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
+- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server (today)
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (today)
 - [theforeman/puppet-dhcp](https://github.com/theforeman/puppet-dhcp) - ISC DHCP server module for Puppet (2 days ago)
 - [theforeman/puppet-dns](https://github.com/theforeman/puppet-dns) - Installs and manages an ISC BIND DNS server with zones (2 days ago)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (3 days ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (3 days ago)
-- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (3 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
 - [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (3 days ago)
-- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (4 days ago)
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (4 days ago)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (3 days ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (3 days ago)
+- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
