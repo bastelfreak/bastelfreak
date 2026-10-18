@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server (today)
 - [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (today)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (today)
 - [pcfens/puppet-filebeat](https://github.com/pcfens/puppet-filebeat) -  (today)
-- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server (today)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
 - [theforeman/puppet-dhcp](https://github.com/theforeman/puppet-dhcp) - ISC DHCP server module for Puppet (2 days ago)
 - [theforeman/puppet-dns](https://github.com/theforeman/puppet-dns) - Installs and manages an ISC BIND DNS server with zones (2 days ago)
 - [OpenVoxProject/comidi](https://github.com/OpenVoxProject/comidi) - clone of puppetlabs/comidi (3 days ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (3 days ago)
-- [OpenVoxProject/clj-kitchensink](https://github.com/OpenVoxProject/clj-kitchensink) - Library of utility functions for clojure (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
