@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.15.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.15.1), 3 days ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), 4 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.1.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.1.0), 4 days ago) - clone of puppetlabs/puppetserver
-- [WinRb/WinRM](https://github.com/WinRb/WinRM) ([v2.4.2](https://github.com/WinRb/WinRM/releases/tag/v2.4.2), 5 days ago) - Ruby library for Windows Remote Management
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.31.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.31.0), 5 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.15.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.15.1), 4 days ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), 5 days ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.1.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.1.0), 5 days ago) - clone of puppetlabs/puppetserver
+- [WinRb/WinRM](https://github.com/WinRb/WinRM) ([v2.4.2](https://github.com/WinRb/WinRM/releases/tag/v2.4.2), 6 days ago) - Ruby library for Windows Remote Management
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.31.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.31.0), 6 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 1 week ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 1 week ago) - Community implementation of Facter
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.3](https://github.com/choria-io/go-choria/releases/tag/v0.30.3), 2 weeks ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
@@ -69,25 +69,25 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (today)
-- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server (today)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (today)
-- [pcfens/puppet-filebeat](https://github.com/pcfens/puppet-filebeat) -  (today)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (today)
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (today)
-- [theforeman/puppet-dns](https://github.com/theforeman/puppet-dns) - Installs and manages an ISC BIND DNS server with zones (2 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (2 days ago)
-- [theforeman/puppet-dhcp](https://github.com/theforeman/puppet-dhcp) - ISC DHCP server module for Puppet (2 days ago)
-- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (3 days ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
+- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server (1 day ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
+- [pcfens/puppet-filebeat](https://github.com/pcfens/puppet-filebeat) -  (1 day ago)
+- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 day ago)
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (1 day ago)
+- [theforeman/puppet-dns](https://github.com/theforeman/puppet-dns) - Installs and manages an ISC BIND DNS server with zones (3 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
+- [theforeman/puppet-dhcp](https://github.com/theforeman/puppet-dhcp) - ISC DHCP server module for Puppet (3 days ago)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
 
+- [<img src="https://avatars.githubusercontent.com/u/129738392?u=d9c8b591fca1ec0713d92c189e917153a8c0c31b&amp;v=4" height="20"/> rasidi3112](https://github.com/rasidi3112)
 - [<img src="https://avatars.githubusercontent.com/u/79897291?u=86a783d81083e7081848933d05a74b295f62f9ee&amp;v=4" height="20"/> 0vm](https://github.com/0vm)
 - [<img src="https://avatars.githubusercontent.com/u/233393097?v=4" height="20"/> marwahossein61-ops](https://github.com/marwahossein61-ops)
 - [<img src="https://avatars.githubusercontent.com/u/72337417?v=4" height="20"/> giovanniclima](https://github.com/giovanniclima)
 - [<img src="https://avatars.githubusercontent.com/u/35730763?u=a553b2221e27c6cde9e03682e7279eb6e6f1b432&amp;v=4" height="20"/> c8m6](https://github.com/c8m6)
-- [<img src="https://avatars.githubusercontent.com/u/34030545?u=ca7939adfde501156bbacd2faf634268a778fb9b&amp;v=4" height="20"/> djuarezg](https://github.com/djuarezg)
 
 ### Top languages
 
