@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.2.0), today) - Puppet Module to manage Java
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.15.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.15.1), 4 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), 5 days ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.1.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.1.0), 5 days ago) - clone of puppetlabs/puppetserver
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 1 week ago) - Community implementation of Facter
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.3](https://github.com/choria-io/go-choria/releases/tag/v0.30.3), 2 weeks ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [puppetlabs/puppetlabs-java_ks](https://github.com/puppetlabs/puppetlabs-java_ks) ([v6.1.0](https://github.com/puppetlabs/puppetlabs-java_ks/releases/tag/v6.1.0), 3 weeks ago) -  Uses a combination of keytool and openssl to manage entries in a Java keystore
-- [OpenVoxProject/clj-typesafe-config](https://github.com/OpenVoxProject/clj-typesafe-config) ([1.0.5](https://github.com/OpenVoxProject/clj-typesafe-config/releases/tag/1.0.5), 3 weeks ago) - clone of puppetlabs/clj-typesafe-config
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
-- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server (1 day ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
+- [theforeman/puppet-dhcp](https://github.com/theforeman/puppet-dhcp) - ISC DHCP server module for Puppet (today)
+- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (today)
+- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (today)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (today)
+- [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) - Puppet Module to manage Java (1 day ago)
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (1 day ago)
 - [pcfens/puppet-filebeat](https://github.com/pcfens/puppet-filebeat) -  (1 day ago)
 - [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 day ago)
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (1 day ago)
-- [theforeman/puppet-dns](https://github.com/theforeman/puppet-dns) - Installs and manages an ISC BIND DNS server with zones (3 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
-- [theforeman/puppet-dhcp](https://github.com/theforeman/puppet-dhcp) - ISC DHCP server module for Puppet (3 days ago)
-- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (4 days ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 day ago)
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (1 day ago)
 
 #### 👥 Check out some of my recent followers
 
