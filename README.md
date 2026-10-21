@@ -41,13 +41,13 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.31.1](https://github.com/OpenVoxProject/openvox/releases/tag/8.31.1), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.21.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.21.1), today) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v2.0.0](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v2.0.0), today) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.2.0), 2 days ago) - Puppet Module to manage Java
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.15.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.15.1), 6 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.1.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.1.0), 1 week ago) - clone of puppetlabs/puppetserver
 - [WinRb/WinRM](https://github.com/WinRb/WinRM) ([v2.4.2](https://github.com/WinRb/WinRM/releases/tag/v2.4.2), 1 week ago) - Ruby library for Windows Remote Management
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.31.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.31.0), 1 week ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 2 weeks ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 2 weeks ago) - Community implementation of Facter
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.3](https://github.com/choria-io/go-choria/releases/tag/v0.30.3), 2 weeks ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/puppet-ca-bundle](https://github.com/OpenVoxProject/puppet-ca-bundle) - clone of puppetlabs/puppet-ca-bundle (1 day ago)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (today)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (today)
+- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (today)
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (today)
+- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (today)
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) - clone of puppetlabs/trapperkeeper-authorization (1 day ago)
-- [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (2 days ago)
+- [OpenVoxProject/puppet-ca-bundle](https://github.com/OpenVoxProject/puppet-ca-bundle) - clone of puppetlabs/puppet-ca-bundle (1 day ago)
 - [theforeman/puppet-dhcp](https://github.com/theforeman/puppet-dhcp) - ISC DHCP server module for Puppet (2 days ago)
 - [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (2 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (2 days ago)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 days ago)
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (3 days ago)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (3 days ago)
-- [choria-io/choria-mcorpc-support](https://github.com/choria-io/choria-mcorpc-support) - Support libraries to enable Ruby agents and clients to communicate with the Choria Server (3 days ago)
 
 #### 👥 Check out some of my recent followers
 
