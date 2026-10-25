@@ -41,8 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.25.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.25.1), today) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.4.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.4.0), today) - clone of puppetlabs/vanagon
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.2.1](https://github.com/OpenVoxProject/openvox/releases/tag/9.2.1), 2 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.23.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.23.1), 2 days ago) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v2.0.0](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v2.0.0), 4 days ago) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.2.0), 6 days ago) - Puppet Module to manage Java
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), 1 week ago) - clone of puppetlabs/puppetdb
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [WinRb/WinRM](https://github.com/WinRb/WinRM) ([v2.4.2](https://github.com/WinRb/WinRM/releases/tag/v2.4.2), 1 week ago) - Ruby library for Windows Remote Management
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 2 weeks ago) - clone of puppetlabs/ezbake
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 2 weeks ago) - Community implementation of Facter
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.3](https://github.com/choria-io/go-choria/releases/tag/v0.30.3), 3 weeks ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (today)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (today)
 - [theforeman/puppet-katello](https://github.com/theforeman/puppet-katello) - Puppet module for setting Katello specific configuration. Also includes provider for manipulating with Katello resources. (2 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 days ago)
 - [theforeman/puppet-tftp](https://github.com/theforeman/puppet-tftp) - Puppet module for managing tftp (2 days ago)
 - [theforeman/puppet-foreman_proxy](https://github.com/theforeman/puppet-foreman_proxy) - Puppet module for Foreman Smart Proxy (2 days ago)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (2 days ago)
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) - clone of puppetlabs/puppetserver (2 days ago)
-- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (2 days ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (2 days ago)
-- [theforeman/puppet-foreman_proxy_content](https://github.com/theforeman/puppet-foreman_proxy_content) - Entry point for setting up Foreman proxy &#43; pulp (2 days ago)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (2 days ago)
 
 #### 👥 Check out some of my recent followers
 
