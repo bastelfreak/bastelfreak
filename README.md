@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.8.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.8.0), today) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.5.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.5.0), today) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.25.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.25.1), 2 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.4.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.4.0), 2 days ago) - clone of puppetlabs/vanagon
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.2.1](https://github.com/OpenVoxProject/openvox/releases/tag/9.2.1), 4 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.1.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.1.0), 1 week ago) - clone of puppetlabs/puppetserver
 - [WinRb/WinRM](https://github.com/WinRb/WinRM) ([v2.4.2](https://github.com/WinRb/WinRM/releases/tag/v2.4.2), 2 weeks ago) - Ruby library for Windows Remote Management
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) ([4.2.1](https://github.com/OpenVoxProject/ezbake/releases/tag/4.2.1), 3 weeks ago) - clone of puppetlabs/ezbake
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.2](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.2), 3 weeks ago) - Community implementation of Facter
 
 #### 📜 My recent blog posts
 
