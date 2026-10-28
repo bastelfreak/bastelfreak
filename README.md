@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.28.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.28.1), today) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.8.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.8.0), 1 day ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.5.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.5.0), 1 day ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.25.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.25.1), 3 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.4.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.4.0), 3 days ago) - clone of puppetlabs/vanagon
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.2.1](https://github.com/OpenVoxProject/openvox/releases/tag/9.2.1), 5 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v2.0.0](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v2.0.0), 1 week ago) - 
