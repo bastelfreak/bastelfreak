@@ -41,11 +41,11 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.28.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.28.1), today) - clone of puppetlabs/puppet-runtime
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.8.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.8.0), 1 day ago) - Puppet module for managing PostgreSQL
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.5.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.5.0), 1 day ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.4.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.4.0), 3 days ago) - clone of puppetlabs/vanagon
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.2.1](https://github.com/OpenVoxProject/openvox/releases/tag/9.2.1), 5 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.28.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.28.1), 1 day ago) - clone of puppetlabs/puppet-runtime
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.8.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.8.0), 2 days ago) - Puppet module for managing PostgreSQL
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.5.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.5.0), 2 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.4.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.4.0), 4 days ago) - clone of puppetlabs/vanagon
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.2.1](https://github.com/OpenVoxProject/openvox/releases/tag/9.2.1), 6 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v2.0.0](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v2.0.0), 1 week ago) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.2.0), 1 week ago) - Puppet Module to manage Java
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), 2 weeks ago) - clone of puppetlabs/puppetdb
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (today)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
-- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (today)
-- [southalc/podman](https://github.com/southalc/podman) - Puppet module for podman (today)
-- [theforeman/puppet-dhcp](https://github.com/theforeman/puppet-dhcp) - ISC DHCP server module for Puppet (today)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
-- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (today)
-- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (today)
-- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (today)
-- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (3 days ago)
+- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (1 day ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 day ago)
+- [theforeman/puppet-puppetserver_foreman](https://github.com/theforeman/puppet-puppetserver_foreman) - Puppet module for managing Foreman integration in Puppetserver (1 day ago)
+- [southalc/podman](https://github.com/southalc/podman) - Puppet module for podman (1 day ago)
+- [theforeman/puppet-dhcp](https://github.com/theforeman/puppet-dhcp) - ISC DHCP server module for Puppet (1 day ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
+- [choria-io/puppet-mcollective](https://github.com/choria-io/puppet-mcollective) - A Puppet module to manage MCollective (1 day ago)
+- [theforeman/puppet-puppet](https://github.com/theforeman/puppet-puppet) - Puppet module for Puppet client and server (1 day ago)
+- [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) - Puppet module for Foreman (1 day ago)
+- [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) - clone of puppetlabs/vanagon (4 days ago)
 
 #### 👥 Check out some of my recent followers
 
