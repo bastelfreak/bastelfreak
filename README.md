@@ -41,6 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.17.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.17.1), today) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.17.1](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.17.1), today) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.31.2](https://github.com/OpenVoxProject/openvox/releases/tag/8.31.2), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.1.2](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.1.2), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.28.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.28.1), 1 day ago) - clone of puppetlabs/puppet-runtime
@@ -49,8 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/vanagon](https://github.com/OpenVoxProject/vanagon) ([1.4.0](https://github.com/OpenVoxProject/vanagon/releases/tag/1.4.0), 4 days ago) - clone of puppetlabs/vanagon
 - [puppetlabs/puppetlabs-puppet_authorization](https://github.com/puppetlabs/puppetlabs-puppet_authorization) ([v2.0.0](https://github.com/puppetlabs/puppetlabs-puppet_authorization/releases/tag/v2.0.0), 1 week ago) - 
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.2.0), 1 week ago) - Puppet Module to manage Java
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), 2 weeks ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.1.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.1.0), 2 weeks ago) - clone of puppetlabs/puppetserver
 
 #### 📜 My recent blog posts
 
