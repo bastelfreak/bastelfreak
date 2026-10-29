@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.1.2](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.1.2), today) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.10.28.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.10.28.1), 1 day ago) - clone of puppetlabs/puppet-runtime
 - [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.8.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.8.0), 2 days ago) - Puppet module for managing PostgreSQL
 - [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.5.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.5.0), 2 days ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-java](https://github.com/puppetlabs/puppetlabs-java) ([v12.2.0](https://github.com/puppetlabs/puppetlabs-java/releases/tag/v12.2.0), 1 week ago) - Puppet Module to manage Java
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([9.1.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/9.1.0), 2 weeks ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([9.1.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/9.1.0), 2 weeks ago) - clone of puppetlabs/puppetserver
-- [WinRb/WinRM](https://github.com/WinRb/WinRM) ([v2.4.2](https://github.com/WinRb/WinRM/releases/tag/v2.4.2), 2 weeks ago) - Ruby library for Windows Remote Management
 
 #### 📜 My recent blog posts
 
