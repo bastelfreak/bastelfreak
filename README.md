@@ -70,15 +70,15 @@ Statement from Puppet Inc.:
 
 
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (today)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (today)
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (1 day ago)
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (1 day ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
 - [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (1 day ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 day ago)
 - [bastelfreak/ittage2026](https://github.com/bastelfreak/ittage2026) -  (4 days ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (6 days ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (6 days ago)
 - [OpenVoxProject/openvox-docs](https://github.com/OpenVoxProject/openvox-docs) -  (6 days ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (6 days ago)
 
 #### 👥 Check out some of my recent followers
 
