@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([9.4.0](https://github.com/OpenVoxProject/openvox/releases/tag/9.4.0), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.11.12.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.11.12.1), 1 day ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([9.0.0](https://github.com/OpenVoxProject/openbolt/releases/tag/9.0.0), 2 days ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.3](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.3), 1 week ago) - Community implementation of Facter
@@ -48,7 +49,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.40.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.40.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.18.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.18.0), 1 week ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.18.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.18.0), 1 week ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.32.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.32.0), 1 week ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.5.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.5.0), 1 week ago) - clone of puppetlabs/trapperkeeper-authorization
 - [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.2.0](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.2.0), 1 week ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 
