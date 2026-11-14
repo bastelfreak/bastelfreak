@@ -41,9 +41,9 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.33.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.33.0), today) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.11.12.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.11.12.1), 1 day ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([9.0.0](https://github.com/OpenVoxProject/openbolt/releases/tag/9.0.0), 2 days ago) - clone of puppetlabs/bolt
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.33.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.33.0), 1 day ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.11.12.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.11.12.1), 2 days ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([9.0.0](https://github.com/OpenVoxProject/openbolt/releases/tag/9.0.0), 3 days ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.3](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.3), 1 week ago) - Community implementation of Facter
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.1.3.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.1.3.0-1), 1 week ago) - clone of puppetlabs/jruby-deps
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.40.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.40.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -69,14 +69,14 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (today)
-- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (1 day ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (2 days ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (2 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (3 days ago)
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (3 days ago)
-- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (3 days ago)
-- [bastelfreak/ittage2026](https://github.com/bastelfreak/ittage2026) -  (6 days ago)
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (1 day ago)
+- [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (2 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (3 days ago)
+- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (4 days ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (4 days ago)
+- [OpenVoxProject/ezbake](https://github.com/OpenVoxProject/ezbake) - clone of puppetlabs/ezbake (4 days ago)
+- [bastelfreak/ittage2026](https://github.com/bastelfreak/ittage2026) -  (1 week ago)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
 - [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 week ago)
 
