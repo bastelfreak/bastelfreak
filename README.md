@@ -41,8 +41,8 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.11.17.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.11.17.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.33.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.33.0), 4 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.11.12.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.11.12.1), 5 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([9.0.0](https://github.com/OpenVoxProject/openbolt/releases/tag/9.0.0), 6 days ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.3](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.3), 1 week ago) - Community implementation of Facter
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.1.3.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.1.3.0-1), 1 week ago) - clone of puppetlabs/jruby-deps
