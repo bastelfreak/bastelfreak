@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v9.0.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v9.0.1), today) - A set of shared spec helpers specific to Puppetlabs projects
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([6.2.3](https://github.com/OpenVoxProject/openfact/releases/tag/6.2.3), today) - Community implementation of Facter
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.11.17.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.11.17.1), today) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.33.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.33.0), 4 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox-server](https://github.com/OpenVoxProject/openvox-server) ([8.18.0](https://github.com/OpenVoxProject/openvox-server/releases/tag/8.18.0), 2 weeks ago) - clone of puppetlabs/puppetserver
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.18.0](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.18.0), 2 weeks ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/trapperkeeper-authorization](https://github.com/OpenVoxProject/trapperkeeper-authorization) ([2.5.0](https://github.com/OpenVoxProject/trapperkeeper-authorization/releases/tag/2.5.0), 2 weeks ago) - clone of puppetlabs/trapperkeeper-authorization
-- [OpenVoxProject/trapperkeeper-webserver](https://github.com/OpenVoxProject/trapperkeeper-webserver) ([12.2.0](https://github.com/OpenVoxProject/trapperkeeper-webserver/releases/tag/12.2.0), 2 weeks ago) - clone of puppetlabs/trapperkeeper-webserver-jetty10
 
 #### 📜 My recent blog posts
 
@@ -69,16 +69,16 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) - Puppet Module to manage LVM (today)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (today)
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (today)
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
 - [bastelfreak/ittage2026](https://github.com/bastelfreak/ittage2026) -  (2 days ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (3 days ago)
+- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (3 days ago)
 - [saz/puppet-ssh](https://github.com/saz/puppet-ssh) - Puppet module to manage ssh server and client (4 days ago)
 - [OpenVoxProject/openvox-release-infra](https://github.com/OpenVoxProject/openvox-release-infra) - Automation for signing packages and maintaining the apt/yum/downloads repos for OpenVox (5 days ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (6 days ago)
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (6 days ago)
-- [OpenVoxProject/trapperkeeper](https://github.com/OpenVoxProject/trapperkeeper) - A services framework for Clojure / JVM applications. - fork of puppetlabs/trapperkeeper (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
