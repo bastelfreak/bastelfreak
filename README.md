@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.18.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.18.1), today) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.7.2](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.7.2), 1 day ago) - clone of puppetlabs/jvm-ssl-utils
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([9.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/9.1.0), 1 day ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.34.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.34.0), 1 day ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v4.1.1](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v4.1.1), 3 days ago) - Puppet Module to manage LVM
 - [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) ([v9.0.1](https://github.com/puppetlabs/puppetlabs_spec_helper/releases/tag/v9.0.1), 3 days ago) - A set of shared spec helpers specific to Puppetlabs projects
 - [OpenVoxProject/jruby-deps](https://github.com/OpenVoxProject/jruby-deps) ([10.1.3.0-1](https://github.com/OpenVoxProject/jruby-deps/releases/tag/10.1.3.0-1), 2 weeks ago) - clone of puppetlabs/jruby-deps
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.40.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.40.0), 2 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 
 #### 📜 My recent blog posts
 
