@@ -77,8 +77,8 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (5 days ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (5 days ago)
 - [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) - Puppet Module to manage LVM (5 days ago)
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (5 days ago)
 - [bastelfreak/ittage2026](https://github.com/bastelfreak/ittage2026) -  (1 week ago)
-- [OpenVoxProject/shared-actions](https://github.com/OpenVoxProject/shared-actions) - org shared actions (1 week ago)
 
 #### 👥 Check out some of my recent followers
 
