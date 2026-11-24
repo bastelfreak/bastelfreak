@@ -41,16 +41,16 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.4](https://github.com/choria-io/go-choria/releases/tag/v0.30.4), today) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.41.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.41.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.18.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.18.1), 3 days ago) - clone of puppetlabs/puppetdb
-- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.7.2](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.7.2), 4 days ago) - clone of puppetlabs/jvm-ssl-utils
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([9.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/9.1.0), 4 days ago) - clone of puppetlabs/bolt
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.34.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.34.0), 4 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.11.19.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.11.19.1), 4 days ago) - clone of puppetlabs/puppet-runtime
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.4](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.4), 5 days ago) - Community implementation of Facter
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.2.0](https://github.com/saz/puppet-ssh/releases/tag/v15.2.0), 5 days ago) - Puppet module to manage ssh server and client
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v4.1.1](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v4.1.1), 6 days ago) - Puppet Module to manage LVM
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.4](https://github.com/choria-io/go-choria/releases/tag/v0.30.4), 1 day ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.41.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.41.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.18.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.18.1), 4 days ago) - clone of puppetlabs/puppetdb
+- [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.7.2](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.7.2), 5 days ago) - clone of puppetlabs/jvm-ssl-utils
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([9.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/9.1.0), 5 days ago) - clone of puppetlabs/bolt
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.34.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.34.0), 5 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.11.19.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.11.19.1), 5 days ago) - clone of puppetlabs/puppet-runtime
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.4](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.4), 6 days ago) - Community implementation of Facter
+- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.2.0](https://github.com/saz/puppet-ssh/releases/tag/v15.2.0), 6 days ago) - Puppet module to manage ssh server and client
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) ([v4.1.1](https://github.com/puppetlabs/puppetlabs-lvm/releases/tag/v4.1.1), 1 week ago) - Puppet Module to manage LVM
 
 #### 📜 My recent blog posts
 
@@ -69,15 +69,15 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (3 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (3 days ago)
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (3 days ago)
-- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (6 days ago)
-- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (6 days ago)
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (6 days ago)
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (6 days ago)
-- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) - Puppet Module to manage LVM (6 days ago)
-- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (6 days ago)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (4 days ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (4 days ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (4 days ago)
+- [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 week ago)
+- [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 week ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 week ago)
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 week ago)
+- [puppetlabs/puppetlabs-lvm](https://github.com/puppetlabs/puppetlabs-lvm) - Puppet Module to manage LVM (1 week ago)
+- [puppetlabs/puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper) - A set of shared spec helpers specific to Puppetlabs projects (1 week ago)
 - [bastelfreak/ittage2026](https://github.com/bastelfreak/ittage2026) -  (1 week ago)
 
 #### 👥 Check out some of my recent followers
