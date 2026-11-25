@@ -41,6 +41,7 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.9.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.9.0), today) - Puppet module for managing PostgreSQL
 - [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.4.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.4.0), 1 day ago) - Bolt integration plugin for Foreman
 - [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.4](https://github.com/choria-io/go-choria/releases/tag/v0.30.4), 2 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.41.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.41.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
@@ -50,7 +51,6 @@ Statement from Puppet Inc.:
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.34.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.34.0), 6 days ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
 - [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) ([2026.11.19.1](https://github.com/OpenVoxProject/puppet-runtime/releases/tag/2026.11.19.1), 6 days ago) - clone of puppetlabs/puppet-runtime
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) ([5.7.4](https://github.com/OpenVoxProject/openfact/releases/tag/5.7.4), 1 week ago) - Community implementation of Facter
-- [saz/puppet-ssh](https://github.com/saz/puppet-ssh) ([v15.2.0](https://github.com/saz/puppet-ssh/releases/tag/v15.2.0), 1 week ago) - Puppet module to manage ssh server and client
 
 #### 📜 My recent blog posts
 
