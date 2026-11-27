@@ -41,12 +41,12 @@ Statement from Puppet Inc.:
 #### 🔭 Latest releases I've contributed to
 
 
-- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.6.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.6.0), today) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
-- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.9.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.9.0), 1 day ago) - Puppet module for managing PostgreSQL
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.4.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.4.0), 2 days ago) - Bolt integration plugin for Foreman
-- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.4](https://github.com/choria-io/go-choria/releases/tag/v0.30.4), 3 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.41.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.41.0), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.18.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.18.1), 6 days ago) - clone of puppetlabs/puppetdb
+- [puppetlabs/puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache) ([v13.6.0](https://github.com/puppetlabs/puppetlabs-apache/releases/tag/v13.6.0), 1 day ago) - Puppet module for the Apache httpd server, maintained by Puppet, Inc. 
+- [puppetlabs/puppetlabs-postgresql](https://github.com/puppetlabs/puppetlabs-postgresql) ([v10.9.0](https://github.com/puppetlabs/puppetlabs-postgresql/releases/tag/v10.9.0), 2 days ago) - Puppet module for managing PostgreSQL
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) ([1.4.0](https://github.com/overlookinfra/foreman_openbolt/releases/tag/1.4.0), 3 days ago) - Bolt integration plugin for Foreman
+- [choria-io/go-choria](https://github.com/choria-io/go-choria) ([v0.30.4](https://github.com/choria-io/go-choria/releases/tag/v0.30.4), 4 days ago) - Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.41.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.41.0), 4 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) ([8.18.1](https://github.com/OpenVoxProject/openvoxdb/releases/tag/8.18.1), 1 week ago) - clone of puppetlabs/puppetdb
 - [OpenVoxProject/jvm-ssl-utils](https://github.com/OpenVoxProject/jvm-ssl-utils) ([3.7.2](https://github.com/OpenVoxProject/jvm-ssl-utils/releases/tag/3.7.2), 1 week ago) - clone of puppetlabs/jvm-ssl-utils
 - [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) ([9.1.0](https://github.com/OpenVoxProject/openbolt/releases/tag/9.1.0), 1 week ago) - clone of puppetlabs/bolt
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) ([8.34.0](https://github.com/OpenVoxProject/openvox/releases/tag/8.34.0), 1 week ago) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform.
@@ -69,10 +69,10 @@ Statement from Puppet Inc.:
 #### The last 10 repositories I contributed to
 
 
-- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (today)
-- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (1 day ago)
-- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (6 days ago)
-- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (6 days ago)
+- [OpenVoxProject/openbolt](https://github.com/OpenVoxProject/openbolt) - clone of puppetlabs/bolt (1 day ago)
+- [overlookinfra/foreman_openbolt](https://github.com/overlookinfra/foreman_openbolt) - Bolt integration plugin for Foreman (2 days ago)
+- [OpenVoxProject/openvox-sbom-tools](https://github.com/OpenVoxProject/openvox-sbom-tools) - Tooling for generating and manipulating Software Bill of Materials (SBOMs) for OpenVox projects. (1 week ago)
+- [OpenVoxProject/puppet-runtime](https://github.com/OpenVoxProject/puppet-runtime) - clone of puppetlabs/puppet-runtime (1 week ago)
 - [OpenVoxProject/openvoxdb](https://github.com/OpenVoxProject/openvoxdb) - clone of puppetlabs/puppetdb (1 week ago)
 - [OpenVoxProject/openvox](https://github.com/OpenVoxProject/openvox) - OpenVox is the modern open source implementation of the world&#39;s most capable configuration management platform. (1 week ago)
 - [OpenVoxProject/openfact](https://github.com/OpenVoxProject/openfact) - Community implementation of Facter (1 week ago)
